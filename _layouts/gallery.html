@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+<div class="artworks">
+    {% for artwork in site.artworks %}
+        <div class="artworks-item">
+            <a data-magnify="gallery" data-src="{{ artwork.cover }}" data-caption="{{ artwork.title }}" data-group="a" href="{{ artwork.cover }}">
+                <img src="{{ artwork.thumbnail }}" alt="">
+            </a>
+        </div>
+    {% endfor %}
+</div>

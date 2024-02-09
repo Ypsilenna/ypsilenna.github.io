@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+<div class="metadata">
+    <i data-feather="calendar"></i>
+    <time datetime="{{ post.date }}">{{ page.date | date: '%B %d, %Y'}}</time> | Mood: {{ page.moods }}
+    <br/>
+    <i data-feather="tag"></i>
+    {% for tag in page.tags %}
+        <a class="btn btn-sm btn-outline-dark tag-btn" href="/tags/{{ tag }}/">{{ tag }}</a>
+    {% endfor %}
+</div>
+
+<br/>
+
+{{ content }}
+
