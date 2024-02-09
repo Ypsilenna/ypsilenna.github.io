@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div id="home-jumbotron" class="jumbotron text-center">
+  <h1 class="title">{{ site.title }}</h1>
+  <div id="latestblog-title">
+    <h3>Latest blog posts</h3>
+  </div>
+  <div id="latestblog">
+    {% for post in site.posts %}
+      <div>
+        {{ post.moods }} {{ post.bonus }} <strong><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong> 
+        <small></small><time datetime="{{ post.date }}">{{ post.date | date: "%B %d, %Y" }}</time></small> 
+        {{ post.content | truncatewords: 18 | strip_html }}
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+<br/>
+
+{{ content }}
