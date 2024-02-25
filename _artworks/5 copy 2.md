@@ -6,6 +6,6 @@ categories: [Artworks]
 tags: [Marcoulitta]
 thumbnail: /static/image/thumbnails/2021-005.png
 cover: /static/image/artworks/2021-005.jpg
-stamp: 2021-995
+stamp: 9995
 ---
 [OC] Marcoulitta - Stained Glass
