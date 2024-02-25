@@ -35,27 +35,21 @@ a
   background-attachment: local
   background-position: center top
   background-repeat: no-repeat
-  -webkit-transform: translateZ(999px) scale(.7)
-  transform: translateZ(999px) scale(.7)
-  z-index: 1
+  perspective-origin-x: 100%
 
 .header-layer2
   background-image: url("/static/image/seaweed2.png")
   background-attachment: local
   background-position: center top
   background-repeat: no-repeat
-  -webkit-transform: translateZ(0)
-  transform: translateZ(0)
-  z-index: 4
+  transform-origin-x: 100%
 
 .header-layer3
   background-image: url("/static/image/seaweed3.png")
   background-attachment: fixed
   background-position: center top
   background-repeat: no-repeat
-  -webkit-transform: translateZ(-999px) scale(2)
-  transform: translateZ(-999px) scale(2)
-  z-index: 3
+  transform-origin-x: 100%
   
 .content-frame
   border-image: url('/static/image/ramkav3.png') 5
