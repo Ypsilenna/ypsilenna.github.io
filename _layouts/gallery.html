@@ -5,7 +5,7 @@ layout: default
 <h1>{{ page.title }}</h1>
 
 <div class="artworks">
-    {% assign artworks = site.artworks | sort: "reading_order" %}
+    {% assign artworks = site.artworks | sort: "date" %}
     {% for artwork in artworks %}
         <div class="artworks-item">
             <a data-magnify="gallery" data-src="{{ artwork.cover }}" data-caption="{{ artwork.title }}" data-group="a" href="{{ artwork.cover }}">
