@@ -12,7 +12,7 @@ layout: home
             <br>
             <div style="clear:both"></div>
             <div class="artworks">
-    {% assign artworks = site.artworks | sort: "stamp" %}
+    {% assign artworks = site.artworks | sort: "stamp" | limit: 8 %}
     {% for artwork in artworks %}
                 <div class="artworks-item">
                     <a data-magnify="gallery" data-src="{{ artwork.cover }}" data-caption="{{ artwork.title }}" data-group="a" href="{{ artwork.cover }}">
