@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<h1 class="title">{{ page.title }}</h1>
+
+<div class="artworks">
+    {% assign pixel-art = site.pixel-art | sort: "stamp" %}
+    {% for pixel-art in pixel-art %}
+        <div class="artworks-item">
+            <a data-magnify="gallery" data-src="{{ pixel-art.cover }}" data-caption="{{ pixel-art.title }}" data-group="a" href="{{ pixel-art.cover }}">
+                <img src="{{ pixel-art.thumbnail }}" alt="">
+            </a>
+        </div>
+    {% endfor %}
+</div>
