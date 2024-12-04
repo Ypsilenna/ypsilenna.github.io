@@ -43,8 +43,8 @@ layout: home
             </div>
 <br>
                         <div class="artworks">
-    {% assign pixel-art = site.pixel-art | sort: "stamp" %}
-    {% for pixel-art in pixel-art limit:4 %}
+    {% assign pixel-arts = site.pixel-arts | sort: "stamp" %}
+    {% for pixel-art in pixel-arts limit:4 %}
                 <div class="artworks-item">
                     <a data-magnify="gallery" data-src="{{ pixel-art.cover }}" data-caption="{{ pixel-art.title }}" data-group="a" href="{{ pixel-art.cover }}">
                         <img src="{{ pixel-art.thumbnail }}" alt="">
