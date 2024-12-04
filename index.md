@@ -4,7 +4,7 @@ layout: home
 
 <div id="sector1">
     <div id="sector1-left">
-        <img src="/static/image/ymrepng.png">
+        <img src="/static/image/sk8-frontpage.png">
         <div id="sector1-right">
             <div id="latestart-title">
                 <h3>Latest artworks</h3>
