@@ -27,11 +27,11 @@ layout: home
             </div>
 <br>
                         <div class="artworks">
-    {% assign artworks = site.artworks | sort: "stamp" %}
-    {% for artwork in doodles limit:4 %}
+    {% assign doodles = site.doodles | sort: "stamp" %}
+    {% for doodle in doodles limit:4 %}
                 <div class="artworks-item">
-                    <a data-magnify="gallery" data-src="{{ artwork.cover }}" data-caption="{{ artwork.title }}" data-group="a" href="{{ artwork.cover }}">
-                        <img src="{{ artwork.thumbnail }}" alt="">
+                    <a data-magnify="gallery" data-src="{{ doodle.cover }}" data-caption="{{ doodle.title }}" data-group="a" href="{{ doodle.cover }}">
+                        <img src="{{ doodle.thumbnail }}" alt="">
                     </a>
                 </div>
             {% endfor %}
@@ -55,3 +55,5 @@ layout: home
         </div>
     </div>
 </div>
+
+
