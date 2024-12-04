@@ -7,7 +7,7 @@ layout: home
         <img src="/static/image/sk8-frontpage.png">
         <div id="sector1-right">
             <div id="latestart-title">
-                <h3>Latest artworks</h3>
+                <h3>Latest Artworks</h3>
             </div>
             <br>
             <div style="clear:both"></div>
@@ -20,6 +20,10 @@ layout: home
                     </a>
                 </div>
             {% endfor %}
+            </div>
+
+            <div id="latestart-title">
+                <h3>Latest Doodles</h3>
             </div>
 
                         <div class="artworks">
