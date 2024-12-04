@@ -1,4 +1,4 @@
 ---
-layout: pixel-art
+layout: pixelarts
 title: Pixel Art
 ---
