@@ -36,6 +36,22 @@ layout: home
                 </div>
             {% endfor %}
             </div>
+
+            <br>
+            <div id="latestart-title">
+                <h3>Latest Pixel Art</h3>
+            </div>
+<br>
+                        <div class="artworks">
+    {% assign pixel-art = site.pixel-art | sort: "stamp" %}
+    {% for pixel-art in pixel-art limit:4 %}
+                <div class="artworks-item">
+                    <a data-magnify="gallery" data-src="{{ pixel-art.cover }}" data-caption="{{ pixel-art.title }}" data-group="a" href="{{ pixel-art.cover }}">
+                        <img src="{{ pixel-art.thumbnail }}" alt="">
+                    </a>
+                </div>
+            {% endfor %}
+            </div>
         </div>
     </div>
     <br />
