@@ -21,14 +21,14 @@ layout: home
                 </div>
             {% endfor %}
             </div>
-
+<br>
             <div id="latestart-title">
                 <h3>Latest Doodles</h3>
             </div>
-
+<br>
                         <div class="artworks">
     {% assign artworks = site.artworks | sort: "stamp" %}
-    {% for artwork in artworks limit:4 %}
+    {% for artwork in doodles limit:4 %}
                 <div class="artworks-item">
                     <a data-magnify="gallery" data-src="{{ artwork.cover }}" data-caption="{{ artwork.title }}" data-group="a" href="{{ artwork.cover }}">
                         <img src="{{ artwork.thumbnail }}" alt="">
