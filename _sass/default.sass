@@ -130,7 +130,7 @@ h1, h2, h3
   float: right
   right: 0px
 
-#blogentry
+.blogentry
   width: 95%
   padding: 0px 10px 10px 10px
   text-align: justify
@@ -138,6 +138,7 @@ h1, h2, h3
   margin: 1vh auto
   border-width: 0.3vh
   border-style: dashed
+  margin-bottom: 1.5em
 
 #latestblog-bottom
   width: 95%
@@ -153,7 +154,7 @@ h1, h2, h3
 #latestblog a
   color: black
 
-#blogentry a
+.blogentry a
   color: black
   text-decoration: none
   font-family: 'Love Ya Like A Sister', cursive
@@ -270,8 +271,12 @@ h1, h2, h3
   -webkit-animation: scaleout 1.0s infinite ease-in-out
   animation: scaleout 1.0s infinite ease-in-out
 
+.metadata
+  padding-bottom: 1.5em
+
 @-webkit-keyframes scaleout
-  0%  -webkit-transform: scale(0.0) 
+  0%  
+  -webkit-transform: scale(0.0) 
   100% 
   -webkit-transform: scale(1.0)
   opacity: 0
@@ -306,3 +311,4 @@ h1, h2, h3
     position: relative
     text-align: center
     margin: auto
+
