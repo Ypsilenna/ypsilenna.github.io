@@ -6,8 +6,7 @@ layout: default
 <hr>
 
 <div class="novel-container"><div class="novel-left-sidebar">
-    <h2>The Snake Queen</h2>
-    <div> Title: The Snake Queen<br>
+    <div>  <h2>The Snake Queen</h2><br>
           Genre: Fantasy/Drama/Action<br>
           Status: Ongoing
           Chapters: 8
