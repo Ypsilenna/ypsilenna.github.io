@@ -9,8 +9,10 @@ layout: default
     {% for doodle in doodles %}
         <div class="artworks-item">
             <a data-magnify="gallery" data-src="{{ doodle.cover }}" data-caption="{{ doodle.title }}" data-group="a" href="{{ doodle.cover }}">
-                <img loading="lazy" src="{{ doodle.thumbnail }}" alt="">
+                <img src="/static/image/blank.png" data-echo="{{ doodle.thumbnail }}" alt="">
             </a>
         </div>
     {% endfor %}
 </div>
+
+{% include lazyload.html %}
