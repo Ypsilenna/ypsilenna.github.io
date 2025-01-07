@@ -1,7 +1,7 @@
 ---
 title: 'Comic nostalgia'
 date: 2023-07-24T22:36:53+01:00
-draft: true
+draft: false
 categories: [microblog]
 tags: [personal] 
 moods: 😐
