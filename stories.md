@@ -7,7 +7,7 @@ layout: default
 <h2>The Snake Queen</h2>
 <div id="novel-sector1">
     <div id="novel-sector1-left">
-        <img src="/static/image/stories/okladka-text-mini.png"></div>
+        <img src="/static/image/stories/okladka-text-mini.png">
         <div id="novel-sector1-right">
           Title: The Snake Queen<br>
           Genre: Fantasy/Drama/Action<br>
@@ -20,5 +20,5 @@ layout: default
             
         </div>
 
-
+</div>
 </div>
