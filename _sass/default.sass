@@ -279,26 +279,13 @@ h1, h2, h3
   img
     border-width: 2px
 
-#novel-sector1
-  width: 100%
+.novel-left-sidebar
+    display:flex;
+    flex-wrap:wrap;
 
-#novel-sector1-left
-  --min-size:20rem
-  display: grid
-  grid-template-columns: repeat(auto-fill, minmax(var(--min-size), 1fr))
-  grid-gap: 1rem
-
-  > div
-    padding: 5rem 1rem
-    text-align: center
-    font-size: 2rem
-    background: #DBECFE
-    color: #ffffff
-
-#novel-sector1-right
-  grid-template-columns: repeat(auto-fill, minmax(11.5rem, 1fr))
-  grid-gap: 1rem
-
+.novel-left-sidebar > * 
+    width:100%;
+    padding:1rem;
 
 .infinite-spinner
   display: block
@@ -350,7 +337,16 @@ h1, h2, h3
   #credits
     display: none
     
-  #credits-mnini
+  #credits-mini
     margin: auto
     display: initial
+    color: white
+    width: 80%
 
+@media (min-width:768px) {
+    .novel-left-sidebar > *:nth-child(1) 
+        width:calc(100% / 3 * 2)
+    
+    .novel-left-sidebar > *:nth-child(2) 
+        width:calc(100% / 3)
+        order:-1
