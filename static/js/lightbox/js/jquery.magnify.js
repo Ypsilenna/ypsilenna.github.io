@@ -426,7 +426,7 @@ var $W = $(window),
     },
 
     // Enable multiple instances
-    multiInstances: true,
+    multiInstances: false,
 
     // Init trigger event
     initEvent: 'click',
