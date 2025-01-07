@@ -2,19 +2,21 @@
 layout: default
 ---
 
-<h1 class="title">{{ page.title }}</h1>
+<div class="post">
+    <h1 class="title">{{ page.title }}</h1>
 
-<div class="metadata">
-    <i data-feather="calendar"></i>
-    <time datetime="{{ post.date }}">{{ page.date | date: '%B %d, %Y'}}</time> | Mood: {{ page.moods }}
-    <br/>
-    <i data-feather="tag"></i>
-    {% for tag in page.tags %}
-        <a class="btn btn-sm btn-outline-dark tag-btn" href="/tags/{{ tag }}/">{{ tag }}</a>
-    {% endfor %}
+    <div class="metadata">
+        <i data-feather="calendar"></i>
+        <time datetime="{{ post.date }}">{{ page.date | date: '%B %d, %Y'}}</time> | Mood: <span class="moods">{{ page.moods }}</span> <span class="bonus">{{ page.bonus }}</span>
+        <br/>
+        <i data-feather="tag"></i>
+        {% for tag in page.tags %}
+            <a class="btn btn-sm btn-outline-dark tag-btn" href="/tags/{{ tag }}/">{{ tag }}</a>
+        {% endfor %}
+    </div>
+
+    <div class="content">
+        {{ content }}
+    </div>
 </div>
-
-<br/>
-
-{{ content }}
 

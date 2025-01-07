@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The effect being locked away on WordPress has on a person" 
-date: "2023-02-17"
+date: "2023-02-18"
 categories: [microblog]
 tags: [personal] 
 authors: [Me]

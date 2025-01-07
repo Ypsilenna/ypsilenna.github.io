@@ -1,6 +1,7 @@
 ---
+layout: post
 title: 'Glitter scientist'
-date: 2023-07-01T22:27:03+01:00
+date: "2023-07-01"
 draft: false
 categories: [microblog]
 tags: [personal] 

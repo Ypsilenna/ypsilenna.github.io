@@ -64,11 +64,29 @@ $(function() {
     fetchPostWithIndex(postCount + loadedPosts, callback);
   }
 	
+  function truncate(str, no_words) {
+      return str.split(" ").splice(0,no_words).join(" ");
+  }
+
   function fetchPostWithIndex(index, callback) {
     var postURL = postURLs[index];
 		
     $.get(postURL, function(data) {
-      $(data).find(".post").appendTo(".post-list");
+      let title = $(data).find("h1.title").text();
+      let moods = $(data).find("span.moods").text();
+      let bonus = $(data).find("span.bonus").text();
+      let date = $(data).find("time").text();
+      let content = truncate($(data).find(".content").text(), 30);
+
+      let blogentry = `<div class="blogentry">
+          ${moods} ${bonus} <strong><a href="${postURL}">${title}</a></strong> 
+          <br/><small><time datetime="${date}">${date}</time></small>
+          <div>
+              ${content}...
+          </div>
+      </div>`
+            
+      $(blogentry).appendTo(".post-list");
       callback();
     });
   }

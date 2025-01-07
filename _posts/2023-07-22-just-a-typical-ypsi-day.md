@@ -1,6 +1,7 @@
 ---
+layout: post
 title: 'Just a typical Ypsi day'
-date: 2023-07-22T22:36:44+01:00
+date: "2023-07-22"
 draft: false
 categories: [microblog]
 tags: [personal] 
