@@ -9,7 +9,7 @@ layout: default
     {% for pixelart in pixelarts %}
         <div class="artworks-item">
             <a data-magnify="gallery" data-src="{{ pixelart.cover }}" data-caption="{{ pixelart.title }}" data-group="a" href="{{ pixelart.cover }}">
-                <img src="{{ pixelart.thumbnail }}" alt="">
+                <img loading="lazy" src="{{ pixelart.thumbnail }}" alt="">
             </a>
         </div>
     {% endfor %}

@@ -9,7 +9,7 @@ layout: default
     {% for artwork in artworks %}
         <div class="artworks-item">
             <a data-magnify="gallery" data-src="{{ artwork.cover }}" data-caption="{{ artwork.title }}" data-group="a" href="{{ artwork.cover }}">
-                <img src="{{ artwork.thumbnail }}" alt="">
+                <img loading="lazy" src="{{ artwork.thumbnail }}" alt="">
             </a>
         </div>
     {% endfor %}

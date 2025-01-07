@@ -9,7 +9,7 @@ layout: default
     {% for doodle in doodles %}
         <div class="artworks-item">
             <a data-magnify="gallery" data-src="{{ doodle.cover }}" data-caption="{{ doodle.title }}" data-group="a" href="{{ doodle.cover }}">
-                <img src="{{ doodle.thumbnail }}" alt="">
+                <img loading="lazy" src="{{ doodle.thumbnail }}" alt="">
             </a>
         </div>
     {% endfor %}
