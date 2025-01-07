@@ -4,8 +4,9 @@ layout: default
 
 <h1>Novels</h1>
 <hr>
-<h2>The Snake Queen</h2>
+
 <div class="novel-container"><div class="novel-left-sidebar">
+    <h2>The Snake Queen</h2>
     <div> Title: The Snake Queen<br>
           Genre: Fantasy/Drama/Action<br>
           Status: Ongoing
