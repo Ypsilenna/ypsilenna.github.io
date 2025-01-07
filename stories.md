@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h1>Novels</h1>
+<h1 class="title">Novels</h1>
 <hr>
 
 <div class="novel-container"><div class="novel-left-sidebar">
