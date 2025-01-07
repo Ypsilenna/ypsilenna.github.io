@@ -1,6 +1,7 @@
 ---
+layout: post
 title: 'Champions of rect--'
-date: 2023-07-07T22:32:48+01:00
+date: "2023-07-07"
 draft: false
 categories: [microblog]
 tags: [gaming] 

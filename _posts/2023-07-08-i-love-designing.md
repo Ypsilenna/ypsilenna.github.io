@@ -1,6 +1,7 @@
 ---
+layout: post
 title: 'I love designing'
-date: 2023-07-08T22:33:56+01:00
+date: "2023-07-08"
 draft: false
 categories: [microblog]
 tags: [personal] 
