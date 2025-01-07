@@ -276,6 +276,25 @@ h1, h2, h3
   img
     border-width: 2px
 
+#novel-sector1
+  width: 100%
+
+#novel-sector1-left
+  --min-size:10rem
+  display: grid
+  grid-template-columns: repeat(auto-fill, minmax(var(--min-size), 1fr))
+  grid-gap: 1rem
+
+  > div
+    padding: 5rem 1rem
+    text-align: center
+    font-size: 2rem
+    background: #DBECFE
+
+#novel-sector1-right
+  grid-template-columns: repeat(auto-fill, minmax(var(--min-size), 1fr))
+  grid-gap: 1rem
+
 .infinite-spinner
   display: block
   width: 40px
