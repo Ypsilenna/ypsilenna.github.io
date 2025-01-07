@@ -2,4 +2,7 @@
 layout: default
 ---
 
-<center><h1>WORK IN PROGRESS</h1></center>
+<h1>Novels</h1>
+<hr>
+<h2>The Snake Queen</h2>
+Cover | Desc
