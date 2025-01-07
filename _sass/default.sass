@@ -281,17 +281,23 @@ h1, h2, h3
 
 #novel-sector1
   width: 100%
-  display: flex
 
 #novel-sector1-left
-  width: 25%
+  --min-size:20rem
+  display: grid
+  grid-template-columns: repeat(auto-fill, minmax(var(--min-size), 1fr))
+  grid-gap: 1rem
+
+  > div
+    padding: 5rem 1rem
+    text-align: center
+    font-size: 2rem
+    background: #DBECFE
+    color: #ffffff
 
 #novel-sector1-right
-  width: 75%
-  padding: 1rem
-  text-align: left
-  font-size: 1rem
-  background: #DBECFE
+  grid-template-columns: repeat(auto-fill, minmax(11.5rem, 1fr))
+  grid-gap: 1rem
 
 
 .infinite-spinner
