@@ -22,7 +22,7 @@ layout: home
             {% endfor %}
             </div>
 <br>
-            <div id="latestart-title">
+            <div id="latestart-title2">
                 <h3><a href="/doodles">Latest Doodles</a></h3>
             </div>
 <br>
