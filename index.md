@@ -7,7 +7,7 @@ layout: home
         <img src="/static/image/sk8-frontpage.png">
         <div id="sector1-right">
             <div id="latestart-title">
-                <h3>Latest Artworks</h3>
+                <h3><a href="/artworks">Latest Artworks</a></h3>
             </div>
             <br>
             <div style="clear:both"></div>
@@ -23,7 +23,7 @@ layout: home
             </div>
 <br>
             <div id="latestart-title">
-                <h3>Latest Doodles</h3>
+                <h3><a href="/doodles">Latest Doodles</a></h3>
             </div>
 <br>
                         <div class="artworks">
@@ -39,7 +39,7 @@ layout: home
 
             <br>
             <div id="latestart-title">
-                <h3>Latest Pixel Art</h3>
+                <h3><a href="/pixelarts">Latest Pixel Art</a></h3>
             </div>
 <br>
                         <div class="artworks">
