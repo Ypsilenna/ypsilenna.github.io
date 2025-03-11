@@ -67,6 +67,9 @@ layout: home
             <div id="sector1-right">
     <h1>What is Gloomvale?</h1>
         Gloomvale is a dark area between the physical realm and realm of the fae. Court of Gloomvale is a group of misfits who judge whether travelers are worthy to pass through. One thing is for sure, nobody ever stays in Gloomvale for long.
+
+                Socials:
+                <a rel="me" href="https://sunny.garden/@Ypsilenna">Mastodon</a>
             </div>
         </div>
     </div>
