@@ -8,7 +8,7 @@ layout: default
     <h3>Latest blog posts</h3>
   </div>
   <div id="latestblog">
-    {% for post in site.posts %}
+    {% for post in site.posts limit: 6 %}
       <div>
         {{ post.moods }} {{ post.bonus }} <strong><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong> 
         <small></small><time datetime="{{ post.date }}">{{ post.date | date: "%B %d, %Y" }}</time></small> 
