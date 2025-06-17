@@ -7,24 +7,27 @@ tags: [info]
 moods: 🐍
 authors: [Me]
 ---
-Hello, hello!\
-I am here to provide you with some information about my current novel in progress, The Snake Queen.   \
+Hello, hello\
+I am here to provide you with some information about my current novel in progress, The Snake Queen.\
 It is currently being rewritten to improve the quality of the story as whole. Once I am done with that, I will decorate it with illustrations and most likely publish it on itch.io.\
-The novel will be purchasable; the initial plan is that it would cost about €10 with an option to buy a cheaper version without illustrations and/or an extra pack of content (wallpapers, avatars, etc.).\
+The novel will be purchasable!; the initial plan is that it would cost about €10 with an option to buy a cheaper version without illustrations and/or an extra pack of content (wallpapers, avatars, etc.).\
 The story itself follows the misadventures of an ill-fated priestess who ended up trading her entire previous life for a celestial power and now has to live with the consequences.\
-\
+
 # Highlighted characters:
 
+
+Raajimera: Aforementioned priestess. She has had amnesia ever since she made a deal with the sinister sky serpent.
 \
-Raajimera: Aforementioned priestess. She has had amnesia ever since she made a deal with the sinister sky serpent. \
+Feng: A small feral snake. Able to communicate with Raajimera due to her newfound demigod powers. Quite silly.
+\
 
-Feng: A small feral snake. Able to communicate with Raajimera due to her newfound demigod powers. Quite silly.\
+Seyed: A handsome athlete from Duskvale village. He seems to have a crush on Raajimera, but perhaps some things indeed are too good to be true.
+\
 
-Seyed: A handsome athlete from Duskvale village. He seems to have a crush on Raajimera, but perhaps some things indeed are too good to be true.\
+Aya: A kind village girl with access to a suspiciously out-of-place storage room.
+\
 
-Aya: A kind village girl with access to a suspiciously out-of-place storage room.\
-
-Zephyr: A mysterious figure of the Howling Pass. Many anxiously seek his presence in the shadows. They know what they did.\
+Zephyr: A mysterious figure of the Howling Pass. Many anxiously seek his presence in the shadows. They know what they did.
 \
 # Further info:
 \
