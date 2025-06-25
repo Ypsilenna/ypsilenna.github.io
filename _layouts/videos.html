@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<h1 class="title">{{ page.title }}</h1>
+
+<div class="videos">
+    {% assign videos = site.videos | sort: "stamp" %}
+    {% for video in videos %}
+        <div class="videos-item">
+            <a data-magnify="gallery" data-src="{{ video.file }}" data-caption="{{ artwork.title }}" data-group="a" href="{{ video.file }}">
+                <img src="/static/image/blank.png" data-echo="{{ video.thumbnail }}" alt="">
+            </a>
+        </div>
+    {% endfor %}
+</div>
+
+{% include lazyload.html %}
