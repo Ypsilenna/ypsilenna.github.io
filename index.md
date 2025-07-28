@@ -59,11 +59,10 @@ layout: home
         <h3>About me</h3>
     </div>
     <div id="latestblog">
+        <a href="https://ko-fi.com/ypsilenna">Ko-fi</a> ● <a href="https://bsky.app/profile/ypsilenna.art">Bluesky</a> ● <a rel="me" href="https://sunny.garden/@Ypsilenna">Mastodon</a> ● <a href="https://cara.app/ypsilenna">Cara</a> ● <a href="https://www.instagram.com/ypsilenna">Instagram</a> v
         <div id="sector1">
             <div id="sector1-left">
-                <span><a href="https://ko-fi.com/ypsilenna">Ko-fi</a> ● <a href="https://bsky.app/profile/ypsilenna.art">Bluesky</a> ● <a rel="me" href="https://sunny.garden/@Ypsilenna">Mastodon</a> ● <a href="https://cara.app/ypsilenna">Cara</a> ● <a href="https://www.instagram.com/ypsilenna">Instagram</a> 
-                <br>
-               This is my personal website, as you can see, I draw and write. I am in my 30s, I was born in Poland but I currently live in Spain. </span>
+               This is my personal website, as you can see, I draw and write. I am in my 30s, I was born in Poland but I currently live in Spain. 
             </div>
             <div id="sector1-right">
     <h1>What is Gloomvale?</h1>
