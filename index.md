@@ -61,9 +61,9 @@ layout: home
     <div id="latestblog">
         <div id="sector1">
             <div id="sector1-left">
-                <a href="https://ko-fi.com/ypsilenna">Ko-fi</a> ● <a href="https://bsky.app/profile/ypsilenna.art">Bluesky</a> ● <a rel="me" href="https://sunny.garden/@Ypsilenna">Mastodon</a> ● <a href="https://cara.app/ypsilenna">Cara</a> ● <a href="https://www.instagram.com/ypsilenna">Instagram</a> 
+                <span><a href="https://ko-fi.com/ypsilenna">Ko-fi</a> ● <a href="https://bsky.app/profile/ypsilenna.art">Bluesky</a> ● <a rel="me" href="https://sunny.garden/@Ypsilenna">Mastodon</a> ● <a href="https://cara.app/ypsilenna">Cara</a> ● <a href="https://www.instagram.com/ypsilenna">Instagram</a> 
                 <br>
-               This is my personal website, as you can see, I draw and write. I am in my 30s, I was born in Poland but I currently live in Spain. 
+               This is my personal website, as you can see, I draw and write. I am in my 30s, I was born in Poland but I currently live in Spain. </span>
             </div>
             <div id="sector1-right">
     <h1>What is Gloomvale?</h1>
@@ -71,8 +71,8 @@ layout: home
 <br>
             </div>
         </div>
-                    <iframe src="https://discord.com/widget?id=1336302979422228564&theme=dark" width="100%" height="200px" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
     </div>
+    <iframe src="https://discord.com/widget?id=1336302979422228564&theme=dark" width="100%" height="200px" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 </div>
 
 
