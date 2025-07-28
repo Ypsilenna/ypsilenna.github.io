@@ -72,8 +72,8 @@ layout: home
             </div>
         </div>
     </div><br>
-    <div id="latestart-title">Discord Server</div><br>
-    <iframe src="https://discord.com/widget?id=1336302979422228564&theme=dark" width="95%" height="200px" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+    <h3>Discord Server</h3><br>
+    <center><iframe src="https://discord.com/widget?id=1336302979422228564&theme=dark" width="95%" height="200px" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe></center>
 </div>
 
 
