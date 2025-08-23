@@ -9,7 +9,7 @@ layout: default
     <div>  <h2>The Snake Queen</h2><br>
           <b>Genre:</b> Fantasy/Drama/Action<br>
           <b>Status:</b> In progress (Available in early access for €3/month)<br>
-          <b>Chapters:</b> 9 (Currently) ~10 (Planned)<br>
+          <b>Chapters:</b> 3 (Available) out of ~10 (Planned)<br>
           <b>Preparing:</b> Illustrations and a PDF file<br>
           <b>Synopsis:</b> It is a story of an unknown priestess who tries to make a pact with one of the powerful sky spirit animals, only to find out why nobody deals with the Dusk Serpent.<br>
 <br>
