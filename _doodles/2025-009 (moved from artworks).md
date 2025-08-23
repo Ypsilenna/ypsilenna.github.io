@@ -6,5 +6,5 @@ categories: [Doodles]
 tags: [ArtTrade]
 thumbnail: /static/image/thumbnails/2025-009.jpg
 cover: /static/image/artworks/2025-009.jpg
-stamp: 9929
+stamp: 9936
 ---
