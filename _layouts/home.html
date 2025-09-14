@@ -10,8 +10,8 @@ layout: default
   <div id="latestblog">
     {% for post in site.posts limit: 6 %}
       <div>
-        {{ post.moods }} {{ post.bonus }} <strong><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong> 
-        <small></small><time datetime="{{ post.date }}">{{ post.date | date: "%B %d, %Y" }}</time></small> 
+        {{ post.moods }} <strong><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong> {{ post.bonus }}
+        <small>(<time datetime="{{ post.date }}">{{ post.date | date: "%B %d, %Y" }}</time>)</small> 
         {{ post.content | truncatewords: 18 | strip_html }}
       </div>
     {% endfor %}
