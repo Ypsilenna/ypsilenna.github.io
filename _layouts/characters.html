@@ -2,13 +2,17 @@
 layout: default
 ---
 
-<h1 class="title">Original Characters</h1>
+<h1 class="title">{{ page.title }}</h1>
 
 <div class="artworks">
-        <div class="artworks-item"><img src="https://files.catbox.moe/05zsqz.png">
-        Fenrileia</div>
-  <div class="artworks-item"><img src="https://files.catbox.moe/7rbfgd.png">
-        Nyaranja</div>
+    {% assign characters = site.characters | sort: "stamp" %}
+    {% for character in characters %}
+        <div class="artworks-item">
+            <a data-src="{{ character.avatar }}" data-caption="{{ character.title }}" href="/{{ character.title }}">
+                <img src="/static/image/blank.png" data-echo="{{ artwork.thumbnail }}" alt="">
+            </a>
+        </div>
+    {% endfor %}
 </div>
 
 {% include lazyload.html %}
