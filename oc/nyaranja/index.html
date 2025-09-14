@@ -4,3 +4,17 @@ layout: default
 
 Nyaranja
 uwu
+
+               <h3><a href="/doodles">Artworks</a></h3>
+            </div>
+<br>
+                        <div class="artworks">
+    {% assign artworks = site.artworks | sort: "stamp" %}
+    {% for marcoulitta in artworks %}
+                <div class="artworks-item">
+                    <a data-magnify="gallery" data-src="{{ artwork.cover }}" data-caption="{{ artwork.title }}" data-group="a" href="{{ artwork.cover }}">
+                        <img src="{{ artwork.thumbnail }}" alt="">
+                    </a>
+                </div>
+            {% endfor %}
+            </div>
