@@ -2,6 +2,7 @@
 layout: character
 title: "Ambly Odipsas" 
 date: "2025-09-14"
+draft: true
 categories: [oc]
 tags: [] 
 avatar: /static/image/thumbnails/characters/ambly.jpg
