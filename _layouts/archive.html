@@ -7,7 +7,7 @@ layout: default
 <div class="post-list">
     {% for post in site.posts limit: 5 %}
         <div class="blogentry">
-            {{ post.moods }} {{ post.bonus }} <strong><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong> 
+            {{ post.moods }} <strong><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong> {{ post.bonus }}
             <br/><small><time datetime="{{ post.date }}">{{ post.date | date: "%B %d, %Y" }}</time></small>
             <div>
                 {{ post.content | truncatewords: 25 | strip_html }}
