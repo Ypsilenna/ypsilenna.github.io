@@ -62,7 +62,7 @@ layout: home
        <center><a href="https://ko-fi.com/ypsilenna">Ko-fi</a> ● <a href="https://bsky.app/profile/ypsilenna.art">Bluesky</a> ● <a rel="me" href="https://sunny.garden/@Ypsilenna">Mastodon</a> ● <a href="https://cara.app/ypsilenna">Cara</a> ● <a href="https://www.instagram.com/ypsilenna">Instagram</a> ● <a href="https://www.side7.com/u/Ypsilenna/profile">Side7</a></center>
         <hr>
         This is my personal website, as you can see, I draw and write. I am in my 30s, I was born in Poland but I currently live in Spain. <br>
-    <h5>Interests</h5>
+    <h4>Interests</h4>
 <p style="background-color: #dbecfe; padding: 10px; border-radius: 10px; color: black; border: 1px solid #87a0c8; margin-top: 2px; margin-bottom: 2px; text-align: left;">🎨 Hobbies/Interests</p>
 <p>Art, Writing, Video Games, Language Learning, Designing</p>
 <p style="background-color: #dbecfe; padding: 10px; border-radius: 10px; color: black; border: 1px solid #87a0c8; margin-top: 2px; margin-bottom: 2px;">🎥 Movies/TV Series</p>
