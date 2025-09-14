@@ -9,8 +9,12 @@ layout: default
     {% for character in characters %}
         <div class="artworks-item">
             <a data-src="{{ character.avatar }}" data-caption="{{ character.title }}" href="{{ character.url | prepend: site.baseurl }}">
-                <img src="/static/image/blank.png" data-echo="{{ character.avatar }}" alt="">            </a>
-        </div><div>{{ character.title }}</div>
+                <img src="/static/image/blank.png" data-echo="{{ character.avatar }}" alt="">
+            </a>
+        </div>
+        <div>
+            {{ character.title }}
+        </div>
     {% endfor %}
 </div>
 
