@@ -73,7 +73,7 @@ layout: home
 <p>It would be faster to say what I don't like because I listen to most genres depending on the mood. Pitbull gets honorable mention, though, because his music is so silly that it got me out of a pretty long depressive state. Pitbull saves lives.</p>
 <p style="background-color: #dbecfe; padding: 10px; border-radius: 10px; color: black; border: 1px solid #87a0c8; margin-top: 2px; margin-bottom: 2px;">👾 Games</p>
 <p>I'll be honest with you, the number of games I own makes me feel kind of ashamed. I mostly enjoy playing various RPGs and cozy games, though. This is sort of the same as my answer about music.&nbsp;</p><hr>
-        If you need to contact me, you can do so via Matrix: @ypsilenna:matrix.org<br>
+        If you need to contact me, you can do so via Matrix: @ypsilenna:matrix.org<br><hr>
         <div id="sector1">
             <div id="sector1-left"></div>
             <div id="sector1-right">
