@@ -1,3 +1,4 @@
 ---
-layout: default
+layout: characters
+title: Original Characters
 ---
