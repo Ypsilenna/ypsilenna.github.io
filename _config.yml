@@ -30,10 +30,19 @@ plugins:
   - jekyll-feed
 
 collections:
-  - artworks
-  - doodles
-  - pixelarts
-  - characters
+  characters:
+    output: true
+    sort_by: title
+  artworks:
+    output: true
+    sort_by: title
+  doodles:
+    output: true
+    sort_by: title
+  pixelarts:
+    output: true
+    sort_by: title
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
