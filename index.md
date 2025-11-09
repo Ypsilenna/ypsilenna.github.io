@@ -4,6 +4,8 @@ layout: home
 
 <div id="sector1">
     <div id="sector1-left">
+        <h3>I don't do commissions unless I really need to! </h3>
+         If you are here because somebody who looks like me offered you one, just buy yourself something nice with that money and don't bother. When I open my commissions, I will post the price list here, on this website. 
         <img src="/static/image/sk8-frontpage.png">
         <div id="sector1-right">
             <div id="latestart-title">
