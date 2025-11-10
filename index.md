@@ -1,11 +1,9 @@
 ---
 layout: home
 ---
-
+<p style="text-align: center;"><h4>Commission Status: Closed. I won't do commissions unless I really need to, and I will never offer them on random Discord servers! </h4></p>
 <div id="sector1">
     <div id="sector1-left">
-        <p style="text-align: center;"><h3>I don't do commissions unless I really need to! </h3></p>
-         <sub>If you are here because somebody who looks like me offered you one, just buy yourself something nice with that money and don't bother. When I open my commissions, I will post the price list here, on this website.</sub>
         <img src="/static/image/sk8-frontpage.png">
         <div id="sector1-right">
             <div id="latestart-title">
