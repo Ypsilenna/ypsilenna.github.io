@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-<p style="text-align: center;"><h5>Commission Status: Closed. I won't do commissions unless I really need to, and I will never offer them on random Discord servers! </h5></p>
+<center><h5>Commission Status: Closed. I won't do commissions unless I really need to, and I will never offer them on random Discord servers! </h5></center>
 <div id="sector1">
     <div id="sector1-left">
         <img src="/static/image/sk8-frontpage.png">
