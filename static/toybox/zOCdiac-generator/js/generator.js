@@ -47,7 +47,9 @@ $(document).ready(function () {
         "Hagellish",
         "Zoriselida",
         "Zephyr",
-        "Sonata"
+        "Sonata",
+        "Water Prince",
+        "Jellyfish girl"
  
       ],
  
