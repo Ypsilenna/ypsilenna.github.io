@@ -49,7 +49,8 @@ $(document).ready(function () {
         "Zephyr",
         "Sonata",
         "Water Prince",
-        "Jellyfish girl"
+        "Jellyfish girl",
+        "Fuegato"
  
       ],
  
