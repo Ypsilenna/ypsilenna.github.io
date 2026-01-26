@@ -135,7 +135,7 @@ $(document).ready(function () {
         "mint",
         "caterpillar",
         "slime",
-        "brocolli",
+        "broccoli",
         "grapes",
         "chameleon",
         "lily pad",
