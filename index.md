@@ -59,7 +59,7 @@ layout: home
         <h3>About me</h3>
     </div>
     <div id="latestblog">
-       <center><a href="https://ko-fi.com/ypsilenna">Ko-fi</a> ● <a href="https://bsky.app/profile/ypsilenna.art">Bluesky</a> ● <a rel="me" href="https://sunny.garden/@Ypsilenna">Mastodon</a> ● <a href="https://cara.app/ypsilenna">Cara</a> ● <a href="https://www.instagram.com/ypsilenna">Instagram</a> ● <a href="https://www.side7.com/u/Ypsilenna/profile">Side7</a></center>
+       <center><a href="https://ko-fi.com/ypsilenna">Ko-fi</a> ● <a href="https://bsky.app/profile/ypsilenna.art">Bluesky</a> ● <a rel="me" href="https://mastodon.green/@Ypsilenna">Mastodon</a> <a rel="me" href="https://sunny.garden/@Ypsilenna">Mastodon 2</a>  ● <a href="https://cara.app/ypsilenna">Cara</a> ● <a href="https://www.instagram.com/ypsilenna">Instagram</a> ● <a href="https://www.side7.com/u/Ypsilenna/profile">Side7</a></center>
         <hr>
         This is my personal website, as you can see, I draw and write. I am in my 30s, I was born in Poland but I currently live in Spain. <br>
     <h3>Interests</h3>
