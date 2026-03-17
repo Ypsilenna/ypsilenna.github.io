@@ -45,7 +45,7 @@ collections:
   stories:
     output: true
     sort by: title
-  tags:
+  chapters:
     output: true
     sort by: title
 
