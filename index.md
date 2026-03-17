@@ -2,7 +2,7 @@
 layout: home
 ---
 <div id="sector1">
-Check out my guestbook!
+<h3>Check out my guestbook!</h3>
     
     <div id="sector1-left">
         <img src="/static/image/sk8-frontpage.png">
