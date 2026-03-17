@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+<h1 class="title">{{ page.title }}</h1>
+
 <!-- Guestbook Script -->
 <script async src="https://guestbooks.meadow.cafe/resources/js/embed_script/6106/script.js"></script>
 <!-- Guestbook Form -->
@@ -8,7 +11,16 @@ layout: default
   <form id="guestbooks___guestbook-form" 
         action="https://guestbooks.meadow.cafe/guestbook/6106/submit" 
         method="post">
+    <div id="guestbooks___challenge-answer-container"></div>
     <div class="guestbooks___input-container">
+      <textarea id="text" 
+                name="text" 
+                placeholder="Leave your message here..." 
+                rows="4"
+                style="width: 100%; box-sizing: border-box; resize: vertical;"
+                required></textarea>
+    </div>
+        <div class="guestbooks___input-container">
       <input type="text" 
              id="name" 
              name="name" 
@@ -20,15 +32,6 @@ layout: default
              id="website" 
              name="website" 
              placeholder="Website (optional)">
-    </div>
-    <div id="guestbooks___challenge-answer-container"></div>
-    <div class="guestbooks___input-container">
-      <textarea id="text" 
-                name="text" 
-                placeholder="Leave your message here..." 
-                rows="4"
-                style="width: 100%; box-sizing: border-box; resize: vertical;"
-                required></textarea>
     </div>
     <div id="guestbooks___pow-status"></div>
     <button type="submit">Sign Guestbook</button>
