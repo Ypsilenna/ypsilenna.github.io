@@ -61,7 +61,7 @@ layout: home
            <h3>Links</h3>
         <center><a href="https://ko-fi.com/ypsilenna">Ko-fi</a> ● <a href="https://bsky.app/profile/ypsilenna.art">Bluesky</a> ● <a rel="me" href="https://mastodon.green/@Ypsilenna">Mastodon</a>  ● <a href="https://cara.app/ypsilenna">Cara</a> ● <a href="https://www.instagram.com/ypsilenna">Instagram</a></center>
         <hr>
-        This is my personal website, as you can see, I draw and write. I am in my 30s, I was born in Poland but I currently live in Spain. I'm allergic to the modern web, so I am most likely to be found on some obscure small sites and Mastodon. If you need to contact me, you can do so via Matrix: <i>@ypsilenna:matrix.org</i><br><br>
+        I'm a person who draws and writes, this is my personal website as you can see. In '94 I was 0 years old because I was born. I am originally from Poland but I currently live in Spain. I'm allergic to the modern web, so I am most likely to be found on some obscure small sites and Mastodon. If you need to contact me, you can do so via Matrix: <i>@ypsilenna:matrix.org</i><br><br>
         <b>Commission status</b>: Closed<br>
         <b>Disclaimer</b>: I don't really use Discord anymore. If someone reaches out to you claiming they are me, it probably isn't me. Always reference this website before interacting with them.<br>
     <h3>Interests</h3>
