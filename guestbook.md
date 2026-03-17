@@ -3,7 +3,7 @@ layout: default
 ---
 
 <h1 class="title">{{ page.title }}</h1>
-
+<div class="post">
 <!-- Guestbook Script -->
 <script async src="https://guestbooks.meadow.cafe/resources/js/embed_script/6106/script.js"></script>
 <!-- Guestbook Form -->
@@ -46,3 +46,4 @@ layout: default
 <hr style="margin: 2em 0;"/>
 <h3 id="guestbooks___guestbook-messages-header">Messages</h3>
 <div id="guestbooks___guestbook-messages-container"></div>
+</div>
