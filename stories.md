@@ -8,11 +8,11 @@ layout: default
 <div class="novel-container"><div class="novel-left-sidebar">
     <div>  <h2>The Snake Queen</h2><br>
           <b>Genre:</b> Fantasy/Drama/Action<br>
-          <b>Status:</b> In progress (Available in early access for €3/month)<br>
-          <b>Chapters:</b> 3 (Available) out of ~10 (Planned)<br>
-          <b>Preparing:</b> Illustrations and a PDF file<br>
+          <b>Status:</b> In progress<br>
           <b>Synopsis:</b> It is a story of an unknown priestess who tries to make a pact with one of the powerful sky spirit animals, only to find out why nobody deals with the Dusk Serpent.<br>
-<br>
-          <p style="text-align: right"><b><a href="https://ko-fi.com/ypsilenna">Read in early access (Incomplete) ➤</a></b></p></div>
+          <b>Chapters:</b> 1 &#9865; 2 &#9865; 3 &#9865; 4 &#9865; 5 &#9865; 6 &#9865; 7 &#9865; 8 &#9865; 9 &#9865; 10 &#9865; (...) <br> 
+        <br>
+          <p style="text-align: right"><b><a href="https://ko-fi.com/ypsilenna">Support on Ko-fi ➤</a></b></p></div>
     <div><img src="/static/image/stories/okladka-text-mini.png"></div>
 </div></div>
+<sub>Disclaimer: No generative AI was used for any of my projects. The closest I got to the computer telling me what to do was when I used a grammar checking plugin, and even that was not allowed to alter my text too much. I came up with both the stories and the characters on my own. They are deeply personal, and I don't permit anyone to use them in AI training. </sub>
