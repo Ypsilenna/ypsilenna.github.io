@@ -16,15 +16,15 @@ layout: default
              name="name" 
              placeholder="Your Name" 
              required>
-    </div>
+    </div><br>
     <div class="guestbooks___input-container">
       <input type="url" 
              id="website" 
              name="website" 
              placeholder="Website (optional)">
-    </div>
+    </div><br>
     <div id="guestbooks___challenge-answer-container"></div>
-    <div class="guestbooks___input-container">
+    <div class="guestbooks___input-container"><br>
       <textarea id="text" 
                 name="text" 
                 placeholder="Leave your message here..." 
