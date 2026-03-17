@@ -113,7 +113,7 @@ The sun was almost setting, and the chill breeze gave her goosebumps. The woman 
 
 “Raa, Spirit of Dusk! Hear me!”
 
-Many people would view this as a mistake. The infamous Raa, also known as the Twilight Mother or the serpent of the sunset shimmer, was feared by most and despised by the rest. The trickster god, the shameless deity, the fool’s divinity—that's what Raa was called, and yet the priestess' hunger for power was greater than her fear. 
+Many people would view this as a mistake. The infamous Raa, also known as the Twilight Mother or the serpent of the sunset shimmer, was feared by most and despised by the rest. The trickster god, the shameless deity, the fool’s divinity—that's what Raa was called, and yet the priestess's hunger for power was greater than her fear. 
 
 The shimmering scales of Raa encircled the dimming sky, her eyes piercing the priestess. 
 
@@ -137,7 +137,7 @@ Raa smirked and whispered, “We have a deal, then. From this point onward, you 
 
 The priestess experienced a sudden burning sensation in her head. She closed her eyes in anguish. Raa didn't seem to loosen her grip on her as the celestial magic engraved a cursed mark on her forehead. It looked like a droplet suspended between two dots, the same symbol as the one on Raa's head.
 
-The whole life flashed before the priestess' eyes and then vanished forever. She tried to hold on to whatever she could, but her attempts were fruitless. 
+The whole life flashed before the priestess's eyes and then vanished forever. She tried to hold on to whatever she could, but her attempts were fruitless. 
 
 The woman opened her eyes, which were now green as freshly cut grass, so lost… confused. The celestial snake released her, but she was unable to stand up. The world looked so blurry, she didn't know what she was looking at. 
 
