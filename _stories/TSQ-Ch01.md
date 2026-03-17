@@ -148,3 +148,5 @@ As night fell, Raa disappeared from the sky, leaving behind nothing but stardust
 The priestess was terrified. The only thing she could remember was the vanishing snake goddess taking something from her, but not what was taken and why.
 
 She rubbed her eyes and noticed a wilted moonflower. When she touched one of the petals, the entire flower fell apart, and the dust was carried by the wind. The only thing she knew was that the remains of the plant showed her the way, as some faint call urged her to follow…
+
+ <p style="text-align: right"><b><a href="/stories/TSQ-Ch02">Next chapter ➤</a>
