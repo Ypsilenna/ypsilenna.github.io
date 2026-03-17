@@ -45,6 +45,6 @@ layout: default
 <hr style="margin: 2em 0;"/>
 <h3 id="guestbooks___guestbook-messages-header">Messages</h3>
 <div id="guestbooks___guestbook-messages-container"></div>
-
-</div>
 <hr>
+</div>
+
