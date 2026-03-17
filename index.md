@@ -55,7 +55,7 @@ layout: home
         </div>
     </div>
     <br />
-    <div id="latestblog-title">
+    <div id="latestblog-title2">
         <h3>About me</h3>
     </div>
     <div id="latestblog">
