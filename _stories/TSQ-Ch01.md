@@ -149,4 +149,4 @@ The priestess was terrified. The only thing she could remember was the vanishing
 
 She rubbed her eyes and noticed a wilted moonflower. When she touched one of the petals, the entire flower fell apart, and the dust was carried by the wind. The only thing she knew was that the remains of the plant showed her the way, as some faint call urged her to follow…
 
- <p style="text-align: center"><b>⮜ Previous chapter ● <a href="/stories/TSQ-page">Chapter list</a> ● <a href="/stories/TSQ-Ch02">Next chapter ⮞</a>
+ <p style="text-align: center"><b>⮜ Previous ● <a href="/stories/TSQ-page">Chapter list</a> ● <a href="/stories/TSQ-Ch02">Next one ⮞</a>
