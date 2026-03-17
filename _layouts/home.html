@@ -5,14 +5,14 @@ layout: default
 <div id="home-jumbotron" class="jumbotron text-center">
   <h1 class="title">{{ site.title }}</h1>
   <div id="latestblog-title">
-    <h3><a href="/feed.xml"><img width="16px" height="16px" align="left" src="/static/image/Feed-icon.svg"></a> Latest blog posts</h3>
+    <h3><a href="/feed.xml"><img class="rss-icon" src="/static/image/Feed-icon.svg"></a> Latest blog posts</h3>
   </div>
   <div id="latestblog">
     {% for post in site.posts limit: 6 %}
       <div>
         {{ post.moods }} <strong><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong> {{ post.bonus }}
         <small>(<time datetime="{{ post.date }}">{{ post.date | date: "%B %d, %Y" }}</time>)</small> 
-        {{ post.content | truncatewords: 30 | strip_html }}
+        {{ post.content | truncatewords: 35 | strip_html }}
       </div>
     {% endfor %}
   </div>
