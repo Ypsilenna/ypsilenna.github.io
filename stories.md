@@ -4,7 +4,7 @@ layout: default
 
 <h1 class="title">Novels</h1>
 <hr>
-<p style="text-align: justify">
+
 <div class="novel-container"><div class="novel-left-sidebar">
     <div>  <h2>The Snake Queen</h2><br>
           <b>Genre:</b> Fantasy/Drama/Action<br>
@@ -15,8 +15,8 @@ layout: default
           <p style="text-align: right"><b><a href="https://ko-fi.com/ypsilenna">Support on Ko-fi ➤</a></b></p></div>
     <div><img src="/static/image/stories/okladka-text-mini.png"></div>
     <hr>
-<small>Disclaimer: No generative AI was used for any of my projects. The closest I got to the computer telling me what to do was when I used a grammar checking plugin, and even that was not allowed to alter my text too much. I came up with both the stories and the characters on my own. 
-They are deeply personal, and I don't permit anyone to use them in AI training. </small>
+<p style="text-align: justify"><small>Disclaimer: No generative AI was used for any of my projects. The closest I got to the computer telling me what to do was when I used a grammar checking plugin, and even that was not allowed to alter my text too much. I came up with both the stories and the characters on my own. 
+They are deeply personal, and I don't permit anyone to use them in AI training. </small></p>
+
 
 </div></div>
-</p>
