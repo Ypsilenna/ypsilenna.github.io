@@ -12,7 +12,7 @@ layout: default
       <div>
         {{ post.moods }} <strong><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong> {{ post.bonus }}
         <small>(<time datetime="{{ post.date }}">{{ post.date | date: "%B %d, %Y" }}</time>)</small> 
-        {{ post.content | truncatewords: 18 | strip_html }}
+        {{ post.content | truncatewords: 25 | strip_html }}
       </div>
     {% endfor %}
   </div>
