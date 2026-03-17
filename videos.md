@@ -5,6 +5,6 @@ layout: default
 
 </button><button
   class="iine-button"
-  data-icon="heart"
+  data-icon="♥"
   aria-hidden="true">
 </button>
