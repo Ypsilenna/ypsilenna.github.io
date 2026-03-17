@@ -1,7 +1,6 @@
 ---
 layout: home
 ---
-<center><h5>Commission Status: Closed. <br>I won't do commissions unless I really need to, and I will never offer them on random Discord servers! </h5></center>
 <div id="sector1">
     <div id="sector1-left">
         <img src="/static/image/sk8-frontpage.png">
@@ -59,9 +58,12 @@ layout: home
         <h3>About me</h3>
     </div>
     <div id="latestblog2">
-       <center><a href="https://ko-fi.com/ypsilenna">Ko-fi</a> ● <a href="https://bsky.app/profile/ypsilenna.art">Bluesky</a> ● <a rel="me" href="https://mastodon.green/@Ypsilenna">Mastodon</a> <a rel="me" href="https://sunny.garden/@Ypsilenna">Mastodon 2</a>  ● <a href="https://cara.app/ypsilenna">Cara</a> ● <a href="https://www.instagram.com/ypsilenna">Instagram</a> ● <a href="https://www.side7.com/u/Ypsilenna/profile">Side7</a></center>
+           <h3>Links</h3>
+        <center><a href="https://ko-fi.com/ypsilenna">Ko-fi</a> ● <a href="https://bsky.app/profile/ypsilenna.art">Bluesky</a> ● <a rel="me" href="https://mastodon.green/@Ypsilenna">Mastodon</a>  ● <a href="https://cara.app/ypsilenna">Cara</a> ● <a href="https://www.instagram.com/ypsilenna">Instagram</a></center>
         <hr>
         This is my personal website, as you can see, I draw and write. I am in my 30s, I was born in Poland but I currently live in Spain. <br>
+        Commission status: Closed<br>
+        Disclaimer: I don't really use Discord anymore. If someone reaches out to you claiming they are me, it probably isn't me. Always reference this website before interacting with them.<br>
     <h3>Interests</h3>
 <p style="background-color: #dbecfe; padding: 10px; border-radius: 10px; color: black; border: 1px solid #87a0c8; margin-top: 2px; margin-bottom: 2px; text-align: left;">🎨 Hobbies/Interests</p>
 <p>Art, Writing, Video Games, Language Learning, Designing</p>
