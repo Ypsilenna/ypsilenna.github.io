@@ -1,4 +1,20 @@
 ---
-layout: doodles
+layout: default
 title: Doodles
 ---
+
+<h1 class="title">{{ page.title }}</h1>
+
+<div class="artworks">
+    {% assign doodles = site.doodles | sort: "stamp" %}
+    {% for doodle in doodles %}
+        <div class="artworks-item">
+            <a data-magnify="gallery" data-src="{{ doodle.cover }}" data-caption="{{ doodle.title }}" data-group="a" href="{{ doodle.cover }}">
+                <img src="/static/image/blank.png" data-echo="{{ doodle.thumbnail }}" alt="">
+            </a>
+</button>
+        </div>
+    {% endfor %}
+</div>
+
+{% include lazyload.html %}
