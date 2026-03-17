@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+ <p style="text-align: right"><b><a href="/stories">⮜ Return to the list</a></b></p>
 <div class="novel-container"><div class="novel-left-sidebar">
     <div>  <h2>The Snake Queen</h2><br>
           <b>Genre:</b> Fantasy/Drama/Action<br>
