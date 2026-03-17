@@ -7,7 +7,7 @@ layout: default
 
     <div class="metadata">
         <i data-feather="calendar"></i>
-        Posted: <time datetime="{{ post.date }}">{{ page.date | date: '%B %d, %Y'}}</time> | Words: {{ words }} | Reading time: {{ rtime }}
+        Posted: <time datetime="{{ post.date }}">{{ page.date | date: '%B %d, %Y'}}</time> | Words: {{ page.words }} | Reading time: {{ page.rtime }}
         <br/>
        Series: <i data-feather="tag"></i>
         {% for tag in page.tags %}
