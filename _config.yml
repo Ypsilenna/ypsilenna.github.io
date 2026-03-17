@@ -45,6 +45,9 @@ collections:
   stories:
     output: true
     sort by: title
+  tags:
+    output: true
+    sort by: title
 
 
 # Exclude from processing.
