@@ -4,8 +4,8 @@ title: 'Chapter 1 - Severing the ties'
 date: "2026-03-17"
 categories: [stories]
 tags: [The Snake Queen] 
-words: '2199'
-rtime: '11 minutes'
+words: 2199
+rtime: 11 minutes
 ---
 There once was a priestess of the diurnal cycle whose heart was as dark and cold as the veil of the desert night. In her search for the absolute celestial power, she stopped at nothing. She aspired to take over the Sisterhood of the Sun and the Moon. Little did she know, her name would forever be forgotten, blown away in the shimmering sands of time.
 
