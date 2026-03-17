@@ -42,6 +42,9 @@ collections:
   pixelarts:
     output: true
     sort_by: title
+  stories:
+    output: true
+    sort by: title
 
 
 # Exclude from processing.
