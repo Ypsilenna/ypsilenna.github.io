@@ -18,6 +18,6 @@ layout: default
     <hr>
 <p style="text-align: justify"><small>Disclaimer: No generative AI was used for any of my projects. The closest I got to the computer telling me what to do was when I used a grammar checking plugin, and even that was not allowed to alter my text too much. I came up with both the stories and the characters on my own. 
 They are deeply personal, and I don't permit anyone to use them in AI training. </small></p>
-
+<hr>
 
 </div></div>
