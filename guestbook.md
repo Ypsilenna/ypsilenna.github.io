@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<h1 class="title">{{ page.title }}</h1>
-<div class="post">
 <iframe 
   src="https://guestbooks.meadow.cafe/guestbook/6106" 
   width="100%" 
@@ -11,4 +9,4 @@ layout: default
   frameborder="0"
   style="border: 1px solid #e0e0e0; border-radius: 8px;">
 </iframe>
-</div>
+
