@@ -4,7 +4,9 @@ layout: home
 <div id="sector1">
     <div id="sector1-left">
         <img src="/static/image/sk8-frontpage.png">
-       <a href="/guestbook">Yo, look at my guestbook!</a>
+        <div id="latestart-title">
+                <h3><a href="/pixelarts">Latest Pixel Art</a></h3>
+       <a href="/guestbook">Yo, look at my guestbook!</a></div>
         <div id="sector1-right">
             <div id="latestart-title">
                 <h3><a href="/artworks">Latest Artworks</a></h3>
