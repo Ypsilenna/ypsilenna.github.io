@@ -47,3 +47,4 @@ layout: default
 <div id="guestbooks___guestbook-messages-container"></div>
 
 </div>
+<hr>
