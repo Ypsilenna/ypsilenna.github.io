@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="post">
+<div class="novel-container">
     <h1 class="title">Welcome to my guestbook!</h1>
 <!-- Guestbook Script -->
 <script async src="https://guestbooks.meadow.cafe/resources/js/embed_script/6106/script.js"></script>
