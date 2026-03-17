@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="post">
-    <h1 class="title">{{ page.title }}</h1>
+    <h1 class="title">Welcome to my guestbook!</h1>
 <!-- Guestbook Script -->
 <script async src="https://guestbooks.meadow.cafe/resources/js/embed_script/6106/script.js"></script>
 <!-- Guestbook Form -->
