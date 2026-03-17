@@ -7,12 +7,11 @@ layout: default
 
     <div class="metadata">
         <i data-feather="calendar"></i>
-        📅Posted: <time datetime="{{ post.date }}">{{ page.date | date: '%B %d, %Y'}}</time> ⭐ Series: <i data-feather="tag"></i>
+        📅Posted: <time datetime="{{ post.date }}">{{ page.date | date: '%B %d, %Y'}}</time>
         {% for tag in page.tags %}
             {{ tag }}
         {% endfor %}
-        <br/>✒️ Words: {{ page.words }} ⌛ Reading time: {{ page.rtime }}
-        <br/>
+                <br/>
 
     </div>
 <hr><br>    
