@@ -13,7 +13,7 @@ layout: default
           <b>Content warnings:</b> Violence, death, implied nudity, use of alcohol, use of tobacco, trauma<br>
           <b>Chapters:</b> <a href="/stories/TSQ-Ch01">1</a> &#9900; 2 &#9900; 3 &#9900; 4 &#9900; 5 &#9900; 6 &#9900; 7 &#9900; 8 &#9900; 9 &#9900; 10 &#9900; (...) <br> 
         <br>
-          <p style="text-align: right"><b><a href="https://ko-fi.com/ypsilenna">Support on Ko-fi ➤</a></b></p></div>
+          <p style="text-align: right"><b><a href="/stories/TSQ-page">Page ⮞</a></b></p></div>
     <div><img src="/static/image/stories/okladka-text-mini.png"></div>
     <hr>
 <p style="text-align: justify"><small>Disclaimer: No generative AI was used for any of my projects. The closest I got to the computer telling me what to do was when I used a grammar checking plugin, and even that was not allowed to alter my text too much. I came up with both the stories and the characters on my own. 
