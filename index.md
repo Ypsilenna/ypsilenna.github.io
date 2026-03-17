@@ -65,7 +65,7 @@ layout: home
         <hr>
         I'm a person who draws and writes, this is my personal website as you can see. In '94 I was 0 years old because I was born. I am originally from Poland but I currently live in Spain. I'm allergic to the modern web, so I am most likely to be found on some obscure small sites and Mastodon. If you need to contact me, you can do so via Matrix: <i>@ypsilenna:matrix.org</i><br><br>
         <b>Commission status</b>: Closed<br>
-        <b>Disclaimer</b>: I don't really use Discord anymore. If someone reaches out to you claiming they are me, it probably isn't me. Always reference this website before interacting with them.<br>
+        <b>Disclaimer</b>: I don't really use Discord anymore. If someone reaches out to you claiming they are me, it probably isn't me. Always reference this website before interacting with them.<br><hr>
     <h3>Interests</h3>
 <p style="background-color: #dbecfe; padding: 10px; border-radius: 10px; color: black; border: 1px solid #87a0c8; margin-top: 2px; margin-bottom: 2px; text-align: left;">🎨 Hobbies/Interests</p>
 <p>Art, Writing, Video Games, Language Learning, Designing</p>
