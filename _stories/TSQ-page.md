@@ -12,7 +12,7 @@ layout: default
 <hr>
 <h2 class="title">Chapters</h2>
 <ul>
-<li><a href="/stories/TSQ-Ch01">Chapter 1 - Severing the ties</a> Where the priestess makes some rather questionable choices and ends up with a new name.</li>
+<li><a href="/stories/TSQ-Ch01"><b>Chapter 1 - Severing the ties</b></a> <i>Where the priestess makes some rather questionable choices and ends up with a new name.</i></li>
 </ul>
 <hr>
     <hr>
