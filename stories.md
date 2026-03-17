@@ -10,6 +10,7 @@ layout: default
           <b>Genre:</b> Fantasy/Drama/Action<br>
           <b>Status:</b> In progress<br>
           <b>Synopsis:</b> It is a story of an unknown priestess who tries to make a pact with one of the powerful sky spirit animals, only to find out why nobody deals with the Dusk Serpent.<br>
+          <b>Content warnings:</b>Violence, death, implied nudity, use of alcohol, use of tobacco, trauma<br>
           <b>Chapters:</b> <a href="/stories/TSQ-Ch01">1</a> &#9900; 2 &#9900; 3 &#9900; 4 &#9900; 5 &#9900; 6 &#9900; 7 &#9900; 8 &#9900; 9 &#9900; 10 &#9900; (...) <br> 
         <br>
           <p style="text-align: right"><b><a href="https://ko-fi.com/ypsilenna">Support on Ko-fi ➤</a></b></p></div>
