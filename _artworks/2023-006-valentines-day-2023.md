@@ -8,5 +8,7 @@ tags: [Giftart]
 thumbnail: /static/image/thumbnails/2023-006.png
 cover: /static/image/artworks/2023-006.jpg
 stamp: 9959
+ogimage: /static/image/thumbnails/2023-006.png
+ogdesc: Valentines Day gift for my beloved, based on our characters from The Elder Scrolls Online.
 ---
 Valentines Day gift for my beloved, based on our characters from The Elder Scrolls Online.
