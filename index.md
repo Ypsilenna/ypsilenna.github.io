@@ -94,7 +94,13 @@ ogdesc: Welcome to Court of Gloomvale, the creative space of Ypsilenna! You can 
             <div id="sector1-right">
     <h1>What is Gloomvale?</h1>
         Gloomvale is a dark area between the physical realm and realm of the fae. Court of Gloomvale is a group of misfits who judge whether travelers are worthy to pass through. One thing is for sure, nobody ever stays in Gloomvale for long.
-<br><div align=center><a href='https://www.counter12.com'><img src='https://www.counter12.com/img-WBCa7y7w2xawB0A5-3.gif' border='0' alt='counter'></a><script type='text/javascript' src='https://www.counter12.com/ad.js?id=WBCa7y7w2xawB0A5'></script>passed through Gloomvale.</div><br>
+<br><!-- Default gnrcounter.com code for https://ypsilenna.art/ -->
+<script language="JavaScript" type="text/javascript" src="https://gnrcounter.com/counter.php?accId=95b135a574da4f485fdce5a41a29add6"></script>
+<noscript>
+<a href="https://gnrcounter.com" title="Web Analytics">Web Analytics</a>
+</noscript>
+<!-- End of gnrcounter.com Code -->  
+  </script>passed through Gloomvale.</div><br>
             </div>
         </div>
     </div><br>
