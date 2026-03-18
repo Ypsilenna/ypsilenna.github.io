@@ -8,5 +8,7 @@ tags: [Fanart]
 thumbnail: /static/image/thumbnails/2022-024.png
 cover: /static/image/artworks/2022-024.jpg
 stamp: 9968
+ogimage: /static/image/thumbnails/2022-024.png
+ogdesc: Chel from The Road to El Dorado. I think I put too much yellow on her face... anyway...
 ---
 Chel from The Road to El Dorado. I think I put too much yellow on her face... anyway...
