@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-<main id="top">
-	<a class="to-top" href="#top" aria-label="back to top"><img src="https://www.svgrepo.com/show/506650/chevron-top.svg" alt=""></a>
-</main>
 <br>
 <div class="post">
     <h1 class="title">{{ page.title }}</h1>
@@ -20,7 +17,9 @@ layout: default
     </div>
 <hr><br>    
     <div style="text-align: justify"><div class="novel-container"><div class="content">
-        {{ content }}
+       <main id="top">
+	   <a class="to-top" href="#top" aria-label="back to top"><img src="https://www.svgrepo.com/show/506650/chevron-top.svg" alt=""></a>
+        {{ content }}</main>
 <button
   class="iine-button"
   data-icon="💜"
