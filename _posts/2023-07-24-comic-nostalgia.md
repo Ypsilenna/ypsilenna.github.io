@@ -6,5 +6,7 @@ draft: false
 categories: [microblog]
 tags: [personal] 
 moods: 😐
+ogimage: /static/image/blank.png
+ogdesc: Sometimes I miss having my own webcomic, but then I recall how much work it was and I am not sure if I can handle creating such long sequences anymore (...)
 ---
 Sometimes I miss having my own webcomic, but then I recall how much work it was and I am not sure if I can handle creating such long sequences anymore. It was so tiring 😱
