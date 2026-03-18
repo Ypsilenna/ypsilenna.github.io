@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Illustrations
+ogimage: /static/image/blank.png
+ogdesc: A collection of iIllustrations.
 ---
 <h1 class="title">{{ page.title }}</h1>
 <div class="artworks">
