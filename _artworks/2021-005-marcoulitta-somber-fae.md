@@ -8,5 +8,7 @@ tags: [Marcoulitta]
 thumbnail: /static/image/thumbnails/2021-005.png
 cover: /static/image/artworks/2021-005.jpg
 stamp: 9995
+ogimage: /static/image/thumbnails/2021-005.png
+ogdesc: Marcoulitta again.
 ---
 Marcoulitta again.
