@@ -8,5 +8,7 @@ tags: [Ashrilda, Saahrimei]
 thumbnail: /static/image/thumbnails/2025-010.jpg
 cover: /static/image/artworks/2025-010.jpg
 stamp: 9924
+ogimage: /static/image/thumbnails/2025-010.jpg
+ogdesc: I figured out they could be good friends if they met, so I decided to make friends. 
 ---
 I figured out they could be good friends if they met, so I decided to make friends. 
