@@ -8,5 +8,7 @@ tags: [Rallosameer, Anshrilda]
 thumbnail: /static/image/thumbnails/2024-011.png
 cover: /static/image/artworks/2024-011.jpg
 stamp: 9942
+ogimage: /static/image/thumbnails/2024-011.png
+ogdesc: The only artwork where I drew the background first, and the characters second.
 ---
 The only artwork where I drew the background first, and the characters second.
