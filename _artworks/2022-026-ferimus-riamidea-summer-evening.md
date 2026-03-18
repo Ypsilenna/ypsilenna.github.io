@@ -1,6 +1,6 @@
 ---
 layout: artwork
-title: '[OC] Ferimus x [OC] Riamidea - In the Garden '
+title: '[OC] Ferimus x [OC] Riamidea - Summer Evening '
 date: 2022-11-29
 draft: false
 categories: [Artworks]
