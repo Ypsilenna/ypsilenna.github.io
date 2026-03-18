@@ -8,5 +8,7 @@ tags: [Ifra]
 thumbnail: /static/image/thumbnails/2022-011.png
 cover: /static/image/artworks/2022-011.jpg
 stamp: 9981
+ogimage: /static/image/thumbnails/2022-011.png
+ogdesc: Ifra Shadowbringer summoning shadow demons. 
 ---
 Ifra Shadowbringer summoning shadow demons. 
