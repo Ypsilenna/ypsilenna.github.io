@@ -8,5 +8,7 @@ tags: [Coralie, Pete]
 thumbnail: /static/image/thumbnails/2022-023.png
 cover: /static/image/artworks/2022-023.jpg
 stamp: 9969
+ogimage: /static/image/thumbnails/2022-023.png
+ogdesc: These two started as my characters in The Sims 3, but then I decided to convert them into OCs (...)
 ---
 These two started as my characters in The Sims 3, but then I decided to convert them into OCs. I love them 🥹
