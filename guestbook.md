@@ -1,5 +1,7 @@
 ---
 layout: default
+ogimage: /static/image/blank.png
+ogdesc: Guestbook of Court of Gloomvale.
 ---
 <div class="novel-container">
     <h1 class="title">Welcome to my guestbook!</h1>
