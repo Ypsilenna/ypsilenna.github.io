@@ -8,5 +8,7 @@ tags: [Lusstoni]
 thumbnail: /static/image/thumbnails/2021-001.png
 cover: /static/image/artworks/2021-001.jpg
 stamp: 9999
+ogimage: /static/image/thumbnails/2021-001.png
+ogdesc: This is my Oc Lusstoni, and this is the first fully rendered illustration I made in this style.
 ---
 This is my Oc Lusstoni, and this is the first fully rendered illustration I made in this style.
