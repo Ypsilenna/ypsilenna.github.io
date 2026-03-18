@@ -6,6 +6,8 @@ categories: [microblog]
 tags: [info] 
 moods: ✒️
 authors: [Ypsilenna]
+ogimage: /static/image/blank.png
+ogdesc: I am slowly uploading my novel chapters here. I initially planned to keep them paywalled on Ko-fi to protect them from web scrapers, but I honestly don't know how long I can keep this up. (...)
 ---
 I am slowly uploading my novel chapters here. I initially planned to keep them paywalled on Ko-fi to protect them from web scrapers, but I honestly don't know how long I can keep this up. <br>
 I will probably still make the illustrated version of the novel and sell it as a pdf in my Ko-fi shop, but the basic version will be readable for free here.<br>
