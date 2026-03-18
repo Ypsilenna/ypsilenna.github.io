@@ -8,6 +8,8 @@ tags: [Ymreiva]
 thumbnail: /static/image/thumbnails/2022-012.png
 cover: /static/image/artworks/2022-012.jpg
 stamp: 9980
+ogimage: /static/image/thumbnails/2022-012.png
+ogdesc: The new design of Ymreiva!
 ---
 The new design of Ymreiva!
 
