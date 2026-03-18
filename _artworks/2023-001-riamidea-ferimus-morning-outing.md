@@ -8,5 +8,7 @@ tags: [Riamidea, Ferimus]
 thumbnail: /static/image/thumbnails/2023-001.png
 cover: /static/image/artworks/2023-001.jpg
 stamp: 9964
+ogimage: /static/image/thumbnails/2023-001.png
+ogdesc: Nth redraw of my favorite drawing from when I was 16 years old (...)
 ---
 Nth redraw of my favorite drawing from when I was 16 years old. Probably not the last as I slightly messed up the background.
