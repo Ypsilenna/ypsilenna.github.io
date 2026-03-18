@@ -1,5 +1,7 @@
 ---
 layout: default
+ogimage: /static/image/blank.png
+ogdesc: A list of stories authored by Ypsilenna.
 ---
 
 <h1 class="title">Novels</h1>
