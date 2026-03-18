@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Doodles
+ogimage: /static/image/blank.png
+ogdesc: A collection of doodles.
 ---
 
 <h1 class="title">{{ page.title }}</h1>
