@@ -4,7 +4,7 @@ title: Illustrations
 ---
 <h1 class="title">{{ page.title }}</h1>
 <div class="artworks">
-    {% assign doodles = site.artworks | sort: "stamp" %}
+    {% assign artworks = site.artworks | sort: "stamp" %}
     {% for artwork in artworks %}
         <div class="artworks-item">
             <a data-magnify="gallery" data-src="{{ artwork.cover }}" data-caption="{{ artwork.title }}" data-group="a" href="{{ artwork.cover }}">
