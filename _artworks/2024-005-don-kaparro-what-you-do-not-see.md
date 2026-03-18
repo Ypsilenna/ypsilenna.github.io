@@ -8,5 +8,7 @@ tags: [Kaparro]
 thumbnail: /static/image/thumbnails/2024-005.png
 cover: /static/image/artworks/2024-005.jpg
 stamp: 9948
+ogimage: /static/image/thumbnails/2024-005.png
+ogdesc: Don Kaparro is the greatest showmaker on the continent (...)
 ---
 Don Kaparro is the greatest showmaker on the continent. He's more influential than even king and rich enough to buy his palace. That should mean that he's happy, right?
