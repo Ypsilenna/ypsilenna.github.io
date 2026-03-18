@@ -8,6 +8,8 @@ tags: [Thornasolei]
 thumbnail: /static/image/thumbnails/2023-002.png
 cover: /static/image/artworks/2023-002.jpg
 stamp: 9963
+ogimage: /static/image/thumbnails/2023-002.png
+ogdesc: I drew this for the "sunflower" propt on one art discord.
 ---
 I drew this for the "sunflower" propt on one art discord.
 
