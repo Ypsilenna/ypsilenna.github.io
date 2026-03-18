@@ -11,7 +11,7 @@ title: Doodles
         <div class="artworks-item">
             <a data-magnify="gallery" data-src="{{ doodle.cover }}" data-caption="{{ doodle.title }}" data-group="a" href="{{ doodle.cover }}">
                 <img src="/static/image/blank.png" data-echo="{{ doodle.thumbnail }}" alt="">
-            </a><div class="gallery-link-bg"><a class="gallery-link" href="{{ doodle.url }}"><small>&#128279;</small></a></div>
+            </a><div class="gallery-link-bg"><a class="gallery-link" href="{{ doodle.url }}">&#128279;</a></div>
         </div>
     {% endfor %}
 </div>
