@@ -8,5 +8,7 @@ tags: [Cyrona]
 thumbnail: /static/image/thumbnails/2021-006.png
 cover: /static/image/artworks/2021-006.jpg
 stamp: 9994
+ogimage: /static/image/thumbnails/2021-006.png
+ogdesc: Cyrona with the background based on synthwave aesthetic.
 ---
 Cyrona with the background based on synthwave aesthetic.
