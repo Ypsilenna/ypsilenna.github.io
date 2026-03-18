@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Pixel Art
+ogimage: /static/image/blank.png
+ogdesc: A collection of pixel artworks.
 ---
 
 <h1 class="title">{{ page.title }}</h1>
