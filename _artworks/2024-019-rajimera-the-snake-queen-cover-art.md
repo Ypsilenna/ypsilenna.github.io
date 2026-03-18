@@ -8,5 +8,7 @@ tags: [Raajimera]
 thumbnail: /static/image/thumbnails/2024-019.png
 cover: /static/image/artworks/2024-019.jpg
 stamp: 9934
+ogimage: /static/image/thumbnails/2024-019.png
+ogdesc: Cover image for The Snake Queen. 
 ---
 Cover image for The Snake Queen. 
