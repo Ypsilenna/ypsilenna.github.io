@@ -2,6 +2,7 @@
 layout: home
 title: Home
 ogimage: /static/image/blank.png
+ogdesc: Welcome to Court of Gloomvale, the creative space of Ypsilenna! You can find here: artworks, stories, art time-lapses, and other creative things!
 ---
 <div id="sector1">
 <a href="/guestbook"><h3 class="guestbook">Check out my guestbook!</h3></a>
