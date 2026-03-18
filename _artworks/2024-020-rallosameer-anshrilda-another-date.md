@@ -9,5 +9,7 @@ thumbnail: /static/image/thumbnails/2024-020.png
 cover: /static/image/artworks/2024-020.jpg
 ogimage: /static/image/thumbnails/2024-020.png
 stamp: 9944
+ogimage: /static/image/thumbnails/2024-020.png
+ogdesc: They look so cute together, I will never not love them as a couple (...) 
 ---
 They look so cute together, I will never not love them as a couple. It's funny, though, because I didn't intend them to be together, they just casually started fitting with each other.
