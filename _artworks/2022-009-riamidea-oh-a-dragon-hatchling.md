@@ -8,5 +8,7 @@ tags: [Riamidea]
 thumbnail: /static/image/thumbnails/2022-009.png
 cover: /static/image/artworks/2022-009.jpg
 stamp: 9983
+ogimage: /static/image/thumbnails/2022-009.png
+ogdesc: Will you look at it? A dragon hatchling!!!
 ---
 Will you look at it? A dragon hatchling!!!
