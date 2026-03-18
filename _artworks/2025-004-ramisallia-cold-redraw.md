@@ -8,7 +8,7 @@ tags: [Ramisallia]
 thumbnail: /static/image/thumbnails/2025-004.jpg
 cover: /static/image/artworks/2025-004.jpg
 stamp: 9929
-ogimage: /static/image/thumbnails/2025-004.png
+ogimage: /static/image/thumbnails/2025-004.jpg
 ogdesc: Another redraw of a super old drawing. 
 ---
 Another redraw of a super old drawing. 
