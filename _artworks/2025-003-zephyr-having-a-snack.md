@@ -8,7 +8,7 @@ tags: [Zephyr]
 thumbnail: /static/image/thumbnails/2025-003.jpg
 cover: /static/image/artworks/2025-003.jpg
 stamp: 9930
-ogimage: /static/image/thumbnails/2025-003.png
+ogimage: /static/image/thumbnails/2025-003.jpg
 ogdesc: Zephyr eating an apple.
 ---
 Zephyr eating an apple.
