@@ -8,5 +8,7 @@ tags: [Fenrileia]
 thumbnail: /static/image/thumbnails/2024-002.png
 cover: /static/image/artworks/2024-002.jpg
 stamp: 9951
+ogimage: /static/image/thumbnails/2024-002.png
+ogdesc: Just a quick artwork of Fenrileia.
 ---
 Just a quick artwork of Fenrileia.
