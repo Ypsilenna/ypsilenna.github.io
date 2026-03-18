@@ -1,6 +1,6 @@
 ---
 layout: artwork
-title: '[OC] - He wished she could see herself through his eyes'
+title: '[OC] Riamidea - He wished she could see herself through his eyes'
 date: 2025-12-03
 draft: false
 categories: [Artworks]
