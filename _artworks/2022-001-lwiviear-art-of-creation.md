@@ -8,5 +8,7 @@ tags: [Lwiviear]
 thumbnail: /static/image/thumbnails/2022-001.png
 cover: /static/image/artworks/2022-001.jpg
 stamp: 9991
+ogimage: /static/image/thumbnails/2022-001.png
+ogdesc: Lwiviear, the god of life. He shaped the planets and the stars.
 ---
 Lwiviear, the god of life. He shaped the planets and the stars.
