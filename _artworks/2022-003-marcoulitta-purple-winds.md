@@ -8,5 +8,7 @@ tags: [Marcoulitta]
 thumbnail: /static/image/thumbnails/2022-003.png
 cover: /static/image/artworks/2022-003.jpg
 stamp: 9989
+ogimage: /static/image/thumbnails/2022-003.png
+ogdesc: Curious Marcoulitta in magical lands.
 ---
 Curious Marcoulitta in magical lands.
