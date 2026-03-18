@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Home
+ogimage: /static/image/blank.png
 ---
 <div id="sector1">
 <a href="/guestbook"><h3 class="guestbook">Check out my guestbook!</h3></a>
