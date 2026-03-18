@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<p style="text-align: left"><b><a href="/pixelarts">⮜ Return to pixel art</a></b></p>
+<div class="post">
+    <h1 class="title">{{ page.title }}</h1>
+
+    <div class="metadata">
+        <i data-feather="calendar"></i>
+        📅Posted: <time datetime="{{ post.date }}">{{ page.date | date: '%B %d, %Y'}}</time>
+                <br/>
+
+    </div>
+<hr><br>    
+    <div style="text-align: justify"><div class="novel-container"><div class="content">
+        <img src="{{ page.cover }}"><br><br>
+        <h3> Author's note</h3><hr>{{ content }}<br>
+<button
+  class="iine-button"
+  data-icon="💜"
+  aria-hidden="true">
+</button>
+    </div> </div></div>       <br><hr>
+</div>
