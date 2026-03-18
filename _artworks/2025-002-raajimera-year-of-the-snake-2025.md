@@ -8,5 +8,7 @@ tags: [Raajimera]
 thumbnail: /static/image/thumbnails/2025-002.jpg
 cover: /static/image/artworks/2025-002.jpg
 stamp: 9931
+ogimage: /static/image/thumbnails/2025-002.png
+ogdesc: I made it to celebrate year of the snake.
 ---
 I made it to celebrate year of the snake.
