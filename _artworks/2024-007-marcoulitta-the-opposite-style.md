@@ -8,5 +8,7 @@ tags: [Marcoulitta]
 thumbnail: /static/image/thumbnails/2024-007.png
 cover: /static/image/artworks/2024-007.jpg
 stamp: 9946
+ogimage: /static/image/thumbnails/2024-007.png
+ogdesc: I tried to draw the opposite of the style I usually use.
 ---
 I tried to draw the opposite of the style I usually use.
