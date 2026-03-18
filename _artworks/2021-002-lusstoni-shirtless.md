@@ -8,5 +8,7 @@ tags: [Lusstoni]
 thumbnail: /static/image/thumbnails/2021-002.png
 cover: /static/image/artworks/2021-002.jpg
 stamp: 9998
+ogimage: /static/image/thumbnails/2021-002.png
+ogdesc: Lusstoni again, this time without a shirt. 
 ---
 Lusstoni again, this time without a shirt. 
