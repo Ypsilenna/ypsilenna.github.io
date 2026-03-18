@@ -6,5 +6,7 @@ draft: false
 categories: [microblog]
 tags: [personal] 
 moods: 😊
+ogimage: /static/image/blank.png
+ogdesc: I really love designing fantasy characters because it gives me the freedom of not having to stick with basic human "models" (...)
 ---
 I really love designing fantasy characters because it gives me the freedom of not having to stick with basic human "models". I can make them have whatever weird features I want and the design will make sense. Amazing.
