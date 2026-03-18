@@ -8,5 +8,7 @@ tags: [FLoria]
 thumbnail: /static/image/thumbnails/2022-006.png
 cover: /static/image/artworks/2022-006.jpg
 stamp: 9986
+ogimage: /static/image/thumbnails/2022-006.png
+ogdesc: Floria from my webcomic, Working Around.
 ---
 Floria from my webcomic, Working Around.
