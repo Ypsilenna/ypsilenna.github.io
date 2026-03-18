@@ -1,7 +1,7 @@
 ---
 layout: default
 ogimage: /static/image/blank.png
-ogdesc: A colelction of videos.
+ogdesc: A collection of videos.
 ---
 <script src="https://cdn.jsdelivr.net/gh/welpo/iine@main/iine.mini.js"></script>
 <button
