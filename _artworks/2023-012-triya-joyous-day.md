@@ -8,5 +8,7 @@ tags: [Triya]
 thumbnail: /static/image/thumbnails/2023-012.png
 cover: /static/image/artworks/2023-012.jpg
 stamp: 9953
+ogimage: /static/image/thumbnails/2023-012.png
+ogdesc: Oh, to be a joyful scorpion girl picking up flowers and putting them in your basket with your murder weapon of a tail...
 ---
 Oh, to be a joyful scorpion girl picking up flowers and putting them in your basket with your murder weapon of a tail...
