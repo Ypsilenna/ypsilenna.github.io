@@ -8,6 +8,8 @@ tags: [animal]
 thumbnail: /static/image/thumbnails/2025-011.jpg
 cover: /static/image/artworks/2025-011.jpg
 stamp: 9923
+ogimage: /static/image/thumbnails/2025-011.jpg
+ogdesc: How could you get angry at him? Such a good boy (...)
 ---
-How could you get angry at him? Such a good boy. /
+How could you get angry at him? Such a good boy. <br>
 I drew it based on somebody's photo on Mastodon.
