@@ -4,7 +4,9 @@ title: Doodles
 ---
 
 <h1 class="title">{{ page.title }}</h1>
-
+<div class="tooltip">Hover over me
+  <span class="tooltiptext">Some tooltip text</span>
+</div>
 <div class="artworks">
     {% assign doodles = site.doodles | sort: "stamp" %}
     {% for doodle in doodles %}
