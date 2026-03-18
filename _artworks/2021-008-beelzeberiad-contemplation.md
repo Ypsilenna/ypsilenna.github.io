@@ -7,5 +7,7 @@ tags: [Beelzeberiad]
 thumbnail: /static/image/thumbnails/2021-008.png
 cover: /static/image/artworks/2021-008.jpg
 stamp: 9992
+ogimage: /static/image/thumbnails/2021-008.png
+ogdesc: King Beelzeberiad staring at his cursed mask.
 ---
 King Beelzeberiad staring at his cursed mask.
