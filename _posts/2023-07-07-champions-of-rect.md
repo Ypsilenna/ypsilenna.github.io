@@ -6,6 +6,8 @@ draft: false
 categories: [microblog]
 tags: [gaming] 
 moods: 😎
+ogimage: /static/image/blank.png
+ogdesc: Sometimes I play games for silly reasons. For an instance, I once misread one game's name as "Champions of Rectum" and forgot about it for months (...)
 ---
 Sometimes I play games for silly reasons. For an instance, I once misread one game's name as "Champions of Rectum" and forgot about it for months. Then suddenly I had a flashback of seeing an ad of it and I was like "Wait... Why would they name their game like that???" So I googled it and I decided to download it while I was there. The game was kinda buggy, but also sorta nice. It had some charm to it. Unfortunately they wiped all my progress when I was away during a server merge. Guess I was never meant to be a champion after all...\\
 
