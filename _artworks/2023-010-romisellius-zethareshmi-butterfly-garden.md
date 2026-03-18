@@ -8,6 +8,8 @@ tags: [Romisellius, Zethareshmi]
 thumbnail: /static/image/thumbnails/2023-010.png
 cover: /static/image/artworks/2023-010.jpg
 stamp: 9955
+ogimage: /static/image/thumbnails/2023-010.png
+ogdesc: When you have an unhinged husband, you DON'T take him to the butterfly garden to put more culture into him (...)
 ---
 When you have an unhinged husband, you DON'T take him to the butterfly garden to put more culture into him. Trust me.
 
