@@ -8,5 +8,7 @@ tags: [Ferimus]
 thumbnail: /static/image/thumbnails/2022-005.png
 cover: /static/image/artworks/2022-005.jpg
 stamp: 9987
+ogimage: /static/image/thumbnails/2022-005.png
+ogdesc: Ferimus in a dark forest.
 ---
 Ferimus in a dark forest.
