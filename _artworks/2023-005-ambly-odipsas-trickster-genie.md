@@ -8,5 +8,7 @@ tags: [Ambly]
 thumbnail: /static/image/thumbnails/2023-005.png
 cover: /static/image/artworks/2023-005.jpg
 stamp: 9960
+ogimage: /static/image/thumbnails/2023-005.png
+ogdesc: It's Ambly!
 ---
 It's Ambly!
