@@ -8,5 +8,7 @@ tags: [Saahrimei]
 thumbnail: /static/image/thumbnails/2024-001.png
 cover: /static/image/artworks/2024-001.jpg
 stamp: 9952
+ogimage: /static/image/thumbnails/2024-001.png
+ogdesc: The first artwork back in Krita. 
 ---
 The first artwork back in Krita. 
