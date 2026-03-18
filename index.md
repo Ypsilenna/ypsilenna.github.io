@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Home
 ---
 <div id="sector1">
 <a href="/guestbook"><h3 class="guestbook">Check out my guestbook!</h3></a>
