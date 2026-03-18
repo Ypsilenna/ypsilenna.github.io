@@ -8,5 +8,7 @@ tags: [Ymreiva]
 thumbnail: /static/image/thumbnails/2024-018.png
 cover: /static/image/artworks/2024-018.jpg
 stamp: 9935
+ogimage: /static/image/thumbnails/2024-018.png
+ogdesc: Redraw of one of my old artworks.
 ---
 Redraw of one of my old artworks.
