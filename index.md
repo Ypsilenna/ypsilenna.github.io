@@ -99,8 +99,7 @@ ogdesc: Welcome to Court of Gloomvale, the creative space of Ypsilenna! You can 
 <noscript>
 <a href="https://gnrcounter.com" title="Web Analytics">Web Analytics</a>
 </noscript>
-<!-- End of gnrcounter.com Code -->  
-  </script>passed through Gloomvale.</div><br>
+<!-- End of gnrcounter.com Code -->  passed through Gloomvale.</div><br>
             </div>
         </div>
     </div><br>
