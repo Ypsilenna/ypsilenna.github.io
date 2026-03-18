@@ -8,5 +8,7 @@ tags: [Saahrimei]
 thumbnail: /static/image/thumbnails/2024-017.png
 cover: /static/image/artworks/2024-017.jpg
 stamp: 9936
+ogimage: /static/image/thumbnails/2024-017.png
+ogdesc: Saahrimei as a skater girl (...)
 ---
 Saahrimei as a skater girl. This is not her canon outfit, but I think she looks very good in it.
