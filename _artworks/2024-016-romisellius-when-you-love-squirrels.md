@@ -8,5 +8,7 @@ tags: [Romisellius]
 thumbnail: /static/image/thumbnails/2024-016.png
 cover: /static/image/artworks/2024-016.jpg
 stamp: 9937
+ogimage: /static/image/thumbnails/2024-016.png
+ogdesc: The unhinged husband returns (...)
 ---
 The unhinged husband returns! Please, don't eat the squirrel, thank you.
