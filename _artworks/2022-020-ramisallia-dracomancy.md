@@ -8,5 +8,7 @@ tags: [Ramisallia]
 thumbnail: /static/image/thumbnails/2022-020.png
 cover: /static/image/artworks/2022-020.jpg
 stamp: 9972
+ogimage: /static/image/thumbnails/2022-020.png
+ogdesc: Ramisallia posing with her wyverns.
 ---
 Ramisallia posing with her wyverns.
