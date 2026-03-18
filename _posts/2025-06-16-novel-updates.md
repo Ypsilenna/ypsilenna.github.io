@@ -6,6 +6,8 @@ categories: [microblog]
 tags: [info] 
 moods: 🐍
 authors: [Me]
+ogimage: /static/image/blank.png
+ogdesc: I am here to provide you with some information about my current novel in progress, The Snake Queen. (...)
 ---
 Hello, hello!<br>
 I am here to provide you with some information about my current novel in progress, The Snake Queen.<br>
