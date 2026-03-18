@@ -1,4 +1,0 @@
----
-layout: chapters
-title: Chapters
----
