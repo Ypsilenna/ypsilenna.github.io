@@ -8,6 +8,8 @@ tags: [WFKai]
 thumbnail: /static/image/thumbnails/2024-009.png
 cover: /static/image/artworks/2024-009.jpg
 stamp: 9944
+ogimage: /static/image/thumbnails/2024-009.png
+ogdesc: Kai from Wylde Flowers (...)
 ---
 Kai from Wylde Flowers. The best marriage candidate, hands down.
 
