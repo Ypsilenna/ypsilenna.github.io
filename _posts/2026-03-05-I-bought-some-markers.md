@@ -12,7 +12,7 @@ ogdesc: My partner took me to the gym two days ago, and somehow I ended up feeli
 ---
 Ever since I decided to take a break from posting art online, I started buying traditional art supplies, and now I am obsessed. I got myself a box of cool alcohol markers! Traditional art is so much fun.<br>
 
-<img src="static/image/blog/markers.jpg"><br>
+<img src="/static/image/blog/markers.jpg"><br>
 
 I feel that traditional art feels more personal, I don't know if you guys can relate.<br>
 I simply love drawing my original characters on paper. <br>
