@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'I went to the gym and then gamed'
+title: 'I went to the gym, I gamed as well'
 date: "2026-03-19"
 categories: [microblog]
 tags: [personal, gym, gaming] 
