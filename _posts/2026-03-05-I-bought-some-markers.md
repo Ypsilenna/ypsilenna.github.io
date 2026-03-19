@@ -8,7 +8,7 @@ moods: 💪
 bonus: 🖼️
 authors: [Ypsilenna]
 ogimage: /static/image/blank.png
-ogdesc: My partner took me to the gym two days ago, and somehow I ended up feeling more energy than in all the previous months combined together (...)
+ogdesc: Ever since I decided to take a break from posting art online, I started buying traditional art supplies, and now I am obsessed (...)
 ---
 Ever since I decided to take a break from posting art online, I started buying traditional art supplies, and now I am obsessed. I got myself a box of cool alcohol markers! Traditional art is so much fun.<br>
 
