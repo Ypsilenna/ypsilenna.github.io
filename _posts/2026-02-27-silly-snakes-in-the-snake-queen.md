@@ -4,8 +4,7 @@ title: 'Silly snakes in The Snake Queen?'
 date: "2026-02-27"
 categories: [microblog]
 tags: [personal, The Snake Queen, snakes] 
-moods: 💪
-bonus: 🖼️
+moods: 🐍
 authors: [Ypsilenna]
 ogimage: /static/image/blank.png
 ogdesc: I imagined something totally silly. Picture that (...)
