@@ -4,7 +4,7 @@ title: 'I bought some markers!'
 date: "2026-03-05"
 categories: [microblog]
 tags: [personal, traditional art] 
-moods: 💪
+moods: 🎨
 bonus: 🖼️
 authors: [Ypsilenna]
 ogimage: /static/image/blank.png
