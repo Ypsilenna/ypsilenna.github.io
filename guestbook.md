@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Guestbook
 ogimage: /static/image/blank.png
 ogdesc: Guestbook of Court of Gloomvale.
 ---
