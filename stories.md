@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Stories
 ogimage: /static/image/blank.png
 ogdesc: A list of stories authored by Ypsilenna.
 ---
