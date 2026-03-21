@@ -7,7 +7,7 @@ categories: [Artworks]
 tags: [ervastiva]
 thumbnail: /static/image/thumbnails/2026-003.jpg
 cover: /static/image/artworks/2026-003.jpg
-stamp: 9916
+stamp: 9915
 ogimage: /static/image/thumbnails/2026-003.jpg
 ogdesc: Another character I never dra (...)
 ---
