@@ -15,5 +15,4 @@ Aside from that, I've been browsing some game deals today. I see that Crimson De
 
 I played the demo of Final Fantasy 15 today instead. This was the first time I ever played a FF game (aside from the two times I tried to get into the MMORPG version and failed). The game is quite fun, but also quite silly. I will certainly get back to it later (yes, I know I said that about every other game on my Steam account, please don't look at my Steam profile, lol).<br><br>
 
-
 I still haven't installed comments on this website, but if you want to respond to this or the other blog posts, just link it to Mastodon and ping me so that I can respond. 
