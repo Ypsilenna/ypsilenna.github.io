@@ -7,7 +7,7 @@ tags: [info, personal, gaming]
 moods: 😙
 authors: [Ypsilenna]
 ogimage: /static/image/blank.png
-ogdesc: I uploaded 12 drawings that I made during my break from uploading art to the internet (...)
+ogdesc: Updates - 1 new artwork, 1 new doodle (...)
 ---
 Updates: 1 new artwork, 1 new doodle. <br>
 
