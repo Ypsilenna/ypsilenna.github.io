@@ -27,6 +27,11 @@ plugins:
 
 feed:
   url: https://ypsilenna.art
+  collections:
+    - artworks
+    - doodles
+    - pixelarts
+    - stories
 
 collections:
   characters:
