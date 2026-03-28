@@ -11,7 +11,7 @@ ogdesc: Updates - 1 new artwork, 1 new doodle (...)
 ---
 Updates: 1 new artwork, 1 new doodle. <br>
 
-I've been to gym several times now. It goes exactly as I thought—my belly muscles are too weak for me to exercise them normally. I will Have to put extra effort into them 😫. There is an upside to going to gym, though. There is a cat colony on my way back, and I get to see plenty of cute cats while going home. I love them.<br><br>
+I've been to gym several times now. It goes exactly as I thought—my belly muscles are too weak for me to exercise them normally. I will have to put extra effort into them 😫. There is an upside to going to gym, though. There is a cat colony on my way back, and I get to see plenty of cute cats while going home. I love them.<br><br>
 
 I was playing some old games in the recent days. I returned to Uru: Ages Beyond Myst. I used to play that game as a kid. It was funny because I wouldn't buy it on my own back then, but my mom saw it on TV, and she was like "OMG, it looks so realistic and cool, can we buy it???", and my dad just bought it for her as a gift. I think she didn't believe she would get this far into the transaction, she realized that she sucked at games and decided not to play. I was like "I will play it so that it won't go to waste." I did, and I loved it. I never finished it, though. 
 I managed to beat the game this time. The ending was not flashy, but I enjoyed it. <br>
