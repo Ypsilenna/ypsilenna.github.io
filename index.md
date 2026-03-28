@@ -11,7 +11,9 @@ ogdesc: Welcome to Court of Gloomvale, the creative space of Ypsilenna! You can 
         <img src="/static/image/sk8-frontpage.png">
         <div id="sector1-right">
             <div id="latestart-title">
-                <h3><a href="/artworks">Latest Artworks</a></h3>
+                <h3><a href="/artworks">Latest Artworks</a>&nbsp;<a href="/feed/artworks.xml"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-rss-fill" viewBox="0 0 16 16">
+  <path d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zm1.5 2.5c5.523 0 10 4.477 10 10a1 1 0 1 1-2 0 8 8 0 0 0-8-8 1 1 0 0 1 0-2m0 4a6 6 0 0 1 6 6 1 1 0 1 1-2 0 4 4 0 0 0-4-4 1 1 0 0 1 0-2m.5 7a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3"/>
+</svg></a></h3>
             </div>
             <br>
             <div style="clear:both"></div>
@@ -30,7 +32,9 @@ ogdesc: Welcome to Court of Gloomvale, the creative space of Ypsilenna! You can 
             </div>
 <br>
             <div id="latestart-title2">
-                <h3><a href="/doodles">Latest Doodles</a></h3>
+                <h3><a href="/doodles">Latest Doodles</a>&nbsp;<a href="/feed/doodles.xml"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-rss-fill" viewBox="0 0 16 16">
+  <path d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zm1.5 2.5c5.523 0 10 4.477 10 10a1 1 0 1 1-2 0 8 8 0 0 0-8-8 1 1 0 0 1 0-2m0 4a6 6 0 0 1 6 6 1 1 0 1 1-2 0 4 4 0 0 0-4-4 1 1 0 0 1 0-2m.5 7a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3"/>
+</svg></a></h3>
             </div>
 <br>
                         <div class="artworks">
@@ -49,7 +53,9 @@ ogdesc: Welcome to Court of Gloomvale, the creative space of Ypsilenna! You can 
 
             <br>
             <div id="latestart-title">
-                <h3><a href="/pixelarts">Latest Pixel Art</a></h3>
+                <h3><a href="/pixelarts">Latest Pixel Art</a>&nbsp;<a href="/feed/pixelarts.xml"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-rss-fill" viewBox="0 0 16 16">
+  <path d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zm1.5 2.5c5.523 0 10 4.477 10 10a1 1 0 1 1-2 0 8 8 0 0 0-8-8 1 1 0 0 1 0-2m0 4a6 6 0 0 1 6 6 1 1 0 1 1-2 0 4 4 0 0 0-4-4 1 1 0 0 1 0-2m.5 7a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3"/>
+</svg></a></h3>
             </div>
 <br>
                         <div class="artworks">

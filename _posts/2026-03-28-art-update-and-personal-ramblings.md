@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Art update and personal ramblings'
-date: "2026-03-28"
+date: "2026-03-28 12:06"
 categories: [microblog]
 tags: [info, personal, gaming] 
 moods: 😙
