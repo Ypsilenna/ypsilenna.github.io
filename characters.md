@@ -1,6 +1,20 @@
 ---
-layout: characters
+layout: default
 title: Original Characters
 ogimage: /static/image/blank.png
 ogdesc: List of original characters designed by Ypsilenna.
 ---
+<h1 class="title">{{ page.title }}</h1>
+
+<div class="character-list">
+    {% assign characters = site.characters | sort: "stamp" %}
+    {% for character in characters %}
+<div class="character-list-item">
+            <a data-src="{{ character.avatar }}" data-caption="{{ character.title }}" href="{{ character.url | prepend: site.baseurl }}">
+                <img src="/static/image/blank.png" data-echo="{{ character.avatar }}" alt="" class="character-active{{ character.active }}">
+                        <div class="character-tag"><br>{{ character.title }}</div></a>
+        </div>
+    {% endfor %}
+</div>
+
+{% include lazyload.html %}

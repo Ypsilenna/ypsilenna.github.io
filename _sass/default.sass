@@ -16,6 +16,14 @@ html
   container-type: scroll-state
   container-name: scroller
 
+hr
+  margin: auto!important
+  margin-top: 15px!important
+  margin-bottom: 15px!important
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0))!important
+  border: 0!important
+  height: 1px!important
+
 a
   text-decoration: none
   color: #1f64c9
@@ -275,25 +283,32 @@ h1, h2, h3
   size: 10px
   padding: 10px 0
 
-.character-activeno
+.character-activefalse
   filter: grayscale(100%)
   opacity: 0.6
 
-.character-activeyes
+.character-activetrue
 
 .character-tag
-  width: 200px
-  background-color: #9298ba
-  padding: 10px
-  display: table-cell
-  vertical-align: middle
+  max-width: 200px
+  max-height: 70px
+  background-color: #272935
+  padding: 0px 20px 20px 20px
+  top: -10px
+  text-overflow: ellipsis
+  text-align: center
+  white-space: nowrap
+  overflow: hidden
+
+.character-list-item a
+  color: white!important
 
 .character-list
   display: grid
   grid-template-columns: auto auto auto auto
   gap: 10px 10px
   margin: auto
-  max-width: 800px
+  max-width: 90%
 
 .character-list-item
   width: 200px
@@ -332,6 +347,18 @@ h1, h2, h3
   border-radius: 5px
   object-fit: cover
   justify-content: center
+
+.artworks-item-character
+  background-color: white
+  border: 2px solid rgb(255, 255, 255)
+  border-radius: 5px
+  border: solid 1px rgb(82, 82, 82)
+  border-radius: 5px
+  max-width: 200px
+
+.artworks-character
+  display: flex
+  gap: 1px 1px
 
 .artworks .column
   display: flex
@@ -384,7 +411,6 @@ h1, h2, h3
 
   > *
     width: 100%
-    padding: 1rem
 
 @media (min-width: 768px)
   .novel-left-sidebar > *
@@ -450,11 +476,13 @@ h1, h2, h3
     text-align: center
   
   .character-list
-    display: grid
-    grid-template-columns: auto auto auto
-    gap: 10px 10px
-    margin: auto
-    max-width: 800px
+      display: grid
+      grid-template-columns: auto auto
+      gap: 10px 10px
+      margin: auto
+      max-width: 800px
+      justify-content: center
+      grid-auto-flow: row
 
   .gallery-link
     font-size: 8px

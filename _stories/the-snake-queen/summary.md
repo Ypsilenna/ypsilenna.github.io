@@ -25,9 +25,7 @@ title: 'The Snake Queen - Summary'
 <li><a href="/stories/the-snake-queen/chapter-08"><b>Chapter 8 - Son of the Wind and the Tale of the Night Sky</b></a> <i>In which Raajimera meets the man in the shadows.</i></li>
 <li><a href="/stories/the-snake-queen/chapter-09"><b>Chapter 9 - In Dust and Ashes</b></a> <i>In which Raajimera finally finds her purpose.</i></li>
  <li>(...)</li>
-</ul>
-<hr>
+</ul><hr>
 <p style="text-align: justify"><small>Disclaimer: No generative AI was used for any of my projects. The closest I got to the computer telling me what to do was when I used a grammar checking plugin, and even that was not allowed to alter my text too much. I came up with both the stories and the characters on my own. 
-They are deeply personal, and I don't permit anyone to use them in AI training. </small></p>
-<hr>
+They are deeply personal, and I don't permit anyone to use them in AI training. </small></p><hr>
 </div></div>
