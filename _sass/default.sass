@@ -334,47 +334,6 @@ h1, h2, h3
   width: 200px
   display: inline
 
-.character-side-profile
-  color: black!important
-  width: 250px
-  float: right
-  clear: right
-  background: #DBECFE
-
-.character-side-profile-title
-  padding: 15px
-
-.character-side-profile-data
-  text-align: justify
-  padding: 15px
-
-#character-sector1
-  width: 100%
-
-.character-sector1-desc
-  background: #dbecfe00!important
-  color: black!important
-  text-align: justify!important
-  float: left
-
-#character-sector1-left
-  --min-size:20rem
-  display: grid
-  grid-template-columns: 2fr 1fr
-  grid-gap: 1rem
-
-  > div
-    text-align: center
-    background: #DBECFE
-    color: #ffffff
-
-#character-sector1-right
-  grid-template-columns: repeat(auto-fill, minmax(11.5rem, 1fr))
-  grid-gap: 1rem
-
-  img
-    border-width: 2px
-
 .gallery-thumbnail
   width: 100px
 
@@ -482,6 +441,26 @@ h1, h2, h3
     &:nth-child(2)
       width: calc(100% / 3)
       order: -1
+    .character-tag
+      max-height: 70px
+      background-color: #272935
+      padding: 0px 20px 20px 20px
+      top: -10px
+      text-overflow: ellipsis
+      text-align: center
+      white-space: nowrap
+      overflow: hidden
+    .character-list-item a
+      color: white!important
+    .character-list
+      display: grid
+      grid-template-columns: auto
+      gap: 10px 10px
+      margin: auto
+      max-width: 90%
+    .character-list-item
+      display: inline
+
 
 .infinite-spinner
   display: block
