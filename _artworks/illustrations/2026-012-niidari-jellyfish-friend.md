@@ -4,7 +4,7 @@ title: '[OC] Niidari - Jellyfish Friend??'
 date: 2026-03-21
 draft: false
 categories: [Artworks]
-tags: [niidari]
+tags: [Niidari]
 thumbnail: /static/image/thumbnails/2026-012.jpg
 cover: /static/image/artworks/2026-012.jpg
 stamp: 9906

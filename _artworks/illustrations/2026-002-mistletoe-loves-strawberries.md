@@ -4,7 +4,7 @@ title: '[OC] Mistletoe Loves Strawberries'
 date: 2026-03-21
 draft: false
 categories: [Artworks]
-tags: [mistletoe]
+tags: [Mistletoe]
 thumbnail: /static/image/thumbnails/2026-002.jpg
 cover: /static/image/artworks/2026-002.jpg
 stamp: 9916

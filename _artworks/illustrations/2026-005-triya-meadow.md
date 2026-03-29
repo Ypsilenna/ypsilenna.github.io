@@ -4,7 +4,7 @@ title: '[OC] Triya - Meadow'
 date: 2026-03-21
 draft: false
 categories: [Artworks]
-tags: [triya]
+tags: [Triya]
 thumbnail: /static/image/thumbnails/2026-005.jpg
 cover: /static/image/artworks/2026-005.jpg
 stamp: 9913

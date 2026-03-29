@@ -5,6 +5,7 @@ public-title: 'Chapter 1 - Severing the ties'
 date: "2026-03-17"
 categories: [stories]
 tags: [The Snake Queen] 
+receipt: In which the priestess makes some rather questionable choices and ends up with a new name.
 words: "2199"
 rtime: "11 minutes"
 ---
@@ -149,9 +150,3 @@ As night fell, Raa disappeared from the sky, leaving behind nothing but stardust
 The priestess was terrified. The only thing she could remember was the vanishing snake goddess taking something from her, but not what was taken and why.
 
 She rubbed her eyes and noticed a wilted moonflower. When she touched one of the petals, the entire flower fell apart, and the dust was carried by the wind. The only thing she knew was that the remains of the plant showed her the way, as some faint call urged her to follow…
-
- <p class="metadata"><b><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-left-fill" viewBox="0 0 16 16">
-  <path d="m3.86 8.753 5.482 4.796c.646.566 1.658.106 1.658-.753V3.204a1 1 0 0 0-1.659-.753l-5.48 4.796a1 1 0 0 0 0 1.506z"/>
-</svg> Previous ● <a href="/stories/the-snake-queen/summary">Chapter list</a> ● <a href="/stories/the-snake-queen/chapter-02">Next one <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
-  <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
-</svg></a>

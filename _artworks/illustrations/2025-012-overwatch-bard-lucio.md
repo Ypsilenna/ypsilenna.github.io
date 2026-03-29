@@ -4,7 +4,7 @@ title: '[Overwatch] - Bard Lucio'
 date: 2025-12-03
 draft: false
 categories: [Artworks]
-tags: [lucio]
+tags: [Lucio]
 thumbnail: /static/image/thumbnails/2025-012.jpg
 cover: /static/image/artworks/2025-012.jpg
 stamp: 9922

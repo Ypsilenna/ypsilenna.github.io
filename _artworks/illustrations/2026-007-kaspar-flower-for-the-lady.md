@@ -4,7 +4,7 @@ title: '[OC] Kaspar - Flower for the Lady'
 date: 2026-03-21
 draft: false
 categories: [Artworks]
-tags: [kaspar]
+tags: [Kaspar]
 thumbnail: /static/image/thumbnails/2026-007.jpg
 cover: /static/image/artworks/2026-007.jpg
 stamp: 9911

@@ -4,7 +4,7 @@ title: '[OC] Riamidea - High School Necromancer'
 date: 2026-03-21
 draft: false
 categories: [Artworks]
-tags: [riamidea]
+tags: [Riamidea]
 thumbnail: /static/image/thumbnails/2026-006.jpg
 cover: /static/image/artworks/2026-006.jpg
 stamp: 9912

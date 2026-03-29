@@ -7,7 +7,7 @@ ogdesc: List of original characters designed by Ypsilenna.
 <h1 class="title">{{ page.title }}</h1>
 
 <div class="character-list">
-    {% assign characters = site.characters | sort: "stamp" %}
+    {% assign characters = site.characters | sort: "title" %}
     {% for character in characters %}
 <div class="character-list-item">
             <a data-src="{{ character.avatar }}" data-caption="{{ character.title }}" href="{{ character.url | prepend: site.baseurl }}">

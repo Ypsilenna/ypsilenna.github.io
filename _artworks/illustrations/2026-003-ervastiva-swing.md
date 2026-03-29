@@ -4,7 +4,7 @@ title: '[OC] Ervastiva - Swing'
 date: 2026-03-21
 draft: false
 categories: [Artworks]
-tags: [ervastiva]
+tags: [Ervastiva]
 thumbnail: /static/image/thumbnails/2026-003.jpg
 cover: /static/image/artworks/2026-003.jpg
 stamp: 9915

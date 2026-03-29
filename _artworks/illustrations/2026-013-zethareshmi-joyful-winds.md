@@ -4,7 +4,7 @@ title: '[OC] Zethareshmi - Joyful Winds'
 date: 2026-03-28
 draft: false
 categories: [Artworks]
-tags: [zethareshmi]
+tags: [Zethareshmi]
 thumbnail: /static/image/thumbnails/2026-013.jpg
 cover: /static/image/artworks/2026-013.jpg
 stamp: 9905

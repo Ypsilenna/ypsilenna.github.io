@@ -4,7 +4,7 @@ title: '[OC] Thornasolei - Rainbow'
 date: 2026-03-21
 draft: false
 categories: [Artworks]
-tags: [thornasolei]
+tags: [Thornasolei]
 thumbnail: /static/image/thumbnails/2026-011.jpg
 cover: /static/image/artworks/2026-011.jpg
 stamp: 9907

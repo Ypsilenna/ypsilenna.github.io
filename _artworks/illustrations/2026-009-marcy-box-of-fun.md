@@ -4,7 +4,7 @@ title: '[OC] Marcy - Box of Fun'
 date: 2026-03-21
 draft: false
 categories: [Artworks]
-tags: [marcy]
+tags: [Marcy]
 thumbnail: /static/image/thumbnails/2026-009.jpg
 cover: /static/image/artworks/2026-009.jpg
 stamp: 9909

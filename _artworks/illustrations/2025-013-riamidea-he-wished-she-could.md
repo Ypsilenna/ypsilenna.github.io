@@ -4,7 +4,7 @@ title: '[OC] Riamidea - He wished she could see herself through his eyes'
 date: 2025-12-03
 draft: false
 categories: [Artworks]
-tags: [riamidea]
+tags: [Riamidea]
 thumbnail: /static/image/thumbnails/2025-013.jpg
 cover: /static/image/artworks/2025-013.jpg
 stamp: 9921

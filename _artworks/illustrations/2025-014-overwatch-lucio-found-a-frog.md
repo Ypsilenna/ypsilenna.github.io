@@ -4,7 +4,7 @@ title: '[Overwatch] - Lucio found a frog on a road trip'
 date: 2025-12-03
 draft: false
 categories: [Artworks]
-tags: [lucio]
+tags: [Lucio]
 thumbnail: /static/image/thumbnails/2025-014.jpg
 cover: /static/image/artworks/2025-014.jpg
 stamp: 9920

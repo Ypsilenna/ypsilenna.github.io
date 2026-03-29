@@ -4,7 +4,7 @@ title: '[OC] Lwiviear - Two left... ugh... whatever.'
 date: 2026-03-21
 draft: false
 categories: [Artworks]
-tags: [lwiviear]
+tags: [Lwiviear]
 thumbnail: /static/image/thumbnails/2026-008.jpg
 cover: /static/image/artworks/2026-008.jpg
 stamp: 9910

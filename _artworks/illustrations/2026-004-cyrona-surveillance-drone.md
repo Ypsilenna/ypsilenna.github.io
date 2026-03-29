@@ -4,7 +4,7 @@ title: '[OC] Cyrona - Surveillance Drone'
 date: 2026-03-21
 draft: false
 categories: [Artworks]
-tags: [cyrona]
+tags: [Cyrona]
 thumbnail: /static/image/thumbnails/2026-004.jpg
 cover: /static/image/artworks/2026-004.jpg
 stamp: 9914

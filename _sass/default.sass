@@ -252,6 +252,26 @@ h1, h2, h3
 #latestart-title2 a
   color: white
 
+.unsighted
+  border: 0
+  clip: rect(1px, 1px, 1px, 1px)
+  clip-path: inset(50%)
+  height: 1px
+  margin: -1px
+  overflow: hidden
+  padding: 0
+  position: absolute
+  width: 1px
+  word-wrap: normal !important
+
+.story-nav
+    display: flex
+    justify-content: space-between
+    flex-wrap: wrap
+    margin-bottom: 30px
+    font-weight: bolder
+
+
 .blogentry
   width: 95%
   padding: 10px
@@ -313,6 +333,47 @@ h1, h2, h3
 .character-list-item
   width: 200px
   display: inline
+
+.character-side-profile
+  color: black!important
+  width: 250px
+  float: right
+  clear: right
+  background: #DBECFE
+
+.character-side-profile-title
+  padding: 15px
+
+.character-side-profile-data
+  text-align: justify
+  padding: 15px
+
+#character-sector1
+  width: 100%
+
+.character-sector1-desc
+  background: #dbecfe00!important
+  color: black!important
+  text-align: justify!important
+  float: left
+
+#character-sector1-left
+  --min-size:20rem
+  display: grid
+  grid-template-columns: 2fr 1fr
+  grid-gap: 1rem
+
+  > div
+    text-align: center
+    background: #DBECFE
+    color: #ffffff
+
+#character-sector1-right
+  grid-template-columns: repeat(auto-fill, minmax(11.5rem, 1fr))
+  grid-gap: 1rem
+
+  img
+    border-width: 2px
 
 .gallery-thumbnail
   width: 100px
@@ -507,4 +568,99 @@ h1, h2, h3
     display: block
     text-align: center
   
+/* ── Infobox ── */
+.infobox
+  float: right
+  clear: right
+  margin: 0 0 1rem 1.5rem
+  width: 280px
+  border: 1px solid var(--border)
+  background: var(--surface)
+  font-family: var(--font-ui)
+  font-size: 0.8125rem
+  line-height: 1.5
+  text-align: left
+  background: #DBECFE
+
+.infobox-header
+  background: var(--infobox-header-bg)
+  color: var(--infobox-header-text)
+  text-align: center
+  padding: 0.45rem 0.6rem
+  font-size: 0.875rem
+  font-weight: 600
+  font-family: var(--font-ui)
+  border-bottom: 1px solid var(--border)
+
+.infobox-image
+  display: block
+  width: 100%
+  border-bottom: 1px solid var(--border-light)
+
+.infobox-image img
+  display: block
+  width: 100%
+  height: auto
+  max-height: 280px
+  object-fit: cover
+
+.infobox-image-caption
+  font-size: 0.75rem
+  color: var(--text-muted)
+  text-align: center
+  padding: 0.3rem 0.5rem
+  border-bottom: 1px solid var(--border-light)
+  font-style: italic
+
+.infobox table 
+  width: 100%
+  border-collapse: collapse
+
+.infobox tr:nth-child(even) td,
+.infobox tr:nth-child(even) th
+  background: var(--infobox-alt-row)
+  
+.infobox td, .infobox th
+  padding: 0.3rem 0.5rem
+  vertical-align: top
+  border-top: 1px solid var(--border-light)
+
+.infobox th
+  font-weight: 600
+  white-space: nowrap
+  width: 40%
+  
+.infobox td 
+  color: var(--text)
+
+/* ── Collapsible sections ── */
+  details
+    margin-bottom: 1.25rem
+    
+  details summary
+    cursor: pointer
+    list-style: none
+    display: flex
+    align-items: center
+    gap: 0.4rem
+    font-family: var(--font-serif)
+    font-size: 1.2rem
+    font-weight: normal
+    border-bottom: 1px solid var(--divider)
+    padding-bottom: 0.2rem
+    margin-bottom: 0.75rem
+    user-select: none
+    color: var(--section-title)
+  
+  details summary::-webkit-details-marker 
+    display: none;
+  details summary::before
+    content: '▸'
+    font-size: 0.7rem
+    transition: transform 0.2s ease
+    color: var(--text-muted)
+    flex-shrink: 0
+
+  details[open] summary::before
+      transform: rotate(90deg)
 

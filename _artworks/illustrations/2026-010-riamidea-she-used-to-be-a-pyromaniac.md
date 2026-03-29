@@ -4,7 +4,7 @@ title: '[OC] Riamidea - She Used to be a Pyromaniac'
 date: 2026-03-21
 draft: false
 categories: [Artworks]
-tags: [riamidea]
+tags: [Riamidea]
 thumbnail: /static/image/thumbnails/2026-010.jpg
 cover: /static/image/artworks/2026-010.jpg
 stamp: 9908
