@@ -309,8 +309,8 @@ h1, h2, h3
 
 .character-activetrue
 
+
 .character-tag
-  max-width: 200px
   max-height: 70px
   background-color: #272935
   padding: 0px 20px 20px 20px
@@ -319,20 +319,27 @@ h1, h2, h3
   text-align: center
   white-space: nowrap
   overflow: hidden
+  @media (min-width: 499px)
+    width: 200px
 
 .character-list-item a
   color: white!important
 
 .character-list
   display: grid
-  grid-template-columns: auto auto auto auto
+  @media (max-width: 499px)   
+    grid-template-columns: auto 
+  @media (min-width: 500px)
+    grid-template-columns: auto auto auto auto
+    max-width: 90%
   gap: 10px 10px
   margin: auto
-  max-width: 90%
+  
 
 .character-list-item
-  width: 200px
   display: inline
+  @media (min-width: 499px)
+    width: 200px
 
 .gallery-thumbnail
   width: 100px
@@ -441,26 +448,6 @@ h1, h2, h3
     &:nth-child(2)
       width: calc(100% / 3)
       order: -1
-    .character-tag
-      max-height: 70px
-      background-color: #272935
-      padding: 0px 20px 20px 20px
-      top: -10px
-      text-overflow: ellipsis
-      text-align: center
-      white-space: nowrap
-      overflow: hidden
-    .character-list-item a
-      color: white!important
-    .character-list
-      display: grid
-      grid-template-columns: auto
-      gap: 10px 10px
-      margin: auto
-      max-width: 90%
-    .character-list-item
-      display: inline
-
 
 .infinite-spinner
   display: block
@@ -514,15 +501,6 @@ h1, h2, h3
     z-index: 999
     position: relative
     text-align: center
-  
-  .character-list
-      display: grid
-      grid-template-columns: auto auto
-      gap: 10px 10px
-      margin: auto
-      max-width: 800px
-      justify-content: center
-      grid-auto-flow: row
 
   .gallery-link
     font-size: 8px
