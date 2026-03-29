@@ -6,6 +6,7 @@ categories: [oc]
 tags: [] 
 series: When You&#39;re Evil
 avatar: /static/image/thumbnails/characters/vermilicus.jpg
-stamp: 9999
+active: no
+Series: When Youre Evil
 ---
-test
+<h3>Profile incomplete</h3>

@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Character Name — Character Articles</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Linux+Libertine+Display&family=Linux+Libertine:ital,wght@0,400;0,600;1,400&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg: #f8f9fa;
+      --surface: #ffffff;
+      --border: #a2a9b1;
+      --border-light: #d8dde6;
+      --text: #202122;
+      --text-muted: #54595d;
+      --link: #3366cc;
+      --link-hover: #6e8cc7;
+      --infobox-header-bg: #cfd8dc;
+      --infobox-header-text: #1a1a1a;
+      --infobox-alt-row: #f8f9fa;
+      --section-title: #202122;
+      --divider: #a2a9b1;
+      --font-serif: 'Linux Libertine Display', 'Linux Libertine', Georgia, serif;
+      --font-body: 'Linux Libertine', Georgia, serif;
+      --font-ui: 'Source Sans 3', system-ui, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font-body);
+      font-size: 0.9375rem;
+      line-height: 1.6;
+    }
+
+    /* ── Page shell ── */
+    .page-wrapper {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 1.5rem 1.25rem 3rem;
+    }
+
+    /* ── Page title ── */
+    .page-title {
+      font-family: var(--font-serif);
+      font-size: 2rem;
+      font-weight: normal;
+      border-bottom: 1px solid var(--divider);
+      padding-bottom: 0.25rem;
+      margin-bottom: 0.25rem;
+    }
+    .page-subtitle {
+      font-family: var(--font-ui);
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-bottom: 1rem;
+    }
+
+    /* ── Article body ── */
+    .article-body {
+      display: flow-root; /* clearfix for floated infobox */
+    }
+
+    /* ── Infobox ── */
+    .infobox {
+      float: right;
+      clear: right;
+      margin: 0 0 1rem 1.5rem;
+      width: 280px;
+      border: 1px solid var(--border);
+      background: var(--surface);
+      font-family: var(--font-ui);
+      font-size: 0.8125rem;
+      line-height: 1.5;
+    }
+
+    .infobox-header {
+      background: var(--infobox-header-bg);
+      color: var(--infobox-header-text);
+      text-align: center;
+      padding: 0.45rem 0.6rem;
+      font-size: 0.875rem;
+      font-weight: 600;
+      font-family: var(--font-ui);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .infobox-image {
+      display: block;
+      width: 100%;
+      border-bottom: 1px solid var(--border-light);
+    }
+    .infobox-image img {
+      display: block;
+      width: 100%;
+      height: auto;
+      max-height: 280px;
+      object-fit: cover;
+    }
+    .infobox-image-caption {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      text-align: center;
+      padding: 0.3rem 0.5rem;
+      border-bottom: 1px solid var(--border-light);
+      font-style: italic;
+    }
+
+    .infobox table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    .infobox tr:nth-child(even) td,
+    .infobox tr:nth-child(even) th {
+      background: var(--infobox-alt-row);
+    }
+    .infobox td, .infobox th {
+      padding: 0.3rem 0.5rem;
+      vertical-align: top;
+      border-top: 1px solid var(--border-light);
+    }
+    .infobox th {
+      font-weight: 600;
+      white-space: nowrap;
+      width: 40%;
+    }
+    .infobox td {
+      color: var(--text);
+    }
+
+    /* ── Collapsible sections ── */
+    details {
+      margin-bottom: 1.25rem;
+    }
+    details summary {
+      cursor: pointer;
+      list-style: none;
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      font-family: var(--font-serif);
+      font-size: 1.2rem;
+      font-weight: normal;
+      border-bottom: 1px solid var(--divider);
+      padding-bottom: 0.2rem;
+      margin-bottom: 0.75rem;
+      user-select: none;
+      color: var(--section-title);
+    }
+    details summary::-webkit-details-marker { display: none; }
+    details summary::before {
+      content: '▸';
+      font-size: 0.7rem;
+      transition: transform 0.2s ease;
+      color: var(--text-muted);
+      flex-shrink: 0;
+    }
+    details[open] summary::before {
+      transform: rotate(90deg);
+    }
+
+    /* ── Body text ── */
+    .article-lead {
+      margin-bottom: 1.25rem;
+    }
+    p {
+      margin-bottom: 0.85rem;
+    }
+    p:last-child { margin-bottom: 0; }
+
+    a { color: var(--link); text-decoration: none; }
+    a:hover { text-decoration: underline; color: var(--link-hover); }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      .infobox {
+        float: none;
+        width: 100%;
+        margin: 0 0 1.25rem 0;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="page-wrapper">
+
+    <h1 class="page-title">Character Name</h1>
+    <p class="page-subtitle">From <em>Your Story Title</em> · Fictional character</p>
+
+    <div class="article-body">
+
+      <!-- ══ INFOBOX ══ -->
+      <aside class="infobox">
+        <div class="infobox-header">Character Name</div>
+
+        <div class="infobox-image">
+          <!-- Replace src with your actual image path, e.g. /assets/img/character.png -->
+          <img src="https://placehold.co/280x280/e0e0e0/888?text=Character+Art" alt="Character Name" />
+        </div>
+        <div class="infobox-image-caption">Character Name as depicted in <em>Your Story Title</em></div>
+
+        <table>
+          <tr>
+            <th>Full name</th>
+            <td>Character Full Name</td>
+          </tr>
+          <tr>
+            <th>Also known as</th>
+            <td>Nickname, Epithet</td>
+          </tr>
+          <tr>
+            <th>Species</th>
+            <td>Human / Elf / etc.</td>
+          </tr>
+          <tr>
+            <th>Age</th>
+            <td>?? (at story start)</td>
+          </tr>
+          <tr>
+            <th>Gender</th>
+            <td>—</td>
+          </tr>
+          <tr>
+            <th>Occupation</th>
+            <td>Priestess, Wanderer…</td>
+          </tr>
+          <tr>
+            <th>Affiliation</th>
+            <td>Order of Something</td>
+          </tr>
+          <tr>
+            <th>First appears</th>
+            <td>Chapter 1</td>
+          </tr>
+        </table>
+      </aside>
+      <!-- ══ END INFOBOX ══ -->
+
+      <!-- Lead paragraph (always visible, outside any collapsible) -->
+      <div class="article-lead">
+        <p>
+          <strong>Character Name</strong> is a fictional character in <em>Your Story Title</em>.
+          Write a brief introductory paragraph here — who they are, what role they play,
+          and why they matter to the story. Keep it spoiler-light if you like.
+        </p>
+        <p>
+          A second lead paragraph can go here for additional context, such as the character's
+          origin or the themes they represent.
+        </p>
+      </div>
+
+      <!-- ══ COLLAPSIBLE SECTIONS ══ -->
+
+      <details open>
+        <summary>Background</summary>
+        <p>
+          Write the character's backstory here. Where did they come from? What shaped them
+          before the story begins? You can include their upbringing, formative events,
+          and any important relationships.
+        </p>
+        <p>
+          Continue as needed. Multiple paragraphs work fine inside a section.
+        </p>
+      </details>
+
+      <details open>
+        <summary>Personality</summary>
+        <p>
+          Describe how the character thinks, feels, and behaves. What are their values,
+          contradictions, fears, and desires? How do others perceive them versus how
+          they see themselves?
+        </p>
+      </details>
+
+      <details>
+        <summary>Appearance</summary>
+        <p>
+          Physical description goes here — height, build, notable features, typical
+          clothing or distinguishing marks.
+        </p>
+      </details>
+
+      <details>
+        <summary>Abilities &amp; Skills</summary>
+        <p>
+          What can they do? Magic, combat, social skills, profession-related expertise —
+          whatever is relevant to your worldbuilding.
+        </p>
+      </details>
+
+      <details>
+        <summary>Relationships</summary>
+        <p>
+          Who matters to this character, and why? You can link to other character pages
+          here once you have them: <a href="#">Another Character</a>.
+        </p>
+      </details>
+
+      <details>
+        <summary>Role in the story</summary>
+        <p>
+          How does the character function in the plot? What arc do they go through?
+          Mark spoiler sections however you prefer.
+        </p>
+      </details>
+
+    </div><!-- .article-body -->
+  </div><!-- .page-wrapper -->
+</body>
+</html>
