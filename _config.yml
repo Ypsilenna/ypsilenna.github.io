@@ -28,9 +28,8 @@ feed:
   url: https://ypsilenna.art
   collections:
     - artworks
-    - doodles
-    - pixelarts
     - stories
+    - changelogs
 
 collections:
   characters:
@@ -39,16 +38,10 @@ collections:
   artworks:
     output: true
     sort_by: title
-  doodles:
-    output: true
-    sort_by: title
-  pixelarts:
-    output: true
-    sort_by: title
   stories:
     output: true
     sort by: title
-  chapters:
+  changelogs:
     output: true
     sort by: title
 

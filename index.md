@@ -7,8 +7,7 @@ ogdesc: Welcome to Court of Gloomvale, the creative space of Ypsilenna! You can 
 <div id="sector1">
 <a href="/guestbook"><h3 class="guestbook">Check out my guestbook!</h3></a>
     
-<div id="sector1-left">
-    <img src="/static/image/sk8-frontpage.png">
+<div id="sector1-left"><div id="sector1-image"><img src="/static/image/sk8-frontpage.png"></div>
         <div id="sector1-right">
             <div id="latestart-title">
             <h3><a href="/illustrations">Latest Artworks</a></h3></div>
@@ -74,33 +73,50 @@ ogdesc: Welcome to Court of Gloomvale, the creative space of Ypsilenna! You can 
         <h3>About me</h3>
     </div>
     <div id="latestblog2">
-           <h3>Links</h3>
-        <center><a href="https://ko-fi.com/ypsilenna">Ko-fi</a> ● <a href="https://bsky.app/profile/ypsilenna.art">Bluesky</a> ● <a rel="me" href="https://mastodon.green/@Ypsilenna">Mastodon</a>  ● <a href="https://cara.app/ypsilenna">Cara</a> ● <a href="https://www.instagram.com/ypsilenna">Instagram</a></center>
-        <hr>
-        I'm a person who draws and writes, this is my personal website as you can see. In '94 I was 0 years old because I was born. I am originally from Poland but I currently live in Spain. I'm allergic to the modern web, so I am most likely to be found on some obscure small sites and Mastodon. If you need to contact me, you can do so via Matrix: <i>@ypsilenna:matrix.org</i><br><br>
-        <b>Commission status</b>: Closed<br>
-        <b>Disclaimer</b>: I don't really use Discord anymore. If someone reaches out to you claiming they are me, it probably isn't me. Always reference this website before interacting with them.<br><hr>
-    <h3>Interests</h3>
-<p style="background-color: #dbecfe; padding: 10px; border-radius: 10px; color: black; border: 1px solid #87a0c8; margin-top: 2px; margin-bottom: 2px; text-align: left;">🎨 Hobbies/Interests</p>
-<p>Art, Writing, Video Games, Language Learning, Designing</p>
-<p style="background-color: #dbecfe; padding: 10px; border-radius: 10px; color: black; border: 1px solid #87a0c8; margin-top: 2px; margin-bottom: 2px;">🎥 Movies/TV Series</p>
-<p>I think my favorite movie would be The Road to El Dorado? And my favorite TV series would be What We Do In The Shadows (the duality of man).</p>
-<p style="background-color: #dbecfe; padding: 10px; border-radius: 10px; color: black; border: 1px solid #87a0c8; margin-top: 2px; margin-bottom: 2px;">📚 Books/Comics</p>
-<p>Howl's Moving Castle. I was about to put it in the movie section, but the book is better.</p>
-<p style="background-color: #dbecfe; padding: 10px; border-radius: 10px; color: black; border: 1px solid #87a0c8; margin-top: 2px; margin-bottom: 2px;">🎼 Music/Bands</p>
-<p>It would be faster to say what I don't like because I listen to most genres depending on the mood. Pitbull gets honorable mention, though, because his music is so silly that it got me out of a pretty long depressive state. Pitbull saves lives.</p>
-<p style="background-color: #dbecfe; padding: 10px; border-radius: 10px; color: black; border: 1px solid #87a0c8; margin-top: 2px; margin-bottom: 2px;">👾 Games</p>
-<p>I'll be honest with you, the number of games I own makes me feel kind of ashamed. I mostly enjoy playing various RPGs and cozy games, though. This is sort of the same as my answer about music.&nbsp;</p><hr>
-        <div id="sector1">
-            <div id="sector1-left"></div>
-            <div id="sector1-right">
-    <h1>What is Gloomvale?</h1>
-        Gloomvale is a dark area between the physical realm and the realm of the fae. The Court of Gloomvale is a group of misfits who judge whether travelers are worthy to pass through or not. One thing is for sure: nobody ever stays in Gloomvale for long.<br>
+    
+    <div id="sector3">
+    <div id="sector3-left">
+    <div class="sector3-justify"><p>I'm a person who draws and writes, this is my personal website as you can see. In '94 I was 0 years old because I was born. I am originally from Poland but I currently live in Spain. I'm allergic to the modern web, so I am most likely to be found on some obscure small sites and Mastodon. <br>If you need to contact me, you can do so via Matrix: <i>@ypsilenna:matrix.org</i><br><br>
+    <b>Commissions</b>: 🔴 Closed<br>
+    <b>Trades</b>: 🟢 Open<br>
+    <b>Requests</b>: 🔴 Closed<br>
+    <b>Collabs:</b> 🟡 Ask<br><br>
+    <b>Disclaimer</b>: I don't really use Discord anymore. If someone reaches out to you claiming they are me, it probably isn't me. Always reference this website before interacting with them.</p><br></div>
+
+<div id="sector3-image"><img src="/static/image/author-frontpage.png"></div></div>
 <br>
-            </div>
+            </div>       <h3>My interests</h3>
+<div class="interests-bar">🎨 Hobbies/Interests<hr>
+<p>Art (both making and viewing), writing, video games, learning languages, designing</p></div>
+<div class="interests-bar">🎥 Movies/TV Series<hr>
+<p>I think my favorite movie would be The Road to El Dorado? And my favorite TV series would be What We Do In The Shadows (the duality of man).</p></div>
+<div class="interests-bar">📚 Books/Comics<hr>
+<p>Howl's Moving Castle. I was about to put it in the movie section, but the book is better.</p></div>
+<div class="interests-bar">🎼 Music/Bands <hr>
+<p>It would be faster to say what I don't like because I listen to most genres, depending on the mood. Pitbull gets honorable mention, though, because his music is so silly that it got me out of a pretty long depressive state. Pitbull saves lives.</p></div>
+<div class="interests-bar">👾 Games<hr>
+<p>I'll be honest with you, the number of games I own makes me feel kind of ashamed. I mostly enjoy playing various RPGs and cozy games, though. This is sort of the same as my answer about music. DON'T LOOK AT MY STEAM PROFILE! <br>(Just kidding. My Steam profile is public, and the name there is the same as I use here). &nbsp;</p></div>
+ <div class="sector3-footer"><h1>What is Gloomvale?</h1>
+        Gloomvale is a dark area between the physical realm and the realm of the fae. The Court of Gloomvale is a group of misfits who judge whether travelers are worthy to pass through or not. One thing is for sure: nobody ever stays in Gloomvale for long.<br>
+        <p style="text-align: center">🌺🌺🌺</p></div></div>
         </div>
-    </div><br>
-  
+<br>
+<div id="sector2">
+<h3 class="guestbook">Links: <a href="https://ko-fi.com/ypsilenna">Ko-fi</a> ● <a href="https://bsky.app/profile/ypsilenna.art">Bluesky</a> ● <a rel="me" href="https://mastodon.green/@Ypsilenna">Mastodon</a>  ● <a href="https://cara.app/ypsilenna">Cara</a> ● <a href="https://www.instagram.com/ypsilenna">Instagram</a></h3>
+    
+<div id="sector2-left"><div id="sector2-image"><img src="/static/image/wyvern-frontpage.png"></div>
+        <div id="sector2-right"><br><br>
+<div id="latestart-title2">
+    <h3><a href="/stories">Latest Chapter Updates</a></h3></div>
+<br><br>
+<img src="/static/image/s-kme-separator.png"><br><br>
+<ul>
+   {% assign stories = site.stories | sort: "date" | where_exp: "item", "item.categories contains 'stories'" %}
+   {% for story in stories limit: 5 %}
+ <li><b><a href="{{ story.url }}">{{ story.title }}</a></b></li>
+    {% endfor %}
+</ul>
+<br><img src="/static/image/s-kme-separator.png">
 </div>
 
 {% include lazyload.html %}
