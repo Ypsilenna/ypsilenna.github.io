@@ -17,23 +17,23 @@ Duskvale was originally known under a different name; its inhabitants, however, 
 
 The calm and peaceful village life was disrupted by multiple shouts piercing the veil of silence. 
 
-“We have an intruder! Quickly, fetch me a pitchfork!
+"We have an intruder! Quickly, fetch me a pitchfork!
 
-“No, a hatchet! Get a hatchet! This must be **the** spy,” a crowd of men shouted over each other. 
+"No, a hatchet! Get a hatchet! This must be **the** spy," a crowd of men shouted over each other. 
 
 A group of women carrying water jugs saw them from a distance. Aya, the youngest one, squeezed herself through the crowd and tried to take a closer look. 
 
-“Excuse me! Let me pass!” she squeaked as she tried to disperse the agitated group of men. Finally, she took a glance at the intruder and gasped.
+"Excuse me! Let me pass!" she squeaked as she tried to disperse the agitated group of men. Finally, she took a glance at the intruder and gasped.
 
 An exhausted woman was lying on the ground, supporting herself only with her arms. Dirty and torn clothes hung from her body pathetically, making it seem like she had walked for days. 
 
-Aya approached her, trying to get a glimpse of her face. Someone grabbed the young village lady, trying to pull her away, when she noticed something about the stranger. “No, wait!” the girl shouted as she struggled against the person who held her. “Look at her face! Don't you recognize that symbol?”
+Aya approached her, trying to get a glimpse of her face. Someone grabbed the young village lady, trying to pull her away, when she noticed something about the stranger. "No, wait!" the girl shouted as she struggled against the person who held her. "Look at her face! Don't you recognize that symbol?"
 
 Everyone fell silent. The stranger looked up at them, revealing more of her face. The prominent symbol visible on her forehead suddenly drew their attention. A droplet between two dots—they knew what it meant. 
 
 Aya moved closer to the unknown woman, offering her a hand. The stranger accepted her help yet remained silent.
 
-“We should probably notify the chieftain,” one of the men exclaimed. 
+"We should probably notify the chieftain," one of the men exclaimed. 
 
 Aya nodded and led the mysterious woman into the village. 
 
@@ -43,17 +43,17 @@ The group passed the village well that was in the middle of the settlement; they
 
 She noticed a branch of herbs hanging by the doorframe as the locals pushed her into the building. The smell inside was like a mixture of dust and dried leather. Her tired eyes could barely tell things apart, but she was pretty sure she saw a silhouette of a man standing in the shadows.
 
-Without wasting time, one of the village men said, “Sir, we found a marked person at the entrance to the village. You may want to take a look at her.”
+Without wasting time, one of the village men said, "Sir, we found a marked person at the entrance to the village. You may want to take a look at her."
 
 He shoved the woman to the middle of the room. Her legs were shaking, and she barely kept her balance. 
 
-The man in the shadows approached her. It was one of them, but significantly taller and rounder. He looked at her and nodded, grabbing his chin. Or at least what she supposed was his chin. “So, who are you?”
+The man in the shadows approached her. It was one of them, but significantly taller and rounder. He looked at her and nodded, grabbing his chin. Or at least what she supposed was his chin. "So, who are you?"
 
 The mysterious woman looked at him with a slightly confused look on her face. She wanted to respond, but all she could remember was the cursed name Raa gave her, _Raajimera_. At that moment, she was overwhelmed by the feeling that she didn't want to say it. _If they hear me speak, they will pressure me into disclosing my name_, she thought to herself. _Then I must not._ 
 
-One of the village people tried to break the silence. “Chieftain, she doesn't seem to speak our language,” he said. “She was alone when we found her.”
+One of the village people tried to break the silence. "Chieftain, she doesn't seem to speak our language," he said. "She was alone when we found her."
 
-The leader smiled at her, giving her the impression that he had good intentions. “Well, she does have the mark,” he muttered as he ran his chubby hand through his short hair. “Our prayers might have been answered, and we have the Snake Queen in front of us. I want you to treat her as such, and with time, maybe she will be able to communicate with us.”
+The leader smiled at her, giving her the impression that he had good intentions. "Well, she does have the mark," he muttered as he ran his chubby hand through his short hair. "Our prayers might have been answered, and we have the Snake Queen in front of us. I want you to treat her as such, and with time, maybe she will be able to communicate with us."
 
 The chieftain dismissed them and settled into his chair. 
 
@@ -63,21 +63,21 @@ The interior was lovely, filled with fancy pillows and ornaments. It was difficu
 
 Raajimera sat on a red, adorned ottoman on the side of the room and observed Aya with curiosity. The young lady approached the tall wooden wardrobe in the corner of the room and opened it energetically. She started digging through the clothes stored in it. Suddenly, she jumped up and presented an outfit to Raajimera. It was a black two-piece dress with golden elements.
 
-“This is for you. Do you understand me?” Aya asked her cautiously.
+"This is for you. Do you understand me?" Aya asked her cautiously.
 
 Raajimera nodded and grabbed the clothes. 
 
-“If you're not ready to speak yet,” Aya remarked with a cheerful tone, “I shall speak on behalf of both of us.”
+"If you're not ready to speak yet," Aya remarked with a cheerful tone, "I shall speak on behalf of both of us."
 
 The mysterious woman gave her a confused glance. The last thing she needed was a young person chirping for the whole flock. 
 
-“There is a folding screen next to the wardrobe if you need privacy,” Aya said and gestured at the corner of the room. “There should also be a bucket of water behind it if you need to wash your hands or face.” 
+"There is a folding screen next to the wardrobe if you need privacy," Aya said and gestured at the corner of the room. "There should also be a bucket of water behind it if you need to wash your hands or face." 
 
 Raajimera nodded again and hid herself. Aya decided to use that time to scour this place for some tools. She needed to prepare their guest for her stay in the village. The young lady took a deep dive into the containers meticulously stuffed under the table when suddenly she heard a noise from behind.
 
 Raajimera reappeared in the middle of the room. She was now wearing her new outfit. 
 
-Aya glanced at her and said, “Oh, here you are! Look at you, simply glamorous!” she exclaimed and turned around, holding an adorned brush in her hand. “Sit here; I will brush your hair.”
+Aya glanced at her and said, "Oh, here you are! Look at you, simply glamorous!" she exclaimed and turned around, holding an adorned brush in her hand. "Sit here; I will brush your hair."
 
 Raajimera sat down on the ottoman she previously occupied. She had just noticed that there was a mirror in front of her. Its reflective surface was partially covered with a red cloth. The woman pointed at it.
 
@@ -89,31 +89,31 @@ The young lady sat by her side and began brushing her hair. The woman suddenly n
 
 _So this is what it looks like…_ she thought to herself and tried to touch her forehead. _I wish it weren't so… large._
 
-Aya noticed. “How did you get that mark? Can you recall?” she asked.
+Aya noticed. "How did you get that mark? Can you recall?" she asked.
 
 Raajimera shook her head in disagreement. It was partially true. She didn't know how the mark appeared on her forehead, but she did know who was responsible for it.
 
-“Do you know what it represents?” The young lady grabbed a strand of her hair and attempted to brush off a small knot from it.
+"Do you know what it represents?" The young lady grabbed a strand of her hair and attempted to brush off a small knot from it.
 
 Raajimera flinched. Her hair wasn't in great shape since she walked away from the mountain. She didn't pay attention to where she was going; she was too preoccupied with following the traces of the moonflower. Desperately trying to hold on to them before they disappear forever and leave her with nothing. That sense of fleeting nothingness was making her feel incomplete.
 
-Aya took her silence as a no. The girl took a deep breath and said, “I guess not. You see, here, in Duskvale, we worship one of the spirit animals, the snake. The Twilight Mother is a good deity. We pray to her, and she answers.” The young lady scratched her head. “You must be the answer to our prayers, but it's rather odd that you came here like this. Bearing the mark of the snake is a great honor—only the chosen ones can get it,” she said and nodded to herself. “Our village is weak, but we hope…” Aya paused and started thinking about something. 
+Aya took her silence as a no. The girl took a deep breath and said, "I guess not. You see, here, in Duskvale, we worship one of the spirit animals, the snake. The Twilight Mother is a good deity. We pray to her, and she answers." The young lady scratched her head. "You must be the answer to our prayers, but it's rather odd that you came here like this. Bearing the mark of the snake is a great honor—only the chosen ones can get it," she said and nodded to herself. "Our village is weak, but we hope…" Aya paused and started thinking about something. 
 
 Raajimera looked at the reflection of the young lady once more. She tried to see her expression.
 
 Aya caught her stare and jumped down from the cloud of her thoughts.
 
-“I'm sorry, I got distracted,” she explained. “Our village,” Aya started, “is one of the few places in these lands that are still free.” She paused as if she were reliving something in her head. The girl shook her head slightly and continued, “The Hazyan Empire raids us from time to time. Not enough to wipe us from the surface of Earth, but enough to remind us who's in charge. They want us to join them, but they hate our cult of the snake. We are not sure why they want to conquer Duskvale, but we have been praying to the Twilight Mother for months. You arrived just when we thought she had abandoned us. Perhaps there is still hope.”
+"I'm sorry, I got distracted," she explained. "Our village," Aya started, "is one of the few places in these lands that are still free." She paused as if she were reliving something in her head. The girl shook her head slightly and continued, "The Hazyan Empire raids us from time to time. Not enough to wipe us from the surface of Earth, but enough to remind us who's in charge. They want us to join them, but they hate our cult of the snake. We are not sure why they want to conquer Duskvale, but we have been praying to the Twilight Mother for months. You arrived just when we thought she had abandoned us. Perhaps there is still hope."
 
 Raajimera glanced at her and touched her hand with a bitter smile. _These people want my help, but how can I help them if I can't even help myself?_ she thought. _If anything, it should be me who needs to be assisted. I guess they are done for._ 
 
-Aya looked down at the stranger's hand. “We always had this prophecy, you know? It revolves around a powerful duo of heroes, the Snake King and the Snake Queen. A snake monarch would one day appear among us mere mortals and lead our village to greatness. We must know if the legend talks about you; if it does, we will need you to pick the Snake King out of our finest men.”
+Aya looked down at the stranger's hand. "We always had this prophecy, you know? It revolves around a powerful duo of heroes, the Snake King and the Snake Queen. A snake monarch would one day appear among us mere mortals and lead our village to greatness. We must know if the legend talks about you; if it does, we will need you to pick the Snake King out of our finest men."
 
 Raajimera let out a scoff.
 
 _This girl listens to too many stories_, she thought. _I won't say anything, though. The moment I open my mouth, she will start asking me questions, and I refuse to use that cursed name Raa gave me._ 
 
-Aya finished brushing Raajimera's hair. “You look good, don't you?” she asked.
+Aya finished brushing Raajimera's hair. "You look good, don't you?" she asked.
 
 Raajimera got up and approached the mirror to take a closer look at her reflection. The outfit was beautiful; the dark top revealed her chiseled belly, but it also covered her shoulders, as it came with a petite cape held together with an ornate golden collar. The layered skirt made her look like a dancer; it dropped on both sides of her body like a black waterfall. She put her leg forward and noticed how good the short, tight pants looked underneath. 
 
@@ -125,9 +125,9 @@ _This must be why I remember nothing_, she thought to herself. _That damned sky 
 
 Her inner monologue was interrupted by a sudden knock on the window. As Aya opened it, Raajimera quickly turned around and saw the face of the man who dragged her to the chieftain's place. 
 
-“Are you done?” he asked. “The chieftain told me to bring both of you to a special feast. The food is almost ready; don't make us wait!”
+"Are you done?" he asked. "The chieftain told me to bring both of you to a special feast. The food is almost ready; don't make us wait!"
 
-Aya smiled at their guest. “I hope you're hungry,” she said.
+Aya smiled at their guest. "I hope you're hungry," she said.
 
 Raajimera nodded. She didn't think about it until now, but her stomach was indeed empty. All that anxiety and confusion must have clouded her mind. 
 
@@ -137,23 +137,23 @@ People of the village sat on the ground and chattered happily, but when they saw
 
 She waved at them shyly. 
 
-The chieftain got up and gestured at her to sit on his right side. “Oh, it's our guest!” he shouted. “Come here!”
+The chieftain got up and gestured at her to sit on his right side. "Oh, it's our guest!" he shouted. "Come here!"
 
-Aya took a seat on his left. The chieftain leaned towards her slightly and lowered his tone. “I guess that means everything went as planned; I take it?”
+Aya took a seat on his left. The chieftain leaned towards her slightly and lowered his tone. "I guess that means everything went as planned; I take it?"
 
 The young woman nodded.
 
-“Marvelous,” he said and turned to Raajimera. “Treat yourself. This is our way of welcoming you into the community. You must be starving.”
+"Marvelous," he said and turned to Raajimera. "Treat yourself. This is our way of welcoming you into the community. You must be starving."
 
 She looked at him and then started eating. Her stomach was much more empty than she initially thought. Somebody handed her a platter of succulent roasted meat. It seemed like Twilight Mother erased her table manners as well, among other things. Raajimera ate so quickly that she got hiccups. 
 
 The chieftain laughed and passed her a jug of wine. She drank it so quickly that she started coughing. The wine was disgusting, but beggars can't be choosers.
 
-The leader of the village observed her. “Make yourself at home, but when the time comes, remember to tell us about yourself,” he said.
+The leader of the village observed her. "Make yourself at home, but when the time comes, remember to tell us about yourself," he said.
 
 Raajimera felt a sting in her stomach. She looked at him with the facial expression of a sad puppy.
 
-“There's no pressure; take your time.” The chieftain put his hand on her shoulder and continued, “For now, just eat whatever you want. We will have a bonfire dance party after the sun sets. You could join us if you wish. If not, Aya will show you the place where you can stay. You are welcome to live with us for as long as you please.”
+"There's no pressure; take your time." The chieftain put his hand on her shoulder and continued, "For now, just eat whatever you want. We will have a bonfire dance party after the sun sets. You could join us if you wish. If not, Aya will show you the place where you can stay. You are welcome to live with us for as long as you please."
 
 Raajimera was uneasy, yet she resumed eating. Her stomach was churning, and she would just devour whatever was placed in front of her.
 
@@ -161,13 +161,13 @@ After finishing her food, a sudden realization that she probably should have sto
 
 Aya noticed that their guest was not feeling well and decided to escort her out of the party. 
 
-“Let's go; I will show you the place where you can rest,” she said and grabbed Raajimera's hand. 
+"Let's go; I will show you the place where you can rest," she said and grabbed Raajimera's hand. 
 
 The mysterious lady didn't feel comfortable having these strangers touch her. She just wanted to be alone for a moment to collect her thoughts.
 
 Aya led her into an inn. They went up the stairs into a room reserved just for Raajimera. The space seemed drab but cozy. Raajimera sat on the bed and brushed the blanket with her fingertips. It felt good to touch, although she found it hideous. Its patterns resembled a colorful carpet.
 
-The young girl placed both hands on her hips and exhaled. “I will return to the party now. Find me if you need anything,” she said. “See you tomorrow.”
+The young girl placed both hands on her hips and exhaled. "I will return to the party now. Find me if you need anything," she said. "See you tomorrow."
 
 Aya looked at the guest. Not noticing any signs of distress on the mysterious woman's face, she just waved at her and shut the door a little louder than it was necessary.
 
@@ -191,68 +191,68 @@ Now that she was prepared for resting, she climbed back into her bed and covered
 
 _What is it this time?_ She thought to herself and lifted the blanket. Two beady reptile eyes were looking at her.
 
-“Hi!” the snake yelled happily as it sat.
+"Hi!" the snake yelled happily as it sat.
 
 She came close to tumbling off the bed. There was a snake on her blanket, and it was **talking** to her. The animal was small and covered with gray scales. 
 
 _What did they put in my wine?!_ She thought, panicked.
 
-“Raa sent me…” the snake tried to explain, but that sentence alone lit a red light in her head.
+"Raa sent me…" the snake tried to explain, but that sentence alone lit a red light in her head.
 
 The woman grabbed her shoe and threw it at the animal. The snake dodged the attack and jumped on the floor. 
 
-“Now that wasn't very nice,” the snake stated. 
+"Now that wasn't very nice," the snake stated. 
 
-“Begone, foul demon!” Raajimera whispered, trying to make sure that none of the humans could hear her, and grabbed her other shoe.
+"Begone, foul demon!" Raajimera whispered, trying to make sure that none of the humans could hear her, and grabbed her other shoe.
 
-“Firstly, you can speak my language, and they won't understand you,” the snake said. “Secondly, put that thing down; I am not an enemy.”
+"Firstly, you can speak my language, and they won't understand you," the snake said. "Secondly, put that thing down; I am not an enemy."
 
-“How is that even possible?” Raajimera asked, visibly confused. Her grip on the shoe remained firm.
+"How is that even possible?" Raajimera asked, visibly confused. Her grip on the shoe remained firm.
 
-“I was just about to explain that,” the snake said, moving closer to her. “I am just a feral animal; being able to communicate with us cold-blooded animals is a part of the deal between you and Raa.”
+"I was just about to explain that," the snake said, moving closer to her. "I am just a feral animal; being able to communicate with us cold-blooded animals is a part of the deal between you and Raa."
 
-Raajimera was defensive. “I remember no deal. For all I know, she had stolen my memories from me,” she said.
+Raajimera was defensive. "I remember no deal. For all I know, she had stolen my memories from me," she said.
 
-“Raa is no thief. There was a deal made, and it was sealed by the mark on your head.” The snake responded and climbed back up on her bed. “You must have traded your memories.”
+"Raa is no thief. There was a deal made, and it was sealed by the mark on your head." The snake responded and climbed back up on her bed. "You must have traded your memories."
 
-“What kind of person would I have to be to do that?” Raajimera asked, shocked.
+"What kind of person would I have to be to do that?" Raajimera asked, shocked.
 
-“Well, considering her reputation among you humans, either very evil or incredibly good,” the snake stated. 
+"Well, considering her reputation among you humans, either very evil or incredibly good," the snake stated. 
 
-The woman seemed down. “Or inherently stupid,” she muttered.
+The woman seemed down. "Or inherently stupid," she muttered.
 
-“That is also an option,” the animal responded. “One way or another, I am here to make sure that Raa's part of the deal is fulfilled.”
+"That is also an option," the animal responded. "One way or another, I am here to make sure that Raa's part of the deal is fulfilled."
 
-Raajimera looked at the snake; she was confused. “Which is…?” she asked.
+Raajimera looked at the snake; she was confused. "Which is…?" she asked.
 
-“She made you a demigoddess. You know, an immortal sorceress among mere men? I am here to teach you how to unlock your powers,” the snake nodded. “I think it's for the better that you remember nothing; after all, you can't achieve greatness with the weight of your past dragging you down.”
+"She made you a demigoddess. You know, an immortal sorceress among mere men? I am here to teach you how to unlock your powers," the snake nodded. "I think it's for the better that you remember nothing; after all, you can't achieve greatness with the weight of your past dragging you down."
 
-The woman looked at the animal, confused. “A demigoddess?” she asked. “But I'm just a regular person.”
+The woman looked at the animal, confused. "A demigoddess?" she asked. "But I'm just a regular person."
 
-“No, that's who you **believe** you are,” the snake stated. “Raa told me that the name she gave you was Raajimera; do you know what it means?”
+"No, that's who you **believe** you are," the snake stated. "Raa told me that the name she gave you was Raajimera; do you know what it means?"
 
 The woman shook her head. She didn't, in fact, even think about it. 
 
-The animal looked at her and gave her a quick response: “It means _Raa's chosen._ She must have seen something in you that you did not.”
+The animal looked at her and gave her a quick response: "It means _Raa's chosen._ She must have seen something in you that you did not."
 
-“Did she tell you who I was before the deal?” Raajimera asked with a hint of hope in her voice.
+"Did she tell you who I was before the deal?" Raajimera asked with a hint of hope in her voice.
 
-“No,” the snake cut short. “All information about your past was destroyed. You can't get it back because that would invalidate your agreement.”
+"No," the snake cut short. "All information about your past was destroyed. You can't get it back because that would invalidate your agreement."
 
-Raajimera looked downcast. “I just want to be myself with my own name,” she said sadly.
+Raajimera looked downcast. "I just want to be myself with my own name," she said sadly.
 
-“But you are. Your name is not what defines you,” the animal responded and shook its head. “Listen, you can't get back to who you once were, but you can build a bright future for yourself. You have to accept your new name to truly become one of us and be able to use your demigod powers. Do you know what my name is? It's Feng.”
+"But you are. Your name is not what defines you," the animal responded and shook its head. "Listen, you can't get back to who you once were, but you can build a bright future for yourself. You have to accept your new name to truly become one of us and be able to use your demigod powers. Do you know what my name is? It's Feng."
 
-“They named you Feng?” Raajimera asked, surprised. 
+"They named you Feng?" Raajimera asked, surprised. 
 
-“It's Fang, actually, but they call me Feng because I'm silly.” The snake swung back and hissed with its head upside down, touching the ground. “And you know what? I just went with it.” The snake came back to its original position. “I don't mind what they call me because I know who I am. Soon, you will as well.”
+"It's Fang, actually, but they call me Feng because I'm silly." The snake swung back and hissed with its head upside down, touching the ground. "And you know what? I just went with it." The snake came back to its original position. "I don't mind what they call me because I know who I am. Soon, you will as well."
 
 Raajimera patted the snake's head. Its words were oddly comforting. She enjoyed the little critter's presence more than she would like to admit.
 
-“Soon you will be the demigoddess you were meant to be, but let me tell you what.” Feng lowered its voice. “The goddess needs you to help this village. From what they told her, they don't have much time left.”
+"Soon you will be the demigoddess you were meant to be, but let me tell you what." Feng lowered its voice. "The goddess needs you to help this village. From what they told her, they don't have much time left."
 
-A sudden wave of sadness crashed through Raajimera's heart, and her eyes filled with tears. “It's just so much pressure; I don't feel ready,” she cried.
+A sudden wave of sadness crashed through Raajimera's heart, and her eyes filled with tears. "It's just so much pressure; I don't feel ready," she cried.
 
-“Oh, come on, don't be sad.” The snake said and curled up beside her. “I'll be your friend. I will help you; everything will turn out fine.”
+"Oh, come on, don't be sad." The snake said and curled up beside her. "I'll be your friend. I will help you; everything will turn out fine."
 
 Both of them eventually fell asleep as the flame of the oil lamp died. All that was left was just a slight glimmer of the full moon creeping through the small window.
