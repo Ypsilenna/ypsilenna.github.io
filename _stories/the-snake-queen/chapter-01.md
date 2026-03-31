@@ -6,12 +6,12 @@ date: "2026-03-17"
 categories: [stories]
 tags: [The Snake Queen] 
 receipt: In which the priestess makes some rather questionable choices and ends up with a new name.
-words: "2199"
+words: "2202"
 rtime: "11 minutes"
 ---
 There once was a priestess of the diurnal cycle whose heart was as dark and cold as the veil of the desert night. In her search for the absolute celestial power, she stopped at nothing. She aspired to take over the Sisterhood of the Sun and the Moon. Little did she know, her name would forever be forgotten, blown away in the shimmering sands of time.
 
-The eyes of the priestess opened widely as the rising sun crept shyly into her chamber. She was still sleepy, but the vision of her future power was giving her a kick of much-needed adrenaline. Today, after all, would be the day when her destiny was fulfilled, when the sisterhood would kneel before her, and shortly after, the rest of the world along with it. The woman hoped to be as powerful as the emperor himself, if not more.
+The eyes of the priestess opened widely as the rising sun crept shyly into her chamber. She was still sleepy, but the vision of her future power was giving her a kick of much-needed adrenaline. Today, after all, would be the day when her destiny was fulfilled, when the sisterhood would kneel before her and shortly after, the rest of the world along with it. The woman hoped to be as powerful as the emperor himself, if not more.
 
 She got out of her cot and quickly put her robe on. It was dark blue attire with a gray shawl that hooded her dark hair. Her mane was what made her feel special ever since she was a child. Long, shiny, and with a slightly purple tint. Among her siblings, she was the most distinctive, which made her feel as though she deserved the most. That feeling was only fostered by her parents, who placed her under the care of the archpriestess, hoping their little girl would get the opportunity to achieve great things.
 
@@ -37,7 +37,7 @@ When the priestess arrived outside, she finally took a deep breath. The first se
 
 She wandered around the settlement until she found a simple man willing to help a lady in need. The woman informed him that she needed to leave something important on the top. He didn't question it; he loved the sisterhood as much as everyone else in this part of the world. 
 
-The man allowed her to climb into his carriage, and his horses quickly carried them. The sound of their hooves rapidly clacking against the rocks rang in her ears. She found it unpleasant, but she was prepared to go through a moment of discomfort for greater glory ahead. 
+The man allowed her to climb into his carriage, and his horses quickly carried them. The sound of their hooves rapidly clacking against the rocks rang in her ears. She found it unpleasant, but she was prepared to go through a moment of discomfort for the greater glory ahead. 
 
 As soon as she set foot on the mountaintop, she no longer felt the need to keep faking being cordial. The man tried to wave at her as he was leaving, but she paid no mind. The priestess turned around and forgot he even existed.
 
@@ -85,7 +85,7 @@ Arrik disappeared with the rising wind.
 
 _That's not good_, she thought to herself. With two gods having rejected her, the chance of succeeding was already thin. The only hope she now had was with the Spirit of Afternoon, but if she were to be denied again, that would only mean one thing. The woman shook her head. _I shouldn't consider that._
 
-Inexorable minutes passed like playful mirages. The sky cleared, and the sun began its journey back on the horizon. The priestess felt confused, even sad perhaps? A gentle breeze moved a lock on her forehead.
+Inexorable minutes passed like playful mirages. The sky cleared, and the sun began its journey back on the horizon. The priestess felt confused and perhaps even sad. A gentle breeze moved a lock on her forehead.
 
 She looked at the sky. The sun began painting it orange, like an endless sea of marigolds.
 
@@ -115,7 +115,7 @@ The sun was almost setting, and the chill breeze gave her goosebumps. The woman 
 
 “Raa, Spirit of Dusk! Hear me!”
 
-Many people would view this as a mistake. The infamous Raa, also known as the Twilight Mother or the serpent of the sunset shimmer, was feared by most and despised by the rest. The trickster god, the shameless deity, the fool’s divinity—that's what Raa was called, and yet the priestess's hunger for power was greater than her fear. 
+Many people would view this decision as a mistake. The infamous Raa, also known as the Twilight Mother or the Serpent of the Sunset Shimmer, was feared by most and despised by the rest. The trickster god, the shameless deity, the fool’s divinity—that's what Raa was called, and yet the priestess' hunger for power was greater than her fear. 
 
 The shimmering scales of Raa encircled the dimming sky, her eyes piercing the priestess. 
 
@@ -139,7 +139,7 @@ Raa smirked and whispered, “We have a deal, then. From this point onward, you 
 
 The priestess experienced a sudden burning sensation in her head. She closed her eyes in anguish. Raa didn't seem to loosen her grip on her as the celestial magic engraved a cursed mark on her forehead. It looked like a droplet suspended between two dots, the same symbol as the one on Raa's head.
 
-The whole life flashed before the priestess's eyes and then vanished forever. She tried to hold on to whatever she could, but her attempts were fruitless. 
+The whole life flashed before the priestess' eyes and then vanished forever. She tried to hold on to whatever she could, but her attempts were fruitless. 
 
 The woman opened her eyes, which were now green as freshly cut grass, so lost… confused. The celestial snake released her, but she was unable to stand up. The world looked so blurry, she didn't know what she was looking at. 
 
