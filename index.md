@@ -111,7 +111,7 @@ ogdesc: Welcome to Court of Gloomvale, the creative space of Ypsilenna! You can 
 <br><br>
 <img src="/static/image/s-kme-separator.png"><br><br>
 <ul>
-   {% assign stories = site.stories | sort: "date" | where_exp: "item", "item.categories contains 'stories'" %}
+   {% assign stories = site.stories | sort: "date" | where_exp: "item", "item.categories contains 'stories'" | reverse %}
    {% for story in stories limit: 5 %}
  <li><b><a href="{{ story.url }}">{{ story.title }}</a></b></li>
     {% endfor %}
