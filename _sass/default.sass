@@ -462,19 +462,16 @@ h1, h2, h3
 
 #sector3-left
   --min-size:20rem
+  @media (max-width: 499px)  
+    --min-size: auto 
   display: grid
   grid-template-columns: repeat(auto-fill, minmax(var(--min-size), 1fr))
   grid-gap: 1rem
 
-  @media (max-width: 499px)  
-  --min-size: auto 
-
-  > div
+#sector3-left  > div
     padding: 1rem 1rem
     text-align: justify
 
-
-  
 
 #sector3-image
   order: 1
