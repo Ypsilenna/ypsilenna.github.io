@@ -103,7 +103,7 @@ Raajimera looked at the reflection of the young lady once more. She tried to see
 
 Aya caught her stare and jumped down from the cloud of her thoughts.
 
-"I'm sorry, I got distracted," she explained. "Our village," Aya started, "is one of the few places in these lands that are still free." She paused as if she were reliving something in her head. The girl shook her head slightly and continued, "The Hazyan Empire raids us from time to time. Not enough to wipe us from the surface of Earth, but enough to remind us who's in charge. They want us to join them, but they hate our cult of the snake. We are not sure why they want to conquer Duskvale, but we have been praying to the Twilight Mother for months. You arrived just when we thought she had abandoned us. Perhaps there is still hope."
+"I'm sorry, I got distracted," she explained. "Our village," Aya started, "is one of the few places in these lands that are still free." She paused as if she were reliving something in her head. The girl shook her head slightly and continued, "The Hazyan Empire raids us from time to time. Not enough to wipe us from the surface of this world, but enough to remind us who's in charge. They want us to join them, but they hate our cult of the snake. We are not sure why they want to conquer Duskvale, but we have been praying to the Twilight Mother for months. You arrived just when we thought she had abandoned us. Perhaps there is still hope."
 
 Raajimera glanced at her and touched her hand with a bitter smile. _These people want my help, but how can I help them if I can't even help myself?_ she thought. _If anything, it should be me who needs to be assisted. I guess they are done for._ 
 
