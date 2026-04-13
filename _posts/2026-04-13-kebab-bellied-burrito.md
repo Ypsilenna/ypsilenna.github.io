@@ -3,7 +3,7 @@ layout: post
 title: 'Kebab-bellied Burrito'
 date: "2026-04-13"
 categories: [microblog]
-tags: [personal] 
+tags: [personal, health, gaming, writing] 
 moods: 🤕
 authors: [Ypsilenna]
 ogimage: /static/image/blank.png
