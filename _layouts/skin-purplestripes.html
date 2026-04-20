@@ -1,0 +1,41 @@
+---
+layout: default
+---
+<div style="background-color: #eee7f9; color: #312240; background-image: linear-gradient(90deg, transparent 50%, #C9BFE5 50%); background-size: 55px 55px;">
+<div style="background-image: url('https://cdn.imgchest.com/files/084c06eadbd1.png'), url('https://cdn.imgchest.com/files/c4e88e97e9a2.png'); background-position: center, right; background-repeat: no-repeat, repeat-x; width: 100%; height: 150px; border-radius: 5px 5px 0px 0px;"></div>
+<div style="padding: 25px; background-color: #f9f7fb; opacity: 0.9;">
+<h2>💟{{ page.title }}</h2>    <div class="metadata">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-calendar-heart-fill" viewBox="0 0 16 16">
+  <path d="M4 .5a.5.5 0 0 0-1 0V1H2a2 2 0 0 0-2 2v1h16V3a2 2 0 0 0-2-2h-1V.5a.5.5 0 0 0-1 0V1H4zM16 14V5H0v9a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2M8 7.993c1.664-1.711 5.825 1.283 0 5.132-5.825-3.85-1.664-6.843 0-5.132"/>
+</svg>        <time datetime="{{ post.date }}">{{ page.date | date: '%B %d, %Y'}}</time> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-emoji-smile-fill" viewBox="0 0 16 16">
+  <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16M7 6.5C7 7.328 6.552 8 6 8s-1-.672-1-1.5S5.448 5 6 5s1 .672 1 1.5M4.285 9.567a.5.5 0 0 1 .683.183A3.5 3.5 0 0 0 8 11.5a3.5 3.5 0 0 0 3.032-1.75.5.5 0 1 1 .866.5A4.5 4.5 0 0 1 8 12.5a4.5 4.5 0 0 1-3.898-2.25.5.5 0 0 1 .183-.683M10 8c-.552 0-1-.672-1-1.5S9.448 5 10 5s1 .672 1 1.5S10.552 8 10 8"/>
+</svg> Mood: <span class="moods">{{ page.moods }}</span> <span class="bonus">{{ page.bonus }}</span>
+        <br/>
+                {% for tag in page.tags %}
+            <p class="btn btn-sm btn-outline-dark tag-btn"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-tag-fill" viewBox="0 0 16 16">
+  <path d="M2 1a1 1 0 0 0-1 1v4.586a1 1 0 0 0 .293.707l7 7a1 1 0 0 0 1.414 0l4.586-4.586a1 1 0 0 0 0-1.414l-7-7A1 1 0 0 0 6.586 1zm4 3.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0"/>
+</svg>  {{ tag }}</p>
+        {% endfor %}
+    </div>
+<div style="background-image: url('https://cdn.imgchest.com/files/90f87f6906a4.png'), url('https://cdn.imgchest.com/files/c4e88e97e9a2.png'); background-position: center, left; background-repeat: no-repeat, repeat-x; width: 100%; height: 35px; background-size: contain; margin-bottom: 20px;"></div>
+<p>{{ content }}
+
+<div style="max-width: 300px; background-color: #b9a4cd; border-radius: 5px; border: 1px dashed #312240; padding: 5px; margin-top: 20px;">
+<div><strong>🙂Mood:</strong><span>&nbsp;</span>Neutral</div>
+<div>🎧<strong>Listening to:</strong><span>&nbsp;</span>Artist - Song</div>
+<div>🎮<strong>Playing:<span>&nbsp;</span></strong>Game</div>
+<div>📚<strong>Reading:<span>&nbsp;</span></strong>Book</div>
+<div>🍿<strong>Watching:<span>&nbsp;</span></strong>Movie</div>
+<div>🥖<strong>Eating:&nbsp;</strong>Food</div>
+<div>🥤<strong>Drinking:</strong><span>&nbsp;</span>Drink</div>
+</div>
+</div>
+<div style="background-image: url('https://cdn.imgchest.com/files/90f87f6906a4.png'), url('https://cdn.imgchest.com/files/c4e88e97e9a2.png'); background-position: right, left; background-repeat: no-repeat, repeat-x; width: 100%; height: 150px; border-radius: 0px 0px 5px 5px;"></div>
+</div>
+<p><harper-render-box popover="manual" style="pointer-events: none; border: none; visibility: hidden !important;"></harper-render-box></p>
+
+<button
+  class="iine-button"
+  data-icon="💜"
+  aria-hidden="true">
+</button>

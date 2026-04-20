@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: skin-sillygeckos
 title: "The effect being locked away on WordPress has on a person" 
 date: "2023-02-18"
 categories: [microblog]
