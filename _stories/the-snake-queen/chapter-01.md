@@ -6,16 +6,16 @@ date: "2026-03-17"
 categories: [stories]
 tags: [The Snake Queen] 
 receipt: In which the priestess makes some rather questionable choices and ends up with a new name.
-words: "2202"
-rtime: "11 minutes"
+words: "2216"
+rtime: "12 minutes"
 ---
-There once was a priestess of the diurnal cycle whose heart was as dark and cold as the veil of the desert night. In her search for the absolute celestial power, she stopped at nothing. She aspired to take over the Sisterhood of the Sun and the Moon. Little did she know, her name would forever be forgotten, blown away in the shimmering sands of time.
+There once was a priestess of the diurnal cycle whose heart was as dark and cold as the veil of the desert night. Even though even the nocturnal sky has its stars, in her search for the absolute celestial power, she stopped at nothing. She aspired to take over the Sisterhood of the Sun and the Moon. Little did she know, her name would forever be forgotten, blown away in the shimmering sands of time.
 
-The eyes of the priestess opened widely as the rising sun crept shyly into her chamber. She was still sleepy, but the vision of her future power was giving her a kick of much-needed adrenaline. Today, after all, would be the day when her destiny was fulfilled, when the sisterhood would kneel before her and shortly after, the rest of the world along with it. The woman hoped to be as powerful as the emperor himself, if not more.
+The eyes of the priestess opened widely as the rising sun crept shyly into her chamber. She was still sleepy, but the vision of her future power was giving her a kick of much-needed adrenaline. Today, after all, would be the day when her destiny was fulfilled, when the sisterhood would kneel before her and, shortly after, the rest of the world along with it. The woman hoped to be as powerful as the emperor himself, if not more.
 
 She got out of her cot and quickly put her robe on. It was dark blue attire with a gray shawl that hooded her dark hair. Her mane was what made her feel special ever since she was a child. Long, shiny, and with a slightly purple tint. Among her siblings, she was the most distinctive, which made her feel as though she deserved the most. That feeling was only fostered by her parents, who placed her under the care of the archpriestess, hoping their little girl would get the opportunity to achieve great things.
 
-Unlike them, she had the cold, dark eyes of a person who couldn't care less for her family. Therefore, she never bothered to keep in touch with them, as if they never existed in the first place.
+Unlike them, she had the cold, dark eyes of a person who couldn't seem to care less for her family. Therefore, she never bothered to keep in touch with them, as if they never existed in the first place.
 
 The woman slipped across the hallway, trying not to wake the other priestesses up.
 
@@ -39,7 +39,7 @@ She wandered around the settlement until she found a simple man willing to help 
 
 The man allowed her to climb into his carriage, and his horses quickly carried them. The sound of their hooves rapidly clacking against the rocks rang in her ears. She found it unpleasant, but she was prepared to go through a moment of discomfort for the greater glory ahead. 
 
-As soon as she set foot on the mountaintop, she no longer felt the need to keep faking being cordial. The man tried to wave at her as he was leaving, but she paid no mind. The priestess turned around and forgot he even existed.
+As soon as she set foot on the mountaintop, she no longer felt the need to keep faking being cordial. The man tried to wave at her as he was leaving. For just a second, something in her chest tightened. She turned away before it could take hold.
 
 The mountain appeared to be thinly covered in small grass lumps, but the surrounding area visible from the top was dry, almost like a desert. The animal gods blessed this place with abundance ages ago to thank the sisterhood for their service. 
 
@@ -67,7 +67,7 @@ She was puzzled. What would cause him to say all of this? Didn't she spend her w
 
 The woman spent the next few hours atop the mountain, waiting for the next opportunity to come along. The time passed so slowly, but she remained patient. 
 
-The sun's graceful ascent into the blue sky signaled the onset of Arrik, the smew of noon on the horizon.
+The sun's graceful ascent into the blue sky signaled the onset of Arrik, the smew of noon, on the horizon.
 
 The woman returned to her position and attempted to invoke the next animal spirit.
 
@@ -77,7 +77,7 @@ The sky suddenly brightened when Arrik spread his white wings across the horizon
 
 "What is it, human?" the god inquired.
 
-"Oh, Great Arrik!" The woman said and put her hands together in a begging gesture. "Please accept my offering and bestow your celestial power upon me"
+"Oh, Great Arrik!" The woman said and put her hands together in a begging gesture. "Please accept my offering and bestow your celestial power upon me."
 
 The initial response to her words was silence, then Arrik's feathers ruffled. His eyes narrowed. "You do not seem worthy of my gift," the celestial bird responded and tilted his head. "Your energy is dark and thick, tainting you like a disease. I would rather not have anything to do with you. Not now, not ever." 
 
@@ -99,7 +99,7 @@ The woman fell to her knees. "Oh, Great Tareesh! I am so pleased that you answer
 
 "What do you want from me?" the catfish asked with an off-putting tone. 
 
-"I would like to sincerely ask you to bestow your celestial powers upon me, great spirit" The priestess begged, attempting to sound as sweet as possible, hoping she could make the god do her bidding.
+"I would like to sincerely ask you to bestow your celestial powers upon me, great spirit." The priestess begged, attempting to sound as sweet as possible, hoping she could make the god do her bidding.
 
 "Stand up, please," Tareesh asked. "I would like to take a look at you."
 
@@ -141,7 +141,7 @@ The priestess experienced a sudden burning sensation in her head. She closed her
 
 The whole life flashed before the priestess' eyes and then vanished forever. She tried to hold on to whatever she could, but her attempts were fruitless. 
 
-The woman opened her eyes, which were now green as freshly cut grass, so lost… confused. The celestial snake released her, but she was unable to stand up. The world looked so blurry, she didn't know what she was looking at. 
+The woman opened her eyes, which were now green as freshly cut grass, so lost… confused. The celestial snake released her, but she was unable to stand up. The world looked so blurry; she didn't know what she was looking at. 
 
 "Go now, and serve," the goddess said.
 

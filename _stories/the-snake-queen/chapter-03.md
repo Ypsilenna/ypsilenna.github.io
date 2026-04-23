@@ -6,7 +6,7 @@ date: "2026-03-31"
 categories: [stories]
 tags: [The Snake Queen] 
 receipt: In which Raajimera heeds the cosmic call and lets a feral snake train her.
-words: "2734"
+words: "2773"
 rtime: "14 minutes"
 ---
 After a long night of mildly interrupted sleep, a ray of the rising sun ultimately woke Raajimera up for good. 
@@ -71,23 +71,25 @@ The chieftain shouted at the men to begin the games and heavily sat next to her.
 
 The woman was spooked, but she tried to hold it together. She thought it would be easier, but it proved even harder than it was for the buttons on the shirt of the young athlete she met before.
 
-After hearing the chieftain's shout, the contestants took their places, and the championship began. Their first task was throwing spears. 
+After hearing the chieftain's shout, the contestants took their places, and the championship began.
 
-The villagers seemed quite skilled at handling these kinds of weapons. Their performance was quite on par, but Raajimera noticed that the rest of the inhabitants gathered around and cheered only for one of them, someone named _Seyed_.
+The first two rounds consisted of throwing spears and sparring. One thing, however, caught her eye. The contestants were roughly on the same level, yet they seemed to have held back against one of them, a handsome athlete named Seyed. He seemed to be the crowd's favorite too. The inhabitants cheered for him no matter what he did.
 
-Raajimera tried to make sense of the whole tournament. She was quite bored and confused. It was difficult for her to stay focused.
+Raajimera tried to make sense of the whole tournament, although it quickly began to bore her.
 
-Next up was sparring. The situation repeated, although to her, it seemed like for some reason the participants held back against the handsome man who smiled at her.
+She stared at the man who stole the heart of every person in the village. He noticed her glare and smiled widely at her. With his teeth exposed, he seemed charming, but there was also something slightly sinister in his grin.
 
-She looked around and noticed the happy faces of his peers. "Seyed! Seyed! Seyed!" they chanted. He turned to them and waved with both hands; he smiled widely, which revealed his teeth. Raajimera didn't pay attention to it before, but some of these people had unusually long canines.
+Raajimera looked around and noticed the happy faces of his peers. "Seyed! Seyed! Seyed!" they chanted. He turned to them and waved with both hands. The man really did give them a show.
 
-Their last task was weightlifting. Raajimera was even more disinterested and tired. She didn't see any point in watching the competition. The winner was the same man in every round. It was painfully predictable.
+She glanced at the chieftain to see whether he cheered for him as well or remained stoic. The woman couldn't quite understand his expression. He observed the athlete with some sort of strange satisfaction rather than pride.
 
 The woman turned around and noticed a small snake crawling nearby. 
 
 _Feng?_ She thought to herself. 
 
-Raajimera took a quick glance at the villagers. They were too preoccupied with their sports games to even pay attention to her. Perhaps they wouldn't notice if she disappeared…
+The last task was weightlifting, but since this entire spectacle seemed to have been rigged from the start, she started to plan her escape route hoping nobody would notice.
+
+Raajimera took a quick glance at the villagers. They were too preoccupied with their sports games to even pay attention to her. This could have been her chance to disappear…
 
 The woman quietly sneaked out and followed the small reptile. She needed answers. 
 
@@ -147,17 +149,17 @@ The woman kept staring at the snake.
 
 Raajimera did as asked, but she had so many questions. "Why do I need to do it?" she asked.
 
-"Oh dear, do you know why Raa gave you a mark on your forehead?" Feng asked, to which the woman replied with a shake of her head. "That seal allows you to activate your third eye and see the nodes of the natural energy; attune to them," the snake explained.
+"Oh dear, do you know why Raa gave you a mark on your forehead?" Feng asked, to which the woman replied with a shake of her head. "That seal allows you to activate your third eye and see the nodes of the natural energy. Attune to them," the snake explained.
 
 "How do I do that?" she questioned. 
 
-"Calm your mind and try to bring all your focus to your forehead." Feng answered. The snake noticed that she struggled with the task. "When you weren't looking, I scouted the hidden pockets of the bottom part of your dress," the snake informed her. "There is something that looks like a black bandage in one of them. Try to wrap it around your eyes."
+"Calm your mind and try to bring all your focus to your forehead," Feng answered. The snake noticed that she struggled with the task. "When you weren't looking, I scouted the hidden pockets of the bottom part of your dress," the snake informed her. "There is something that looks like a black bandage in one of them. Try to wrap it around your eyes."
 
 Raajimera put her hands in her pockets. She found the piece of cloth the reptile informed her about. The woman blindfolded herself.
 
 "Is it any better?" Feng asked.
 
-"No—hold on!" Raajimera said, but seemed confused. The mark on her forehead suddenly started shining. "I see something now," she spoke, raising her voice slightly. "I can see the world, but it's quite dark."
+"No—hold on!" Raajimera said, but he seemed confused. The mark on her forehead suddenly started shining. "I see something now," she spoke, raising her voice slightly. "I can see the world, but it's quite dark."
 
 "Can you see lights?" the snake questioned as it kept observing her.
 
@@ -205,8 +207,7 @@ Raajimera let out a sigh, nodded, and put the blindfold back on her face.
 
 Her learning progress was tedious; she had difficulty getting the hang of her abilities, but Feng tried to make it as fun as possible. None of them, however, noticed that the tournament was already over, and they had been observed for quite some time now.
 
-
-The handsome athlete was hiding behind a building, watching Raajimera. He stood there with his arms folded and the left side of his body leaning against the wall.  
+The handsome athlete was hiding behind a building, watching Raajimera. He stood there with his arms folded and the left side of his body leaning against the wall.
 
 The chieftain appeared by his side. 
 

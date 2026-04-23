@@ -6,7 +6,7 @@ date: "2026-03-31"
 categories: [stories]
 tags: [The Snake Queen] 
 receipt:  In which Raajimera saves helpless children, yet receives no credit.
-words: "3035"
+words: "3165"
 rtime: "16 minutes"
 ---
 Life in the distant village of Duskvale was far from perfect, yet its inhabitants seemed to make the most of it given their situation. The adult part of the population had their hands full of errands. Oftentimes this would pose a problem, as their children were usually extra playful. 
@@ -88,13 +88,13 @@ She turned around to try to return the kids to the village, but suddenly Seyed g
 
 "My apologies," he said, letting go of her hand but continuing to talk, "but I promise to protect you forever if you choose me as your king. Just as I did today, milady."
 
-Raajimera was visibly embarrassed. She felt that the man was making it unnecessary and too complicated. 
+Raajimera was visibly embarrassed. She felt that the man was making it unnecessary and too complicated. However, she would have sworn that for a split second something changed in his expression. It was then replaced by his regular smile, which made Raajimera think she had probably just imagined it.
 
 "The only thing I want from you presently is helping me get the children to safety," the woman said. She looked at them and asked, "Are you alright?"
 
 The children seemed fine; they were just scared. One of them nodded and rubbed his eyes. The little boy seemed to try his best to appear brave.
 
-Raajimera and Seyed escorted them back home. The villagers rejoiced. It was confusing. The children were crying; their mothers as well. Everyone was hugging. The entire village was too loud, but currently it was a good thing.
+Raajimera and Seyed escorted them back home. The villagers rejoiced. It was confusing. The children were crying, and their mothers as well. Everyone was hugging. The entire village was too loud, but currently it was a good thing.
 
 Raajimera saw the chieftain and decided to talk to him. As she approached him, Seyed appeared seemingly out of thin air and joined them.
 
@@ -156,7 +156,11 @@ She got up and knelt in front of the bonfire. 
 
 The people kept discussing the safety of the village. She was listening, but only partially. Raajimera was captivated by her craft, and maybe every third word passed through her ears. Even fewer stopped within her skull on their way out through the other ear.
 
-She entered a trance; she just wanted to create more and more. Every next flower was even more beautiful than the previous one. Raajimera thought she found the perfect technique for conjuring them. 
+She heard something about the east road. The inhabitants of Duskvale sounded upset, probably rightfully so. Her eyes perked up briefly when some of them said, "They are coming," followed with "three days."
+
+Raajimera looked up for a moment. The chieftain started shouting at someone. She made another flower; it was much easier to distract herself with her art. It wasn't like they would let her participate in the exchange anyway. Despite everything, she still felt like an outsider.
+
+She thought she heard something about soldiers, but the words quickly drowned somewhere behind her as she entered a trance. The woman just wanted to create more and more. Every next flower was even more beautiful than the previous one. Raajimera thought she found the perfect technique for conjuring them. 
 
 Suddenly something pulled her out of the reverie, and she jumped in place, dropping one of the flowers. She looked at the miserable glass shards on the ground. It was such a sad way to go.
 

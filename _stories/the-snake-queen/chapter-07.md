@@ -6,7 +6,7 @@ date: "2026-04-02"
 categories: [stories]
 tags: [The Snake Queen] 
 receipt: In which things go wrong for Raajimera.
-words: "3841"
+words: "3915"
 rtime: "20 minutes"
 ---
 The village was full of clamor as its inhabitants worked like a colony of ants. It has been three days since the traveling merchant warned them about an impending attack from the Empire. They had to raise walls around the settlements, as they speculated that this attack would be unlike anything that had ever happened to them. 
@@ -21,7 +21,7 @@ He turned around and looked at her without a word. She was the only person who w
 
 "I will need help from the entire village. It will just take a moment—"
 
-The chieftain interrupted her, "We cannot afford even one minute of a delay," he said. "If you want to help us, then pick up a hammer or whatever you're comfortable using and aid them."
+The chieftain interrupted her. "We cannot afford even one minute of a delay," he said. "If you want to help us, then pick up a hammer or whatever you're comfortable using and aid them."
 
 Raajimera didn't know what to say, but she felt like her idea was the only correct approach to this problem, and she wasn't going to give up so easily.
 
@@ -65,7 +65,7 @@ Raajimera grabbed the nearly empty sack of seeds and theatrically threw the rest
 
 The woman threw the empty sack on the ground behind her and joined the circle, grabbing the chieftain's hand. 
 
-"This day marks the beginning of the new glorious era, one of abundance and happiness, without fear of the Empire," she said and raised both her hands; the people followed her example. "Beautiful foliage will turn this place into an oasis for generations to come, as the water in the well will never dry out." 
+"This day marks the beginning of the new glorious era, one of abundance and happiness, without fear of the empire," she said and raised both her hands; the people followed her example. "Beautiful foliage will turn this place into an oasis for generations to come, as the water in the well will never dry out." 
 
 The woman made a short pause and shouted, "May this blessing of Raa forever protect this village!"
 
@@ -75,7 +75,7 @@ The villagers couldn't believe their eyes. Right around them, the ground lit up,
 
 "What is this?" Aya, the young village lady, asked, visibly awestruck. She wanted to rub her eyes in disbelief, but she wasn't sure if she could let go of the hands of the people next to her yet. 
 
-Raajimera appeared incredibly regal. She looked at the villagers and released their hands from her grasp. "I created a protection spell that will hide the village from the outside," she said, her voice full of pride, "the barrier will be kept up indefinitely, sustained by the life force of the foliage within it.
+Raajimera appeared incredibly regal. She looked at the villagers and released their hands from her grasp. "I created a protection spell that will hide the village from the outside," she said, her voice full of pride. "The barrier will be kept up indefinitely, sustained by the life force of the foliage within it.
 
 The chieftain was floored by all he saw. "How is this possible?" he asked. "Can anyone check it?"
 
@@ -89,7 +89,7 @@ Raajimera smiled and exclaimed, "See? Raa is on our side! With her blessings—"
 
 The woman lost the smile on her face. "I've just shown you that I am more than capable of taking care of the village on my own," she protested.
 
-The chieftain started, "The prophecy—," but Raajimera interrupted him suddenly. 
+The chieftain started, "The prophecy—" but Raajimera interrupted him suddenly. 
 
 "According to it, the village would only be safe once the Snake King is selected, but it already is protected without one," she stated. "Moreover, you never told me how the prophecy ends. Why is it even necessary?"
 
@@ -129,13 +129,13 @@ _Maybe that was my lesson? To accept help?_ she thought to herself.
 
 Raajimera turned towards him, struggling to retain her composure in the situation.
 
-"Seyed," she said, "for your exceptional participation in my endeavors, I have chosen you as the Snake King."
+"Seyed," she said, "for your exceptional participation in my endeavors, I have chosen you as the snake king."
 
 It felt wrong, but it wasn't supposed to change anything. She tried to think of it as a political choice rather than a personal one.
 
 Seyed's face brightened even more. He appeared excited. The man grabbed her hands firmly and looked right into her eyes, saying, "I shall protect you until the end, Milady."
 
-The chieftain cut between them and exclaimed, "This calls for a celebration!" as he encircled them with his arms. "Let's arrange a coronation party worthy of real royalty!"
+The chieftain cut between them and exclaimed, "This calls for a celebration!" as he encircled them with his arms, applying more pressure than she expected him to. "Let's arrange a coronation party worthy of real royalty!"
 
 "Another one?" Raajimera asked, trying to grasp for air. "I thought you said we must prepare for an attack. Do you think this is the right time for that?"
 
@@ -171,9 +171,9 @@ The woman felt like a spike went through her stomach. She started to wonder if s
 
 He grabbed her hands once more, this time in a more tender way. "I want you to feel comfortable. When they finally reveal it, you will know exactly what to say."
 
-Raajimera felt grateful for the life she was given in Duskvale. She felt like she should put more faith in her people.
+Raajimera felt grateful for the life she was given in Duskvale. She felt like she should put more faith in her people, yet there was something rehearsed about the way he said it.
 
-The woman looked at the chieftain and saw him smiling heartily. It made her feel warm inside.
+The woman looked at the chieftain and saw him with a grin on his face. She glanced at the crowd. The music was playing, and everyone was smiling; she didn't want to be the person who ruined it.
 
 "Alright," she finally said. "Lead me to it."
 
@@ -221,7 +221,7 @@ The man put his last bits of energy towards wielding the blade, but shortly afte
 
 Raajimera's legs were shaking, yet she couldn't seem to move them. She felt paralyzed by the situation.
 
-The animals encircled her, yet dealt her no harm. It was as if they were waiting for an order. She took a deep breath and extended her hand towards them.
+The animals encircled her yet dealt her no harm. It was as if they were waiting for an order. She took a deep breath and extended her hand towards them.
 
 One of the animals gently put its head on her palm and stuck its tongue out. Raajimera looked the animal in the eyes and realized they were there on Raa's behalf.
 
@@ -241,7 +241,7 @@ The woman made eye contact with the villagers. "You knew," she said with judgmen
 
 "Enough with your fake titles!" she yelled.
 
-Raajimera's eyes began to glow as her forehead mark shifted to white. In a split second, her face seemed so otherworldly, as if she was replaced by a thoroughly different person. They would quickly find out why…
+Raajimera's eyes began to glow as her forehead mark shifted to white. In a split second, her face seemed so otherworldly, as if she were replaced by a thoroughly different person. They would quickly find out why…
 
 The villagers suddenly heard Raa's voice coming from her mouth. It was loud and primal. A cold chill ran down their spines; they had never heard the voice of their goddess before.
 
@@ -257,7 +257,7 @@ The inhabitants of Duskvale held their breaths.
 
 As Raa's influence ended, Raajimera's face turned doleful. Her mark returned to its previous state, and her eyes were not glowing anymore; instead, they filled with tears. 
 
-Tears fell down her face like an unstoppable wave. The woman didn't know whether she was sad, angry, or scared; she was so overwhelmed with emotions that she lost control of her celestial powers.  The world was spinning in her eyes.
+Tears fell down her face like an unstoppable wave. The woman didn't know whether she was sad, angry, or scared; she was so overwhelmed with emotions that she lost control of her celestial powers. The world was spinning in her eyes.
 
 Dark clouds gathered above the village, bringing a violent sandstorm with them. A whirl of howling wind went through the village, stampeding everything in its wake.
 
@@ -270,7 +270,9 @@ She blindly ran ahead, unsure where to go. Anywhere would be safer than Duskvale
 
 The woman thought she could hear them calling her name, but she didn't stop. She ran until her legs were in pain and her stomach felt like she could no longer move. Raajimera kept forcing herself to go forward until she passed out from exhaustion. 
 
-She dropped face down into the ground. Feng was not with her; she was completely alone on the harsh dirt. Rain began pouring from the sky, further covering her tracks.
+She dropped face down into the ground. Rain began pouring from the sky, further covering her tracks. If only she could remain conscious a little longer, she would have heard the footsteps of the man who found her and felt the hands that lifted her from the mud.
+
+The woman would later learn his name as the overwhelming darkness loosened her grip on her.
 
 A group of Imperial soldiers finally arrived at Duskvale. They noticed disturbed sand where the village should be, but they didn't see the settlement itself. The situation confused them deeply.
 

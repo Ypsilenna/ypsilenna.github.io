@@ -6,8 +6,8 @@ date: "2026-03-31"
 categories: [stories]
 tags: [The Snake Queen] 
 receipt:  In which Raajimera sees herself in the water.
-words: "3554"
-rtime: "18 minutes"
+words: "3635"
+rtime: "19 minutes"
 ---
 In a universe where nothing made sense, a sudden spark of understanding paved the way for Raajimera to claim the gifts she had been promised. Each grain of sand she lifted felt like a small step closer to perfection. 
 
@@ -87,7 +87,7 @@ Raajimera backed away and said, "Actually, I am sorry. I have to return to my ro
 
 "I really need to take care of something right now, maybe some other day. Thank you for bringing me here." Raajimera left the place, rushing. 
 
-Seyed turned to the statue and waited until he could no longer hear the woman's footsteps. He looked at the statue of Raa and stole some glass flowers from the table. 
+Seyed turned to the statue and waited until he could no longer hear the woman's footsteps. He looked at the statue of Raa and took one of the glass flowers from the table. He examined it closely, turning it in his fingers, observing how the light moves through them. Then he smiled to himself and slipped it into his pocket.
 
 "I hope you won't need **all** of these, Twilight Mother," he said to himself and smirked. 
 
@@ -141,7 +141,7 @@ Raajimera closed her eyes. She couldn't see the village anymore; she stopped hea
 
 The woman lifted her hands and began doing calm moves resembling gentle martial arts. 
 
-Among the darkness, her third eye saw a clone of herself made of shiny water. She could almost touch it, if only she moved a little closer…
+Among the darkness, her third eye saw a clone of herself made of shiny water. She could almost touch it if only she moved a little closer…
 
 _Who are you_? She asked in her thoughts.
 
@@ -197,7 +197,9 @@ Raajimera looked around and noticed Aya and the village women trying to carry ju
 
 Perhaps she was simply overthinking everything, but something didn't sit right with Raajimera. She couldn't stop the rush of thoughts, so she decided to do something to distract herself from it all.
 
-The woman returned to the tavern and brought a pot with her. 
+The woman headed back towards the tavern, but as she approached the door, she heard a group of villagers talking about something right behind the building. Their voices were hushed, so she couldn't really understand what their conversation was about. She thought she heard something about the empire, although she was not entirely sure.
+
+Raajimera entered the tavern and brought a pot with her. 
 
 There was an old terracotta bathtub in the room next to her. She intended to collect some fresh water to clean herself with. 
 
@@ -235,7 +237,7 @@ Raajimera squeaked.
 
 Eventually, the temperature dropped. Now, the water was serene and pleasantly warm.
 
-"See, you've done it!" Feng sounded excited. "You are a natural! I mean, as natural as a person who got their powers from a deity can be." If snakes could smile, this one would definitely do it right now.
+"See, you've done it!" Feng sounded excited. "You are a natural! I mean, as natural as a person who got their powers from a deity can be. " If snakes could smile, this one would definitely do it right now.
 
 Raajimera began undressing. Feng looked at her and asked, "It may sound strange, but… may I bathe with you? I'm about to molt, and my skin feels really dry."
 

@@ -6,8 +6,8 @@ date: "2026-04-03"
 categories: [stories]
 tags: [The Snake Queen] 
 receipt: In which Raajimera meets the man in the shadows.
-words: "4945"
-rtime: "25 minutes"
+words: "5197"
+rtime: "26 minutes"
 ---
 Raajimera woke up in somebody else's bed. She had a terrible headache that made her feel like her skull cracked into a thousand shards. The woman couldn't figure out what part of the day it was. 
 
@@ -27,7 +27,7 @@ With each second, the sound of boots stepping across the stone floor got closer.
 
 The white sheet moved. Raajimera tried to take a peek from under the duvet. She saw the source of the noise. 
 
-It was a man who resembled the inhabitants of Duskvale but with a much darker complexion and eyes like amber in warm sunlight. He had curly brown hair tucked under his white hood and the tired face belonged to a middle-aged man who had seen several horrible things too many. 
+It was a man who resembled the inhabitants of Duskvale but with a much darker complexion and eyes like amber in warm sunlight. He had curly brown hair tucked under his white hood, and the tired face belonged to a middle-aged man who had seen several horrible things too many. 
 
 She couldn't help but feel sympathy for him; however, her recent trauma made her very cautious. 
 
@@ -123,7 +123,7 @@ The woman was confused by this question and took a second to think about it. She
 
 Raajimera could sense that what she will hear today will shake her perception of the situation. She looked down, trying not to make eye contact with him.
 
-"She was a strong woman," he said. " and the right hand of the previous chieftain. She took care of the villagers, feeding the hungry ones, going out of her way to ensure everyone had enough resources to live a happy and safe life."
+"She was a strong woman," he said. and the right hand of the previous chieftain. She took care of the villagers, feeding the hungry ones, going out of her way to ensure everyone had enough resources to live a happy and safe life."
 
 "You seem to be looking up to her," Raajimera pointed out.
 
@@ -187,7 +187,7 @@ Raajimera waited for him to continue, her eyes piercing right through him, like 
 
 "What happened?" Raajimera asked, visibly starting to get into his story.
 
-"The Hazyan Empire aims to unite all nations of Pai-Gorva, this continent. Be it voluntary or not. The Empire, however, only gives these people an illusion of choice. They harass them until they decide to surrender, not enough to wipe them out, but just enough to break their will. Those who request to join the Empire are regarded as its citizens with all rights and obligations. However, the longer the Empire has to fight the nations before they surrender, the harsher they treat them after they ultimately become a part of it. My father was our chieftain. He wanted to bring Duskvale into the Empire to ensure our people would be treated with respect."
+"The Hazyan Empire aims to unite all nations of Pai-Gorva, this continent, be it voluntarily or not. The Empire, however, only gives these people an illusion of choice. They harass them until they decide to surrender, not enough to wipe them out, but just enough to break their will. Those who request to join the Empire are regarded as its citizens with all rights and obligations. However, the longer the Empire has to fight the nations before they surrender, the harsher they treat them after they ultimately become a part of it. My father was our chieftain. He wanted to bring Duskvale into the Empire to ensure our people would be treated with respect."
 
 Zephyr paused for a short while and looked at his reflection in his cup. 
 
@@ -231,7 +231,7 @@ Raajimera was perplexed.
 
 "How could they have planned my arrival?" She asked. "Even I didn't know that I would end up there."
 
-Zephyr took a deep breath and answered her question, "By bribing the snake deity for long enough." They didn't ask for you specifically; all they needed was a champion of a spirit beast."
+Zephyr took a deep breath and answered her question, "By bribing the snake deity for long enough. They didn't ask for you specifically; all they needed was a champion of a spirit beast."
 
 Raajimera looked down.
 
@@ -267,7 +267,8 @@ Raajimera shook her head.
 
 "What happened to the Nightwalker?" Raajimera asked.
 
-"He survived, but he was greatly weakened. The stag lost his voice and the shine that made him appear like a star. Nobody ever saw him again," Zephyr answered. "I'm afraid that Abbas intended to recreate these events, destroy Raa, subdue the Empire, and rule the entire Pai-Gorva."
+"He survived, but he was greatly weakened. The stag lost his voice and the shine that made him appear like a star. Nobody ever saw him again," Zephyr answered. "I'm afraid that Abbas might have been inspired by this story. He must have planned to destroy Raa, subdue the Empire, and rule the entire Pai-Gorva.  
+This kind of power corrupts people like him."
 
 "He was not the one who attempted to kill me," Raajimera opposed.
 
@@ -357,7 +358,7 @@ Raa nodded and said, "He speaks the truth."
 
 The goddess looked at her and responded, "He is, but barely."
 
-There was a certain kind of sorrow in the Raa's voice.
+There was a certain kind of sorrow in Raa's voice.
 
 "How is it possible that your brother is a stag and you are a snake?" the woman questioned further. Raajimera felt like her question was inappropriate, but it bothered her enough to ask anyway.
 
@@ -409,14 +410,40 @@ Raajimera hugged her friend as tightly as she could without damaging its tiny sn
 
 The animal rubbed its cheek against hers. It didn't have to say a word; she was happy to finally hold it in her arms.
 
-Zephyr approached her.
+Zephyr approached her quietly and sat a little closer than she thought he would. Raajimera looked at his face. He wasn't looking at her, but she would have sworn she could see a hint of a smile swiftly coursing through his face.
 
-"So, your friend has returned?" He asked and smiled at her warmly.
+"So, your friend has returned?" he asked and looked at her, his eyes significantly warmer than before. His aura changed slightly, and Raajimera noticed that it began affecting her as well.
 
 She nodded quietly, but she was visibly happier.
 
-The man sat next to them and gazed upon the stars with her.
+They gazed upon the stars together. Myriads of shining stars in the night sky reflected in his eyes, making them look like precious geodes with all the stars reflecting in them.
 
-His presence made the night less cold. For the first time since she became a demigoddess, she felt a genuine connection with someone. He was her kindred spirit, and the wisdom of Raa filled her with the certainty that with him by her side everything will be okay.
+"Let's go back inside; it's getting cold," he said as he stood up.
+
+Raajimera followed him.
+
+"So where did you go?" she asked without hiding her curiosity.
+
+"You really wish to know, huh?" he responded. "I brought you something from another village."
+
+"You got me something? What is it?" she kept inquiring. "And why?"
+
+Zephyr opened the door to his house and waited for her to get inside.
+
+"I brought you another tea," he said. "Maybe you will actually like this one."
+
+"But I liked the one you gave me," she lied.
+
+The man chuckled.
+
+"You really need to work on your composure," he said. "I could read you like an open book."
+
+"I mean," she said with a blush, "that wasn't the worst infusion I remember drinking..."
+
+"At least you are honest," he responded with an almost amused tone.
+
+They went inside and closed the door. The chilly wind was still entering the room through the holes in the entrance, but Zephyr's presence made the night less cold.
+
+For the first time since she became a demigoddess, Raajimera felt a genuine connection with someone. He was her kindred spirit, and the wisdom of Raa filled her with the certainty that with him by her side everything will be okay.
 
 There will come a day when she will have to face the people who turned on her and make them pay for what they have done. For now, however, all she could think about was the son of the wind, the myriad of stars reflected in his eyes, and the tale of the night sky.

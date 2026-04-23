@@ -6,7 +6,7 @@ date: "2026-03-31"
 categories: [stories]
 tags: [The Snake Queen] 
 receipt: In which the priestess now known as Raajimera ends up in a strange village.
-words: "3769"
+words: "3803"
 rtime: "19 minutes"
 ---
 The air was dancing over the semi-arid area surrounding the village of Duskvale. It was noon, and the wind was still and calm, like a monk in a meditation trance.
@@ -117,7 +117,7 @@ Aya finished brushing Raajimera's hair. "You look good, don't you?" she asked.
 
 Raajimera got up and approached the mirror to take a closer look at her reflection. The outfit was beautiful; the dark top revealed her chiseled belly, but it also covered her shoulders, as it came with a petite cape held together with an ornate golden collar. The layered skirt made her look like a dancer; it dropped on both sides of her body like a black waterfall. She put her leg forward and noticed how good the short, tight pants looked underneath. 
 
-As she admired her new appearance, Aya put some jewelry on her. Two golden arm hoops and a pair of earrings that resembled white raindrops held together by a pearl. 
+As she admired her new appearance, Aya put some jewelry on her. Two golden arm hoops and a pair of earrings that resembled white raindrops held by a pearl. 
 
 Raajimera wondered if she ever looked this good, but then her eyes wandered to the cursed mark again. She couldn't stop thinking how much she hated it. 
 
@@ -157,6 +157,8 @@ Raajimera felt a sting in her stomach. She looked at him with the facial express
 
 Raajimera was uneasy, yet she resumed eating. Her stomach was churning, and she would just devour whatever was placed in front of her.
 
+She looked away for one moment and caught the chieftain exchanging strange looks with Aya. The woman couldn't understand what to make out of their brief interaction, but she just assumed it was something unrelated.
+
 After finishing her food, a sudden realization that she probably should have stopped eating sooner hit her. She felt round and heavy, like a boulder rolling down the hill. 
 
 Aya noticed that their guest was not feeling well and decided to escort her out of the party. 
@@ -181,7 +183,7 @@ Raajimera looked around and found a small bag with a firelight kit. The lamp was
 
 The woman began to hit the chert flint with the piece of steel she found in the kit until the wick was lit. It took her a while, but it was worth it. The warm light of the oil lamp was pleasant to look at.
 
-Raajimera got up and approached the round window placed in the mud brick wall. She saw the group of seemingly happy villagers dancing around the bonfire in the distance. 
+Raajimera got up and approached the round window placed in the mudbrick wall. She saw the group of seemingly happy villagers dancing around the bonfire in the distance. 
 
 The sky was beginning to darken as the sun sleepily waned behind the horizon. 
 
@@ -225,7 +227,7 @@ The woman seemed down. "Or inherently stupid," she muttered.
 
 Raajimera looked at the snake; she was confused. "Which is…?" she asked.
 
-"She made you a demigoddess. You know, an immortal sorceress among mere men? I am here to teach you how to unlock your powers," the snake nodded. "I think it's for the better that you remember nothing; after all, you can't achieve greatness with the weight of your past dragging you down."
+"She made you a demigoddess. You know, an immortal sorceress among mere men? I am here to teach you how to unlock your powers." The snake nodded. "I think it's for the better that you remember nothing; after all, you can't achieve greatness with the weight of your past dragging you down."
 
 The woman looked at the animal, confused. "A demigoddess?" she asked. "But I'm just a regular person."
 

@@ -6,7 +6,7 @@ date: "2026-03-31"
 categories: [stories]
 tags: [The Snake Queen] 
 receipt: In which Raajimera figures out how to get the status she deserves.
-words: "3036"
+words: "3165"
 rtime: "16 minutes"
 ---
 The chieftain has been downcast lately. Nobody was sure whether it was caused by the possibility of an impending imperial attack or if there was something different he was not telling them. Regardless, he was clearly lost in thought. 
@@ -89,7 +89,11 @@ The real Seyed looked at the chieftain suspiciously; the leader did the same.
 
 "What are you talking about?" The chieftain was confused. "I left home very early today. Why did you move? Weren't you on my other side just a second ago?"
 
-"What? Huh, never mind." Seyed crossed his arms and said, "I will wait for him with you." The two men sat on tree stumps nearby and continued chatting.
+Seyed's eyes swept the area quickly, in a way that reminded Raajimera less of a confused man and more of someone checking if they had been followed. His expression then settled back into his usual ease. He crossed his arms as if nothing had happened.
+
+"What? Huh, never mind," he said. "I will wait for him with you."
+
+The two men sat on tree stumps nearby and continued chatting.
 
 Raajimera observed them from hiding, but she couldn't hear a word of what they were saying. She began to think she was terrible at planning. Even an animal had a better understanding of the situation, and it really bothered her.
 
@@ -115,13 +119,13 @@ The men fell silent.
 
 "Moreover," the merchant continued, "rumor has it that Zephyr was spotted sniffing around too."
 
-"Incredible, so we have him on our backs too," the chieftain moaned. "Do you think he knows about, you know…?"
+"Incredible, so we have that shadow on our backs too," the chieftain moaned. "I will never know from under what rock he crawled out, but he always seems to find a way to ruin my plans. Do you think he knows about, you know…?"
 
 "I sure as hell wouldn't like him to," the merchant said and exhaled some smoke. "You know him, though. That man seems to have a personal vendetta against you; if he is nearby, that probably means trouble."
 
 Both the chieftain and Seyed seemed displeased about it. 
 
-Raajimera had to know what was going on. She crawled out of her corner and approached the caravan. The woman had already dropped her disguise, so they could see clearly who she was.
+Raajimera had to know what was going on. She crawled out of her corner and approached the caravan. The woman had already dropped her disguise so they could see clearly who she was.
 
 The stranger noticed her right away. "Who is she?" he inquired. "She looks absolutely stunning! Let me take a look at you!"
 
@@ -133,7 +137,7 @@ The stranger noticed her right away. "Who is she?" he inquired. "She looks absol
 
 "She initially didn't speak, but we noticed the mark on her forehead and assumed she was the fabled Snake Queen," the chieftain added.
 
-The merchant glanced at her forehead. "Yes, it makes sense," he replied. "Raajimera means _herald of Raa_."
+The merchant glanced at her forehead. "Yes, it makes sense," he replied.
 
 "She can do some sort of god magic and whatnot," Seyed explained without sugarcoating it. 
 
@@ -149,7 +153,7 @@ The vendor examined them. "I'm not even sure what they are, but I'm pretty sure 
 
 "So I can't buy anything?" Raajimera asked.
 
-"I am willing to offer you some aged footwear or worn-out pieces of cloth. Oh, you know what?" The man reached deep into his caravan's storage and pulled out a sack. " You are fond of flowers, right? Take this bag of old seeds. I mean, this place is basically a desert, but this is the best I can do for your…currency."
+"I am willing to offer you some aged footwear or worn-out pieces of cloth. Oh, you know what?" The man reached deep into his caravan's storage and pulled out a sack. "You are fond of flowers, right? Take this bag of old seeds. I mean, this place is basically a desert, but this is the best I can do for your…currency."
 
 Raajimera really wanted to make her first purchase, so she took the bag without complaining. She handed him the glass flowers and looked into the sack.
 
@@ -219,9 +223,13 @@ The woman picked the snake up from the ground and nearly threw it into the sky o
 
 The woman interrupted Feng's speech, "Imagine! I am finally going to be their hero, their savior…"
 
-"Raajimera, you should have just stopped after '_one of them',_ it really doesn't do you any favor if you continue talking," the snake stated.
+"Raajimera, you should have just stopped after '_one of them';_ it really doesn't do you any favors if you continue talking," the snake stated.
 
 The woman was already in a different place emotionally. She grabbed her things and rushed toward an abandoned yard on the side of the village. 
+
+For a moment, she had a thought so familiar that it almost frightened her. Raajimera liked the idea of being indispensable. She was eager to help, yet not out of her goodwill; she wanted to be powerful, to be owed.
+
+Why did this thought feel like coming home to her? She had no memory of ever thinking this way. She tried to push this feeling down yet kept walking.
 
 "No, my friend," she said under her breath, "I can't stop after anything. I've got the ultimate miracle to perform."
 

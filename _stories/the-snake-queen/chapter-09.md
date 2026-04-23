@@ -6,16 +6,22 @@ date: "2026-04-21"
 categories: [stories]
 tags: [The Snake Queen] 
 receipt: In which Raajimera finds out what howls in the pass.
-words: "4426"
+words: "4496"
 rtime: "23 minutes"
 ---
+Just about two weeks ago Raajimera had been terrified of Zephyr. Thinking about him now, she couldn't really remember why. After all, in this cold and cruel world—given all the blue colors he so meticulously hid behind dark clouds—he was the only ray of sunshine in the storm.
+
+With time, she learned where to shelter herself from the lightning, waiting for the sunrise to warm her skin once more.
+
 The air that morning was as chilly as the heart of the emperor himself. It was true that summer was slowly coming to an end; however, it still felt rather strange to observe such temperatures.
 
 A fresh breeze entered the chamber through the holes in the door, dancing like a performer in front of the royal court.
 
 Raajimera woke up suddenly, shivering under the duvet she hated so much. She turned around and curled up softly in case Zephyr decides to get her out of the bed again.
 
-She felt much better after approximately two weeks of rest. Zephyr took off her bandages the day before. The scar was fully healed and no longer brought her any discomfort. It was rather ugly, yet she refused to attempt to remove it with Raa's magic. She claimed she needed a reminder that she isn't in fact immortal. Raajimera feared that the moment her memento from Duskvale disappeared from her sight, she would grow reckless and end up in peril once more.
+She finally recovered enough to feel alive once more.
+
+Zephyr took off her bandages the day before. The scar was fully healed and no longer brought her any discomfort. It was rather ugly, yet she refused to attempt to remove it with Raa's magic. She claimed she needed a reminder that she isn't in fact immortal. Raajimera feared that the moment her memento from Duskvale disappeared from her sight, she would grow reckless and end up in peril once more.
 
 The woman suddenly noticed that she must have forgotten to draw the curtain that hung above her bed.
 
@@ -89,7 +95,7 @@ The man suddenly laughed as heartily as he could. Which wasn't a lot compared to
 
 "I like this snake," he said, "a delightful little creature."
 
-"I am not little," Feng stated, "I am pocket-sized."
+"I am not little," Feng stated. "I am pocket-sized."
 
 The reptile nodded to give more emphasis to its words.
 
@@ -129,7 +135,7 @@ He put the bowls on top of the container and attempted to carry them outside all
 
 "Thank you, but I've been doing this alone for years. I can handle it," he said.
 
-"Yes, but you are not alone anymore," she reminded him. "I want to be a part of your life too, please include me."
+"Yes, but you are not alone anymore," she reminded him. "I want to be a part of your life too; please include me."
 
 "Fine," he responded and gestured at the door.
 
@@ -343,7 +349,7 @@ The man approached Raajimera to tell her about his discovery, but he saw her sta
 
 He approached her from behind and gently touched her arms.
 
-"What are you looking at?" he asked, trying to trace her sight.
+"What are you looking at?" he asked, trying to trace her gaze.
 
 She silently pointed at the ground.
 
