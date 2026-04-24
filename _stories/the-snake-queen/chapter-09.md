@@ -8,6 +8,7 @@ tags: [The Snake Queen]
 receipt: In which Raajimera finds out what howls in the pass.
 words: "4496"
 rtime: "23 minutes"
+ogimage: /static/image/thumbnails/2024-019.png
 ---
 Just about two weeks ago Raajimera had been terrified of Zephyr. Thinking about him now, she couldn't really remember why. After all, in this cold and cruel world—given all the blue colors he so meticulously hid behind dark clouds—he was the only ray of sunshine in the storm.
 

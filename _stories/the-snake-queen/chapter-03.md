@@ -8,6 +8,7 @@ tags: [The Snake Queen]
 receipt: In which Raajimera heeds the cosmic call and lets a feral snake train her.
 words: "2773"
 rtime: "14 minutes"
+ogimage: /static/image/thumbnails/2024-019.png
 ---
 After a long night of mildly interrupted sleep, a ray of the rising sun ultimately woke Raajimera up for good. 
 

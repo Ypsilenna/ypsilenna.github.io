@@ -8,6 +8,7 @@ tags: [The Snake Queen]
 receipt: In which Raajimera meets the man in the shadows.
 words: "5197"
 rtime: "26 minutes"
+ogimage: /static/image/thumbnails/2024-019.png
 ---
 Raajimera woke up in somebody else's bed. She had a terrible headache that made her feel like her skull cracked into a thousand shards. The woman couldn't figure out what part of the day it was. 
 
@@ -438,7 +439,7 @@ The man chuckled.
 
 "You really need to work on your composure," he said. "I could read you like an open book."
 
-"I mean," she said with a blush, "that wasn't the best infusion I remember drinking..."
+"I mean," she said with a blush, "I don't remember drinking a better infusion..."
 
 "At least you are honest," he responded with an almost amused tone.
 

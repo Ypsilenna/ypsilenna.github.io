@@ -8,6 +8,7 @@ tags: [The Snake Queen]
 receipt: In which things go wrong for Raajimera.
 words: "3915"
 rtime: "20 minutes"
+ogimage: /static/image/thumbnails/2024-019.png
 ---
 The village was full of clamor as its inhabitants worked like a colony of ants. It has been three days since the traveling merchant warned them about an impending attack from the Empire. They had to raise walls around the settlements, as they speculated that this attack would be unlike anything that had ever happened to them. 
 
