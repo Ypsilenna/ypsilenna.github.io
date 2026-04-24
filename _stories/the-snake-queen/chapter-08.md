@@ -410,13 +410,13 @@ Raajimera hugged her friend as tightly as she could without damaging its tiny sn
 
 The animal rubbed its cheek against hers. It didn't have to say a word; she was happy to finally hold it in her arms.
 
-Zephyr approached her quietly and sat a little closer than she thought he would. Raajimera looked at his face. He wasn't looking at her, but she would have sworn she could see a hint of a smile swiftly coursing through his face.
+Zephyr approached her quietly and sat a little closer than she thought he would. Raajimera glanced at his face. He wasn't looking at her, but she would have sworn she could see a hint of a smile swiftly coursing through his face.
 
 "So, your friend has returned?" he asked and looked at her, his eyes significantly warmer than before. His aura changed slightly, and Raajimera noticed that it began affecting her as well.
 
 She nodded quietly, but she was visibly happier.
 
-They gazed upon the stars together. Myriads of shining stars in the night sky reflected in his eyes, making them look like precious geodes with all the stars reflecting in them.
+They gazed upon the stars together. The sky was dark but beautiful. Shining stars reflected in Zephyr's eyes, making them look like precious geodes.
 
 "Let's go back inside; it's getting cold," he said as he stood up.
 
