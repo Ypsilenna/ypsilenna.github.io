@@ -438,7 +438,7 @@ The man chuckled.
 
 "You really need to work on your composure," he said. "I could read you like an open book."
 
-"I mean," she said with a blush, "that wasn't the worst infusion I remember drinking..."
+"I mean," she said with a blush, "that wasn't the best infusion I remember drinking..."
 
 "At least you are honest," he responded with an almost amused tone.
 
