@@ -122,7 +122,7 @@ The men fell silent.
 
 "Incredible, so we have that shadow on our backs too," the chieftain moaned. "I will never know from under what rock he crawled out, but he always seems to find a way to ruin my plans. Do you think he knows about, you know…?"
 
-"I sure as hell wouldn't like him to," the merchant said and exhaled some smoke. "You know him, though. That man seems to have a personal vendetta against you; if he is nearby, that probably means trouble."
+"I sure as damnation hope he doesn't," the merchant said and exhaled some smoke. "You know him, though. That man seems to have a personal vendetta against you; if he is nearby, that probably means trouble."
 
 Both the chieftain and Seyed seemed displeased about it. 
 
