@@ -275,6 +275,8 @@ She dropped face down into the ground. Rain began pouring from the sky, further 
 
 The woman would later learn his name as the overwhelming darkness loosened her grip on her.
 
+<br><br>
+
 A group of Imperial soldiers finally arrived at Duskvale. They noticed disturbed sand where the village should be, but they didn't see the settlement itself. The situation confused them deeply.
 
 One of them knelt and moved the sand with his fingers. He felt something under his fingertips and decided to dig for it. It was one of Raajimera's glass flowers, which must have been misplaced during the sandstorm. 
