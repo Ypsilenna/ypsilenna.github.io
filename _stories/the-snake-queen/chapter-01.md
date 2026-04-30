@@ -1,7 +1,7 @@
 ---
 layout: story
-title: 'The Snake Queen: Chapter 1 - Severing the ties'
-public-title: 'Chapter 1 - Severing the ties'
+title: 'The Snake Queen: Chapter 1 - Severing the Ties'
+public-title: 'Chapter 1 - Severing the Ties'
 date: "2026-03-17"
 categories: [stories]
 tags: [The Snake Queen] 
