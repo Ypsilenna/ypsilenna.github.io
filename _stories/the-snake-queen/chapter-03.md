@@ -106,7 +106,7 @@ The snake let out a tired hiss.
 
 "You mean this morning?" the animal asked. "I was about to, but then I heard someone on the stairs, and I—" Feng paused and looked at her. "What did they pull you into this time, exactly?"
 
-Raajimera sat down on the ground and sighed. "They wanted me to witness their tournament. Supposedly it's supposed to help me pick one of them as my helper, but I am not sure how."
+Raajimera sat down on the ground and sighed. "They wanted me to witness their tournament. It's supposed to help me pick one of them as my helper, but I am not sure how."
 
 The snake nodded quietly, showing that it understood.
 
