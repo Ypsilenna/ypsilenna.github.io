@@ -13,7 +13,7 @@ ogdesc: A list of stories authored by Ypsilenna.
 
 <div class="novel-container"><div class="novel-left-sidebar">
     <div>  <h2>The Snake Queen</h2><br>
-          <b>Genre:</b> Fantasy/Drama/Mystery<br>
+          <b>Genre:</b> Fantasy Dramedy<br>
           <b>Status:</b> In progress<br>
           <b>Synopsis:</b> It is a story of an unknown priestess who tries to make a pact with one of the powerful sky spirit animals, only to find out why nobody deals with the Dusk Serpent.<br>
           <b>Content warnings:</b> Violence, death, suggestive themes, use of alcohol, use of tobacco, trauma<br>
