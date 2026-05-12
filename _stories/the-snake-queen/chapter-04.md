@@ -5,7 +5,10 @@ public-title: 'Chapter 4 - Flowers of Glass'
 date: "2026-03-31"
 categories: [stories]
 tags: [The Snake Queen] 
+summary: /stories/the-snake-queen/summary
 receipt:  In which Raajimera sees herself in the water.
+rating: 13+
+flags: Soft Nudity
 words: "3635"
 rtime: "19 minutes"
 ogimage: /static/image/thumbnails/2024-019.png

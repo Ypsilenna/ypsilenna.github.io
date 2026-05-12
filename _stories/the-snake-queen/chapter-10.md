@@ -1,11 +1,14 @@
 ---
 layout: story
-title: 'The Snake Queen: Chapter 10 - Roads Traveled By Few Ⓜ️'
-public-title: 'Chapter 10 - Roads Traveled By Few Ⓜ️'
+title: 'The Snake Queen: Chapter 10 - Roads Traveled By Few'
+public-title: 'Chapter 10 - Roads Traveled By Few'
 date: "2026-04-30"
 categories: [stories]
 tags: [The Snake Queen] 
+summary: /stories/the-snake-queen/summary
 receipt: In which Zephyr takes Raajimera on a ride.
+rating: 16+
+flags: Suggestive Themes, Mental Discomfort, Nudity
 words: "5234"
 rtime: "27 minutes"
 ogimage: /static/image/thumbnails/2024-019.png

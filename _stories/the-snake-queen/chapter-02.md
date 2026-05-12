@@ -5,7 +5,10 @@ public-title: 'Chapter 2 - Sands of Duskvale'
 date: "2026-03-31"
 categories: [stories]
 tags: [The Snake Queen] 
+summary: /stories/the-snake-queen/summary
 receipt: In which the priestess now known as Raajimera ends up in a strange village.
+rating: 13+
+flags: N/A
 words: "3803"
 rtime: "19 minutes"
 ogimage: /static/image/thumbnails/2024-019.png

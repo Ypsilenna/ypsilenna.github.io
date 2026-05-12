@@ -5,7 +5,10 @@ public-title: 'Chapter 1 - Severing the Ties'
 date: "2026-03-17"
 categories: [stories]
 tags: [The Snake Queen] 
+summary: /stories/the-snake-queen/summary
 receipt: In which the priestess makes some rather questionable choices and ends up with a new name.
+rating: 13+
+flags: N/A
 words: "2216"
 rtime: "12 minutes"
 ogimage: /static/image/thumbnails/2024-019.png

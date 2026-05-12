@@ -1,11 +1,14 @@
 ---
 layout: story
-title: 'The Snake Queen: Chapter 8 - Son of the Wind and the Tale of the Night Sky Ⓜ️'
-public-title: 'Chapter 8 - Son of the Wind and the Tale of the Night Sky Ⓜ️'
+title: 'The Snake Queen: Chapter 8 - Son of the Wind and the Tale of the Night Sky'
+public-title: 'Chapter 8 - Son of the Wind and the Tale of the Night Sky'
 date: "2026-04-03"
 categories: [stories]
 tags: [The Snake Queen] 
+summary: /stories/the-snake-queen/summary
 receipt: In which Raajimera meets the man in the shadows.
+rating: 16+
+flags: Trauma, Mentions of Death, Injury, Physical Discomfort
 words: "5197"
 rtime: "26 minutes"
 ogimage: /static/image/thumbnails/2024-019.png

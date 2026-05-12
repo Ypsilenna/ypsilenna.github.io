@@ -1,11 +1,14 @@
 ---
 layout: story
-title: 'The Snake Queen: Chapter 9 - Horn of Lies Ⓜ️'
-public-title: 'Chapter 9 - Horn of Lies Ⓜ️'
+title: 'The Snake Queen: Chapter 9 - Horn of Lies'
+public-title: 'Chapter 9 - Horn of Lies'
 date: "2026-04-21"
 categories: [stories]
 tags: [The Snake Queen] 
+summary: /stories/the-snake-queen/summary
 receipt: In which Raajimera finds out what howls in the pass.
+rating: 16+
+flags: Suggestive Themes, Grim Realization
 words: "4496"
 rtime: "23 minutes"
 ogimage: /static/image/thumbnails/2024-019.png

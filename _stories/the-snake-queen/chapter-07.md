@@ -1,11 +1,14 @@
 ---
 layout: story
-title: 'The Snake Queen: Chapter 7 - Vipers in the Oasis Ⓜ️'
-public-title: 'Chapter 7 - Vipers in the Oasis Ⓜ️'
+title: 'The Snake Queen: Chapter 7 - Vipers in the Oasis'
+public-title: 'Chapter 7 - Vipers in the Oasis'
 date: "2026-04-02"
 categories: [stories]
 tags: [The Snake Queen] 
+summary: /stories/the-snake-queen/summary
 receipt: In which things go wrong for Raajimera.
+rating: 16+
+flags: Mental Discomfort, Assassination Attempt, Injury, Loss of Consciousness, Imperial Attack
 words: "3915"
 rtime: "20 minutes"
 ogimage: /static/image/thumbnails/2024-019.png

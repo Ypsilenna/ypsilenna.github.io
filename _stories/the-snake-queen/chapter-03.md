@@ -4,8 +4,11 @@ title: 'The Snake Queen: Chapter 3 - Call of the Cosmos'
 public-title: 'Chapter 3 - Call of the Cosmos'
 date: "2026-03-31"
 categories: [stories]
-tags: [The Snake Queen] 
+tags: [The Snake Queen]
+summary: /stories/the-snake-queen/summary 
 receipt: In which Raajimera heeds the cosmic call and lets a feral snake train her.
+rating: 13+
+flags: N/A
 words: "2773"
 rtime: "14 minutes"
 ogimage: /static/image/thumbnails/2024-019.png

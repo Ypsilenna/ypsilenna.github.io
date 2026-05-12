@@ -5,7 +5,10 @@ public-title: 'Chapter 6 - The Ultimate Miracle'
 date: "2026-03-31"
 categories: [stories]
 tags: [The Snake Queen] 
+summary: /stories/the-snake-queen/summary
 receipt: In which Raajimera figures out how to get the status she deserves.
+rating: 13+
+flags: Tobacco Use
 words: "3165"
 rtime: "16 minutes"
 ogimage: /static/image/thumbnails/2024-019.png

@@ -105,7 +105,7 @@ ogdesc: Welcome to Court of Gloomvale, the creative space of Ypsilenna! You can 
 <h3 class="guestbook">Links: <a href="https://ko-fi.com/ypsilenna">Ko-fi</a> ● <a href="https://bsky.app/profile/ypsilenna.art">Bluesky</a> ● <a rel="me" href="https://mastodon.green/@Ypsilenna">Mastodon</a>  ● <a href="https://cara.app/ypsilenna">Cara</a> ● <a href="https://www.instagram.com/ypsilenna">Instagram</a></h3>
     
 <div id="sector2-left"><div id="sector2-image"><img src="/static/image/wyvern-frontpage.png"></div>
-        <div id="sector2-right"><br><br>
+        <div id="sector2-right"><small>Remember to check the ratings and content warnings before reading.</small><br><br>
 <div id="latestart-title2">
     <h3><a href="/stories">Latest Chapter Updates</a></h3></div>
 <br><br>
@@ -113,7 +113,7 @@ ogdesc: Welcome to Court of Gloomvale, the creative space of Ypsilenna! You can 
 <ul>
    {% assign stories = site.stories | sort: "date" | where_exp: "item", "item.categories contains 'stories'" | reverse %}
    {% for story in stories limit: 5 %}
- <li><b><a href="{{ story.url }}">{{ story.title }}</a></b></li>
+ <li><b><a href="{{ story.url }}">{{ story.title }} ({{ story.rating }})</a></b></li>
     {% endfor %}
 </ul>
 <br><img src="/static/image/s-kme-separator.png">
