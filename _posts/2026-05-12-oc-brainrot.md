@@ -7,7 +7,7 @@ tags: [personal, writing, gaming, thoughts]
 moods: 🦤
 authors: [Ypsilenna]
 ogimage: /static/image/blank.png
-ogdesc: Last week someone found my Overwatch comic and reposted it on Reddit (...)
+ogdesc: I took a several-day-long break from writing because I heavily hyperfixated on The Snake Queen for three weeks in a row (...)
 ---
 I took a several-day-long break from writing because I heavily hyperfixated on The Snake Queen for three weeks in a row, and I needed some rest. Chapter 11 is currently in progress (I got 1324 words so far). I am planning to make the novel 12 chapters long (or 13 if I end up splitting the current one into two parts), up from the originally planned 10. The story will end with an epilogue that is most likely going to be shorter than the first chapter.
 
