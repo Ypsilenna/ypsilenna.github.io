@@ -8,6 +8,7 @@ title: 'The Snake Queen - Summary'
 <div class="novel-container"><div class="novel-left-sidebar">
     <div>  <h2>The Snake Queen</h2><br>
           <b>Genre:</b> Fantasy Dramedy<br>
+        <b>Rating:</b> 16+<br>    
         <b>Content warnings:</b> Violence, Death, Suggestive Themes, Alcohol/Tobacco Use, Trauma<br>
                   <b>Status:</b> In progress <div class="progress">
   <div class="progress-bar" role="progressbar" style="width: 77%" aria-valuenow="77" aria-valuemin="0" aria-valuemax="100">77%</div>
