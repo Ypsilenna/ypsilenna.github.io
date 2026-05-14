@@ -275,7 +275,7 @@ He took their bowls and cleaned them outside with a little water.
 
 "Your... what?" she asked, unsure.
 
-"My camel... a mount?" he explained, gesturing broadly. "You know, an animal?" "
+"My camel... a mount?" he explained, gesturing broadly. "You know, an animal?"
 
 "Oh, the animal, right..." she said. "I didn't realize you had one; for some reason I just thought you went everywhere by foot."
 

@@ -169,7 +169,7 @@ Zephyr gently touched his temples and said, "Oh, I completely forgot about somet
 
 The woman looked at him curiously.
 
-"Raajimera, sit down, please," he asked as he rummaged through all the things he already perfectly packed.
+"Raajimera, sit down, please," he asked as he rummaged through all the things he had already perfectly packed.
 
 She sat down on a boulder.
 
@@ -335,7 +335,7 @@ His body tensed a little, but he nodded.
 
 "Why did you tell me the truth?" she asked. "You are so talented; you could have just told me anything and I probably would be none the wiser."
 
-He looked at the starts that started appearing in the sky.
+He looked at the stars that started appearing in the sky.
 
 "Growing up as I did, I learned to lie to everyone, including the people I was supposed to love," he answered. "When I first saw you, I didn't feel indifferent about you. I heard the lies they fed you, and I couldn't put you through it again. Had I lied, you wouldn't have a single person out there you could trust. I didn't want you to become resentful towards people; there are still good ones out there."
 
@@ -474,7 +474,7 @@ Zephyr tried to untangle his net while mumbling something under his breath with 
 
 "Oh, alright," the animal said and stuck its tongue out. "How did you end up touching her forehead?"
 
-Zephyr shook his head and said, "I didn't. She just leaned towards me and pressed her head against mine. I think she wanted to show her affection this way, but it was quite painful to be fair."
+Zephyr shook his head and said, "I didn't. She just leaned towards me and pressed her head against mine. I think she wanted to show her affection this way, but it was quite painful, to be fair."
 
 Feng made a very silly face.
 
