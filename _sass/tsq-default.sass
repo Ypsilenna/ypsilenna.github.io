@@ -1,0 +1,697 @@
+@import url('https://fonts.googleapis.com/css2?family=Love+Ya+Like+A+Sister&display=swap')
+
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@300&display=swap')
+
+body
+  margin: 0px
+  background-color: #ffffff
+  background: linear-gradient(to bottom, #120b18 20%, #583D72 100%)
+  background-attachment: fixed
+  min-height: 100%
+  font-family: 'League Spartan', sans-serif
+
+html
+  height: 100%
+  scroll-behavior: smooth
+  container-type: scroll-state
+  container-name: scroller
+
+hr
+  margin: auto!important
+  margin-top: 15px!important
+  margin-bottom: 15px!important
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0))!important
+  border: 0!important
+  height: 1px!important
+
+a
+  text-decoration: none
+  color: #bf773c
+
+.rss-icon
+  width: 16px!important
+  height: 16px!important
+
+.rss-icon-big
+  width: 32px!important
+  height: 32px!important
+  margin: -5px 5px 0px 5px
+
+.guestbook
+  text-align: center
+  margin-bottom: 15px
+
+.iine-button
+  border-radius: 25px
+  border: 1px gray dashed
+  padding: 15px
+
+.bubbles
+  background-image: url("/static/image/bubblesv1.png")
+  background-repeat: repeat-x
+  background-position: center
+
+.pixel-shrink
+  width: auto!important
+  display: flex
+  margin: auto !important
+  
+.gallery-link
+  font-size: 12px
+  color: white!important
+  
+.gallery-link-bg
+  border-radius: 20px
+  background: #2e2e30
+  background: linear-gradient(0deg,rgba(46, 46, 48, 1) 0%, rgba(87, 87, 87, 1) 99%)
+  padding: 2.5px
+  position: absolute
+  margin-top: -27px
+  margin-left: 4px
+
+.to-top
+  position: fixed
+  bottom: 20px
+  right: 20px
+  translate: 80px 0
+  transition: all 0.4s ease, border-color 0.4s ease
+
+@container scroller scroll-state(scrollable: top)
+  .to-top
+    translate: 0 0
+
+.to-top 
+  display: flex
+  justify-content: center
+  align-items: center
+  height: 50px
+  width: 50px
+  background: white
+  cursor: pointer
+  border: 2px dashed #ffffff
+  padding: 0px 10px 0px 10px
+  background-color: #92ABFF
+
+.to-top svg
+  width: 30px
+  color: white
+
+.to-top:hover
+  border-color: black
+
+#header
+  background-image: url("/static/image/clouds-top.png")
+  background-repeat: no-repeat
+  background-position: center
+  background-size: 960px 252px
+  height: 250px
+  overflow-y: auto
+  overflow-x: hidden
+
+.header-layer2
+  background-image: url("/static/image/cloud-raa2.png")
+  background-attachment: fixed
+  background-position: center top
+  background-repeat: no-repeat
+
+#corner1
+  background-image: url("/static/image/upper-mirror.png")
+  background-position: center bottom
+  background-repeat: no-repeat
+  height: 200px
+  width: 1060px
+  min-width: 100%
+  overflow-y: auto
+  overflow-x: hidden
+  z-index: 999
+  position: relative
+  margin-left: -65px
+  margin-bottom: -60px
+  text-align: center
+  
+#credits
+  position: relative
+  width: 60%
+  text-align: center
+  margin: auto
+  margin-top: 60px
+
+#credits-mini
+  display: none
+
+.content-frame
+  border-image: url('/static/image/tsq-ramka.png') 6
+  border-image-repeat: stretch
+  border-width: 5px
+  border-style: dashed
+  max-width: 960px
+  margin: auto
+  margin-top: -2px
+  color: #e5ba98!important
+
+#content
+  padding: 10px
+  background-color: #120a19
+  text-align: justify
+  
+
+  img
+    width: 100%
+
+#home
+  height: 50px
+  width: 180px
+  background-size: 50px 50px
+  font-family: 'Love Ya Like A Sister', cursive
+  background-color: #DBECFE
+  border-style: dashed
+  border-width: 2px
+
+h1, h2, h3
+  font-family: 'Love Ya Like A Sister', cursive
+
+.title svg
+  width: 25px
+  height: 25px
+  margin: 0px 0px 5px 5px
+
+#latestblog
+  width: 95%
+  overflow-x: hidden
+  overflow-y: scroll !important
+  height: 100px
+  padding: 5px 10px 0px 10px
+  text-align: justify
+  background-color: #AACAFD
+  margin: auto
+  border-style: hidden dashed dashed dashed
+  border-width: 2px
+ 
+#latestblog2
+  width: 95%
+  overflow-x: hidden
+  overflow-y: scroll !important
+  height: 350px
+  padding: 5px 10px 0px 10px
+  text-align: justify
+  background-color: #AACAFD
+  margin: auto
+  border-style: hidden dashed dashed dashed
+  border-width: 2px
+
+#latestblog2 a
+  color: #0b469d!important
+  font-weight: bold
+
+#latestblog-title
+  width: 95%
+  height: 40px
+  padding: 0px 10px 0px 10px
+  text-align: justify
+  background-color: #92ABFF
+  margin: auto
+  border-width: 2px
+  border-style: dashed
+
+#latestblog-title svg
+  color: #212529!important
+
+#latestart-title
+  height: 40px
+  padding: 0px 10px 0px 10px
+  text-align: right
+  background-color: #92ABFF
+  border-width: 2px
+  border-style: dashed
+  float: right
+  right: 0px
+
+#latestart-title a
+  color: white
+
+#latestart-title2
+  height: 40px
+  padding: 0px 10px 0px 10px
+  text-align: right
+  background-color: #92ABFF
+  border-width: 2px
+  border-style: dashed
+  float: left
+  right: 0px
+
+#latestart-title2 a
+  color: white
+
+.unsighted
+  border: 0
+  clip: rect(1px, 1px, 1px, 1px)
+  clip-path: inset(50%)
+  height: 1px
+  margin: -1px
+  overflow: hidden
+  padding: 0
+  position: absolute
+  width: 1px
+  word-wrap: normal !important
+
+.story-nav
+    display: flex
+    justify-content: space-between
+    flex-wrap: wrap
+    margin-bottom: 30px
+    font-weight: bolder
+
+
+.blogentry
+  width: 95%
+  padding: 10px
+  text-align: justify
+  background-color: #92ABFF
+  margin: 1vh auto
+  border-width: 0.3vh
+  border-style: dashed
+  margin-bottom: 1.5em
+
+#latestblog-bottom
+  width: 95%
+  padding: 5px 10px 0px 10px
+  text-align: justify
+  background-color: #AACAFD
+  margin: auto
+  border-style: hidden dashed dashed dashed
+  border-width: 2px
+  color: black
+  text-decoration: none
+
+#latestblog a
+  color: black
+
+.blogentry a
+  color: black
+  text-decoration: none
+  font-family: 'Love Ya Like A Sister', cursive
+  size: 10px
+  padding: 10px 0
+
+.character-activefalse
+  filter: grayscale(100%)
+  opacity: 0.6
+
+.character-activetrue
+
+
+.character-tag
+  max-height: 70px
+  background-color: #272935
+  padding: 0px 20px 20px 20px
+  top: -10px
+  text-overflow: ellipsis
+  text-align: center
+  white-space: nowrap
+  overflow: hidden
+  @media (min-width: 499px)
+    width: 200px
+
+.character-list-item a
+  color: white!important
+
+.character-list
+  display: grid
+  @media (max-width: 499px)   
+    grid-template-columns: auto 
+  @media (min-width: 500px)
+    grid-template-columns: auto auto auto auto
+    max-width: 90%
+  gap: 10px 10px
+  margin: auto
+  
+
+.character-list-item
+  display: inline
+  @media (min-width: 499px)
+    width: 200px
+
+.gallery-thumbnail
+  width: 100px
+
+.artworks
+  a
+    display: block
+    width: 100%
+
+  p
+    margin-block-start: 1em
+    margin-block-end: 1em
+    margin-inline-start: 0px
+    margin-inline-end: 0px
+
+  display: grid
+  grid-template-columns: auto auto auto auto 
+  gap: 1px 1px
+  margin: auto
+  max-width: 920px
+
+.artworks-item
+  margin: 4px
+  background-color: white
+  border: 2px solid rgb(255, 255, 255)
+  border-radius: 5px
+  width: inherit
+  box-shadow: -0.3px 0 #7a5283, 0 0.3px #301a35, 0.3px 0 #301a35, 0 -0.3px #7a5283
+
+.artworks-item img
+  width: 50px
+  border-radius: 5px
+  object-fit: cover
+  justify-content: center
+
+.artworks-item-character
+  background-color: white
+  border: 2px solid rgb(255, 255, 255)
+  border-radius: 5px
+  border: solid 1px rgb(82, 82, 82)
+  border-radius: 5px
+  max-width: 200px
+
+.artworks-character
+  display: flex
+  gap: 1px 1px
+
+.artworks .column
+  display: flex
+  flex-direction: column
+  gap: 10px
+
+.clearfix::after
+  content: ""
+  clear: both
+  display: table
+
+.menuicon
+  width: 45px
+  height: 45px
+  margin-right: 10px
+
+.title
+  text-align: center
+
+#sector1
+  width: 100%
+
+#sector1-left
+  --min-size:20rem
+  display: grid
+  grid-template-columns: repeat(auto-fill, minmax(var(--min-size), 1fr))
+  grid-gap: 1rem
+
+  > div
+    padding: 5rem 1rem
+    text-align: center
+    font-size: 2rem
+    color: #ffffff
+
+#sector1-image
+  order: 1
+
+#sector1-right
+  order: 2
+  grid-template-columns: repeat(auto-fill, minmax(11.5rem, 1fr))
+  grid-gap: 1rem
+  background: #DBECFE
+
+  img
+    border-width: 2px
+
+#sector2
+  width: 100%
+
+#sector2-left
+  --min-size:20rem
+  display: grid
+  grid-template-columns: repeat(auto-fill, minmax(var(--min-size), 1fr))
+  grid-gap: 1rem
+  color: #212529
+
+  > div
+    padding: 2rem 1rem
+    text-align: justify
+
+
+#sector2-image
+  order: 2
+
+#sector2-right
+  order: 1
+  grid-template-columns: repeat(auto-fill, minmax(11.5rem, 1fr))
+  grid-gap: 1rem
+  background: #DBECFE
+  text-align: justify
+
+#sector3
+  width: 100%
+
+#sector3-left
+  --min-size:20rem
+  @media (max-width: 499px)  
+    --min-size: auto 
+  display: grid
+  grid-template-columns: repeat(auto-fill, minmax(var(--min-size), 1fr))
+  grid-gap: 1rem
+
+#sector3-left  > div
+    padding: 1rem 1rem
+    text-align: justify
+
+
+#sector3-image
+  order: 1
+  
+  img
+    width: 100%
+
+#sector3-right
+  order: 2
+  grid-template-columns: repeat(auto-fill, minmax(11.5rem, 1fr))
+  grid-gap: 1rem
+
+  img
+    border-width: 2px
+    width: auto
+
+.sector3-justify
+  text-align: justify
+
+.sector3-footer
+  padding: 10px
+
+.interests-bar
+  background-color: #dbecfe
+  padding: 10px
+  border-radius: 10px
+  color: black
+  border: 1px solid #87a0c8
+  margin-top: 2px
+  margin-bottom: 2px
+  text-align: left
+
+.story-cont 
+  padding: 25px 50px 25px 50px
+
+.story-img
+  width: 150px!important
+  float: left
+  margin: 0px 15px 15px 0px
+
+.novel-container
+  width: 90%
+  margin: auto
+
+.novel-left-sidebar
+  display: flex
+  flex-wrap: wrap
+
+  > *
+    width: 100%
+
+@media (min-width: 768px)
+  .novel-left-sidebar > *
+    &:nth-child(1)
+      width: calc(100% / 3 * 2)
+      padding: 35px
+
+    &:nth-child(2)
+      width: calc(100% / 3)
+      order: -1
+
+.infinite-spinner
+  display: block
+  width: 40px
+  height: 40px
+  border-radius: 40px
+  background-color: #333
+  margin: 60px auto
+  
+  -webkit-animation: scaleout 1.0s infinite ease-in-out
+  animation: scaleout 1.0s infinite ease-in-out
+
+.metadata
+  text-align: center
+
+.metadata svg
+  vertical-align: middle
+  top: -.10em
+  position: relative
+
+.metadata-left
+  text-align: left
+
+.metadata-left svg
+  vertical-align: middle
+  top: -.10em
+  position: relative
+
+@-webkit-keyframes scaleout
+  0%  
+  -webkit-transform: scale(0.0) 
+  100% 
+  -webkit-transform: scale(1.0)
+  opacity: 0
+
+@keyframes scaleout 
+  0% 
+  transform: scale(0.0)
+  -webkit-transform: scale(0.0)
+  100% 
+  transform: scale(1.0)
+  -webkit-transform: scale(1.0)
+  opacity: 0    
+    
+@media only screen and (max-width: 700px) 
+    /* Styles */
+  #corner1
+    background: none
+    height: 90px
+    max-width: 100%
+    z-index: 999
+    position: relative
+    text-align: center
+
+  #credits-mini
+    margin: auto
+    color: white
+    width: 80%
+    display: block
+    text-align: center
+
+  #credits
+    display: none
+
+  .gallery-link
+    font-size: 8px
+    color: white!important
+  
+.gallery-link-bg
+    border-radius: 20px
+    background: #2e2e30
+    background: linear-gradient(0deg,rgba(46, 46, 48, 1) 0%, rgba(87, 87, 87, 1) 99%)
+    padding: 2.5px
+    position: absolute
+    margin-top: -27px
+    margin-left: 4px
+  
+/* ── Infobox ── */
+.infobox
+  float: right
+  clear: right
+  margin: 0 0 1rem 1.5rem
+  width: 280px
+  border: 1px solid var(--border)
+  background: var(--surface)
+  font-family: var(--font-ui)
+  font-size: 0.8125rem
+  line-height: 1.5
+  text-align: left
+  background: #DBECFE
+
+.infobox-header
+  background: var(--infobox-header-bg)
+  color: var(--infobox-header-text)
+  text-align: center
+  padding: 0.45rem 0.6rem
+  font-size: 0.875rem
+  font-weight: 600
+  font-family: var(--font-ui)
+  border-bottom: 1px solid var(--border)
+
+.infobox-image
+  display: block
+  width: 100%
+  border-bottom: 1px solid var(--border-light)
+
+.infobox-image img
+  display: block
+  width: 100%
+  height: auto
+  max-height: 280px
+  object-fit: cover
+
+.infobox-image-caption
+  font-size: 0.75rem
+  color: var(--text-muted)
+  text-align: center
+  padding: 0.3rem 0.5rem
+  border-bottom: 1px solid var(--border-light)
+  font-style: italic
+
+.infobox table 
+  width: 100%
+  border-collapse: collapse
+
+.infobox tr:nth-child(even) td,
+.infobox tr:nth-child(even) th
+  background: var(--infobox-alt-row)
+  
+.infobox td, .infobox th
+  padding: 0.3rem 0.5rem
+  vertical-align: top
+  border-top: 1px solid var(--border-light)
+
+.infobox th
+  font-weight: 600
+  white-space: nowrap
+  width: 40%
+  
+.infobox td 
+  color: var(--text)
+
+/* ── Collapsible sections ── */
+  details
+    margin-bottom: 1.25rem
+    
+  details summary
+    cursor: pointer
+    list-style: none
+    display: flex
+    align-items: center
+    gap: 0.4rem
+    font-family: var(--font-serif)
+    font-size: 1.2rem
+    font-weight: normal
+    border-bottom: 1px solid var(--divider)
+    padding-bottom: 0.2rem
+    margin-bottom: 0.75rem
+    user-select: none
+    color: var(--section-title)
+  
+  details summary::-webkit-details-marker 
+    display: none;
+  details summary::before
+    content: '▸'
+    font-size: 0.7rem
+    transition: transform 0.2s ease
+    color: var(--text-muted)
+    flex-shrink: 0
+
+  details[open] summary::before
+      transform: rotate(90deg)
+
