@@ -9,7 +9,7 @@ summary: /stories/the-snake-queen/summary
 receipt: In which Zephyr takes Raajimera on a ride.
 rating: 16+
 flags: Suggestive Themes, Mental Discomfort, Nudity
-words: "5234"
+words: "5260"
 rtime: "27 minutes"
 ogimage: /static/image/thumbnails/2024-019.png
 ---
@@ -27,7 +27,7 @@ The scorching sun shone bright above the Howling Pass. It was a hot day, yet the
 
 Raajimera helped Zephyr pack the things he decided they would need. She didn't know much about planning voyages, so she decided to simply trust him.
 
-The man hauled some big packs on the camel's back. He secured them with some leather straps to avoid losing them while in motion.
+The man hauled some packs on the camel's back. He secured them with some leather straps to avoid losing them while in motion.
 
 "Poor thing," Raajimera said, stroking her chin, "isn't it too much for one animal?"
 
@@ -203,7 +203,7 @@ Raajimera looked back at Zephyr's house one last time. She had a stinging feelin
 
 Zephyr's place wasn't the fanciest location she could ever imagine, but having him in it made all the difference. She didn't feel fully ready to let go of this chapter of her life.
 
-Raajimera sighed softly. Not enough to alert him, but she couldn't fool herself that he wouldn't notice.
+Raajimera sighed softly. Not enough to alert him, but she couldn't fool herself that he wouldn't notice. The woman still felt embarrassed about the situation that happened before. She pulled her riding shawl to further cover her head and part of her face.
 
 They traveled for what felt like hours. Zephyr didn't talk much; his eyes were focused on the horizon. Always scanning, always analyzing.
 
