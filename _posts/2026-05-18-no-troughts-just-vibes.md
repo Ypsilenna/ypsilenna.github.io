@@ -10,12 +10,16 @@ ogimage: /static/image/blank.png
 ogdesc: I swear my creative process is just trauma and instinct at the wheel while my consciousness is passing them snacks from the backseat (...)
 ---
 I swear my creative process is just trauma and instinct at the wheel while my consciousness is passing them snacks from the backseat.
+<hr>
 
 When I was writing chapter 10 of The Snake Queen, I got stuck in one part, and it was like:
 
 Me: What should I name the ex-lover of Zephyr?
-My brain: <iframe width="560" height="315" src="https://www.youtube.com/embed/A7EkTG3rk0E?si=I4bLpe98q_tyjjn-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+My brain: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A7EkTG3rk0E?si=I4bLpe98q_tyjjn-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Me: Fits
+<hr>
 
 I write large sequences purely based on vibes and then somehow everything clicks into place. Then there is the other side of the scale, which made me spend the entire last Sunday researching Persian weddings for the novel. Which is a spoiler, but I am just talking about it here because nobody reads my blog anyway. If you are, I am sorry.
 
