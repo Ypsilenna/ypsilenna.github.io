@@ -9,7 +9,7 @@ summary: /stories/the-snake-queen/summary
 receipt: In which things go wrong for Raajimera.
 rating: 16+
 flags: Mental Discomfort, Assassination Attempt, Injury, Loss of Consciousness, Imperial Attack
-words: "3915"
+words: "3922"
 rtime: "20 minutes"
 ogimage: /static/image/thumbnails/2024-019.png
 ---
@@ -153,7 +153,7 @@ Everyone applauded and gathered around Raajimera and Seyed. They almost seemed l
 
 Before she knew it, the entire village was decorated with flowers and small trinkets. Loud music filled the whole settlement, and the smell of freshly grown plants mixed with the scent of scrumptious food.
 
-Aya and other young village ladies led her in front of a beautiful flowery arch. They had two intricate diadems on red pillows with them, and they intended to gift them to their saviors.
+Aya and other young village ladies put some flowers in her hair and led her in front of a beautiful decorative arch. They had two intricate diadems on red pillows with them, and they intended to gift them to their saviors.
 
 The chieftain approached the floral arch from the opposite side and gestured to Raajimera and Seyed to take their places there. He took one of the diadems and smiled. "With these crowns," he said, "we officially recognize you two as Snake Queen and Snake King." The man put the first diadem on Raajimera's head and then the other one on Seyed's.
 

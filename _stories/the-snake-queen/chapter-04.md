@@ -9,7 +9,7 @@ summary: /stories/the-snake-queen/summary
 receipt:  In which Raajimera sees herself in the water.
 rating: 13+
 flags: Soft Nudity
-words: "3635"
+words: "3633"
 rtime: "19 minutes"
 ogimage: /static/image/thumbnails/2024-019.png
 ---
@@ -39,7 +39,7 @@ Raajimera nodded quietly, unsure what her next move should be.
 
 "May I ask what your name is?" the man said and moved closer to her.
 
-She looked at his face, then put her hand in the pocket of her dress to make sure that Feng was still in her pocket. She needed all the emotional support she could get. The woman felt like it was about time to make peace with the fact that she was never going back to who she once was. One thing was sure: if Feng was there with her, everything would be alright, and if this little critter was good, perhaps Raa was too?
+She looked at his face, then put her hand in the pocket of her dress to make sure that Feng was still with her. She needed all the emotional support she could get. The woman felt like it was about time to make peace with the fact that she was never going back to who she once was. One thing was sure: if Feng was there with her, everything would be alright, and if this little critter was good, perhaps Raa was too?
 
 The woman exhaled sharply and said, "It's Raajimera." She smiled softly, not without a grain of sadness. "That, at least, is what was chosen for me."
 
