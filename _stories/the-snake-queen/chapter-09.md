@@ -9,7 +9,7 @@ summary: /stories/the-snake-queen/summary
 receipt: In which Raajimera finds out what howls in the pass.
 rating: 16+
 flags: Suggestive Themes, Grim Realization
-words: "4496"
+words: "4490"
 rtime: "23 minutes"
 ogimage: /static/image/thumbnails/2024-019.png
 ---
@@ -235,7 +235,7 @@ The man returned to his cooking pot. He stirred the barley seeds and added some 
 
 Zephyr fetched some dried apricots from his house and cut them into pieces as he waited for the porridge to boil. When the dish was almost ready, he put the fruits inside and mixed them with honey.
 
-The man put the porridge into the wooden bowls and topped it with some milk. They sat down on a blanket and ate the dish together.
+The man put the porridge into the wooden bowls. They sat down on a blanket and ate the dish together.
 
 "Where do you get all these spices from?" Raajimera asked as she took a spoonful of the porridge. It was warm, sweet, and had a fruity flavor from the apricots. It was thick, but just the right amount.
 
