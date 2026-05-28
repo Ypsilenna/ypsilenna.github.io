@@ -11,7 +11,7 @@ title: 'The Snake Queen - Summary'
         <b>Rating:</b> 16+<br>    
         <b>Content warnings:</b> Violence, Death, Suggestive Themes, Alcohol/Tobacco Use, Trauma<br>
                   <b>Status:</b> In progress <div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 77%" aria-valuenow="77" aria-valuemin="0" aria-valuemax="100">77%</div>
+  <div class="progress-bar" role="progressbar" style="width: 89%" aria-valuenow="89" aria-valuemin="0" aria-valuemax="100">89%</div>
 </div>
           <b>Synopsis:</b> It is a story of an unknown priestess who tries to make a pact with one of the powerful sky spirit animals, only to find out why nobody deals with the Dusk Serpent.<br>
 
