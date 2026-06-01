@@ -12,6 +12,7 @@ flags: Soft Nudity
 words: "3633"
 rtime: "19 minutes"
 ogimage: /static/image/thumbnails/2024-019.png
+ogdesc: In which Raajimera sees herself in the water.
 ---
 In a universe where nothing made sense, a sudden spark of understanding paved the way for Raajimera to claim the gifts she had been promised. Each grain of sand she lifted felt like a small step closer to perfection. 
 

@@ -12,6 +12,7 @@ flags: Mental Discomfort, Assassination Attempt, Injury, Loss of Consciousness, 
 words: "3922"
 rtime: "20 minutes"
 ogimage: /static/image/thumbnails/2024-019.png
+ogdesc: In which things go wrong for Raajimera.
 ---
 The village was full of clamor as its inhabitants worked like a colony of ants. It has been three days since the traveling merchant warned them about an impending attack from the Empire. They had to raise walls around the settlements, as they speculated that this attack would be unlike anything that had ever happened to them. 
 

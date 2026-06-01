@@ -12,6 +12,7 @@ flags: N/A
 words: "2216"
 rtime: "12 minutes"
 ogimage: /static/image/thumbnails/2024-019.png
+ogdesc: In which the priestess makes some rather questionable choices and ends up with a new name.
 ---
 There once was a priestess of the diurnal cycle whose heart was as dark and cold as the veil of the desert night. Even though even the nocturnal sky has its stars, in her search for the absolute celestial power, she stopped at nothing. She aspired to take over the Sisterhood of the Sun and the Moon. Little did she know, her name would forever be forgotten, blown away in the shimmering sands of time.
 

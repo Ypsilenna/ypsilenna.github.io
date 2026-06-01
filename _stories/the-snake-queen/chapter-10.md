@@ -12,6 +12,7 @@ flags: Suggestive Themes, Mental Discomfort, Nudity
 words: "5260"
 rtime: "27 minutes"
 ogimage: /static/image/thumbnails/2024-019.png
+ogdesc: In which Zephyr takes Raajimera on a ride.
 ---
 Many things have changed in Raajimera's life ever since she climbed that mountain. What she thought was a curse turned out to be a blessing in disguise, and what seemed terrifying at first turned out to be her safe bay.
 

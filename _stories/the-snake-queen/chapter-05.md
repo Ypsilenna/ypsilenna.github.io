@@ -12,6 +12,7 @@ flags: N/A
 words: "3165"
 rtime: "16 minutes"
 ogimage: /static/image/thumbnails/2024-019.png
+ogdesc: In which Raajimera saves helpless children, yet receives no credit.
 ---
 Life in the distant village of Duskvale was far from perfect, yet its inhabitants seemed to make the most of it given their situation. The adult part of the population had their hands full of errands. Oftentimes this would pose a problem, as their children were usually extra playful. 
 

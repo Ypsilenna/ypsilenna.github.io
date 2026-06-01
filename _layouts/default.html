@@ -22,7 +22,10 @@
 <script src="/static/js/lightbox/js/jquery.magnify.min.js"></script>
 <!-- 100% privacy-first analytics -->
 <script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
-<noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade"/></noscript>
+<noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade"/></noscript> <script>const toTop = document.querySelector('.to-top');
+window.addEventListener('scroll', () => {
+  toTop.style.translate = window.scrollY > 100 ? '0 0' : '80px 0';
+});</script>
   </body>
 </html>
  

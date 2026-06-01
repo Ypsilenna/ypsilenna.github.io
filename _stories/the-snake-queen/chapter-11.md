@@ -12,6 +12,7 @@ flags: Suggestive Themes, Mental Discomfort, Mentions of Violence
 words: "4261"
 rtime: "22 minutes"
 ogimage: /static/image/thumbnails/2024-019.png
+ogdesc: In which Zephyr brings Raajimera to the capital city.
 ---
 The end of Raajimera's journey was within arms reach. She felt both unprepared and filled with a sense of purpose. For the first time ever, she knew what she was expected to do. Knowing, however, didn't make it easier to make peace with the task at hand.
 

@@ -76,9 +76,7 @@ a
   translate: 80px 0
   transition: all 0.4s ease, border-color 0.4s ease
 
-@container scroller scroll-state(scrollable: top)
-  .to-top
-    translate: 0 0
+
 
 .to-top 
   display: flex
@@ -267,10 +265,17 @@ h1, h2, h3
 .story-nav
     display: flex
     justify-content: space-between
-    flex-wrap: wrap
     margin-bottom: 30px
     font-weight: bolder
+    align-items: center
+    gap: 1rem
 
+.nav-prev, .nav-next
+  max-width: 45%
+  overflow: hidden
+
+.nav-next
+  text-align: right
 
 .blogentry
   width: 95%
@@ -506,6 +511,9 @@ h1, h2, h3
 
 .story-cont 
   padding: 25px 50px 25px 50px
+  @media (max-width: 499px)
+    padding: 0
+    text-align: left
 
 .story-img
   width: 150px!important
@@ -609,6 +617,61 @@ h1, h2, h3
     margin-top: -27px
     margin-left: 4px
   
+.sensitive-block
+  position: relative
+  margin: 1.5rem 0
+  border-radius: 4px
+  overflow: hidden
+
+.sensitive-block .sensitive-content
+  filter: blur(4px)
+  user-select: none
+  pointer-events: none
+  transition: filter 0.3s ease
+
+.sensitive-block.revealed .sensitive-content
+  filter: none
+  user-select: auto
+  pointer-events: auto
+
+.sensitive-block .sensitive-overlay
+  position: absolute
+  inset: 0
+  display: flex
+  flex-direction: column
+  align-items: center
+  top: 50px
+  gap: 8px
+  cursor: pointer
+  transition: opacity 0.3s ease
+
+.sensitive-block.revealed .sensitive-overlay
+  opacity: 0
+  pointer-events: none
+
+.sensitive-overlay button
+  font-family: inherit
+  font-size: 13px
+  padding: 6px 16px
+  border-radius: 20px
+  border: 1.5px solid #3a7fc1
+  background: white
+  color: #3a7fc1
+  cursor: pointer
+  font-weight: bold
+
+.sensitive-overlay button:hover 
+  background: #3a7fc1
+  color: white
+
+.title-truncate
+  display: inline-block
+  max-width: 200px
+  white-space: nowrap
+  overflow: hidden
+  text-overflow: ellipsis
+  vertical-align: middle
+
 /* ── Infobox ── */
 .infobox
   float: right

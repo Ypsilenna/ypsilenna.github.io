@@ -12,7 +12,10 @@ flags: Suggestive Themes, Mental Discomfort, Violence
 words: "4199"
 rtime: "21 minutes"
 ogimage: /static/image/thumbnails/2024-019.png
+ogdesc: In which Raajimera faces the people who betrayed her.
 ---
+ 
+
 Zephyr led Raajimera to a shady street that seemed to be abandoned. It looked much less glamorous than everything she saw until now. The sad little houses were giving her chills, but at least there were no guards around to stop them.
 
 They climbed on top of a wall that led them to something akin to a watchtower.

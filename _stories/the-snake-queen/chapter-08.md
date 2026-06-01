@@ -12,6 +12,7 @@ flags: Trauma, Mentions of Death, Injury, Physical Discomfort
 words: "5197"
 rtime: "26 minutes"
 ogimage: /static/image/thumbnails/2024-019.png
+ogdesc: In which Raajimera meets the man in the shadows.
 ---
 Raajimera woke up in somebody else's bed. She had a terrible headache that made her feel like her skull cracked into a thousand shards. The woman couldn't figure out what part of the day it was. 
 

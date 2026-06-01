@@ -9,6 +9,13 @@ moods: 😎
 ogimage: /static/image/blank.png
 ogdesc: Sometimes I play games for silly reasons. For an instance, I once misread one game's name as "Champions of Rectum" and forgot about it for months (...)
 ---
-Sometimes I play games for silly reasons. For an instance, I once misread one game's name as "Champions of Rectum" and forgot about it for months. Then suddenly I had a flashback of seeing an ad of it and I was like "Wait... Why would they name their game like that???" So I googled it and I decided to download it while I was there. The game was kinda buggy, but also sorta nice. It had some charm to it. Unfortunately they wiped all my progress when I was away during a server merge. Guess I was never meant to be a champion after all...\\
+<div class="sensitive-block" id="sensitive-1">
+  <div class="sensitive-content">
+  Sometimes I play games for silly reasons. For an instance, I once misread one game's name as "Champions of Rectum" and forgot about it for months. Then suddenly I had a flashback of seeing an ad of it and I was like "Wait... Why would they name their game like that???" So I googled it and I decided to download it while I was there. The game was kinda buggy, but also sorta nice. It had some charm to it. Unfortunately they wiped all my progress when I was away during a server merge. Guess I was never meant to be a champion after all...\\
 
-Oh, and btw the game's name is actually Champions of Regnum. You can Google it, but the game has some pretty creepy goblin people as a playable race, don't say I didn't warn you!
+Oh, and btw the game's name is actually Champions of Regnum. You can Google it, but the game has some pretty creepy goblin people as a playable race, don't say I didn't warn you! </div>
+  <div class="sensitive-overlay" onclick="document.getElementById('sensitive-1').classList.add('revealed')">
+    <span>⚠ Sensitive content — 18+</span>
+    <button>Click to reveal</button>
+  </div>
+</div>

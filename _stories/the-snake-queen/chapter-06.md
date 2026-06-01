@@ -12,6 +12,7 @@ flags: Tobacco Use
 words: "3165"
 rtime: "16 minutes"
 ogimage: /static/image/thumbnails/2024-019.png
+ogdesc: In which Raajimera figures out how to get the status she deserves.
 ---
 The chieftain has been downcast lately. Nobody was sure whether it was caused by the possibility of an impending imperial attack or if there was something different he was not telling them. Regardless, he was clearly lost in thought. 
 
