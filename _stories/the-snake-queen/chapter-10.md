@@ -9,8 +9,6 @@ summary: /stories/the-snake-queen/summary
 receipt: In which Zephyr takes Raajimera on a ride.
 rating: 16+
 flags: Suggestive Themes, Mental Discomfort, Nudity
-words: "5260"
-rtime: "27 minutes"
 ogimage: /static/image/thumbnails/2024-019.png
 ogdesc: In which Zephyr takes Raajimera on a ride.
 ---

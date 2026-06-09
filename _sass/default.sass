@@ -27,6 +27,9 @@ hr
 a
   text-decoration: none
   color: #1f64c9
+
+#content[data-theme="dark"] a
+  color: #92abff
   
 .rss-icon
   width: 16px!important
@@ -89,6 +92,7 @@ a
   border: 2px dashed #ffffff
   padding: 0px 10px 0px 10px
   background-color: #92ABFF
+  z-index: 9000
 
 .to-top svg
   width: 30px
@@ -158,6 +162,16 @@ a
   margin: auto
   margin-top: -2px
 
+  .content-frame[data-theme="dark"]
+  border-image: url('/static/image/ramkav3-darkmode.png') 5
+  border-image-repeat: stretch
+  border-width: 5px
+  border-style: dashed
+  max-width: 960px
+  margin: auto
+  margin-top: -2px
+
+
 #content
   padding: 10px
   background-color: #F4F9FD
@@ -165,6 +179,10 @@ a
 
   img
     width: 100%
+
+#content[data-theme="dark"]
+  background-color: #141414
+  color: #F4F9FD
 
 #home
   height: 50px
@@ -221,8 +239,10 @@ h1, h2, h3
   border-width: 2px
   border-style: dashed
 
+
 #latestblog-title svg
   color: #212529!important
+
 
 #latestart-title
   height: 40px
@@ -270,12 +290,19 @@ h1, h2, h3
     align-items: center
     gap: 1rem
 
+
 .nav-prev, .nav-next
   max-width: 45%
   overflow: hidden
+  @media (max-width: 499px)
+    white-space: nowrap
+    text-overflow: ellipsis
 
 .nav-next
   text-align: right
+  @media (max-width: 499px)
+    white-space: nowrap
+    text-overflow: ellipsis
 
 .blogentry
   width: 95%
@@ -409,6 +436,9 @@ h1, h2, h3
 
 .title
   text-align: center
+  max-width: 650px
+  margin: auto
+
 
 #sector1
   width: 100%
@@ -563,6 +593,11 @@ h1, h2, h3
 .metadata-left
   text-align: left
 
+.post 
+  @media (max-width: 499px)  
+    top: 40px
+    position: relative
+
 .metadata-left svg
   vertical-align: middle
   top: -.10em
@@ -671,6 +706,78 @@ h1, h2, h3
   overflow: hidden
   text-overflow: ellipsis
   vertical-align: middle
+  @media (max-width: 499px)
+    max-width: 50px
+    white-space: nowrap
+    text-overflow: ellipsis
+
+\:root
+  --progress-bar-height: 10px
+  --progress-bar-color: gainsboro
+  --progress-bar-value-color: dodgerblue
+  --progress-bar-value: 20%
+
+.progress-wrapper
+  position: relative
+
+.progress-label
+  position: absolute
+  right: 0
+  bottom: 0
+  font-size: 14px
+
+progress
+  -webkit-appearance: none
+  -moz-appearance: none
+  appearance: none
+  position: absolute
+  width: 100%
+  height: var(--progress-bar-height)
+  background-color: var(--progress-bar-color)
+  border: none
+
+progress::-moz-progress-bar
+  background-color: #92ABFF
+
+progress::-webkit-progress-bar
+  background-color: var(--progress-bar-color)
+
+progress::-webkit-progress-value
+  background-color: #92ABFF
+
+progress::-ms-fill
+  background-color: #92ABFF
+
+.progress-top
+  position: sticky 
+  top: 0 
+  background-color: #F4F9FD
+  height: 50px
+
+.progress-top[data-theme="dark"]
+  background-color: #141414
+
+.lights
+  position: relative
+  top: -25px
+  margin-bottom: -50px
+
+.lights button
+  padding: 5px 5px 1px 5px
+  cursor: pointer
+  border: none
+  border-radius: 5px
+  background-color: #eee
+  font-size: 1rem
+  border: 1.5px solid #c7c7c7
+  display: flex
+  align-items: center
+  flex-direction: column
+
+body[data-theme="dark"] .lights button 
+  background-color: #333
+  color: #fff
+  border: 1.5px solid #454545
 
 /* ── Infobox ── */
 .infobox

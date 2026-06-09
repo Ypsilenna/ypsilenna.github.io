@@ -9,8 +9,6 @@ summary: /stories/the-snake-queen/summary
 receipt: In which things go wrong for Raajimera.
 rating: 16+
 flags: Mental Discomfort, Assassination Attempt, Injury, Loss of Consciousness, Imperial Attack
-words: "3922"
-rtime: "20 minutes"
 ogimage: /static/image/thumbnails/2024-019.png
 ogdesc: In which things go wrong for Raajimera.
 ---

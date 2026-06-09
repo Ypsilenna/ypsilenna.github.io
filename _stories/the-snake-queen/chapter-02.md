@@ -9,8 +9,6 @@ summary: /stories/the-snake-queen/summary
 receipt: In which the priestess now known as Raajimera ends up in a strange village.
 rating: 13+
 flags: Alcohol
-words: "3803"
-rtime: "19 minutes"
 ogimage: /static/image/thumbnails/2024-019.png
 ogdesc: In which the priestess now known as Raajimera ends up in a strange village.
 ---

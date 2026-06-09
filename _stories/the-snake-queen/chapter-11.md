@@ -9,8 +9,6 @@ summary: /stories/the-snake-queen/summary
 receipt: In which Zephyr brings Raajimera to the capital city.
 rating: 16+
 flags: Suggestive Themes, Mental Discomfort, Mentions of Violence
-words: "4261"
-rtime: "22 minutes"
 ogimage: /static/image/thumbnails/2024-019.png
 ogdesc: In which Zephyr brings Raajimera to the capital city.
 ---

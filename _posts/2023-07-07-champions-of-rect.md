@@ -19,3 +19,4 @@ Oh, and btw the game's name is actually Champions of Regnum. You can Google it, 
     <button>Click to reveal</button>
   </div>
 </div>
+

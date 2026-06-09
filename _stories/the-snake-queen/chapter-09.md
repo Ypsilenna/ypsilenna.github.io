@@ -9,8 +9,6 @@ summary: /stories/the-snake-queen/summary
 receipt: In which Raajimera finds out what howls in the pass.
 rating: 16+
 flags: Suggestive Themes, Grim Realization
-words: "4490"
-rtime: "23 minutes"
 ogimage: /static/image/thumbnails/2024-019.png
 ogdesc: In which Raajimera finds out what howls in the pass.
 ---

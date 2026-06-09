@@ -9,8 +9,6 @@ summary: /stories/the-snake-queen/summary
 receipt: In which Raajimera meets the man in the shadows.
 rating: 16+
 flags: Trauma, Mentions of Death, Injury, Physical Discomfort
-words: "5197"
-rtime: "26 minutes"
 ogimage: /static/image/thumbnails/2024-019.png
 ogdesc: In which Raajimera meets the man in the shadows.
 ---

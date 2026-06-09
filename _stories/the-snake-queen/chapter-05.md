@@ -9,8 +9,6 @@ summary: /stories/the-snake-queen/summary
 receipt:  In which Raajimera saves helpless children, yet receives no credit.
 rating: 13+
 flags: N/A
-words: "3165"
-rtime: "16 minutes"
 ogimage: /static/image/thumbnails/2024-019.png
 ogdesc: In which Raajimera saves helpless children, yet receives no credit.
 ---

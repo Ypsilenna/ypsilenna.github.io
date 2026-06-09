@@ -9,8 +9,6 @@ summary: /stories/the-snake-queen/summary
 receipt: In which Raajimera heeds the cosmic call and lets a feral snake train her.
 rating: 13+
 flags: N/A
-words: "2773"
-rtime: "14 minutes"
 ogimage: /static/image/thumbnails/2024-019.png
 ogdesc: In which Raajimera heeds the cosmic call and lets a feral snake train her.
 ---

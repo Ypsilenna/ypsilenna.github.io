@@ -9,8 +9,6 @@ summary: /stories/the-snake-queen/summary
 receipt:  In which Raajimera sees herself in the water.
 rating: 13+
 flags: Soft Nudity
-words: "3633"
-rtime: "19 minutes"
 ogimage: /static/image/thumbnails/2024-019.png
 ogdesc: In which Raajimera sees herself in the water.
 ---

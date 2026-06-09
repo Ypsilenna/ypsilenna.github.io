@@ -9,8 +9,6 @@ summary: /stories/the-snake-queen/summary
 receipt: In which Raajimera figures out how to get the status she deserves.
 rating: 13+
 flags: Tobacco Use
-words: "3165"
-rtime: "16 minutes"
 ogimage: /static/image/thumbnails/2024-019.png
 ogdesc: In which Raajimera figures out how to get the status she deserves.
 ---
