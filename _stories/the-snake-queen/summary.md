@@ -30,3 +30,30 @@ ogdesc: It is a story of an unknown priestess who tries to make a pact with one 
     {% endfor %}
 </ul><hr>
 </div></div>
+
+<script>
+const toggleBtn = document.getElementById("theme-toggle");
+const savedTheme = localStorage.getItem("theme");
+if (savedTheme) {
+  document.body.setAttribute("data-theme", savedTheme);
+  document.querySelector('#content').setAttribute("data-theme", savedTheme);
+  document.querySelector('.progress-top').setAttribute("data-theme", savedTheme);
+
+
+} else {
+  const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+  if (prefersDark) {
+    document.body.setAttribute("data-theme", "dark");
+    document.querySelector('#content').setAttribute("data-theme", "dark")
+    document.querySelector('.progress-top').setAttribute("data-theme", "dark")
+  }
+}
+toggleBtn.addEventListener("click", () => {
+    const currentTheme = document.body.getAttribute("data-theme");
+  const newTheme = currentTheme === "dark" ? "light" : "dark";
+  document.body.setAttribute("data-theme", newTheme);
+  document.querySelector('#content').setAttribute("data-theme", newTheme);
+  document.querySelector('.progress-top').setAttribute("data-theme", newTheme);
+  localStorage.setItem("theme", newTheme);
+  
+});</script>
