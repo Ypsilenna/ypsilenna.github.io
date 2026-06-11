@@ -40,7 +40,7 @@ Raajimera looked at him and asked, "Does that reason have curly brown hair and t
 
 Zephyr looked her dead in the eye and responded, "You will never know."
 
-They quietly snuck in. The man was right; nobody could see them from this position because the wall that faced the hole didn't have any windows on it.
+They quietly sneaked in. The man was right; nobody could see them from this position because the wall that faced the hole didn't have any windows on it.
 
 Zephyr and Raajimera quietly approached the back door. They could hear the imperial cooks working on the other side.
 
