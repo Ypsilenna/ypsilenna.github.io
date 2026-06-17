@@ -7,7 +7,7 @@ tags: [personal, writing, thoughts, games, plans]
 moods: 🥺
 authors: [Ypsilenna]
 ogimage: /static/image/blank.png
-ogdesc: Today I&#39;m going to talk about several topics. One of which is me helping my partner make a game for a game jam(...)
+ogdesc: I don&#39;t know where to start... I finished the novel; there was a game jam...(...)
 ---
 
 I don't know where to start... I finished the novel; there was a game jam...<br><br>
