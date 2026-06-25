@@ -70,6 +70,8 @@ Raajimera tried to hide her displeased expression. "I will be careful," she assu
 
 The snake watched her helplessly as she left. The animal decided to follow her from afar.
 
+<br><br>
+
 The chieftain was waiting on the outskirts of the village. He was restless and grumpy, looking at the horizon, clearly still waiting for the merchant. That was an opportunity for Raajimera to have a conversation with him. Alone. 
 
 Not wasting any time, the demigoddess assumed the form of Seyed and approached the chieftain.

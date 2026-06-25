@@ -1,12 +1,12 @@
 ---
 layout: character
-title: "Zephyr of the Howling Pass" 
-shortname: Zephyr
+title: "Feng the Divine Messenger" 
+shortname: Feng
 date: "2025-09-14"
-draft: false
+draft: true
 categories: [oc]
 tags: [] 
-avatar: /static/image/thumbnails/2025-003.jpg
+avatar: /static/image/blank.png
 series: The Snake Queen
 active: yes
 role: Deuteragonist
@@ -30,31 +30,35 @@ role: Deuteragonist
         <table>
           <tr>
             <th>Full name</th>
-            <td>Unknown</td>
+            <td>Fang the Snake</td>
           </tr>
           <tr>
             <th>Also known as</th>
-            <td>The Spy <br>(by the people of Duskvale)</td>
+            <td>Feng <br>(by everyone)</td>
           </tr>
           <tr>
             <th>Species</th>
-            <td>Seris</td>
+            <td>Snake</td>
           </tr>
           <tr>
             <th>Age</th>
-            <td>Approximately 37</td>
+            <td>Unknown</td>
           </tr>
           <tr>
             <th>Gender</th>
-            <td>Male</td>
+            <td>● Unknown (The Snake Queen)<br>● Female (Feng: Before Dusk)</td>
+          </tr>
+          <tr>
+            <th>Titles</th>
+            <td>● Divine Messenger</td>
           </tr>
           <tr>
             <th>Affiliation</th>
-            <td>● Duskvale Village (formerly) ● Hazyan Empire (formerly)</td>
+            <td>● Raa</td>
           </tr>
           <tr>
             <th>Life Goals</th>
-            <td>● Survival</td>
+            <td>● Teaching Raajimera the wisdom of Raa</td>
           </tr>
         </table>
       </aside>
@@ -64,7 +68,7 @@ role: Deuteragonist
       <div class="article-lead">
         <p>
         This entry does not and will not contain major spoilers until the end of the series. You can safely read it if you plan to read the novel!<br><hr>
-   <b>Zephyr</b> is a serisian spy. He was born in Duskvale as the son of the previous chieftain, but the betrayal of the current leader of the village ended up with him being imprisoned in the empire. He abandoned his old identity and fled the capital city in the dead of the night becoming one of the most efficient spies for hire in the empire. Also one of the most elusive ones.<br>
+   <b>Feng</b> is a happy-go-lucky snake of average reptilian intelligence. It was dispatched by <b>Raa</b> to guide <b>Raajimera</b> on her way to godhood.
         </p>
       </div>
 
@@ -73,54 +77,43 @@ role: Deuteragonist
             <details open>
         <summary><b>Personality</b></summary>
         <p>
-Troubled by his past, self sufficient. An emotionally suppressed recluse. Becomes protective over Raajimera initially out of sense of duty, but later because of something more.<br><br>
-
+Silly as a goose.<br>
         </p>
       </details>
-
-            <details open>
-        <summary><b>Health Issues</b></summary>
-        <p>
-He still suffers the aftermath of the overwhelming amount of stress he went through as a child. He drinks hop cone infusion to stop his hands from trembling.<br>
-        </p>
-      </details>
-
 
       <details open>
         <summary><b>Fears</b></summary>
         <p>
-He's scared to leave the shadows from all he suffered over the years. 
+Feng is scared of the possibility that Raajimera's dark urge would destroy her progress and sabotage their mission.
         </p>
       </details>
-
+      
       <details open>
         <summary><b>Likes/Dislikes</b></summary>
         <p>
 <b>Likes:</b><br>
-Cheese, grapes, flat bread, his camel, nights<br>
+Food, baths, pockets, Zephyr (he has no choice)<br>
 
 <b>Dislikes:</b><br>
-Public speeches, being perceived, some spices, noise
+Bamieh the camel
         </p>
       </details>
 
       <details open>
         <summary><b>Relationships/Ties</b></summary>
         <p>
-     <b>[Raajimera the Snake Queen]</b> TBA<br>
-     His family is dead, and all that is left is his ugly camel
+     <b>[Raajimera the Snake Queen]</b> Best friend<br>
+     <b>[Raa, Spirit of Dusk]</b> Best friend (somehow)<br>
+    <b>[Zephyr of the Howling Pass]</b> TBA
         </p>
       </details>
 
       <details open>
         <summary><b>Trivia</b></summary>
         <p>
-1) Zephyr is one of the oldest characters in the story that didn't get a permanent design for about 15 years.<br>
-2) He was originally an elf with very long ears, black hair, and green eyes.<br>
-3) In the first version of this story he was just a neurotic weirdo with shaking hands. Now he is a traumatized weirdo with shaking hands. Hooray, I love progress.<br>
-4) In the first version of the story he was an excellent tactician and led armies for Raajimera.<br>
-5) Zephyr would be Raa's first choice for a herald had he ever asked for it; however, he never wanted such a burden, and the gods can't force the unwilling.
-6) Until the end of chapter 12, he had two possible endings, and I was on the fence trying to decide which one I would give him. I decided to make him happy. I mean, as much as he can be in the place he ended up in.
+1) Feng was a last-minute addition when I was writing the first draft of the second chapter and realized I needed a character who would teach Raajimera how to use her powers.<br>
+2) Feng is a glossy-bellied racer.<br>
+3) Feng was supposed to be retired in chapter 8, but I folded under the pressure of my beta readers who didn't let me do it.
         </p>
       </details>
     </div><!-- .article-body -->
@@ -128,7 +121,7 @@ Public speeches, being perceived, some spices, noise
 <hr>
 <h3 class="title">{{ page.shortname }}'s Gallery</h3>
 <div class="artworks">
-{% assign artworks = site.artworks | sort: "date" | reverse | where_exp: "item", "item.tags contains 'Zephyr'" %}
+{% assign artworks = site.artworks | sort: "date" | reverse | where_exp: "item", "item.tags contains 'Feng'" %}
 {% for artwork in artworks %}
     <div class="artworks-item">
                      <a data-magnify="gallery" data-src="{{ artwork.cover }}" data-caption="{{ artwork.title }}" data-group="a" href="{{ artwork.cover }}">

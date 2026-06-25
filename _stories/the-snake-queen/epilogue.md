@@ -1,5 +1,5 @@
 ---
-layout: story
+layout: story-ending
 title: 'The Snake Queen: Epilogue'
 public-title: 'Epilogue'
 date: "2026-06-20"

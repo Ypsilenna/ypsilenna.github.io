@@ -20,7 +20,7 @@ Raajimera felt guilty for not sharing such a big part of her current life with h
 
 Perhaps she was simply delusional, as it usually is when people learn about their own feelings.
 
-<br>
+<br><br>
 
 The scorching sun shone bright above the Howling Pass. It was a hot day, yet the two decided to start their travel today. They wanted to have more time to prepare themselves before the emperor's wedding.
 

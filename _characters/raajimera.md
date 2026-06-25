@@ -34,7 +34,14 @@ role: Protagonist
           </tr>
           <tr>
             <th>Also known as</th>
-            <td>The Snake Queen <br>(by the people of Duskvale)</td>
+            <td> ● The Snake Queen <br>(by the people of Duskvale)
+                           <div class="spoiler-block" id="spoiler-4">
+  <div class="spoiler-content">
+ ● Yasamin (by Zephyr)</div>
+  <div class="spoiler-overlay" onclick="document.getElementById('spoiler-4').classList.add('revealed')">
+    <button>Spoiler</button>
+  </div>
+</div></td>
           </tr>
           <tr>
             <th>Species</th>
@@ -50,15 +57,38 @@ role: Protagonist
           </tr>
           <tr>
             <th>Titles</th>
-            <td>● Priestess of the Diurnal Cycle (formerly)<br>● The Snake Queen (Duskvale)</td>
+            <td>● Priestess of the Diurnal Cycle (formerly)<br>● The Snake Queen (Duskvale)
+                           <div class="spoiler-block" id="spoiler-3">
+  <div class="spoiler-content">
+ ● God-empress</div>
+  <div class="spoiler-overlay" onclick="document.getElementById('spoiler-3').classList.add('revealed')">
+    <button>Spoiler</button>
+  </div>
+</div>
+            </td>
           </tr>
           <tr>
             <th>Affiliation</th>
-            <td>● Sisterhood of the Diurnal Cycle (formerly)<br>● Duskvale Village</td>
+            <td>● Sisterhood of the Diurnal Cycle (formerly)<br>● Duskvale Village
+            <div class="spoiler-block" id="spoiler-5">
+  <div class="spoiler-content">
+ ● Hazyan Empire</div>
+  <div class="spoiler-overlay" onclick="document.getElementById('spoiler-5').classList.add('revealed')">
+    <button>Spoiler</button>
+  </div>
+</div></td>
           </tr>
           <tr>
             <th>Life Goals</th>
-            <td>● Becoming the next Archpriestess (Formerly)<br>● Becoming the sole savior of Duskvale</td>
+            <td>● Becoming the next Archpriestess (Formerly)<br>● Becoming the sole savior of Duskvale
+               <div class="spoiler-block" id="spoiler-2">
+  <div class="spoiler-content">
+ ● Cleansing the empire of the prior emperor's corruption</div>
+  <div class="spoiler-overlay" onclick="document.getElementById('spoiler-2').classList.add('revealed')">
+    <button>Spoiler</button>
+  </div>
+</div>
+            </td>
           </tr>
         </table>
       </aside>
@@ -67,7 +97,7 @@ role: Protagonist
       <!-- Lead paragraph (always visible, outside any collapsible) -->
       <div class="article-lead">
         <p>
-        This entry does not and will not contain major spoilers until the end of the series. You can safely read it if you plan to read the novel!<br><hr>
+       All spoilers have been marked so you don't get spoiled while reading the character page.<br><hr>
    In her past life, <strong>Raajimera</strong> was cruel and selfish. She made a pact with a spirit animal to acquire demigod powers, but she lost her memory in the process. The woman ended up wandering into the village of Duskvale where the inhabitants insisted that she was the fabled Snake Queen from their prophecy and she would save them from the terrifying Hazyan Empire.
         </p>
       </div>
@@ -92,7 +122,7 @@ She's scared of both not knowing who she is and facing her past. She wishes to k
       
       <details open>
         <summary><b>Abilities</b></summary>
-        <p>
+        <span>
           <b>[Snake Speech]</b><br>
           <b>[Sand and water bending]</b> She's able to control sand and underground water with her willpower.<br>
           <b>[Glass Flowers]</b> Raajimera utilizes sand bending over fire to create beautiful glass flowers that can hold enchantments.<br>
@@ -100,9 +130,16 @@ She's scared of both not knowing who she is and facing her past. She wishes to k
           <b>[Illusions]</b> Combined with glass flowers, give her nearly unlimited possibilities.<br>
           <b>[Changing Properties]</b> Raajimera can alter properties of certain objects, such as temperature or state of water.<br>
           <b>[Protective Dome]</b> She can create a protective barrier around the village.<br>
-        </p>
+ <div class="spoiler-block" id="spoiler-6">
+  <div class="spoiler-content">
+ <b>[Divine Judgment]</b> Raajimera can use Raa's power to look deep into one's soul and estimate whether or not they are worthy.</div>
+  <div class="spoiler-overlay" onclick="document.getElementById('spoiler-6').classList.add('revealed')">
+    <button>Spoiler</button>
+  </div>
+</div>         
+        </span>
       </details>
-
+<br>
       <details open>
         <summary><b>Likes/Dislikes</b></summary>
         <p>
@@ -116,14 +153,20 @@ Wine, thick blankets/duvets, show-offs, ungrateful people, watching sports, Feng
 
       <details open>
         <summary><b>Relationships/Ties</b></summary>
-        <p>
-     <b>[Raa, Spirit of Dusk]</b> Deity who bestowed the gift of immortality upon her and indirectly guided her on her path to great power<br>
-     <b>[Zephyr of the Howling Pass]</b> TBA<br>
-     <b>Family and Friends:</b><br>
-     <b>[Feng the Snake]</b> Best friend and spiritual guide
-        </p>
+        <span>
+     <b>[Raa, Spirit of Dusk]</b> Deity who bestowed the gift of immortality upon her and indirectly guided her on her path to great power.<br>
+     <b>[Zephyr of the Howling Pass]</b> Man who healed her.<div class="spoiler-block" id="spoiler-1">
+  <div class="spoiler-content">
+ She eventually marries him and he becomes her imperial consort.</div>
+  <div class="spoiler-overlay" onclick="document.getElementById('spoiler-1').classList.add('revealed')">
+    <button>Spoiler</button>
+  </div>
+</div>
+     
+     <b>[Feng the Snake]</b> Best friend and spiritual guide.
+        </span>
       </details>
-
+<br>
       <details open>
         <summary><b>Trivia</b></summary>
         <p>
