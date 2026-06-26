@@ -106,17 +106,31 @@ ogdesc: Welcome to Court of Gloomvale, the creative space of Ypsilenna! You can 
     
 <div id="sector2-left"><div id="sector2-image"><img src="/static/image/wyvern-frontpage.png"></div>
         <div id="sector2-right"><small>Remember to check the ratings and content warnings before reading.</small><br><br>
-<div id="latestart-title2">
-    <h3><a href="/stories">Latest Chapter Updates</a></h3></div>
-<br><br>
-<img src="/static/image/s-kme-separator.png"><br><br>
-<ul>
+<div id="latestart-title4">
+    <h3><a href="/stories/#literature">Latest Literature Updates</a></h3></div>
+<br>
+<ul><br>
    {% assign stories = site.stories | sort: "date" | where_exp: "item", "item.categories contains 'stories'" | reverse %}
-   {% for story in stories limit: 5 %}
+   {% for story in stories limit: 3 %}
  <li><b><a href="{{ story.url }}">{{ story.title }} ({{ story.rating }})</a></b></li>
     {% endfor %}
-</ul>
-<br><img src="/static/image/s-kme-separator.png">
+</ul><br>
+
+<div id="latestart-title3">
+    <h3><a href="/stories/#comics">Latest Comic Updates</a></h3></div><div style="clear:both"></div>
+<div class="artworks">
+{% assign artworks = site.artworks | sort: "stamp" | where_exp: "item", "item.categories contains 'Minicomic'" %}
+{% for artwork in artworks limit: 4 %}
+    <div class="artworks-item">
+                       <a data-magnify="gallery" data-src="{{ artwork.cover }}" data-caption="{{ artwork.title }}" data-group="a" href="{{ artwork.cover }}">
+                        <img src="/static/image/blank.png" data-echo="{{ artwork.thumbnail }}" alt="" title="{{ artwork.title }}">
+                    </a><div class="gallery-link-bg"><a class="gallery-link" title="Artwork Page" href="{{ artwork.url }}"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-link" viewBox="0 0 16 16">
+  <path d="M6.354 5.5H4a3 3 0 0 0 0 6h3a3 3 0 0 0 2.83-4H9q-.13 0-.25.031A2 2 0 0 1 7 10.5H4a2 2 0 1 1 0-4h1.535c.218-.376.495-.714.82-1z"/>
+  <path d="M9 5.5a3 3 0 0 0-2.83 4h1.098A2 2 0 0 1 9 6.5h3a2 2 0 1 1 0 4h-1.535a4 4 0 0 1-.82 1H12a3 3 0 1 0 0-6z"/>
+</svg></a></div>
+    </div>
+  {% endfor %}
+</div>
 </div>
 
 {% include lazyload.html %}
