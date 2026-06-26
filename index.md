@@ -107,7 +107,7 @@ ogdesc: Welcome to Court of Gloomvale, the creative space of Ypsilenna! You can 
 <div id="sector2-left"><div id="sector2-image"><img src="/static/image/wyvern-frontpage.png"></div>
         <div id="sector2-right"><small>Remember to check the ratings and content warnings before reading.</small><br><br>
 <div id="latestart-title4">
-    <h3><a href="/stories/#literature">Latest Literature Updates</a></h3></div>
+    <h3><a href="/stories#literature">Latest Literature Updates</a></h3></div>
 <br>
 <ul><br>
    {% assign stories = site.stories | sort: "date" | where_exp: "item", "item.categories contains 'stories'" | reverse %}
@@ -117,7 +117,7 @@ ogdesc: Welcome to Court of Gloomvale, the creative space of Ypsilenna! You can 
 </ul><br>
 
 <div id="latestart-title3">
-    <h3><a href="/stories/#comics">Latest Comic Updates</a></h3></div><div style="clear:both"></div>
+    <h3><a href="/stories#comics">Latest Comic Updates</a></h3></div><div style="clear:both"></div>
 <div class="artworks">
 {% assign artworks = site.artworks | sort: "stamp" | where_exp: "item", "item.categories contains 'Minicomic'" %}
 {% for artwork in artworks limit: 4 %}
