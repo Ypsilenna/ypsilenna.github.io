@@ -1,5 +1,5 @@
 ---
-layout: story
+layout: story-beginning
 title: 'The Snake Queen: Chapter 1 - Severing the Ties'
 public-title: 'Chapter 1 - Severing the Ties'
 date: "2026-03-17"
