@@ -143,7 +143,7 @@ Two guards opened the heavy door for Raajimera, and she entered the ballroom. Al
 
 Zephyr was already waiting for her, sitting cross-legged on an ornate cushion in front of a ceremonial spread.
 
-Raajimera sat on his left. Feng slithered softly from her shoulder and lifted the veil with its tail. Their eyes met in the tall oval mirror in front of them. For a moment it was just Zephyr and her, captured in the frame, sitting still like a beautiful painting suspended between the two lit candelabras placed on both sides of the mirror.
+Raajimera sat on his left. Feng gently leaned out from her shoulder and lifted the veil with its tail. For a moment it was just Zephyr and her as their eyes met in the tall oval mirror in front of them. They were captured in the frame, sitting still like a beautiful painting suspended between the two lit candelabras placed on both sides of the mirror.
 
 The woman focused on her future husband's appearance. His body was wrapped in a white robe with a line of golden geometric shapes embroidered along his silhouette. The servants seemed to have colored his already dark eyelids with a dash of black eye shadow. Raajimera found his olive green turban and garlands of golden jewelry excessive, but she knew how much he valued wearing clothing appropriate to the situation.
 
