@@ -134,7 +134,7 @@ The celestial snake laughed throatily and softly descended from the sky. Raa coi
 
 The serpent's body tightened around the priestess. "I hope you won't change your mind now, as there is no turning back once our deal is sealed," the goddess said.
 
-The woman could barely breathe. She never imagined that a touch of a spirit animal would hurt this much. They are so good and so beautiful, yet their embrace feels like a million thorns penetrating your skin. It made her realize why they don't come down from the sky to personally tend to earthly problems. 
+The woman could barely breathe. She never imagined that a touch of a spirit animal would hurt this much. They were so good and so beautiful, yet their embrace felt like a million thorns penetrating her skin. It made her realize why they don't come down from the sky to personally tend to earthly problems.
 
 "Never," the priestess spat out while trying to hold back tears, struggling against the suffocating grasp of the spirit animal. 
 
