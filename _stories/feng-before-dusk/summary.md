@@ -22,7 +22,7 @@ The episodes follow the early life of a silly danger noodle originally named Fan
 </div></div><hr>
 <h2 class="title">Comics</h2>
 <div class="artworks">
-{% assign artworks = site.artworks | sort: "date" | reverse | where_exp: "item", "item.tags contains 'Feng&#58; Before Dusk'" %}
+{% assign artworks = site.artworks | sort: "date" | where_exp: "item", "item.tags contains 'Feng&#58; Before Dusk'" %}
 {% for artwork in artworks %}
     <div class="artworks-item">
                      <a data-magnify="gallery" data-src="{{ artwork.cover }}" data-caption="{{ artwork.title }}" data-group="a" href="{{ artwork.cover }}">

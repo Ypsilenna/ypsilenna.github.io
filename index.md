@@ -119,7 +119,7 @@ ogdesc: Welcome to Court of Gloomvale, the creative space of Ypsilenna! You can 
 <div id="latestart-title3">
     <h3><a href="/stories#comics">Latest Comic Updates</a></h3></div><div style="clear:both"></div>
 <div class="artworks">
-{% assign artworks = site.artworks | sort: "stamp" | where_exp: "item", "item.categories contains 'Minicomic'" %}
+{% assign artworks = site.artworks | sort: "stamp" | reverse | where_exp: "item", "item.categories contains 'Minicomic'" %}
 {% for artwork in artworks limit: 4 %}
     <div class="artworks-item">
                        <a data-magnify="gallery" data-src="{{ artwork.cover }}" data-caption="{{ artwork.title }}" data-group="a" href="{{ artwork.cover }}">
