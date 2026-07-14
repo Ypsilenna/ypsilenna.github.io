@@ -18,7 +18,7 @@ ogdesc: It is a story of an unknown priestess who tries to make a pact with one 
           <b>Synopsis:</b> Lusstoni was just a wounded man who one day decided to leave everything behind and depart on a journey to forget about the pain. Everything was going according to the plan for about five minutes until a child adopted him against his will.<br>
 
           </div>
-    <div><img src="/static/image/stories/coming-soon.jpg"></div>
+    <div><img src="/static/image/stories/LSCW-2026-cover.png"></div>
 <hr>
 <h2 class="title">Chapters</h2>
 <ul>
