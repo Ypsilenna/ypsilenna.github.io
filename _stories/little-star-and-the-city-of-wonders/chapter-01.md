@@ -9,7 +9,7 @@ summary: /stories/little-star-and-the-city-of-wonders/summary
 receipt: In which Lusstoni begins a new adventure to leave his painful memories behind and ends up facing his greatest fear in the shape of a child.
 rating: 16+
 flags: Trauma, Work-Related Accident, Limb Loss, Alcohol/Tobacco Addiction, Strong Language
-ogimage: /static/image/thumbnails/LSCW-400400.png
+ogimage: /static/image/stories/LSCW-400400.png
 ogdesc: In which Lusstoni begins a new adventure to leave his painful memories behind and ends up facing his greatest fear in the shape of a child.
 ---
 
