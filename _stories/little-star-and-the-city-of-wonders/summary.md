@@ -13,7 +13,7 @@ ogdesc: It is a story of an unknown priestess who tries to make a pact with one 
         <b>Rating:</b> 16+<br>    
         <b>Content warnings:</b> Violence, Death, Alcohol/Tobacco Use, Trauma<br>
                   <b>Status:</b> In progress <div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 0%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">0%</div>
+  <div class="progress-bar" role="progressbar" style="width: 11%" aria-valuenow="11" aria-valuemin="0" aria-valuemax="100">11%</div>
 </div>
           <b>Synopsis:</b> Lusstoni was just a wounded man who one day decided to leave everything behind and depart on a journey to forget about the pain. Everything was going according to the plan for about five minutes until a child adopted him against his will.<br>
 

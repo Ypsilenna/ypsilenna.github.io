@@ -32,11 +32,11 @@ ogdesc: A list of stories authored by Ypsilenna.
           <b>Rating:</b> 16+<br>         
           <b>Content Warnings:</b> Violence, Death, Alcohol/Tobacco Use, Trauma<br>
           <b>Status:</b> Ongoing <div class="progress">
-  <div class="progress-bar" role="progressbar" style="width: 0%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">0%</div>
+  <div class="progress-bar" role="progressbar" style="width: 11%" aria-valuenow="11" aria-valuemin="0" aria-valuemax="100">11%</div>
 </div>
           <b>Synopsis:</b> Lusstoni was just a wounded man who one day decided to leave everything behind and depart on a journey to forget about the pain. Everything was going according to the plan for about five minutes until a child adopted him against his will.<br>
         <br>
-          <p style="text-align: right"><b><a href="/stories/little-star-and-the-city-of-wonders/summary">Read here <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
+          <p style="text-align: right"><a href="https://little-star-and-the-city-of-wonders.cfw.me/">Read of ComicFury</a> | <b><a href="/stories/little-star-and-the-city-of-wonders/summary">Read here <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
   <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
 </svg></a></b></p></div>
 <h2 class="title" id="comics"> Comics</h2>
