@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 'Little Star and the City of Wonders - Summary'
-ogimage: /static/image/thumbnails/2024-019.png
+ogimage: /static/image/thumbnails/LSCW-400400.png
 ogdesc: It is a story of an unknown priestess who tries to make a pact with one of the powerful sky spirit animals, only to find out why nobody deals with the Dusk Serpent.
 ---
  <p style="text-align: left"><b><a href="/stories"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-left-fill" viewBox="0 0 16 16">
