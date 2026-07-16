@@ -205,11 +205,13 @@ Seeing that she can't breathe properly, he grumpily extinguished his cigarette a
 
 "I noticed you at the farm in this pretty outfit you have, and then I saw that you have this big flying balloon!" she responded excitedly. "The farm people didn't like me anyway, so here I am!"
 
-"What makes you think I will like you?" he asked and raised one of his thick eyebrows up. "You just made me waste a perfectly good cigarette!"
+"What makes you think I will like you?" he asked and raised one of his thick eyebrows up. "You just made me waste a perfectly good cigarette! I mean, sure, I could still smoke whatever is left from it, but I will not get back what's already gone—"
 
-"Because I already like you!"
+The girl interrupted his monologue with a giggle.
 
-"Well, you are wrong. Where are you from?" he asked. "I will take you there."
+"I think you will like me because I already like you!" She said.
+
+"Well, you are wrong," he informed her. "Where are you even from? I will take you there."
 
 "Not from here," she responded without maintaining eye contact. The girl put her hands behind her back.
 
