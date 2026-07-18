@@ -1,5 +1,5 @@
 ---
-layout: story-beginning
+layout: story-placeholder
 title: 'Little Star and the City of Wonders: Chapter 1 - Leaving the Pain Behind'
 public-title: 'Chapter 1 - Leaving the Pain Behind'
 date: "2026-07-15"
