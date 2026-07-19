@@ -9,6 +9,10 @@ authors: [Me]
 ogimage: /static/image/blank.png
 ogdesc: I am here to provide you with some information about my current novel in progress, The Snake Queen. (...)
 ---
+Edit 19.07.2026: I've been thinking about deleting this post for a while now since I changed my plans for the novel, but I decided to just put a content warning on it. If you found this website through a search engine and this is your first time here, the base version of the novel is free and you can read it <a href="https://ypsilenna.art/stories/the-snake-queen/summary">here<a/>. The illustrated version will be sold on Ko-fi/Ich.io, but I am still drawing the illustrations, and I don't know when it will happen. 
+
+<div class="sensitive-block" id="sensitive-1">
+  <div class="sensitive-content">
 Hello, hello!<br>
 I am here to provide you with some information about my current novel in progress, The Snake Queen.<br>
 It is currently being rewritten to improve the quality of the story as whole. Once I am done with that, I will decorate it with illustrations and most likely publish it on itch.io.<br>
@@ -39,3 +43,9 @@ Unlike the first draft, the final version won't be hosted anywhere for free. I i
 I hope you understand! If you wish to follow the development of my novel, you can do so on my [Bluesky](https://bsky.app/profile/ypsilenna.art). <br>
 <br>
 Until we meet again!
+</div>
+  <div class="sensitive-overlay" onclick="document.getElementById('sensitive-1').classList.add('revealed')">
+    <span>⚠ Outdated Project Info</span>
+    <button>Click to reveal</button>
+  </div>
+</div>
