@@ -137,7 +137,7 @@ Lusstoni lowered the anchor, and his zeppelin slowly but steadily landed on the 
 
 The man nonchalantly strolled into the orchard. It was impossible not to notice him because the little golden elements on his coat shone bright like diamonds in the warm sunlight. He looked like just his outfit could buy this entire place.
 
-"Oh, a customer!" One of the farmers shouted. "Welcome!"
+"Oh, a customer!" One of the farmers shouted as he approached his guest. "Welcome!"
 
 It was an average poor man of the land who put more effort into cultivating trees than into his appearance.
 
