@@ -5,21 +5,24 @@ layout: default
 <div id="home-jumbotron" class="jumbotron text-center">
   <h1 class="title">{{ site.title }}</h1>
   <div id="latestblog-title">
-    <h3><a href="/feed.xml"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-rss-fill" viewBox="0 0 16 16">
-  <path d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zm1.5 2.5c5.523 0 10 4.477 10 10a1 1 0 1 1-2 0 8 8 0 0 0-8-8 1 1 0 0 1 0-2m0 4a6 6 0 0 1 6 6 1 1 0 1 1-2 0 4 4 0 0 0-4-4 1 1 0 0 1 0-2m.5 7a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3"/>
-</svg></a> Latest blog posts</h3>
+    <h3><a href="/feed.xml"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+          class="bi bi-rss-fill" viewBox="0 0 16 16">
+          <path
+            d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zm1.5 2.5c5.523 0 10 4.477 10 10a1 1 0 1 1-2 0 8 8 0 0 0-8-8 1 1 0 0 1 0-2m0 4a6 6 0 0 1 6 6 1 1 0 1 1-2 0 4 4 0 0 0-4-4 1 1 0 0 1 0-2m.5 7a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3" />
+        </svg></a> Latest blog posts</h3>
   </div>
   <div id="latestblog">
     {% for post in site.posts limit: 6 %}
-      <div>
-        {{ post.moods }} <strong><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong> {{ post.bonus }}
-        <small>(<time datetime="{{ post.date }}">{{ post.date | date: "%B %d, %Y" }}</time>)</small> 
-        {{ post.content | truncatewords: 35 | strip_html }}
-      </div>
+    <div>
+      {{ post.moods }} <strong><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong> {{
+      post.bonus }}
+      <small>(<time datetime="{{ post.date }}">{{ post.date | date: "%B %d, %Y" }}</time>)</small>
+      {{ post.content | truncatewords: 35 | strip_html }}
+    </div>
     {% endfor %}
   </div>
 </div>
 
-<br/>
+<br />
 
 {{ content }}

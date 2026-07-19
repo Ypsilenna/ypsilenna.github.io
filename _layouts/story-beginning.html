@@ -64,7 +64,8 @@ layout: default
           <div class="nav-prev">
             {% if page.previous.url %}
             <a href="{{ page.previous.url }}" title="{{ page.previous.public-title }} ( {{ page.previous.rating }} )">
-              <span class="title-truncate"><span class="nav-prev-beginning-txt">{{page.previous.public-title}} ( {{ page.previous.rating }} )</span></span>
+              <span class="title-truncate"><span class="nav-prev-beginning-txt">{{page.previous.public-title}} ( {{
+                  page.previous.rating }} )</span></span>
             </a>
             {% endif %}
           </div>
@@ -114,8 +115,10 @@ layout: default
       <script
         type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'E1E268WX'); kofiwidget2.draw();</script>
 
-    </div>
-  </div> <br>
+    </div> <br>
+    <h3> Comments </h3>
+    <small>(You need to be logged-in to Github to write comments.)</small><br><br>
+  </div>
 </div>
 
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
@@ -181,4 +184,48 @@ layout: default
     localStorage.setItem("theme", newTheme);
 
   });
+</script>
+
+<div class="giscus"></div>
+
+<script>
+  (function () {
+    function getCurrentTheme() {
+      return document.body.getAttribute("data-theme") === "dark" ? "dark" : "light";
+    }
+
+    // Inject giscus with the theme that's already active on the page
+    function loadGiscus() {
+      const script = document.createElement("script");
+      script.src = "https://giscus.app/client.js";
+      script.setAttribute("data-repo", "Ypsilenna/ypsilenna.github.io");
+      script.setAttribute("data-repo-id", "R_kgDOLQU90Q");
+      script.setAttribute("data-category", "General");
+      script.setAttribute("data-category-id", "DIC_kwDOLQU90c4C-4tV");
+      script.setAttribute("data-mapping", "pathname");
+      script.setAttribute("data-reactions-enabled", "0");
+      script.setAttribute("data-input-position", "bottom");
+      script.setAttribute("data-emit-metadata", "0");
+      script.setAttribute("crossorigin", "anonymous");
+      script.setAttribute("data-theme", getCurrentTheme());
+      script.async = true;
+      document.querySelector(".giscus").appendChild(script);
+    }
+    loadGiscus();
+
+    // Push a live theme update into the already-mounted giscus iframe
+    function updateGiscusTheme(theme) {
+      const iframe = document.querySelector("iframe.giscus-frame");
+      if (!iframe) return;
+      iframe.contentWindow.postMessage(
+        { giscus: { setConfig: { theme: theme } } },
+        "https://giscus.app"
+      );
+    }
+
+    // Second listener
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+      setTimeout(() => updateGiscusTheme(getCurrentTheme()), 0);
+    });
+  })();
 </script>

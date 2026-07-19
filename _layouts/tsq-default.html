@@ -1,28 +1,39 @@
 <!DOCTYPE html>
 <html>
-    {% include tsq-head.html %}
+{% include tsq-head.html %}
 
-    <body><main id="top">
-	   <a class="to-top" href="#top" aria-label="back to top"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-up-fill" viewBox="0 0 16 16">
-  <path d="m7.247 4.86-4.796 5.481c-.566.647-.106 1.659.753 1.659h9.592a1 1 0 0 0 .753-1.659l-4.796-5.48a1 1 0 0 0-1.506 0z"/>
-</svg></a>
-        <div class="bubbles">    
+<body>
+    <main id="top">
+        <a class="to-top" href="#top" aria-label="back to top"><svg xmlns="http://www.w3.org/2000/svg" width="16"
+                height="16" fill="currentColor" class="bi bi-caret-up-fill" viewBox="0 0 16 16">
+                <path
+                    d="m7.247 4.86-4.796 5.481c-.566.647-.106 1.659.753 1.659h9.592a1 1 0 0 0 .753-1.659l-4.796-5.48a1 1 0 0 0-1.506 0z" />
+            </svg></a>
+        <div class="bubbles">
             {% include menu.html %}
-            {% include header.html %}         
-        <div class="content-frame">
-            <div id="content">
-                {{ content }}
-            <div id="corner1"><div id="credits"><sub>Copyright © 2026 Kornelia "Ypsilenna" Reza<br>
-			<a href="mailto:gloomvale@posteo.net">Contact</a> | <a href="/changelog">Changelog</a> | <a href="/subscribe">Subscribe</a></sub></div></div></div>
-        </div>
+            {% include header.html %}
+            <div class="content-frame">
+                <div id="content">
+                    {{ content }}
+                    <div id="corner1">
+                        <div id="credits"><sub>Copyright © 2026 Kornelia "Ypsilenna" Reza<br>
+                                <a href="mailto:gloomvale@posteo.net">Contact</a> | <a href="/changelog">Changelog</a> |
+                                <a href="/subscribe">Subscribe</a></sub></div>
+                    </div>
+                </div>
+            </div>
 
-        <br><div id="credits-mini">Copyright © 2026 Kornelia "Ypsilenna" Reza<br>
-			<a href="mailto:gloomvale@posteo.net">Contact</a> | <a href="/changelog">Changelog</a> | <a href="/subscribe">Subscribe</a></sub></div>
+            <br>
+            <div id="credits-mini">Copyright © 2026 Kornelia "Ypsilenna" Reza<br>
+                <a href="mailto:gloomvale@posteo.net">Contact</a> | <a href="/changelog">Changelog</a> | <a
+                    href="/subscribe">Subscribe</a></sub>
+            </div>
     </main>
-<script src="/static/js/lightbox/js/jquery.magnify.min.js"></script>
-<!-- 100% privacy-first analytics -->
-<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
-<noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade"/></noscript>
-  </body>
+    <script src="/static/js/lightbox/js/jquery.magnify.min.js"></script>
+    <!-- 100% privacy-first analytics -->
+    <script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+    <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt=""
+            referrerpolicy="no-referrer-when-downgrade" /></noscript>
+</body>
+
 </html>
- 

@@ -3,68 +3,130 @@ layout: default
 ---
 
 <div class="post"><br>
-    <h1 class="title">{{ page.title }}</h1>
+  <h1 class="title">{{ page.title }}</h1>
 
-    <div class="metadata">
-        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-calendar-heart-fill" viewBox="0 0 16 16">
-  <path d="M4 .5a.5.5 0 0 0-1 0V1H2a2 2 0 0 0-2 2v1h16V3a2 2 0 0 0-2-2h-1V.5a.5.5 0 0 0-1 0V1H4zM16 14V5H0v9a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2M8 7.993c1.664-1.711 5.825 1.283 0 5.132-5.825-3.85-1.664-6.843 0-5.132"/>
-</svg>        <time datetime="{{ post.date }}">{{ page.date | date: '%B %d, %Y'}}</time>   &nbsp; <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-emoji-smile-fill" viewBox="0 0 16 16">
-  <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16M7 6.5C7 7.328 6.552 8 6 8s-1-.672-1-1.5S5.448 5 6 5s1 .672 1 1.5M4.285 9.567a.5.5 0 0 1 .683.183A3.5 3.5 0 0 0 8 11.5a3.5 3.5 0 0 0 3.032-1.75.5.5 0 1 1 .866.5A4.5 4.5 0 0 1 8 12.5a4.5 4.5 0 0 1-3.898-2.25.5.5 0 0 1 .183-.683M10 8c-.552 0-1-.672-1-1.5S9.448 5 10 5s1 .672 1 1.5S10.552 8 10 8"/>
-</svg> Mood: <span class="moods">{{ page.moods }}</span> <span class="bonus">{{ page.bonus }}</span><br><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-pen-fill" viewBox="0 0 16 16">
-  <path d="m13.498.795.149-.149a1.207 1.207 0 1 1 1.707 1.708l-.149.148a1.5 1.5 0 0 1-.059 2.059L4.854 14.854a.5.5 0 0 1-.233.131l-4 1a.5.5 0 0 1-.606-.606l1-4a.5.5 0 0 1 .131-.232l9.642-9.642a.5.5 0 0 0-.642.056L6.854 4.854a.5.5 0 1 1-.708-.708L9.44.854A1.5 1.5 0 0 1 11.5.796a1.5 1.5 0 0 1 1.998-.001"/>
-</svg> Words: <span id="words"></span>  &nbsp; <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-hourglass-bottom" viewBox="0 0 16 16">
-<path d="M2 1.5a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-1v1a4.5 4.5 0 0 1-2.557 4.06c-.29.139-.443.377-.443.59v.7c0 .213.154.451.443.59A4.5 4.5 0 0 1 12.5 13v1h1a.5.5 0 0 1 0 1h-11a.5.5 0 1 1 0-1h1v-1a4.5 4.5 0 0 1 2.557-4.06c.29-.139.443-.377.443-.59v-.7c0-.213-.154-.451-.443-.59A4.5 4.5 0 0 1 3.5 3V2h-1a.5.5 0 0 1-.5-.5m2.5.5v1a3.5 3.5 0 0 0 1.989 3.158c.533.256 1.011.791 1.011 1.491v.702s.18.149.5.149.5-.15.5-.15v-.7c0-.701.478-1.236 1.011-1.492A3.5 3.5 0 0 0 11.5 3V2z"/>
-</svg> Reading time: <span id="time"></span> minutes<br>
-                        {% for tag in page.tags %}
-            <p class="btn btn-sm btn-outline-dark tag-btn"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-tag-fill" viewBox="0 0 16 16">
-  <path d="M2 1a1 1 0 0 0-1 1v4.586a1 1 0 0 0 .293.707l7 7a1 1 0 0 0 1.414 0l4.586-4.586a1 1 0 0 0 0-1.414l-7-7A1 1 0 0 0 6.586 1zm4 3.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0"/>
-</svg>  {{ tag }}</p>
-        {% endfor %}
-    </div><div class="progress-top"><br>
-<div class="progress-wrapper">
-  <div class="progress-label"></div>
-  <progress></progress>
-</div></div><br><br>  
-    <div class="novel-container"><div class="content">
- <article id="article">{{ content }}</article><br><br>
-<h3>Like and support</h3>
-<button
-  class="iine-button"
-  data-icon="💜"
-  aria-hidden="true">
-</button> <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'E1E268WX');kofiwidget2.draw();</script> 
- 
-    </div></div>       <br>
+  <div class="metadata">
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-calendar-heart-fill"
+      viewBox="0 0 16 16">
+      <path
+        d="M4 .5a.5.5 0 0 0-1 0V1H2a2 2 0 0 0-2 2v1h16V3a2 2 0 0 0-2-2h-1V.5a.5.5 0 0 0-1 0V1H4zM16 14V5H0v9a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2M8 7.993c1.664-1.711 5.825 1.283 0 5.132-5.825-3.85-1.664-6.843 0-5.132" />
+    </svg> <time datetime="{{ post.date }}">{{ page.date | date: '%B %d, %Y'}}</time> &nbsp; <svg
+      xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-emoji-smile-fill"
+      viewBox="0 0 16 16">
+      <path
+        d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16M7 6.5C7 7.328 6.552 8 6 8s-1-.672-1-1.5S5.448 5 6 5s1 .672 1 1.5M4.285 9.567a.5.5 0 0 1 .683.183A3.5 3.5 0 0 0 8 11.5a3.5 3.5 0 0 0 3.032-1.75.5.5 0 1 1 .866.5A4.5 4.5 0 0 1 8 12.5a4.5 4.5 0 0 1-3.898-2.25.5.5 0 0 1 .183-.683M10 8c-.552 0-1-.672-1-1.5S9.448 5 10 5s1 .672 1 1.5S10.552 8 10 8" />
+    </svg> Mood: <span class="moods">{{ page.moods }}</span> <span class="bonus">{{ page.bonus }}</span><br><svg
+      xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-pen-fill"
+      viewBox="0 0 16 16">
+      <path
+        d="m13.498.795.149-.149a1.207 1.207 0 1 1 1.707 1.708l-.149.148a1.5 1.5 0 0 1-.059 2.059L4.854 14.854a.5.5 0 0 1-.233.131l-4 1a.5.5 0 0 1-.606-.606l1-4a.5.5 0 0 1 .131-.232l9.642-9.642a.5.5 0 0 0-.642.056L6.854 4.854a.5.5 0 1 1-.708-.708L9.44.854A1.5 1.5 0 0 1 11.5.796a1.5 1.5 0 0 1 1.998-.001" />
+    </svg> Words: <span id="words"></span> &nbsp; <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+      fill="currentColor" class="bi bi-hourglass-bottom" viewBox="0 0 16 16">
+      <path
+        d="M2 1.5a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-1v1a4.5 4.5 0 0 1-2.557 4.06c-.29.139-.443.377-.443.59v.7c0 .213.154.451.443.59A4.5 4.5 0 0 1 12.5 13v1h1a.5.5 0 0 1 0 1h-11a.5.5 0 1 1 0-1h1v-1a4.5 4.5 0 0 1 2.557-4.06c.29-.139.443-.377.443-.59v-.7c0-.213-.154-.451-.443-.59A4.5 4.5 0 0 1 3.5 3V2h-1a.5.5 0 0 1-.5-.5m2.5.5v1a3.5 3.5 0 0 0 1.989 3.158c.533.256 1.011.791 1.011 1.491v.702s.18.149.5.149.5-.15.5-.15v-.7c0-.701.478-1.236 1.011-1.492A3.5 3.5 0 0 0 11.5 3V2z" />
+    </svg> Reading time: <span id="time"></span> minutes<br>
+    {% for tag in page.tags %}
+    <p class="btn btn-sm btn-outline-dark tag-btn"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+        fill="currentColor" class="bi bi-tag-fill" viewBox="0 0 16 16">
+        <path
+          d="M2 1a1 1 0 0 0-1 1v4.586a1 1 0 0 0 .293.707l7 7a1 1 0 0 0 1.414 0l4.586-4.586a1 1 0 0 0 0-1.414l-7-7A1 1 0 0 0 6.586 1zm4 3.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0" />
+      </svg> {{ tag }}</p>
+    {% endfor %}
+  </div>
+  <div class="progress-top"><br>
+    <div class="progress-wrapper">
+      <div class="progress-label"></div>
+      <progress></progress>
+    </div>
+  </div><br><br>
+  <div class="novel-container">
+    <div class="content">
+      <article id="article">{{ content }}</article><br><br>
+      <h3>Like and support</h3>
+      <button class="iine-button" data-icon="💜" aria-hidden="true">
+      </button>
+      <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
+      <script
+        type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'E1E268WX'); kofiwidget2.draw();</script>
+
+    </div> <br>
+    <h3> Comments </h3>
+    <small>(You need to be logged-in to Github to write comments.)</small><br><br>
+  </div>
 </div>
 
-<script>$(document).ready(function() {
-  const win = $(window);
-  const doc = $(document);
-  const progressBar = $('progress');
-  const progressLabel = $('.progress-label');
-  const setValue = () => win.scrollTop();
-  const setMax = () => doc.height() - win.height();
-  const setPercent = () => Math.round(win.scrollTop() / (doc.height() - win.height()) * 100);
-  
-  progressLabel.text(setPercent() + '%');
-  progressBar.attr({ value: setValue(), max: setMax() });
+<script>$(document).ready(function () {
+    const win = $(window);
+    const doc = $(document);
+    const progressBar = $('progress');
+    const progressLabel = $('.progress-label');
+    const setValue = () => win.scrollTop();
+    const setMax = () => doc.height() - win.height();
+    const setPercent = () => Math.round(win.scrollTop() / (doc.height() - win.height()) * 100);
 
-  doc.on('scroll', () => {
-    progressLabel.text(setPercent() + '%');
-    progressBar.attr({ value: setValue() });
-  });
-  
-  win.on('resize', () => {
     progressLabel.text(setPercent() + '%');
     progressBar.attr({ value: setValue(), max: setMax() });
-  })
-});</script>
+
+    doc.on('scroll', () => {
+      progressLabel.text(setPercent() + '%');
+      progressBar.attr({ value: setValue() });
+    });
+
+    win.on('resize', () => {
+      progressLabel.text(setPercent() + '%');
+      progressBar.attr({ value: setValue(), max: setMax() });
+    })
+  });</script>
 <script>function readingTime() {
-  const text = document.getElementById("article").innerText;
-  const wpm = 225;
-  const words = text.trim().split(/\s+/).length;
-  const time = Math.ceil(words / wpm);
-  document.getElementById("time").innerText = time;
-  document.getElementById("words").innerText = words;
-}
-readingTime();</script>
+    const text = document.getElementById("article").innerText;
+    const wpm = 225;
+    const words = text.trim().split(/\s+/).length;
+    const time = Math.ceil(words / wpm);
+    document.getElementById("time").innerText = time;
+    document.getElementById("words").innerText = words;
+  }
+  readingTime();</script>
+
+<div class="giscus"></div>
+
+<script>
+  (function () {
+    function getCurrentTheme() {
+      return document.body.getAttribute("data-theme") === "dark" ? "dark" : "light";
+    }
+
+    // Inject giscus with the theme that's already active on the page
+    function loadGiscus() {
+      const script = document.createElement("script");
+      script.src = "https://giscus.app/client.js";
+      script.setAttribute("data-repo", "Ypsilenna/ypsilenna.github.io");
+      script.setAttribute("data-repo-id", "R_kgDOLQU90Q");
+      script.setAttribute("data-category", "General");
+      script.setAttribute("data-category-id", "DIC_kwDOLQU90c4C-4tV");
+      script.setAttribute("data-mapping", "pathname");
+      script.setAttribute("data-reactions-enabled", "0");
+      script.setAttribute("data-input-position", "bottom");
+      script.setAttribute("data-emit-metadata", "0");
+      script.setAttribute("crossorigin", "anonymous");
+      script.setAttribute("data-theme", getCurrentTheme());
+      script.async = true;
+      document.querySelector(".giscus").appendChild(script);
+    }
+    loadGiscus();
+
+    // Push a live theme update into the already-mounted giscus iframe
+    function updateGiscusTheme(theme) {
+      const iframe = document.querySelector("iframe.giscus-frame");
+      if (!iframe) return;
+      iframe.contentWindow.postMessage(
+        { giscus: { setConfig: { theme: theme } } },
+        "https://giscus.app"
+      );
+    }
+
+    // Second listener
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+      setTimeout(() => updateGiscusTheme(getCurrentTheme()), 0);
+    });
+  })();
+</script>

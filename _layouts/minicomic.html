@@ -1,32 +1,121 @@
 ---
 layout: default
 ---
-<br><div class="post">
-    <h1 class="title">{{ page.public-title }}</h1>
+<br>
+<div class="post">
+  <h1 class="title">{{ page.public-title }}</h1>
 
-    <div class="metadata">
-        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-calendar-heart-fill" viewBox="0 0 16 16">
-  <path d="M4 .5a.5.5 0 0 0-1 0V1H2a2 2 0 0 0-2 2v1h16V3a2 2 0 0 0-2-2h-1V.5a.5.5 0 0 0-1 0V1H4zM16 14V5H0v9a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2M8 7.993c1.664-1.711 5.825 1.283 0 5.132-5.825-3.85-1.664-6.843 0-5.132"/>
-</svg> Posted: <time datetime="{{ post.date }}">{{ page.date | date: '%B %d, %Y'}}</time>  &nbsp; 
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-moon-stars-fill" viewBox="0 0 16 16">
-  <path d="M6 .278a.77.77 0 0 1 .08.858 7.2 7.2 0 0 0-.878 3.46c0 4.021 3.278 7.277 7.318 7.277q.792-.001 1.533-.16a.79.79 0 0 1 .81.316.73.73 0 0 1-.031.893A8.35 8.35 0 0 1 8.344 16C3.734 16 0 12.286 0 7.71 0 4.266 2.114 1.312 5.124.06A.75.75 0 0 1 6 .278"/>
-  <path d="M10.794 3.148a.217.217 0 0 1 .412 0l.387 1.162c.173.518.579.924 1.097 1.097l1.162.387a.217.217 0 0 1 0 .412l-1.162.387a1.73 1.73 0 0 0-1.097 1.097l-.387 1.162a.217.217 0 0 1-.412 0l-.387-1.162A1.73 1.73 0 0 0 9.31 6.593l-1.162-.387a.217.217 0 0 1 0-.412l1.162-.387a1.73 1.73 0 0 0 1.097-1.097zM13.863.099a.145.145 0 0 1 .274 0l.258.774c.115.346.386.617.732.732l.774.258a.145.145 0 0 1 0 .274l-.774.258a1.16 1.16 0 0 0-.732.732l-.258.774a.145.145 0 0 1-.274 0l-.258-.774a1.16 1.16 0 0 0-.732-.732l-.774-.258a.145.145 0 0 1 0-.274l.774-.258c.346-.115.617-.386.732-.732z"/>
-</svg> Series: <i data-feather="tag"></i>
-        {% for tag in page.tags %}
-            <a href="{{ page.summary }}" title="{{ tag }} - Summary">{{ tag }}</a>
-        {% endfor %}
-    </div>
-<hr><br>    
-    <div style="text-align: justify"><div class="novel-container"><div class="content">
-  <a data-magnify="gallery" data-src="" data-caption="{{ page.title }}" data-group="a" href="{{ page.cover }}">
+  <div class="metadata">
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-calendar-heart-fill"
+      viewBox="0 0 16 16">
+      <path
+        d="M4 .5a.5.5 0 0 0-1 0V1H2a2 2 0 0 0-2 2v1h16V3a2 2 0 0 0-2-2h-1V.5a.5.5 0 0 0-1 0V1H4zM16 14V5H0v9a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2M8 7.993c1.664-1.711 5.825 1.283 0 5.132-5.825-3.85-1.664-6.843 0-5.132" />
+    </svg> Posted: <time datetime="{{ post.date }}">{{ page.date | date: '%B %d, %Y'}}</time> &nbsp;
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-moon-stars-fill"
+      viewBox="0 0 16 16">
+      <path
+        d="M6 .278a.77.77 0 0 1 .08.858 7.2 7.2 0 0 0-.878 3.46c0 4.021 3.278 7.277 7.318 7.277q.792-.001 1.533-.16a.79.79 0 0 1 .81.316.73.73 0 0 1-.031.893A8.35 8.35 0 0 1 8.344 16C3.734 16 0 12.286 0 7.71 0 4.266 2.114 1.312 5.124.06A.75.75 0 0 1 6 .278" />
+      <path
+        d="M10.794 3.148a.217.217 0 0 1 .412 0l.387 1.162c.173.518.579.924 1.097 1.097l1.162.387a.217.217 0 0 1 0 .412l-1.162.387a1.73 1.73 0 0 0-1.097 1.097l-.387 1.162a.217.217 0 0 1-.412 0l-.387-1.162A1.73 1.73 0 0 0 9.31 6.593l-1.162-.387a.217.217 0 0 1 0-.412l1.162-.387a1.73 1.73 0 0 0 1.097-1.097zM13.863.099a.145.145 0 0 1 .274 0l.258.774c.115.346.386.617.732.732l.774.258a.145.145 0 0 1 0 .274l-.774.258a1.16 1.16 0 0 0-.732.732l-.258.774a.145.145 0 0 1-.274 0l-.258-.774a1.16 1.16 0 0 0-.732-.732l-.774-.258a.145.145 0 0 1 0-.274l.774-.258c.346-.115.617-.386.732-.732z" />
+    </svg> Series: <i data-feather="tag"></i>
+    {% for tag in page.tags %}
+    <a href="{{ page.summary }}" title="{{ tag }} - Summary">{{ tag }}</a>
+    {% endfor %}
+  </div>
+  <hr><br>
+  <div style="text-align: justify">
+    <div class="novel-container">
+      <div class="content">
+        <a data-magnify="gallery" data-src="" data-caption="{{ page.title }}" data-group="a" href="{{ page.cover }}">
           <img src="{{ page.cover }}" alt=""></a><br><br>
-        <h3> Author's note</h3><hr>{{ content }}<br>
-<h3>Like and support</h3>
-<button
-  class="iine-button"
-  data-icon="💜"
-  aria-hidden="true">
-</button> <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'E1E268WX');kofiwidget2.draw();</script> 
- 
-    </div> </div></div>       <br>
+        <h3> Author's note</h3>
+        <hr>{{ content }}<br>
+        <h3>Like and support</h3>
+        <button class="iine-button" data-icon="💜" aria-hidden="true">
+        </button>
+        <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
+        <script
+          type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'E1E268WX'); kofiwidget2.draw();</script>
+
+      </div> <br>
+      <h3> Comments </h3>
+      <small>(You need to be logged-in to Github to write comments.)</small><br><br>
+    </div>
+  </div>
 </div>
+
+<script>$(document).ready(function () {
+    const win = $(window);
+    const doc = $(document);
+    const progressBar = $('progress');
+    const progressLabel = $('.progress-label');
+    const setValue = () => win.scrollTop();
+    const setMax = () => doc.height() - win.height();
+    const setPercent = () => Math.round(win.scrollTop() / (doc.height() - win.height()) * 100);
+
+    progressLabel.text(setPercent() + '%');
+    progressBar.attr({ value: setValue(), max: setMax() });
+
+    doc.on('scroll', () => {
+      progressLabel.text(setPercent() + '%');
+      progressBar.attr({ value: setValue() });
+    });
+
+    win.on('resize', () => {
+      progressLabel.text(setPercent() + '%');
+      progressBar.attr({ value: setValue(), max: setMax() });
+    })
+  });</script>
+<script>function readingTime() {
+    const text = document.getElementById("article").innerText;
+    const wpm = 225;
+    const words = text.trim().split(/\s+/).length;
+    const time = Math.ceil(words / wpm);
+    document.getElementById("time").innerText = time;
+    document.getElementById("words").innerText = words;
+  }
+  readingTime();</script>
+
+<div class="giscus"></div>
+
+<script>
+  (function () {
+    function getCurrentTheme() {
+      return document.body.getAttribute("data-theme") === "dark" ? "dark" : "light";
+    }
+
+    // Inject giscus with the theme that's already active on the page
+    function loadGiscus() {
+      const script = document.createElement("script");
+      script.src = "https://giscus.app/client.js";
+      script.setAttribute("data-repo", "Ypsilenna/ypsilenna.github.io");
+      script.setAttribute("data-repo-id", "R_kgDOLQU90Q");
+      script.setAttribute("data-category", "General");
+      script.setAttribute("data-category-id", "DIC_kwDOLQU90c4C-4tV");
+      script.setAttribute("data-mapping", "pathname");
+      script.setAttribute("data-reactions-enabled", "0");
+      script.setAttribute("data-input-position", "bottom");
+      script.setAttribute("data-emit-metadata", "0");
+      script.setAttribute("crossorigin", "anonymous");
+      script.setAttribute("data-theme", getCurrentTheme());
+      script.async = true;
+      document.querySelector(".giscus").appendChild(script);
+    }
+    loadGiscus();
+
+    // Push a live theme update into the already-mounted giscus iframe
+    function updateGiscusTheme(theme) {
+      const iframe = document.querySelector("iframe.giscus-frame");
+      if (!iframe) return;
+      iframe.contentWindow.postMessage(
+        { giscus: { setConfig: { theme: theme } } },
+        "https://giscus.app"
+      );
+    }
+
+    // Second listener
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+      setTimeout(() => updateGiscusTheme(getCurrentTheme()), 0);
+    });
+  })();
+</script>
