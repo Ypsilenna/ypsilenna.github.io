@@ -30,6 +30,7 @@ feed:
     - artworks
     - stories
     - changelogs
+    - tutorials
 
 collections:
   characters:
@@ -42,6 +43,9 @@ collections:
     output: true
     sort by: title
   changelogs:
+    output: true
+    sort by: title
+  tutorials:
     output: true
     sort by: title
 

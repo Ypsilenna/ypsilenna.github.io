@@ -27,3 +27,5 @@ I am currently trying to work on Little Star and the City of Wonders, but so far
 I think that's all? Now I am off because some kids on the street are going to the nearby stadium for a football match and they are making a lot of noise. I must be all grumpy about it like the old person I am.
 
 CIAO!
+
+Edit: I've just added an anonymous askbox to the website. Now you can ask me a question and I will probably answer it here on my blog.

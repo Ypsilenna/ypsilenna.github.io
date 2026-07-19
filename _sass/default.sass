@@ -28,6 +28,9 @@ a
   text-decoration: none
   color: #1f64c9
 
+input, textarea
+  padding: 5px!important
+
 #content[data-theme="dark"] a
   color: #92abff
   
@@ -693,7 +696,50 @@ h1, h2, h3
     position: absolute
     margin-top: -27px
     margin-left: 4px
-  
+
+.ask-box textarea
+  width: 100%
+  min-height: 100px
+  resize: vertical
+  font-family: inherit
+  border: 1.5px solid #3a7fc1
+
+.ask-box button
+  margin-top: 8px
+  font-family: inherit
+  font-size: 13px
+  padding: 6px 16px
+  border-radius: 20px
+  border: 1.5px solid #3a7fc1
+  background: white
+  color: #3a7fc1
+  cursor: pointer
+  font-weight: bold
+
+.ask-box button:hover
+  background: #3a7fc1
+  color: white
+
+button.guestbooks
+  margin-top: 8px
+  font-family: inherit
+  font-size: 13px
+  padding: 6px 16px
+  border-radius: 20px
+  border: 1.5px solid #3a7fc1!important
+  background: white
+  color: #3a7fc1
+  cursor: pointer
+  font-weight: bold
+
+.guestbooks___pow-checkbox-label
+  display: inline-flex
+  align-items: center
+  gap: 0.5em
+  cursor: pointer
+  user-select: none
+  font-size: 0.95em
+
 .sensitive-block
   position: relative
   margin: 1.5rem 0
