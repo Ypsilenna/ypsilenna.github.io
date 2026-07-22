@@ -27,4 +27,5 @@ ogdesc: A collection of iIllustrations.
     {% endfor %}
     </div>
 
+{% include colormode.html %}
 {% include lazyload.html %}

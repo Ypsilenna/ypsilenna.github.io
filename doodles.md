@@ -28,4 +28,5 @@ ogdesc: A collection of doodles.
     {% endfor %}
     </div>
 
+{% include colormode.html %}
 {% include lazyload.html %}

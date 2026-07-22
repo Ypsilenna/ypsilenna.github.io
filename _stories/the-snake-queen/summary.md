@@ -4,9 +4,9 @@ title: 'The Snake Queen - Summary'
 ogimage: /static/image/thumbnails/2024-019.png
 ogdesc: It is a story of an unknown priestess who tries to make a pact with one of the powerful sky spirit animals, only to find out why nobody deals with the Dusk Serpent.
 ---
- <p style="text-align: left"><b><a href="/stories"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-left-fill" viewBox="0 0 16 16">
+  <div class="return-link"><a href="/stories"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-left-fill" viewBox="0 0 16 16">
   <path d="m3.86 8.753 5.482 4.796c.646.566 1.658.106 1.658-.753V3.204a1 1 0 0 0-1.659-.753l-5.48 4.796a1 1 0 0 0 0 1.506z"/>
-</svg> Stories</a></b></p>
+</svg> Stories</a></div>
 <div class="novel-container"><div class="novel-left-sidebar">
     <div>  <h2>The Snake Queen</h2><br>
           <b>Genre:</b> Fantasy Dramedy<br>
@@ -31,29 +31,4 @@ ogdesc: It is a story of an unknown priestess who tries to make a pact with one 
 </ul><hr>
 </div></div>
 
-<script>
-const toggleBtn = document.getElementById("theme-toggle");
-const savedTheme = localStorage.getItem("theme");
-if (savedTheme) {
-  document.body.setAttribute("data-theme", savedTheme);
-  document.querySelector('#content').setAttribute("data-theme", savedTheme);
-  document.querySelector('.progress-top').setAttribute("data-theme", savedTheme);
-
-
-} else {
-  const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-  if (prefersDark) {
-    document.body.setAttribute("data-theme", "dark");
-    document.querySelector('#content').setAttribute("data-theme", "dark")
-    document.querySelector('.progress-top').setAttribute("data-theme", "dark")
-  }
-}
-toggleBtn.addEventListener("click", () => {
-    const currentTheme = document.body.getAttribute("data-theme");
-  const newTheme = currentTheme === "dark" ? "light" : "dark";
-  document.body.setAttribute("data-theme", newTheme);
-  document.querySelector('#content').setAttribute("data-theme", newTheme);
-  document.querySelector('.progress-top').setAttribute("data-theme", newTheme);
-  localStorage.setItem("theme", newTheme);
-  
-});</script>
+{% include colormode.html %}

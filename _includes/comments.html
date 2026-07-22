@@ -1,0 +1,41 @@
+<script>
+  (function () {
+    function getCurrentTheme() {
+      return document.body.getAttribute("data-theme") === "dark" ? "dark" : "light";
+    }
+
+    // Inject giscus with the theme that's already active on the page
+    function loadGiscus() {
+      const script = document.createElement("script");
+      script.src = "https://giscus.app/client.js";
+      script.setAttribute("data-repo", "Ypsilenna/ypsilenna.github.io");
+      script.setAttribute("data-repo-id", "R_kgDOLQU90Q");
+      script.setAttribute("data-category", "General");
+      script.setAttribute("data-category-id", "DIC_kwDOLQU90c4C-4tV");
+      script.setAttribute("data-mapping", "pathname");
+      script.setAttribute("data-reactions-enabled", "0");
+      script.setAttribute("data-input-position", "bottom");
+      script.setAttribute("data-emit-metadata", "0");
+      script.setAttribute("crossorigin", "anonymous");
+      script.setAttribute("data-theme", getCurrentTheme());
+      script.async = true;
+      document.querySelector(".giscus").appendChild(script);
+    }
+    loadGiscus();
+
+    // Push a live theme update into the already-mounted giscus iframe
+    function updateGiscusTheme(theme) {
+      const iframe = document.querySelector("iframe.giscus-frame");
+      if (!iframe) return;
+      iframe.contentWindow.postMessage(
+        { giscus: { setConfig: { theme: theme } } },
+        "https://giscus.app"
+      );
+    }
+
+    // Second listener
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+      setTimeout(() => updateGiscusTheme(getCurrentTheme()), 0);
+    });
+  })();
+</script>

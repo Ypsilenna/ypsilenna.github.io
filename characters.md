@@ -63,5 +63,6 @@ ogdesc: List of original characters designed by Ypsilenna.
     {% endfor %}</div>
 
 
+{% include colormode.html %}
 
 {% include lazyload.html %}

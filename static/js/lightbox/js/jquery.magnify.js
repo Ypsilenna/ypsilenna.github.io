@@ -410,6 +410,7 @@ var $W = $(window),
                     </svg>'
     },
 
+
     // Customize language of button title
     i18n: {
       minimize: 'minimize',
@@ -2531,3 +2532,5 @@ $.extend(Magnify.prototype, {
   }
 
 })(jQuery);
+
+

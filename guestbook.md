@@ -53,3 +53,4 @@ ogdesc: Guestbook of Court of Gloomvale.
 <hr>
 </div>
 
+{% include colormode.html %}

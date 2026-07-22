@@ -26,13 +26,13 @@ hr
 
 a
   text-decoration: none
-  color: #1f64c9
+  color: #5370cf
+
+.dropdown-item:active
+  background-color: #5370cf!important
 
 input, textarea
   padding: 5px!important
-
-#content[data-theme="dark"] a
-  color: #92abff
   
 .rss-icon
   width: 16px!important
@@ -241,21 +241,23 @@ h1, h2, h3
   height: 40px
   padding: 0px 10px 0px 10px
   text-align: justify
-  background-color: #92ABFF
+  background-color: #6c88e5
   margin: auto
   border-width: 2px
   border-style: dashed
+  border-color: black
+  color: white
 
 
 #latestblog-title svg
-  color: #212529!important
+  color: #FFFFFF!important
 
 
 #latestart-title
   height: 40px
   padding: 0px 10px 0px 10px
   text-align: right
-  background-color: #92ABFF
+  background-color: #6c88e5
   border-width: 2px
   border-color: white
   border-style: dashed
@@ -269,7 +271,7 @@ h1, h2, h3
   height: 40px
   padding: 0px 10px 0px 10px
   text-align: right
-  background-color: #92ABFF
+  background-color: #6c88e5
   border-width: 2px
   border-style: dashed
   border-color: white
@@ -284,7 +286,7 @@ h1, h2, h3
   padding: 0px 10px 0px 10px
   margin-bottom: 7px
   text-align: right
-  background-color: #92ABFF
+  background-color: #657ed1
   border-width: 2px
   border-color: white
   border-style: dashed
@@ -299,7 +301,7 @@ h1, h2, h3
   padding: 0px 10px 0px 10px
   margin-bottom: 7px
   text-align: right
-  background-color: #92ABFF
+  background-color: #657ed1
   border-width: 2px
   border-style: dashed
   border-color: white
@@ -358,6 +360,9 @@ h1, h2, h3
   border-width: 0.3vh
   border-style: dashed
   margin-bottom: 1.5em
+
+.blogentry[data-theme="dark"]
+  background-color: #92acff1c
 
 #latestblog-bottom
   width: 95%
@@ -437,14 +442,34 @@ h1, h2, h3
   gap: 1px 1px
   margin: auto
   max-width: 920px
+  @media (max-width: 499px)
+    grid-template-columns: auto auto auto
+
+.artworks-front
+  a
+    display: block
+    width: 100%
+
+  p
+    margin-block-start: 1em
+    margin-block-end: 1em
+    margin-inline-start: 0px
+    margin-inline-end: 0px
+
+  display: grid
+  grid-template-columns: auto auto auto auto 
+  gap: 1px 1px
+  margin: auto
+  max-width: 920px
+
 
 .artworks-item
   margin: 4px
   background-color: white
-  border: 2px solid rgb(255, 255, 255)
+  border: 2px solid white
   border-radius: 5px
   max-width: 217.25px
-  box-shadow: -0.3px 0 #7a5283, 0 0.3px #301a35, 0.3px 0 #301a35, 0 -0.3px #7a5283
+  box-shadow: -1px 0 #a898ab, 0 1px #a898ab, 1px 0 #a898ab, 0 -1px #a898ab
 
 .artworks-item img
   width: 50px
@@ -664,7 +689,7 @@ h1, h2, h3
   -webkit-transform: scale(1.0)
   opacity: 0    
     
-@media only screen and (max-width: 700px) 
+@media only screen and (max-width: 820px) 
     /* Styles */
   #corner1
     background: none
@@ -886,16 +911,16 @@ progress
   border: none
 
 progress::-moz-progress-bar
-  background-color: #92ABFF
+  background-color: #5370cf
 
 progress::-webkit-progress-bar
   background-color: var(--progress-bar-color)
 
 progress::-webkit-progress-value
-  background-color: #92ABFF
+  background-color: #5370cf
 
 progress::-ms-fill
-  background-color: #92ABFF
+  background-color: #5370cf
 
 .progress-top
   position: sticky 
@@ -906,10 +931,14 @@ progress::-ms-fill
 .progress-top[data-theme="dark"]
   background-color: #141414
 
+.progress-bar  
+  background-color: #5370cf
+
 .lights
   position: relative
   top: -25px
   margin-bottom: -50px
+  float: right
 
 .lights button
   padding: 5px 5px 1px 5px
@@ -923,10 +952,72 @@ progress::-ms-fill
   align-items: center
   flex-direction: column
 
+.return-link
+  font-weight: bold
+  margin-top: -20px
+  margin-left: 4px
+  margin-bottom: 20px
+
 body[data-theme="dark"] .lights button 
   background-color: #333
   color: #fff
   border: 1.5px solid #454545
+
+body[data-theme="dark"] .blogentry
+  background-color: #92acff1c
+
+body[data-theme="dark"] #latestblog-title
+  background-color: #384369
+  border-color: #F4F9FD
+
+body[data-theme="dark"] #latestblog-title svg
+  color: #F4F9FD!important
+
+body[data-theme="dark"] #latestart-title
+  background-color: #384369
+
+body[data-theme="dark"] #latestart-title2
+  background-color: #384369
+
+body[data-theme="dark"] #latestart-title3
+  background-color: #384369
+
+body[data-theme="dark"] #latestart-title4
+  background-color: #384369
+
+body[data-theme="dark"] #sector2-right
+  background-color: #829ffb1c
+  color: #F4F9FD
+
+body[data-theme="dark"] #sector1-right
+  background-color: #829ffb1c
+  color: #F4F9FD
+
+body[data-theme="dark"] #sector2-right a
+  color: #F4F9FD!important
+
+body[data-theme="dark"] #sector1-right a
+  color: #F4F9FD!important
+
+body[data-theme="dark"] #latestblog
+  background-color: #92acff1c
+
+body[data-theme="dark"] #latestblog2
+  background-color: #92acff1c
+
+body[data-theme="dark"] .infobox
+  background-color: #92acff1c
+
+body[data-theme="dark"] .interests-bar
+  background-color: #454b81
+  color: #F4F9FD
+  border: 1px solid #0b112d
+
+#content[data-theme="dark"] a
+  color: #92abff
+
+body[data-theme="dark"] .artworks-item
+  box-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black
 
 /* ── Infobox ── */
 .infobox

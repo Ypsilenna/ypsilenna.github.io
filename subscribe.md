@@ -14,3 +14,6 @@ ogdesc: Learn how to subscribe to Ypsilenna.art
 </ul>
 <br>
 This is currently the only way of subscribing to this website.</div>
+
+{% include colormode.html %}
+

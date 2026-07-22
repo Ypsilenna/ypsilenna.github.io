@@ -4,10 +4,9 @@ title: 'Feng: Before Dusk - Summary'
 ogimage: /static/image/stories/feng-cover.png
 ogdesc: Feng&#58; Before Dusk is a spin-off mini-comic series based on The Snake Queen. The episodes follow the early life of a silly danger noodle originally named Fang before it befriended goddess Raa and had its tail in the creation of a new legend.
 ---
-
- <p style="text-align: left"><b><a href="/stories"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-left-fill" viewBox="0 0 16 16">
+ <div class="return-link"><a href="/stories"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-left-fill" viewBox="0 0 16 16">
   <path d="m3.86 8.753 5.482 4.796c.646.566 1.658.106 1.658-.753V3.204a1 1 0 0 0-1.659-.753l-5.48 4.796a1 1 0 0 0 0 1.506z"/>
-</svg> Stories</a></b></p>
+</svg> Stories</a></div>
 <div class="novel-container"><div class="novel-left-sidebar">
     <div>  <h2>Feng: Before Dusk</h2><br>
         <b>Genre:</b> Slice-of-life Comedy<br>
@@ -35,6 +34,8 @@ The episodes follow the early life of a silly danger noodle originally named Fan
     </div>
   {% endfor %}
 </div>
+
+{% include colormode.html %}
 
 {% include lazyload.html %}
 <hr>

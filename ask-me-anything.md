@@ -55,3 +55,5 @@ ogdesc: Askbox of Court of Gloomvale.
   });
 })();
 </script>
+
+{% include colormode.html %}

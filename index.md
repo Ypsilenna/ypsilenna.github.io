@@ -15,7 +15,7 @@ ogdesc: Welcome to Court of Gloomvale, the creative space of Ypsilenna! You can 
             <h3><a href="/illustrations">Latest Artworks</a></h3></div>
 <br>
 <div style="clear:both"></div>
-<div class="artworks">
+<div class="artworks-front">
 {% assign artworks = site.artworks | sort: "stamp" | where_exp: "item", "item.categories contains 'Artworks'" %}
 {% for artwork in artworks limit: 4 %}
     <div class="artworks-item">
@@ -35,7 +35,7 @@ ogdesc: Welcome to Court of Gloomvale, the creative space of Ypsilenna! You can 
     <h3><a href="/doodles">Latest Doodles</a></h3></div>
 <br>
 <div style="clear:both"></div>
-<div class="artworks">
+<div class="artworks-front">
 {% assign artworks = site.artworks | sort: "stamp" | where_exp: "item", "item.categories contains 'doodles'" %}
 {% for artwork in artworks limit: 4 %}
     <div class="artworks-item">
@@ -54,7 +54,7 @@ ogdesc: Welcome to Court of Gloomvale, the creative space of Ypsilenna! You can 
     <h3><a href="/pixelart">Latest Pixel Art</a></h3></div>
 <br>
 <div style="clear:both"></div>
-<div class="artworks">
+<div class="artworks-front">
 
 {% assign artworks = site.artworks | sort: "stamp" | where_exp: "item", "item.categories contains 'Pixelart'" %}
 {% for artwork in artworks limit: 4 %}
@@ -140,7 +140,7 @@ ogdesc: Welcome to Court of Gloomvale, the creative space of Ypsilenna! You can 
 
 <div id="latestart-title3">
     <h3><a href="/stories#comics">Latest Comic Updates</a></h3></div><div style="clear:both"></div>
-<div class="artworks">
+<div class="artworks-front">
 {% assign artworks = site.artworks | sort: "stamp" | reverse | where_exp: "item", "item.categories contains 'Minicomic'" %}
 {% for artwork in artworks limit: 4 %}
     <div class="artworks-item">
@@ -155,5 +155,7 @@ ogdesc: Welcome to Court of Gloomvale, the creative space of Ypsilenna! You can 
   {% endfor %}
 </div>
 </div>
+
+{% include colormode.html %}
 
 {% include lazyload.html %}

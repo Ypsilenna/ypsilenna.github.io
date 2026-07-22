@@ -1,0 +1,40 @@
+<script>
+const toggleBtn = document.getElementById("theme-toggle");
+const savedTheme = localStorage.getItem("theme");
+
+function applyTheme(theme) {
+  document.body.setAttribute("data-theme", theme);
+  document.querySelector('#content')?.setAttribute("data-theme", theme);
+  document.querySelector('.progress-top')?.setAttribute("data-theme", theme);
+  document.querySelectorAll('.blogentry').forEach(el => {
+    el.setAttribute("data-theme", theme);
+  });
+}
+
+if (savedTheme) {
+  applyTheme(savedTheme);
+} else {
+  const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+  if (prefersDark) applyTheme("dark");
+}
+
+toggleBtn.addEventListener("click", () => {
+  const currentTheme = document.body.getAttribute("data-theme");
+  const newTheme = currentTheme === "dark" ? "light" : "dark";
+  applyTheme(newTheme);
+  localStorage.setItem("theme", newTheme);
+});
+
+// Watch for new content being added to the page (e.g. infinite scroll)
+// and re-color it with whatever the current theme is.
+const themeObserver = new MutationObserver(() => {
+  const currentTheme = document.body.getAttribute("data-theme");
+  if (currentTheme) {
+    document.querySelectorAll('.blogentry').forEach(el => {
+      el.setAttribute("data-theme", currentTheme);
+    });
+  }
+});
+
+themeObserver.observe(document.body, { childList: true, subtree: true });
+</script>

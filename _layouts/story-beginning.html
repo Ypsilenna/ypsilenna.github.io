@@ -1,16 +1,6 @@
 ---
 layout: default
 ---
-<br>
-<div class="lights">
-  <button id="theme-toggle" title="Toggle dark/light mode"><svg xmlns="http://www.w3.org/2000/svg" width="16"
-      height="16" fill="currentColor" class="bi bi-lamp-fill" viewBox="0 0 16 16">
-      <path fill-rule="evenodd"
-        d="M5.04.303A.5.5 0 0 1 5.5 0h5c.2 0 .38.12.46.303l3 7a.5.5 0 0 1-.363.687h-.002q-.225.044-.45.081a33 33 0 0 1-4.645.425V13.5a.5.5 0 1 1-1 0V8.495a33 33 0 0 1-4.645-.425q-.225-.036-.45-.08h-.003a.5.5 0 0 1-.362-.688l3-7Z" />
-      <path
-        d="M6.493 12.574a.5.5 0 0 1-.411.575c-.712.118-1.28.295-1.655.493a1.3 1.3 0 0 0-.37.265.3.3 0 0 0-.052.075l-.001.004-.004.01V14l.002.008.016.033a.6.6 0 0 0 .145.15c.165.13.435.27.813.395.751.25 1.82.414 3.024.414s2.273-.163 3.024-.414c.378-.126.648-.265.813-.395a.6.6 0 0 0 .146-.15l.015-.033L12 14v-.004a.3.3 0 0 0-.057-.09 1.3 1.3 0 0 0-.37-.264c-.376-.198-.943-.375-1.655-.493a.5.5 0 1 1 .164-.986c.77.127 1.452.328 1.957.594C12.5 13 13 13.4 13 14c0 .426-.26.752-.544.977-.29.228-.68.413-1.116.558-.878.293-2.059.465-3.34.465s-2.462-.172-3.34-.465c-.436-.145-.826-.33-1.116-.558C3.26 14.752 3 14.426 3 14c0-.599.5-1 .961-1.243.505-.266 1.187-.467 1.957-.594a.5.5 0 0 1 .575.411" />
-    </svg> Lights</button>
-</div>
 <div class="post">
   <h1 class="title">{{ page.public-title }}</h1>
 
@@ -113,7 +103,7 @@ layout: default
       </button>
       <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
       <script
-        type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'E1E268WX'); kofiwidget2.draw();</script>
+        type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#5370cf', 'E1E268WX'); kofiwidget2.draw();</script>
 
     </div> <br>
     <h3> Comments </h3>
@@ -123,111 +113,10 @@ layout: default
 
 <hr>
 
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
-  integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous">
-  </script>
+{% include colormode.html %}
 
-<script>
-  $(document).ready(function () {
-    const win = $(window);
-    const doc = $(document);
-    const progressBar = $('progress');
-    const progressLabel = $('.progress-label');
-    const setValue = () => win.scrollTop();
-    const setMax = () => doc.height() - win.height();
-    const setPercent = () => Math.round(win.scrollTop() / (doc.height() - win.height()) * 100);
-
-    progressLabel.text(setPercent() + '%');
-    progressBar.attr({ value: setValue(), max: setMax() });
-
-    doc.on('scroll', () => {
-      progressLabel.text(setPercent() + '%');
-      progressBar.attr({ value: setValue() });
-    });
-
-    win.on('resize', () => {
-      progressLabel.text(setPercent() + '%');
-      progressBar.attr({ value: setValue(), max: setMax() });
-    })
-  });</script>
-<script>function readingTime() {
-    const text = document.getElementById("article").innerText;
-    const wpm = 225;
-    const words = text.trim().split(/\s+/).length;
-    const time = Math.ceil(words / wpm);
-    document.getElementById("time").innerText = time;
-    document.getElementById("words").innerText = words;
-  }
-  readingTime();</script>
-
-<script>
-  const toggleBtn = document.getElementById("theme-toggle");
-  const savedTheme = localStorage.getItem("theme");
-  if (savedTheme) {
-    document.body.setAttribute("data-theme", savedTheme);
-    document.querySelector('#content').setAttribute("data-theme", savedTheme);
-    document.querySelector('.progress-top').setAttribute("data-theme", savedTheme);
-
-
-  } else {
-    const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-    if (prefersDark) {
-      document.body.setAttribute("data-theme", "dark");
-      document.querySelector('#content').setAttribute("data-theme", "dark")
-      document.querySelector('.progress-top').setAttribute("data-theme", "dark")
-    }
-  }
-  toggleBtn.addEventListener("click", () => {
-    const currentTheme = document.body.getAttribute("data-theme");
-    const newTheme = currentTheme === "dark" ? "light" : "dark";
-    document.body.setAttribute("data-theme", newTheme);
-    document.querySelector('#content').setAttribute("data-theme", newTheme);
-    document.querySelector('.progress-top').setAttribute("data-theme", newTheme);
-    localStorage.setItem("theme", newTheme);
-
-  });
-</script>
+{% include readermode.html %}
 
 <div class="giscus"></div>
 
-<script>
-  (function () {
-    function getCurrentTheme() {
-      return document.body.getAttribute("data-theme") === "dark" ? "dark" : "light";
-    }
-
-    // Inject giscus with the theme that's already active on the page
-    function loadGiscus() {
-      const script = document.createElement("script");
-      script.src = "https://giscus.app/client.js";
-      script.setAttribute("data-repo", "Ypsilenna/ypsilenna.github.io");
-      script.setAttribute("data-repo-id", "R_kgDOLQU90Q");
-      script.setAttribute("data-category", "General");
-      script.setAttribute("data-category-id", "DIC_kwDOLQU90c4C-4tV");
-      script.setAttribute("data-mapping", "pathname");
-      script.setAttribute("data-reactions-enabled", "0");
-      script.setAttribute("data-input-position", "bottom");
-      script.setAttribute("data-emit-metadata", "0");
-      script.setAttribute("crossorigin", "anonymous");
-      script.setAttribute("data-theme", getCurrentTheme());
-      script.async = true;
-      document.querySelector(".giscus").appendChild(script);
-    }
-    loadGiscus();
-
-    // Push a live theme update into the already-mounted giscus iframe
-    function updateGiscusTheme(theme) {
-      const iframe = document.querySelector("iframe.giscus-frame");
-      if (!iframe) return;
-      iframe.contentWindow.postMessage(
-        { giscus: { setConfig: { theme: theme } } },
-        "https://giscus.app"
-      );
-    }
-
-    // Second listener
-    document.getElementById("theme-toggle").addEventListener("click", () => {
-      setTimeout(() => updateGiscusTheme(getCurrentTheme()), 0);
-    });
-  })();
-</script>
+{% include comments.html %}

@@ -35,7 +35,7 @@ layout: default
         </button>
         <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
         <script
-          type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'E1E268WX'); kofiwidget2.draw();</script>
+          type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#5370cf', 'E1E268WX'); kofiwidget2.draw();</script>
 
       </div> <br>
       <h3> Comments </h3>
@@ -46,78 +46,8 @@ layout: default
 
 <hr>
 
-<script>$(document).ready(function () {
-    const win = $(window);
-    const doc = $(document);
-    const progressBar = $('progress');
-    const progressLabel = $('.progress-label');
-    const setValue = () => win.scrollTop();
-    const setMax = () => doc.height() - win.height();
-    const setPercent = () => Math.round(win.scrollTop() / (doc.height() - win.height()) * 100);
-
-    progressLabel.text(setPercent() + '%');
-    progressBar.attr({ value: setValue(), max: setMax() });
-
-    doc.on('scroll', () => {
-      progressLabel.text(setPercent() + '%');
-      progressBar.attr({ value: setValue() });
-    });
-
-    win.on('resize', () => {
-      progressLabel.text(setPercent() + '%');
-      progressBar.attr({ value: setValue(), max: setMax() });
-    })
-  });</script>
-<script>function readingTime() {
-    const text = document.getElementById("article").innerText;
-    const wpm = 225;
-    const words = text.trim().split(/\s+/).length;
-    const time = Math.ceil(words / wpm);
-    document.getElementById("time").innerText = time;
-    document.getElementById("words").innerText = words;
-  }
-  readingTime();</script>
+{% include colormode.html %}
 
 <div class="giscus"></div>
 
-<script>
-  (function () {
-    function getCurrentTheme() {
-      return document.body.getAttribute("data-theme") === "dark" ? "dark" : "light";
-    }
-
-    // Inject giscus with the theme that's already active on the page
-    function loadGiscus() {
-      const script = document.createElement("script");
-      script.src = "https://giscus.app/client.js";
-      script.setAttribute("data-repo", "Ypsilenna/ypsilenna.github.io");
-      script.setAttribute("data-repo-id", "R_kgDOLQU90Q");
-      script.setAttribute("data-category", "General");
-      script.setAttribute("data-category-id", "DIC_kwDOLQU90c4C-4tV");
-      script.setAttribute("data-mapping", "pathname");
-      script.setAttribute("data-reactions-enabled", "0");
-      script.setAttribute("data-input-position", "bottom");
-      script.setAttribute("data-emit-metadata", "0");
-      script.setAttribute("crossorigin", "anonymous");
-      script.setAttribute("data-theme", getCurrentTheme());
-      script.async = true;
-      document.querySelector(".giscus").appendChild(script);
-    }
-    loadGiscus();
-
-    // Push a live theme update into the already-mounted giscus iframe
-    function updateGiscusTheme(theme) {
-      const iframe = document.querySelector("iframe.giscus-frame");
-      if (!iframe) return;
-      iframe.contentWindow.postMessage(
-        { giscus: { setConfig: { theme: theme } } },
-        "https://giscus.app"
-      );
-    }
-
-    // Second listener
-    document.getElementById("theme-toggle").addEventListener("click", () => {
-      setTimeout(() => updateGiscusTheme(getCurrentTheme()), 0);
-    });
-  })();
-</script>
+{% include comments.html %}
