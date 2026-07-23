@@ -49,8 +49,52 @@
     <script type="text/javascript" src="/static/js/bootstrap.bundle.min.js"></script>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="/static/js/infinite-jekyll.js"></script>
-    <script src="/static/js/lightbox/js/jquery.magnify.js"></script>
     <script src="https://cdn.jsdelivr.net/gh/welpo/iine@main/iine.mini.js"></script>
+    <script src="/static/js/lightbox/js/jquery.magnify.js"></script>
+    <script>
+/*
+ * ---------------------------------
+ * jquery.magnify.js
+ * https://github.com/nzbin/magnify
+ * ---------------------------------
+ */
+
+$('[data-magnify]').magnify({
+  headerToolbar: [
+    'close'
+  ],
+  footerToolbar: [
+    'zoomIn',
+    'zoomOut',
+    'prev',
+    'viewArtwork',
+    'next',
+    'actualSize',
+    'rotateRight'
+  ],
+  title: true,
+  keyboard: true,
+  multiInstances: false,
+  draggable: true,
+  resizable: true,
+  movable: true,
+  customButtons: {
+    viewArtwork: {
+      text: '<svg viewBox="0 0 24 24" class="svg-inline-icon" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>',
+      title: "Artwork Details. Click here to see the author's note, leave a like/comment, or to simply get a permalink.",
+      click: function (context, e) {
+        var currentSrc = context.groupData[context.groupIndex].src;
+        var url = $("[data-magnify=gallery]").filter(function () {
+          return $(this).data("src") === currentSrc;
+        }).data("permalink");
+        if (url) {
+          window.location.href = url;
+        }
+      }
+    }
+  }
+});
+    </script>
 
 </body>
 

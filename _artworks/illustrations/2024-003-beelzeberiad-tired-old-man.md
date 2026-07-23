@@ -5,10 +5,11 @@ date: 2024-01-14
 draft: false
 categories: [Artworks]
 tags: [Beelzeberiad]
-thumbnail: /static/image/thumbnails/2024-003.png
-cover: /static/image/artworks/2024-003.jpg
+thumbnail: /static/image/thumbnails/optimized/2024-003.webp
+cover: /static/image/artworks/optimized/2024-003.webp
 stamp: 9950
-ogimage: /static/image/thumbnails/2024-003.png
+alt: 'Digital artwork of a tired old man with bandages on his chest.'
+ogimage: /static/image/thumbnails/optimized/2024-003.webp
 ogdesc: I only drew it to give him a ponytail.
 ---
 I only drew it to give him a ponytail.

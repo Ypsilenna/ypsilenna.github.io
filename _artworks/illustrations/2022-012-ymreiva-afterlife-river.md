@@ -5,10 +5,11 @@ date: 2022-11-15
 draft: false
 categories: [Artworks]
 tags: [Ymreiva]
-thumbnail: /static/image/thumbnails/2022-012.png
-cover: /static/image/artworks/2022-012.jpg
+thumbnail: /static/image/thumbnails/optimized/2022-012.webp
+cover: /static/image/artworks/optimized/2022-012.webp
 stamp: 9980
-ogimage: /static/image/thumbnails/2022-012.png
+alt: 'Digital artwork of a horned woman running on the urface of a river.'
+ogimage: /static/image/thumbnails/optimized/2022-012.webp
 ogdesc: The new design of Ymreiva!
 ---
 The new design of Ymreiva!

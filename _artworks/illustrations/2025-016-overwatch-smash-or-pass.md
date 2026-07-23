@@ -5,10 +5,11 @@ date: 2025-12-03
 draft: false
 categories: [Artworks]
 tags: [Overwatch]
-thumbnail: /static/image/thumbnails/2025-016.jpg
-cover: /static/image/artworks/2025-016.jpg
+thumbnail: /static/image/thumbnails/optimized/2025-016.webp
+cover: /static/image/artworks/optimized/2025-016.webp
 stamp: 9918
-ogimage: /static/image/thumbnails/2025-016.jpg
+alt: 'Digital Overwatch fan comic.'
+ogimage: /static/image/thumbnails/optimized/2025-016.webp
 ogdesc: Sombra, Ashe, Ana, and Reinhardt from Overwatch (...)
 ---
 Sombra, Ashe, Ana, and Reinhardt from Overwatch. It was my paretner's idea, I just drew it, haha.

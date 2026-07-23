@@ -5,10 +5,11 @@ date: 2023-01-11
 draft: false
 categories: [Artworks]
 tags: [Giftart]
-thumbnail: /static/image/thumbnails/2023-011.png
-cover: /static/image/artworks/2023-011.jpg
+thumbnail: /static/image/thumbnails/optimized/2023-011.webp
+cover: /static/image/artworks/optimized/2023-011.webp
 stamp: 9954
-ogimage: /static/image/thumbnails/2023-011.png
+alt: 'Digital artwork of a man wearing a Warhammer-themed suit and holding his sword up for the emperor.'
+ogimage: /static/image/thumbnails/optimized/2023-011.webp
 ogdesc: Birthday gift for my beloved! It's him as a space marine from Warhammer.
 ---
 Birthday gift for my beloved! It's him as a space marine from Warhammer.

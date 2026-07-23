@@ -19,8 +19,8 @@ ogdesc: Welcome to Court of Gloomvale, the creative space of Ypsilenna! You can 
 {% assign artworks = site.artworks | sort: "stamp" | where_exp: "item", "item.categories contains 'Artworks'" %}
 {% for artwork in artworks limit: 4 %}
     <div class="artworks-item">
-                     <a data-magnify="gallery" data-src="{{ artwork.cover }}" data-caption="{{ artwork.title }}" data-group="a" href="{{ artwork.cover }}">
-                        <img src="/static/image/blank.png" data-echo="{{ artwork.thumbnail }}" alt="" title="{{ artwork.title }}">
+                     <a data-magnify="gallery" data-src="{{ artwork.cover }}" data-permalink="{{ artwork.url }}" data-caption="{{ artwork.title }}" data-group="a" href="{{ artwork.cover }}" >
+                        <img src="/static/image/blank.png" data-echo="{{ artwork.thumbnail }}" alt="{{ artwork.alt }}" title="{{ artwork.title }}" >
                     </a><div class="gallery-link-bg">
                     <a class="gallery-link" title="Artwork Details. Click here to see the author's note, leave a like/comment, or to simply get a permalink." href="{{ artwork.url }}" target="_blank">
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-three-dots" viewBox="0 0 16 16">
@@ -39,8 +39,8 @@ ogdesc: Welcome to Court of Gloomvale, the creative space of Ypsilenna! You can 
 {% assign artworks = site.artworks | sort: "stamp" | where_exp: "item", "item.categories contains 'doodles'" %}
 {% for artwork in artworks limit: 4 %}
     <div class="artworks-item">
-                       <a data-magnify="gallery" data-src="{{ artwork.cover }}" data-caption="{{ artwork.title }}" data-group="a" href="{{ artwork.cover }}">
-                        <img src="/static/image/blank.png" data-echo="{{ artwork.thumbnail }}" alt="" title="{{ artwork.title }}">
+                       <a data-magnify="gallery" data-src="{{ artwork.cover }}" data-caption="{{ artwork.title }}" data-permalink="{{ artwork.url }}" data-group="a" href="{{ artwork.cover }}">
+                        <img src="/static/image/blank.png" data-echo="{{ artwork.thumbnail }}" alt="{{ artwork.alt }}" title="{{ artwork.title }}">
                     </a><div class="gallery-link-bg">
                     <a class="gallery-link" title="Artwork Details. Click here to see the author's note, leave a like/comment, or to simply get a permalink." href="{{ artwork.url }}" target="_blank">
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-three-dots" viewBox="0 0 16 16">
@@ -59,8 +59,8 @@ ogdesc: Welcome to Court of Gloomvale, the creative space of Ypsilenna! You can 
 {% assign artworks = site.artworks | sort: "stamp" | where_exp: "item", "item.categories contains 'Pixelart'" %}
 {% for artwork in artworks limit: 4 %}
     <div class="artworks-item">
-                        <a data-magnify="gallery" data-src="{{ artwork.cover }}" data-caption="{{ artwork.title }}" data-group="a" href="{{ artwork.cover }}">
-                        <img src="/static/image/blank.png" data-echo="{{ artwork.thumbnail }}" alt="" title="{{ artwork.title }}">
+                        <a data-magnify="gallery" data-src="{{ artwork.cover }}" data-caption="{{ artwork.title }}" data-permalink="{{ artwork.url }}" data-group="a" href="{{ artwork.cover }}">
+                        <img src="/static/image/blank.png" data-echo="{{ artwork.thumbnail }}" alt="{{ artwork.alt }}" title="{{ artwork.title }}">
                     </a><div class="gallery-link-bg">
                     <a class="gallery-link" title="Artwork Details. Click here to see the author's note, leave a like/comment, or to simply get a permalink." href="{{ artwork.url }}" target="_blank">
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-three-dots" viewBox="0 0 16 16">
@@ -144,8 +144,8 @@ ogdesc: Welcome to Court of Gloomvale, the creative space of Ypsilenna! You can 
 {% assign artworks = site.artworks | sort: "stamp" | reverse | where_exp: "item", "item.categories contains 'Minicomic'" %}
 {% for artwork in artworks limit: 4 %}
     <div class="artworks-item">
-                       <a data-magnify="gallery" data-src="{{ artwork.cover }}" data-caption="{{ artwork.title }}" data-group="a" href="{{ artwork.cover }}">
-                        <img src="/static/image/blank.png" data-echo="{{ artwork.thumbnail }}" alt="" title="{{ artwork.title }}">
+                       <a data-magnify="gallery" data-src="{{ artwork.cover }}" data-caption="{{ artwork.title }}" data-permalink="{{ artwork.url }}" data-group="a" href="{{ artwork.cover }}">
+                        <img src="/static/image/blank.png" data-echo="{{ artwork.thumbnail }}" alt="{{ artwork.alt }}" title="{{ artwork.title }}">
                     </a><div class="gallery-link-bg">
                     <a class="gallery-link" title="Artwork Details. Click here to see the author's note, leave a like/comment, or to simply get a permalink." href="{{ artwork.url }}" target="_blank">
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-three-dots" viewBox="0 0 16 16">

@@ -5,10 +5,11 @@ date: 2025-12-03
 draft: false
 categories: [Artworks]
 tags: [Raajimera]
-thumbnail: /static/image/thumbnails/2025-002.jpg
-cover: /static/image/artworks/2025-002.jpg
+thumbnail: /static/image/thumbnails/optimized/2025-002.webp
+cover: /static/image/artworks/optimized/2025-002.webp
 stamp: 9931
-ogimage: /static/image/thumbnails/2025-002.jpg
+alt: 'Digital artwork of a woman in a red dress for Lunar New Year.'
+ogimage: /static/image/thumbnails/optimized/2025-002.webp
 ogdesc: I made it to celebrate year of the snake.
 ---
 I made it to celebrate year of the snake.

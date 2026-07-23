@@ -5,10 +5,11 @@ date: 2026-03-21
 draft: false
 categories: [Artworks]
 tags: [Rallosameer]
-thumbnail: /static/image/thumbnails/2026-001.jpg
-cover: /static/image/artworks/2026-001.jpg
+thumbnail: /static/image/thumbnails/optimized/2026-001.webp
+cover: /static/image/artworks/optimized/2026-001.webp
 stamp: 9917
-ogimage: /static/image/thumbnails/2026-001.jpg
+alt: 'Traditional artwork of aman with brown hair holding his cape.'
+ogimage: /static/image/thumbnails/optimized/2026-001.webp
 ogdesc: The first full illustration I made traditionally (...)
 ---
 The first full illustration I made traditionally. The background is made with watercolors and glitter pens. The rest is done with colored pencils.<br>

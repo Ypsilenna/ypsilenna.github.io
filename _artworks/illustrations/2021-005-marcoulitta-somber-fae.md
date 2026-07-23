@@ -5,10 +5,11 @@ date: 2021-11-01
 draft: false
 categories: [Artworks]
 tags: [Marcoulitta]
-thumbnail: /static/image/thumbnails/2021-005.png
-cover: /static/image/artworks/2021-005.jpg
+thumbnail: /static/image/thumbnails/optimized/2021-005.webp
+cover: /static/image/artworks/optimized/2021-005.webp
 stamp: 9995
-ogimage: /static/image/thumbnails/2021-005.png
+alt: 'Digital artwork of a fairy sitting in front of vines.'
+ogimage: /static/image/thumbnails/optimized/2021-005.webp
 ogdesc: Marcoulitta again.
 ---
 Marcoulitta again.

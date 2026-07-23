@@ -5,10 +5,11 @@ date: 2024-03-07
 draft: false
 categories: [Artworks]
 tags: [Imani]
-thumbnail: /static/image/thumbnails/2024-008.png
-cover: /static/image/artworks/2024-008.jpg
+thumbnail: /static/image/thumbnails/optimized/2024-008.webp
+cover: /static/image/artworks/optimized/2024-008.webp
 stamp: 9945
-ogimage: /static/image/thumbnails/2024-008.png
+alt: 'Digital fan art of Imani from Paladins.'
+ogimage: /static/image/thumbnails/optimized/2024-008.webp
 ogdesc: Imani from Paladins.
 ---
 Imani from Paladins.

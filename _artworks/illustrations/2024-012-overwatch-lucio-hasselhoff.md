@@ -5,10 +5,11 @@ date: 2024-08-19
 draft: false
 categories: [Artworks]
 tags: [Lucio]
-thumbnail: /static/image/thumbnails/2024-012.png
-cover: /static/image/artworks/2024-012.jpg
+thumbnail: /static/image/thumbnails/optimized/2024-012.webp
+cover: /static/image/artworks/optimized/2024-012.webp
 stamp: 9941
-ogimage: /static/image/thumbnails/2024-012.png
+alt: 'Digital fan art of Lucio from Overwatch dressed as a lifeguard running out of the sea Baywatch style.'
+ogimage: /static/image/thumbnails/optimized/2024-012.webp
 ogdesc: Lucio from Overwatch in his lifeguard skin (...)
 ---
 Lucio from Overwatch in his lifeguard skin. <br>

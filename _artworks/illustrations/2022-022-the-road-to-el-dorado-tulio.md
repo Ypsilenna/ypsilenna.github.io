@@ -5,10 +5,11 @@ date: 2022-11-25
 draft: false
 categories: [Artworks]
 tags: [Fanart]
-thumbnail: /static/image/thumbnails/2022-022.png
-cover: /static/image/artworks/2022-022.jpg
+thumbnail: /static/image/thumbnails/optimized/2022-022.webp
+cover: /static/image/artworks/optimized/2022-022.webp
 stamp: 9970
-ogimage: /static/image/thumbnails/2022-022.png
+alt: 'Digital fan art of Tulio from The Road to El Dorado.'
+ogimage: /static/image/thumbnails/optimized/2022-022.webp
 ogdesc: Tulio from The Road to El Dorado.
 ---
 Tulio from The Road to El Dorado.

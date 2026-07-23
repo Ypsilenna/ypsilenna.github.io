@@ -5,10 +5,11 @@ date: 2023-01-03
 draft: false
 categories: [Artworks]
 tags: [Niidari]
-thumbnail: /static/image/thumbnails/2023-003.png
-cover: /static/image/artworks/2023-003.jpg
+thumbnail: /static/image/thumbnails/optimized/2023-003.webp
+cover: /static/image/artworks/optimized/2023-003.webp
 stamp: 9962
-ogimage: /static/image/thumbnails/2023-003.png
+alt: 'Digital artwork of a mermaid riding a giant seahorse.'
+ogimage: /static/image/thumbnails/optimized/2023-003.webp
 ogdesc: I drew this for the "seahorse" prompt on that art discord (...)
 ---
 I drew this for the "seahorse" prompt on that art discord.

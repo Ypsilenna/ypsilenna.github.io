@@ -9,10 +9,10 @@
   <title>Magnify</title>
   <!-- Bootstrap -->
   <link href="https://cdn.bootcss.com/balloon-css/0.5.0/balloon.min.css" rel="stylesheet">
-  <link href="css/jquery.magnify.css" rel="stylesheet">
-  <link href="css/snack.css" rel="stylesheet">
-  <link href="css/snack-helper.css" rel="stylesheet">
-  <link href="css/docs.css" rel="stylesheet">
+  <link href="/static/js/lightbox/css/jquery.magnify.css" rel="stylesheet">
+  <link href="/static/js/lightbox/css/snack.css" rel="stylesheet">
+  <link href="/static/js/lightbox/css/snack-helper.css" rel="stylesheet">
+  <link href="/static/js/lightbox/css/docs.css" rel="stylesheet">
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via  -->
   <!--[if lt IE 9]>
@@ -389,7 +389,7 @@
   <script src="https://cdn.bootcss.com/prettify/r298/prettify.min.js"></script>
   <script src="https://cdn.bootcss.com/vue/2.5.16/vue.min.js"></script>
   <!-- Include all compiled plugins (below), or include individual files as needed -->
-  <script src="js/jquery.magnify.js"></script>
+  <script src="/static/js/lightbox/js/jquery.magnify.js"></script>
   <script>
     window.prettyPrint && prettyPrint();
 
@@ -397,7 +397,7 @@
       draggable: true,
       resizable: true,
       movable: true,
-      keyboard: true,
+      keyboard: false,
       title: true,
       modalWidth: 320,
       modalHeight: 320,
@@ -410,7 +410,7 @@
       maxRatio: 16,
       headToolbar: ['maximize', 'close'],
       footToolbar: ['zoomIn', 'zoomOut', 'prev', 'fullscreen', 'next', 'actualSize', 'rotateRight'],
-      multiInstances: true,
+      multiInstances: false,
       initEvent: 'click',
       initAnimation: true,
       fixedModalPos: false,
@@ -420,7 +420,7 @@
     };
 
     var vm = new Vue({
-      el: '#playground',
+      el: '#artworks',
       data: {
         options: defaultOpts
       },
@@ -430,10 +430,10 @@
             $('.magnify-theme').remove();
           } else if (e.target.value === '1') {
             $('.magnify-theme').remove();
-            $('head').append('<link class="magnify-theme" href="css/magnify-bezelless-theme.css" rel="stylesheet">');
+            $('head').append('<link class="magnify-theme" href="/static/js/lightbox/css/magnify-bezelless-theme.css" rel="stylesheet">');
           } else if (e.target.value === '2') {
             $('.magnify-theme').remove();
-            $('head').append('<link class="magnify-theme" href="css/magnify-white-theme.css" rel="stylesheet">');
+            $('head').append('<link class="magnify-theme" href="/static/js/lightbox/css/magnify-white-theme.css" rel="stylesheet">');
           }
         }
       },

@@ -5,10 +5,11 @@ date: 2024-04-01
 draft: false
 categories: [Artworks]
 tags: [WFKai]
-thumbnail: /static/image/thumbnails/2024-009.png
-cover: /static/image/artworks/2024-009.jpg
+thumbnail: /static/image/thumbnails/optimized/2024-009.webp
+cover: /static/image/artworks/optimized/2024-009.webp
 stamp: 9944
-ogimage: /static/image/thumbnails/2024-009.png
+alt: 'Digital Fan art of Kai from Wylde Flowers.'
+ogimage: /static/image/thumbnails/optimized/2024-009.webp
 ogdesc: Kai from Wylde Flowers (...)
 ---
 Kai from Wylde Flowers. The best marriage candidate, hands down.

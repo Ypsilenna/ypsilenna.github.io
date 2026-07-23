@@ -5,10 +5,11 @@ date: 2025-12-03
 draft: false
 categories: [Artworks]
 tags: [animal]
-thumbnail: /static/image/thumbnails/2025-011.jpg
-cover: /static/image/artworks/2025-011.jpg
+thumbnail: /static/image/thumbnails/optimized/2025-011.webp
+cover: /static/image/artworks/optimized/2025-011.webp
 stamp: 9923
-ogimage: /static/image/thumbnails/2025-011.jpg
+alt: 'Digital artwork of a dog bathing in a lake where bathing ogs is forbidden.'
+ogimage: /static/image/thumbnails/optimized/2025-011.webp
 ogdesc: How could you get angry at him? Such a good boy (...)
 ---
 How could you get angry at him? Such a good boy. <br>

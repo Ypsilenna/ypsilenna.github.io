@@ -5,10 +5,11 @@ date: 2024-01-12
 draft: false
 categories: [Artworks]
 tags: [Marcoulitta]
-thumbnail: /static/image/thumbnails/2024-007.png
-cover: /static/image/artworks/2024-007.jpg
+thumbnail: /static/image/thumbnails/optimized/2024-007.webp
+cover: /static/image/artworks/optimized/2024-007.webp
 stamp: 9946
-ogimage: /static/image/thumbnails/2024-007.png
+alt: 'Digital grayscale artwork of a woman with horns and flowers in her hair.'
+ogimage: /static/image/thumbnails/optimized/2024-007.webp
 ogdesc: I tried to draw the opposite of the style I usually use.
 ---
 I tried to draw the opposite of the style I usually use.

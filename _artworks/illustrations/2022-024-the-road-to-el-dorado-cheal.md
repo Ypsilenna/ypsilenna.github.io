@@ -5,10 +5,11 @@ date: 2022-11-27
 draft: false
 categories: [Artworks]
 tags: [Fanart]
-thumbnail: /static/image/thumbnails/2022-024.png
-cover: /static/image/artworks/2022-024.jpg
+thumbnail: /static/image/thumbnails/optimized/2022-024.webp
+cover: /static/image/artworks/optimized/2022-024.webp
 stamp: 9968
-ogimage: /static/image/thumbnails/2022-024.png
+alt: 'Digital fan art of Chel from The Road to El Dorado.'
+ogimage: /static/image/thumbnails/optimized/2022-024.webp
 ogdesc: Chel from The Road to El Dorado. I think I put too much yellow on her face... anyway...
 ---
 Chel from The Road to El Dorado. I think I put too much yellow on her face... anyway...

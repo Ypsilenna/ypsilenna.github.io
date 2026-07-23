@@ -5,10 +5,11 @@ date: 2026-03-21
 draft: false
 categories: [Artworks]
 tags: [Mistletoe]
-thumbnail: /static/image/thumbnails/2026-002.jpg
-cover: /static/image/artworks/2026-002.jpg
+thumbnail: /static/image/thumbnails/optimized/2026-002.webp
+cover: /static/image/artworks/optimized/2026-002.webp
 stamp: 9916
-ogimage: /static/image/thumbnails/2026-002.jpg
+alt: 'Traditional artwork of a red-haired anthro cow thinking about strawberries.'
+ogimage: /static/image/thumbnails/optimized/2026-002.webp
 ogdesc: This is Mistletoe (...)
 ---
 This is Mistletoe. I usually neglect her in terms of artworks, so I decided to draw her on paper. She is a foodie, and she loves snacking.

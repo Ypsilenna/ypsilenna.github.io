@@ -5,10 +5,11 @@ date: 2022-11-29
 draft: false
 categories: [Artworks]
 tags: [Ferimus, Riamidea]
-thumbnail: /static/image/thumbnails/2022-026.png
-cover: /static/image/artworks/2022-026.jpg
+thumbnail: /static/image/thumbnails/optimized/2022-026.webp
+cover: /static/image/artworks/optimized/2022-026.webp
 stamp: 9966
-ogimage: /static/image/thumbnails/2022-026.png
+alt: 'Digital artwork of a couple sitting together sugegstively in a lovely garden.'
+ogimage: /static/image/thumbnails/optimized/2022-026.webp
 ogdesc: The background took me AGES
 ---
 The background took me AGES

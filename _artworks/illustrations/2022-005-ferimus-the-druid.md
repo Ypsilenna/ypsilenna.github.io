@@ -5,10 +5,11 @@ date: 2022-11-09
 draft: false
 categories: [Artworks]
 tags: [Ferimus]
-thumbnail: /static/image/thumbnails/2022-005.png
-cover: /static/image/artworks/2022-005.jpg
+thumbnail: /static/image/thumbnails/optimized/2022-005.webp
+cover: /static/image/artworks/optimized/2022-005.webp
 stamp: 9987
-ogimage: /static/image/thumbnails/2022-005.png
+alt: 'Digital artwork of a male satyr in a dark forest.'
+ogimage: /static/image/thumbnails/optimized/2022-005.webp
 ogdesc: Ferimus in a dark forest.
 ---
 Ferimus in a dark forest.

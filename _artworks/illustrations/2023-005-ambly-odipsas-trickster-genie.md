@@ -5,10 +5,11 @@ date: 2023-01-05
 draft: false
 categories: [Artworks]
 tags: [Ambly]
-thumbnail: /static/image/thumbnails/2023-005.png
-cover: /static/image/artworks/2023-005.jpg
+thumbnail: /static/image/thumbnails/optimized/2023-005.webp
+cover: /static/image/artworks/optimized/2023-005.webp
 stamp: 9960
-ogimage: /static/image/thumbnails/2023-005.png
+alt: 'Digital artwork of a female genie hovering smugly.'
+ogimage: /static/image/thumbnails/optimized/2023-005.webp
 ogdesc: It's Ambly!
 ---
 It's Ambly!
