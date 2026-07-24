@@ -9,7 +9,7 @@ ogdesc: Welcome to Court of Gloomvale, the creative space of Ypsilenna! You can 
   <path fill-rule="evenodd" d="M8.49 10.92C19.412 3.382 11.28-2.387 8 .986 4.719-2.387-3.413 3.382 7.51 10.92l-.234.468a.25.25 0 1 0 .448.224l.04-.08c.009.17.024.315.051.45.068.344.208.622.448 1.102l.013.028c.212.422.182.85.05 1.246-.135.402-.366.751-.534 1.003a.25.25 0 0 0 .416.278l.004-.007c.166-.248.431-.646.588-1.115.16-.479.212-1.051-.076-1.629-.258-.515-.365-.732-.419-1.004a2 2 0 0 1-.037-.289l.008.017a.25.25 0 1 0 .448-.224l-.235-.468ZM6.726 1.269c-1.167-.61-2.8-.142-3.454 1.135-.237.463-.36 1.08-.202 1.85.055.27.467.197.527-.071.285-1.256 1.177-2.462 2.989-2.528.234-.008.348-.278.14-.386"/>
 </svg> <a href="/ask-me-anything">Ask Me Anything</a> </h3>
     
-<div id="sector1-left"><div id="sector1-image"><img src="/static/image/sk8-frontpage.png" title="A decorative image of a blue-skinned skater girl with a space-themed skateboard."></div>
+<div id="sector1-left"><div id="sector1-image"><img src="/static/image/sk8-frontpage.webp" title="A decorative image of a blue-skinned skater girl with a space-themed skateboard."></div>
         <div id="sector1-right">
             <div id="latestart-title">
             <h3><a href="/illustrations">Latest Artworks</a></h3></div>
@@ -88,7 +88,7 @@ ogdesc: Welcome to Court of Gloomvale, the creative space of Ypsilenna! You can 
     <b>Collabs:</b> 🟡 Ask<br><br>
     <b>Disclaimer</b>: I don't really use Discord anymore. If someone reaches out to you claiming they are me, it probably isn't me. Always reference this website before interacting with them.</p><br></div>
 
-<div id="sector3-image"><img src="/static/image/author-frontpage.png" title="Photo of the author. It's a black-haired woman holding World-of-Warcraft-themed plushies."></div></div>
+<div id="sector3-image"><img src="/static/image/author-frontpage.webp" title="Photo of the author. It's a black-haired woman holding World-of-Warcraft-themed plushies."></div></div>
 <br>
             </div>       <h3>My interests</h3>
 <div class="interests-bar">🎨 Hobbies/Interests<hr>
@@ -126,7 +126,7 @@ ogdesc: Welcome to Court of Gloomvale, the creative space of Ypsilenna! You can 
   <path fill-rule="evenodd" d="M8.49 10.92C19.412 3.382 11.28-2.387 8 .986 4.719-2.387-3.413 3.382 7.51 10.92l-.234.468a.25.25 0 1 0 .448.224l.04-.08c.009.17.024.315.051.45.068.344.208.622.448 1.102l.013.028c.212.422.182.85.05 1.246-.135.402-.366.751-.534 1.003a.25.25 0 0 0 .416.278l.004-.007c.166-.248.431-.646.588-1.115.16-.479.212-1.051-.076-1.629-.258-.515-.365-.732-.419-1.004a2 2 0 0 1-.037-.289l.008.017a.25.25 0 1 0 .448-.224l-.235-.468ZM6.726 1.269c-1.167-.61-2.8-.142-3.454 1.135-.237.463-.36 1.08-.202 1.85.055.27.467.197.527-.071.285-1.256 1.177-2.462 2.989-2.528.234-.008.348-.278.14-.386"/>
 </svg> <a href="https://archiveofourown.org/users/Ypsilenna/pseuds/Ypsilenna" target="_blank">Ao3</a></h3><br>
     
-<div id="sector2-left"><div id="sector2-image"><img src="/static/image/wyvern-frontpage.png" title="A decorative image of a wyvern eating a pear."></div>
+<div id="sector2-left"><div id="sector2-image"><img src="/static/image/wyvern-frontpage.webp" title="A decorative image of a wyvern eating a pear."></div>
         <div id="sector2-right"><small>Remember to check the ratings and content warnings before reading.</small><br><br>
 <div id="latestart-title4">
     <h3><a href="/stories#literature">Latest Literature Updates</a></h3></div>
