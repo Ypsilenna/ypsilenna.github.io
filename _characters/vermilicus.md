@@ -5,7 +5,8 @@ date: "2025-09-14"
 categories: [oc]
 tags: [] 
 series: When You&#39;re Evil
-avatar: /static/image/thumbnails/characters/vermilicus.jpg
+avatar: /static/image/thumbnails/characters/vermilicus.webp
+alt: "Portrait of an elf with his eyes closed."
 active: no
 Series: When Youre Evil
 ---

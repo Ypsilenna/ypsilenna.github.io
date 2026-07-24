@@ -9,9 +9,9 @@ ogdesc: List of original characters designed by Ypsilenna.
 <div class="character-list">
    {% assign characters = site.characters | sort: "name" | where_exp: "item", "item.series contains 'The Snake Queen'" %}
    {% for character in characters %}
-<div class="character-list-item">
+<div class="character-list-item" title="{{ character.title }}">
             <a data-src="{{ character.avatar }}" data-caption="{{ character.title }}" href="{{ character.url | prepend: site.baseurl }}">
-                <img src="/static/image/blank.png" data-echo="{{ character.avatar }}" alt="" class="character-active{{ character.active }}">
+                <img src="/static/image/blank.png" data-echo="{{ character.avatar }}" alt="{{ character.alt }}" class="character-active{{ character.active }}">
                         <div class="character-tag"><br>{{ character.title }}</div></a>
         </div>
     {% endfor %}</div>
@@ -20,9 +20,9 @@ ogdesc: List of original characters designed by Ypsilenna.
 <div class="character-list">
    {% assign characters = site.characters | sort: "name" | where_exp: "item", "item.series contains 'Little Star and the City of Wonders'" | reverse %}
    {% for character in characters %}
-<div class="character-list-item">
+<div class="character-list-item" title="{{ character.title }}">
             <a data-src="{{ character.avatar }}" data-caption="{{ character.title }}" href="{{ character.url | prepend: site.baseurl }}">
-                <img src="/static/image/blank.png" data-echo="{{ character.avatar }}" alt="" class="character-active{{ character.active }}">
+                <img src="/static/image/blank.png" data-echo="{{ character.avatar }}" alt="{{ character.alt }}" class="character-active{{ character.active }}">
                         <div class="character-tag"><br>{{ character.title }}</div></a>
         </div>
     {% endfor %}</div>
@@ -32,9 +32,9 @@ ogdesc: List of original characters designed by Ypsilenna.
 <div class="character-list">
    {% assign characters = site.characters | sort: "name" | where_exp: "item", "item.series contains 'When You&#39;re Evil'" | reverse %}
    {% for character in characters %}
-<div class="character-list-item">
+<div class="character-list-item" title="{{ character.title }}">
             <a data-src="{{ character.avatar }}" data-caption="{{ character.title }}" href="{{ character.url | prepend: site.baseurl }}">
-                <img src="/static/image/blank.png" data-echo="{{ character.avatar }}" alt="" class="character-active{{ character.active }}">
+                <img src="/static/image/blank.png" data-echo="{{ character.avatar }}" alt="{{ character.alt }}" class="character-active{{ character.active }}">
                         <div class="character-tag"><br>{{ character.title }}</div></a>
         </div>
     {% endfor %}</div>
@@ -43,9 +43,9 @@ ogdesc: List of original characters designed by Ypsilenna.
 <div class="character-list">
    {% assign characters = site.characters | sort: "name" | where_exp: "item", "item.series contains 'Working Around'" | reverse %}
    {% for character in characters %}
-<div class="character-list-item">
+<div class="character-list-item" title="{{ character.title }}">
             <a data-src="{{ character.avatar }}" data-caption="{{ character.title }}" href="{{ character.url | prepend: site.baseurl }}">
-                <img src="/static/image/blank.png" data-echo="{{ character.avatar }}" alt="" class="character-active{{ character.active }}">
+                <img src="/static/image/blank.png" data-echo="{{ character.avatar }}" alt="{{ character.alt }}" class="character-active{{ character.active }}">
                         <div class="character-tag"><br>{{ character.title }}</div></a>
         </div>
     {% endfor %}</div>
@@ -55,9 +55,9 @@ ogdesc: List of original characters designed by Ypsilenna.
 <div class="character-list">
    {% assign characters = site.characters | sort: "name" | where_exp: "item", "item.series contains 'N/A'" | reverse %}
    {% for character in characters %}
-<div class="character-list-item">
+<div class="character-list-item" title="{{ character.title }}">
             <a data-src="{{ character.avatar }}" data-caption="{{ character.title }}" href="{{ character.url | prepend: site.baseurl }}">
-                <img src="/static/image/blank.png" data-echo="{{ character.avatar }}" alt="" class="character-active{{ character.active }}">
+                <img src="/static/image/blank.png" data-echo="{{ character.avatar }}" alt="{{ character.alt }}" class="character-active{{ character.active }}">
                         <div class="character-tag"><br>{{ character.title }}</div></a>
         </div>
     {% endfor %}</div>

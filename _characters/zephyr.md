@@ -6,7 +6,8 @@ date: "2025-09-14"
 draft: false
 categories: [oc]
 tags: [] 
-avatar: /static/image/thumbnails/2025-003.jpg
+avatar: /static/image/thumbnails/characters/zephyr.webp
+alt: "Portrait of a man peeling an apple."
 series: The Snake Queen
 active: yes
 role: Deuteragonist

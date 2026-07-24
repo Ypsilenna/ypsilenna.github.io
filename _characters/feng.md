@@ -6,7 +6,8 @@ date: "2025-09-14"
 draft: true
 categories: [oc]
 tags: [] 
-avatar: /static/image/blank.png
+avatar: /static/image/thumbnails/characters/feng.webp
+alt: 'Portrait of a snake.'
 series: The Snake Queen
 active: yes
 role: Deuteragonist

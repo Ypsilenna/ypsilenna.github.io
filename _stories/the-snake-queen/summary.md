@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 'The Snake Queen - Summary'
-ogimage: /static/image/thumbnails/2024-019.png
+ogimage: /static/image/stories/tsq-2026-cover.webp
 ogdesc: It is a story of an unknown priestess who tries to make a pact with one of the powerful sky spirit animals, only to find out why nobody deals with the Dusk Serpent.
 ---
   <div class="return-link"><a href="/stories"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-left-fill" viewBox="0 0 16 16">
@@ -18,7 +18,7 @@ ogdesc: It is a story of an unknown priestess who tries to make a pact with one 
           <b>Synopsis:</b> It is a story of an unknown priestess who tries to make a pact with one of the powerful sky spirit animals, only to find out why nobody deals with the Dusk Serpent.<br>
 
           </div>
-    <div><img src="/static/image/stories/tsq-2026-cover.png"></div>
+    <div><img src="/static/image/stories/tsq-2026-cover.webp" title="The Snake Queen cover image."></div>
 <hr>
 <h2 class="title">Chapters</h2>
 <ul>

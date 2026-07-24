@@ -6,7 +6,8 @@ date: "2025-09-14"
 draft: false
 categories: [oc]
 tags: [] 
-avatar: /static/image/thumbnails/characters/raajimera.png
+avatar: /static/image/thumbnails/characters/raajimera.webp
+alt: "Portrait of a woman facing the viewer."
 series: The Snake Queen
 active: yes
 role: Protagonist

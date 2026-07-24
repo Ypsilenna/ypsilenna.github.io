@@ -6,7 +6,8 @@ date: "2025-09-14"
 draft: false
 categories: [oc]
 tags: [] 
-avatar: /static/image/thumbnails/2021-003.png
+avatar: /static/image/thumbnails/characters/omikraya.webp
+alt: "Portrait of a girl with purple hair."
 series: Little Star and the City of Wonders
 active: yes
 role: Deuteragonist

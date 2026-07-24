@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 'Little Star and the City of Wonders - Summary'
-ogimage: /static/image/stories/LSCW-400400.png
+ogimage: /static/image/stories/LSCW-cover.webp
 ogdesc: Lusstoni was just a wounded man who one day decided to leave everything behind and depart on a journey to forget about the pain. Everything was going according to the plan for about five minutes until a child adopted him against his will.
 ---
  <div class="return-link"><a href="/stories"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-left-fill" viewBox="0 0 16 16">
@@ -18,7 +18,7 @@ ogdesc: Lusstoni was just a wounded man who one day decided to leave everything 
           <b>Synopsis:</b> Lusstoni was just a wounded man who one day decided to leave everything behind and depart on a journey to forget about the pain. Everything was going according to the plan for about five minutes until a child adopted him against his will.<br>
 
           </div>
-    <div><img src="/static/image/stories/LSCW-2026-cover.png"></div>
+    <div><img src="/static/image/stories/LSCW-cover.webp" title="Little Star and the City of Wonders cover image."></div>
 <hr>
 <h2 class="title">Chapters</h2>
 <ul>

@@ -6,7 +6,8 @@ date: "2025-09-14"
 categories: [oc]
 tags: [] 
 series: Working Around
-avatar: /static/image/thumbnails/characters/aria.jpg
+avatar: /static/image/thumbnails/characters/aria.webp
+alt: "Portrait of a dryad with her eyes closed."
 active: no
 series: Working Around
 ---

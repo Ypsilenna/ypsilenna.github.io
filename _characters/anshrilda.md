@@ -5,7 +5,8 @@ shortname: Anshrilda
 date: "2025-09-14"
 categories: [oc]
 tags: [Anshrilda] 
-avatar: /static/image/thumbnails/characters/anshrilda.jpg
+avatar: /static/image/thumbnails/characters/anshrilda.webp
+alt: "Portrait of a green-skinned woman."
 series: N/A
 active: no
 ---

@@ -6,7 +6,8 @@ date: "2025-09-14"
 draft: false
 categories: [oc]
 tags: [] 
-avatar: /static/image/thumbnails/characters/ambly.jpg
+avatar: /static/image/thumbnails/characters/ambly.webp
+alt: "Portrait of a female genie."
 series: N/A
 active: no
 ---
