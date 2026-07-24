@@ -64,4 +64,4 @@ The woman touched it with her fingers.
 
 They both began ascending into the sky until their spirits departed and their bodies turned into stardust, forever remaining suspended in the night sky as the constellation of two mothers, the mother of snakes and the mother of the new world.<br><br>
 
-<img src="/static/image/eternal-gardens.jpg">
+<img src="/static/image/eternal-gardens.webp" alt="Illustration depicting the main characters reuiniting in the afterlife.">
