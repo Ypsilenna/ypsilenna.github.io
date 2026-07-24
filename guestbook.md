@@ -4,7 +4,6 @@ title: Guestbook
 ogimage: /static/image/blank.png
 ogdesc: Guestbook of Court of Gloomvale.
 ---
-<br>
 <div class="novel-container">
     <h1 class="title">Welcome to my guestbook!</h1>
 <!-- Guestbook Script -->

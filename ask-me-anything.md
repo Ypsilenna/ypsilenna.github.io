@@ -4,7 +4,7 @@ title: Ask Me Anything
 ogimage: /static/image/blank.png
 ogdesc: Askbox of Court of Gloomvale.
 ---
-<div class="novel-container"><br>
+<div class="novel-container">
 <div class="ask-box">
     <h1 class="title">Askbox</h1><div style="text-align: center;"><img src="/static/image/armadillo512.webp" alt="Decorative image of a cartoonish armadillo." style="max-width:512px!important;"><br>
     Ask me a question and I will answer it in one of my blog posts (probably, unless your question is SPAM, then I will not.)</div><hr>
