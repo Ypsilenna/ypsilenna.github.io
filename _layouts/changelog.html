@@ -10,7 +10,7 @@ layout: default
         <div class="blogentry">
             {{ changelog.moods }} <strong>{{ changelog.title }}</strong> {{ changelog.bonus }}<small>(<time datetime="{{ changelog.date }}">{{ changelog.date | date: "%B %d, %Y" }}</time>)</small>
             <div>
-                {{ changelog.content }}
+                    <div class="squeeze2">{{ changelog.content }}</div>
             </div>
         </div>
     {% endfor %}

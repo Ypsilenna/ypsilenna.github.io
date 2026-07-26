@@ -81,7 +81,7 @@ ogdesc: Welcome to Court of Gloomvale, the creative space of Ypsilenna! You can 
     
     <div id="sector3">
     <div id="sector3-left">
-    <div class="sector3-justify"><p>I'm a person who draws and writes, this is my personal website as you can see. In '94 I was 0 years old because I was born. I am originally from Poland but I currently live in Spain. I'm allergic to the modern web, so I am most likely to be found on some obscure small sites and Mastodon. <br>If you need to contact me, you can do so via Matrix: <i>@ypsilenna:matrix.org</i><br><br>
+    <div class="sector3-justify"><p>I'm a person who draws and writes, this is my personal website as you can see. In '94 I was 0 years old because I was born. I am originally from Poland but I currently live in Spain. I'm allergic to the modern web, so I am most likely to be found on some obscure small sites and Mastodon.<br><br>
     <b>Commissions</b>: 🔴 Closed<br>
     <b>Trades</b>: 🟢 Open<br>
     <b>Requests</b>: 🔴 Closed<br>
@@ -126,18 +126,18 @@ ogdesc: Welcome to Court of Gloomvale, the creative space of Ypsilenna! You can 
   <path fill-rule="evenodd" d="M8.49 10.92C19.412 3.382 11.28-2.387 8 .986 4.719-2.387-3.413 3.382 7.51 10.92l-.234.468a.25.25 0 1 0 .448.224l.04-.08c.009.17.024.315.051.45.068.344.208.622.448 1.102l.013.028c.212.422.182.85.05 1.246-.135.402-.366.751-.534 1.003a.25.25 0 0 0 .416.278l.004-.007c.166-.248.431-.646.588-1.115.16-.479.212-1.051-.076-1.629-.258-.515-.365-.732-.419-1.004a2 2 0 0 1-.037-.289l.008.017a.25.25 0 1 0 .448-.224l-.235-.468ZM6.726 1.269c-1.167-.61-2.8-.142-3.454 1.135-.237.463-.36 1.08-.202 1.85.055.27.467.197.527-.071.285-1.256 1.177-2.462 2.989-2.528.234-.008.348-.278.14-.386"/>
 </svg> <a href="https://archiveofourown.org/users/Ypsilenna/pseuds/Ypsilenna" target="_blank">Ao3</a></h3><br>
     
-<div id="sector2-left"><div id="sector2-image"><img src="/static/image/wyvern-frontpage.webp" alt="A decorative image of a wyvern eating a pear."></div>
-        <div id="sector2-right"><small>Remember to check the ratings and content warnings before reading.</small><br><br>
+<div id="sector2-left"><div id="sector2-image"><br><img src="/static/image/wyvern-frontpage.webp" alt="A decorative image of a wyvern eating a pear."></div>
+        <div id="sector2-right"><br>
 <div id="latestart-title4">
     <h3><a href="/stories#literature" title="Load all literature">Latest Literature Updates</a></h3></div>
-<br>
+<br><div class="squeeze">
 <ul><br>
    {% assign stories = site.stories | sort: "date" | where_exp: "item", "item.categories contains 'stories'" | reverse %}
    {% for story in stories limit: 3 %}
  <li><b><a href="{{ story.url }}">{{ story.title }} ({{ story.rating }})</a></b></li>
     {% endfor %}
 </ul><br>
-
+</div>
 <div id="latestart-title3">
     <h3><a href="/stories#comics" title="Load all comics">Latest Comic Updates</a></h3></div><div style="clear:both"></div>
 <div class="artworks-front">

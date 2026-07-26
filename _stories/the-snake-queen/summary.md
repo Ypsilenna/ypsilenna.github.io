@@ -11,7 +11,7 @@ ogdesc: It is a story of an unknown priestess who tries to make a pact with one 
     <div>  <h2>The Snake Queen</h2><br>
           <b>Genre:</b> Fantasy Dramedy<br>
         <b>Rating:</b> 16+<br>    
-        <b>Content warnings:</b> Violence, Death, Suggestive Themes, Alcohol/Tobacco Use, Trauma<br>
+        <b>Content warnings:</b> Violence, Death, Suggestive Themes, Light Alcohol/Tobacco Use, Trauma<br>
                   <b>Status:</b> Completed <div class="progress">
   <div class="progress-bar" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">100%</div>
 </div>
@@ -29,6 +29,9 @@ ogdesc: It is a story of an unknown priestess who tries to make a pact with one 
         {% endif %}
     {% endfor %}
 </ul><hr>
+<h2 class="title">Extras</h2><br>
+<h3>Videos:</h3>
+<ul><li><b><a href="https://makertube.net/w/a8wBUScuLdJ9bQnjboEPhi">Storyboard: If Zephyr didn't resist on the watchtower (Spoilers)</a></b></li></ul>
 </div></div>
 
 {% include colormode.html %}

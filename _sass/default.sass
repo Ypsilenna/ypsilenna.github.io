@@ -28,6 +28,26 @@ a
   text-decoration: none
   color: #5370cf
 
+ul
+  padding-left: 0rem
+
+.squeeze2 ul
+  padding-left: 2rem
+
+button
+  font-family: inherit
+  padding: 6px 16px
+  border-radius: 20px
+  border: 1.5px solid #3a7fc1
+  background: white
+  color: #3a7fc1
+  cursor: pointer
+  font-weight: bold
+  vertical-align: middle
+
+.button-stories svg
+  vertical-align: text-bottom
+
 .dropdown-item:active
   background-color: #5370cf!important
 
@@ -49,8 +69,14 @@ input, textarea
 
 .iine-button
   border-radius: 25px
-  border: 1px gray dashed
-  padding: 15px
+  padding: 13px 20px 15px 20px
+  color: #5370cf
+  vertical-align: middle
+  font-weight: normal
+  font-family: Trebuchet MS
+
+.counter
+  vertical-align: middle
 
 .bubbles
   background-image: url("/static/image/bubblesv1.webp")
@@ -910,6 +936,7 @@ progress
   background-color: var(--progress-bar-color)
   border: none
 
+
 progress::-moz-progress-bar
   background-color: #5370cf
 
@@ -933,6 +960,8 @@ progress::-ms-fill
 
 .progress-bar  
   background-color: #5370cf
+  font-size: 15px
+  padding: 5px
 
 .lights
   position: relative
@@ -951,6 +980,7 @@ progress::-ms-fill
   display: flex
   align-items: center
   flex-direction: column
+  color: #212529
 
 .return-link
   font-weight: bold
@@ -1018,6 +1048,12 @@ body[data-theme="dark"] .interests-bar
 
 body[data-theme="dark"] .artworks-item
   box-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black
+
+body[data-theme="dark"] hr
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(249, 246, 252, 0.75), rgba(0, 0, 0, 0))!important
+
+.squeeze
+  padding: 15px 15px
 
 /* ── Infobox ── */
 .infobox
@@ -1104,7 +1140,7 @@ body[data-theme="dark"] .artworks-item
     color: var(--section-title)
   
   details summary::-webkit-details-marker 
-    display: none;
+    display: none
   details summary::before
     content: '▸'
     font-size: 0.7rem
