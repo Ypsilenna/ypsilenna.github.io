@@ -9,7 +9,7 @@ summary: /stories/the-snake-queen/summary
 receipt: In which Raajimera finds out what howls in the pass.
 rating: 16+
 flags: Suggestive Themes, Grim Realization
-ogimage: /static/image/thumbnails/2024-019.png
+ogimage: /static/image/stories/tsq-2026-cover.webp
 ogdesc: In which Raajimera finds out what howls in the pass.
 ---
 Just about two weeks ago Raajimera had been terrified of Zephyr. Thinking about him now, she couldn't really remember why. After all, in this cold and cruel world—given all the blue colors he so meticulously hid behind dark clouds—he was the only ray of sunshine in the storm.

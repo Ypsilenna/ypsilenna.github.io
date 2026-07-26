@@ -9,7 +9,7 @@ summary: /stories/the-snake-queen/summary
 receipt: In which Raajimera meets the man in the shadows.
 rating: 16+
 flags: Trauma, Mentions of Death, Injury, Physical Discomfort
-ogimage: /static/image/thumbnails/2024-019.png
+ogimage: /static/image/stories/tsq-2026-cover.webp
 ogdesc: In which Raajimera meets the man in the shadows.
 ---
 Raajimera woke up in somebody else's bed. She had a terrible headache that made her feel like her skull cracked into a thousand shards. The woman couldn't figure out what part of the day it was. 
@@ -22,7 +22,7 @@ The burning sensation in her chest didn't let her forget about the wound. She pl
 
 The last memories of Duskvale were still haunting her like an awful dream. She couldn't believe that people who were like a family to her would do such a thing. She shook her head, trying to distract herself from the flashbacks, but the image of Seyed's eyes as he held the ritual blade was burning even more than the wound. 
 
-Raajimera knew that the man had two faces, but not to this extent. She didn't expect him to be capable of doing what he did.
+Raajimera knew that the man had two faces, but not to this extent. She didn't expect him to be capable of doing what he had done.
 
 Suddenly she heard the door open. The sound startled her, and she jumped up, striking her head against the wooden joist above the bed. The pain was immense, but no greater than her fear. She grabbed the nasty fur cover and buried herself completely under its weight. Raajimera quickly came to regret it, but she couldn't stop panicking. 
 
@@ -30,7 +30,7 @@ With each second, the sound of boots stepping across the stone floor got closer.
 
 The white sheet moved. Raajimera tried to take a peek from under the duvet. She saw the source of the noise. 
 
-It was a man who resembled the inhabitants of Duskvale but with a much darker complexion and eyes like amber in warm sunlight. He had curly brown hair tucked under his white hood, and the tired face belonged to a middle-aged man who had seen several horrible things too many. 
+It was a man who resembled the inhabitants of Duskvale but with a much darker complexion and eyes like amber in warm sunlight. He had curly brown hair tucked under his white hood, and the tired face belonged to a middle-aged man who had seen several too many horrible things. 
 
 She couldn't help but feel sympathy for him; however, her recent trauma made her very cautious. 
 
@@ -52,7 +52,7 @@ Raajimera sat straight on the bed, uncovering her chest. The stranger gently too
 
 "It doesn't seem worse," he stated. Not much better either, but at least it's not deteriorating."
 
-The man got up and left for a moment. He returned with a small bowl of water and fresh bandages.
+The man got up and left for a moment. He returned with a small bowl of water and clean linen strips.
 
 The stranger sat on a small stool next to her and began gently cleaning her injury with a clean cloth dipped in warm water. Once he was done, he put the bowl aside and grabbed a small leather pouch. He opened it and put a small lump of what appeared to be resin on his palm. The clump was colored almost like dried blood.
 
@@ -66,17 +66,17 @@ The stranger sat on a small stool next to her and began gently cleaning her inju
 
 As the resin warmed up, it filled the air with a warm and bitter smell. The man opened his palm. The lump now seemed softer and tackier.
 
-"It might hurt a bit," he said and pressed the chunk against her wound.
+"It might sting," he said and worked the softened resin over the wound.
 
 Raajimera hissed; her injury was still very fresh. The man clearly downplayed how painful it would be. She hoped it would be over soon, but then the stranger took another clump.
 
-"Patience," he said. "I need to cover the entire wound."
+"Patience," he said. "I need to cover the wound."
 
-The stranger worked along the wound in an almost meditative way. To Raajimera it felt like an eternity.
+The stranger took a breath through his nose and grimaced at the smell. He then continued his work. To Raajimera it felt like an eternity.
 
-Once the man was done, he put the small sack away and wrapped a fresh bandage around her chest.
+Once the man was done, he put the small sack away and bound fresh linen over the wound.
 
-Raajimera felt relieved, but she couldn't help but ask the question that kept appearing on the back of her head just like an annoying insect in summer.
+Raajimera felt relieved, but she couldn't help but ask the question that kept appearing in the back of her head just like an annoying insect in summer.
 
 "Why are you helping me?" she finally asked, visibly struggling to concentrate. "I don't remember seeing you in the village."
 
@@ -126,7 +126,7 @@ The woman was confused by this question and took a second to think about it. She
 
 Raajimera could sense that what she will hear today will shake her perception of the situation. She looked down, trying not to make eye contact with him.
 
-"She was a strong woman," he said. and the right hand of the previous chieftain. She took care of the villagers, feeding the hungry ones, going out of her way to ensure everyone had enough resources to live a happy and safe life."
+"She was a strong woman," he said. "and the right hand of the previous chieftain. She took care of the villagers, feeding the hungry ones, going out of her way to ensure everyone had enough resources to live a happy and safe life."
 
 "You seem to be looking up to her," Raajimera pointed out.
 
@@ -166,11 +166,11 @@ She hesitantly accepted the drink and carefully took a small sip. Her lips sudde
 
 "What's the matter?" Zephyr asked and raised his eyebrows. He didn't expect this reaction, as he had already forgotten how it felt to drink this brew for the first time.
 
-"It's just a little bitter," Raajimera responded, but a sudden cough muffled her speech. "Why do you drink this stuff?"
+"It's just a little bitter," Raajimera responded, but a sudden cough muffled her speech. "Why do you drink this thing?"
 
 "I've had an issue with hand twitching for a long time," he said. "This infusion helps me put them at ease."
 
-The man paused to pour some bitter brew into his cup and put the kettle away onto the nightstand. He sat next to her on the edge of the bed.
+The man paused to pour some bitter brew into his cup and put the kettle away on the nightstand. He sat next to her on the edge of the bed.
 
 "Mister Zephyr—"
 
@@ -270,8 +270,7 @@ Raajimera shook her head.
 
 "What happened to the Nightwalker?" Raajimera asked.
 
-"He survived, but he was greatly weakened. The stag lost his voice and the shine that made him appear like a star. Nobody ever saw him again," Zephyr answered. "I'm afraid that Abbas might have been inspired by this story. He must have planned to destroy Raa, subdue the Empire, and rule the entire Pai-Gorva.  
-This kind of power corrupts people like him."
+"He survived, but he was greatly weakened. The stag lost his voice and the shine that made him appear like a star. Nobody ever saw him again," Zephyr answered. "I'm afraid that Abbas might have been inspired by this story. He must have planned to destroy Raa, subdue the Empire, and rule the entire Pai-Gorva.  The vision of this kind of power corrupts people like him."
 
 "He was not the one who attempted to kill me," Raajimera opposed.
 

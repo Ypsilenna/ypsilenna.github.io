@@ -9,7 +9,7 @@ summary: /stories/the-snake-queen/summary
 receipt: In which things go wrong for Raajimera.
 rating: 16+
 flags: Mental Discomfort, Assassination Attempt, Injury, Loss of Consciousness, Imperial Attack
-ogimage: /static/image/thumbnails/2024-019.png
+ogimage: /static/image/stories/tsq-2026-cover.webp
 ogdesc: In which things go wrong for Raajimera.
 ---
 The village was full of clamor as its inhabitants worked like a colony of ants. It has been three days since the traveling merchant warned them about an impending attack from the Empire. They had to raise walls around the settlements, as they speculated that this attack would be unlike anything that had ever happened to them. 

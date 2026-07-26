@@ -9,7 +9,7 @@ summary: /stories/the-snake-queen/summary
 receipt: In which Raajimera faces the people who betrayed her.
 rating: 16+
 flags: Suggestive Themes, Mental Discomfort, Violence
-ogimage: /static/image/thumbnails/2024-019.png
+ogimage: /static/image/stories/tsq-2026-cover.webp
 ogdesc: In which Raajimera faces the people who betrayed her.
 ---
 

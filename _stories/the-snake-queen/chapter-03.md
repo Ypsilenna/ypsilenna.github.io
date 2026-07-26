@@ -9,7 +9,7 @@ summary: /stories/the-snake-queen/summary
 receipt: In which Raajimera heeds the cosmic call and lets a feral snake train her.
 rating: 13+
 flags: N/A
-ogimage: /static/image/thumbnails/2024-019.png
+ogimage: /static/image/stories/tsq-2026-cover.webp
 ogdesc: In which Raajimera heeds the cosmic call and lets a feral snake train her.
 ---
 After a long night of mildly interrupted sleep, a ray of the rising sun ultimately woke Raajimera up for good. 

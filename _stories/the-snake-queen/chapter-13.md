@@ -9,7 +9,7 @@ summary: /stories/the-snake-queen/summary
 receipt: In which Raajimera makes a promise to Zephyr.
 rating: 13+
 flags: Alcohol Use, Mentions of Death, Mental Breakdown
-ogimage: /static/image/thumbnails/2024-019.png
+ogimage: /static/image/stories/tsq-2026-cover.webp
 ogdesc: In which Raajimera makes a promise to Zephyr.
 ---
 

@@ -9,7 +9,7 @@ summary: /stories/the-snake-queen/summary
 receipt: In which the priestess now known as Raajimera ends up in a strange village.
 rating: 13+
 flags: Alcohol
-ogimage: /static/image/thumbnails/2024-019.png
+ogimage: /static/image/stories/tsq-2026-cover.webp
 ogdesc: In which the priestess now known as Raajimera ends up in a strange village.
 ---
 The air was dancing over the semi-arid area surrounding the village of Duskvale. It was noon, and the wind was still and calm, like a monk in a meditation trance.

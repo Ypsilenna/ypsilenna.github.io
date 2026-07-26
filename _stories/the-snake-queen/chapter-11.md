@@ -9,7 +9,7 @@ summary: /stories/the-snake-queen/summary
 receipt: In which Zephyr brings Raajimera to the capital city.
 rating: 16+
 flags: Suggestive Themes, Mental Discomfort, Mentions of Violence
-ogimage: /static/image/thumbnails/2024-019.png
+ogimage: /static/image/stories/tsq-2026-cover.webp
 ogdesc: In which Zephyr brings Raajimera to the capital city.
 ---
 The end of Raajimera's journey was within arms reach. She felt both unprepared and filled with a sense of purpose. For the first time ever, she knew what she was expected to do. Knowing, however, didn't make it easier to make peace with the task at hand.

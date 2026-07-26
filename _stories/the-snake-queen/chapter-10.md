@@ -9,7 +9,7 @@ summary: /stories/the-snake-queen/summary
 receipt: In which Zephyr takes Raajimera on a ride.
 rating: 16+
 flags: Suggestive Themes, Mental Discomfort, Nudity
-ogimage: /static/image/thumbnails/2024-019.png
+ogimage: /static/image/stories/tsq-2026-cover.webp
 ogdesc: In which Zephyr takes Raajimera on a ride.
 ---
 Many things have changed in Raajimera's life ever since she climbed that mountain. What she thought was a curse turned out to be a blessing in disguise, and what seemed terrifying at first turned out to be her safe bay.
