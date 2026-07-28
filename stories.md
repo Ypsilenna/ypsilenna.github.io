@@ -49,9 +49,9 @@ ogdesc: A list of stories authored by Ypsilenna.
           <b>Content Warnings:</b> N/A<br>
           <b>Status:</b> Ongoing<br>
           <b>Synopsis:</b> Feng: Before Dusk is a spin-off mini-comic series based on The Snake Queen.<br>
-The episodes follow the early life of a silly danger noodle originally named Fang before it befriended goddess Raa and had its tail in the creation of a new legend.<br>
+The episodes follow the early life of a silly danger noodle originally named Fang before it befriended Goddess Raa and had its tail in the creation of a new legend.<br>
         <br>
-          <p style="text-align: right"><a href="https://feng-before-dusk.thecomicseries.com/">Read of ComicFury</a>&nbsp;&nbsp;<b><a href="/stories/feng-before-dusk/summary"><button class="button button-stories">Read here <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
+          <p style="text-align: right"><a href="https://feng-before-dusk.thecomicseries.com/">Read of ComicFury</a> | <a href="https://www.theduckwebcomics.com/Feng_Before_Dusk/">Read of The Duck</a>&nbsp;&nbsp;<b><a href="/stories/feng-before-dusk/summary"><button class="button button-stories">Read here <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
   <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
 </svg></button></a></b></p></div>
 
