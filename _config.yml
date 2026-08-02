@@ -48,6 +48,9 @@ collections:
   tutorials:
     output: true
     sort by: title
+  thoughts:
+    output: true
+    sort by: title
 
 
 # Exclude from processing.

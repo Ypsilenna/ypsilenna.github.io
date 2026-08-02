@@ -27,6 +27,9 @@ hr
 a
   text-decoration: none
   color: #5370cf
+  
+p
+  margin-bottom: 0!important
 
 ul
   padding-left: 0rem
@@ -544,11 +547,13 @@ h1, h2, h3
   display: grid
   grid-template-columns: repeat(auto-fill, minmax(var(--min-size), 1fr))
   grid-gap: 1rem
+  justify-content: center
+  align-items: center
+
 
   > div
-    padding: 2rem 1rem
+    padding: 1rem 1rem
     text-align: center
-    font-size: 2rem
     color: #ffffff
 
 #sector1-image
@@ -572,9 +577,11 @@ h1, h2, h3
   grid-template-columns: repeat(auto-fill, minmax(var(--min-size), 1fr))
   grid-gap: 1rem
   color: #212529
+  justify-content: center
+  align-items: center
 
   > div
-    padding: 2rem 1rem
+    padding: 1rem 1rem
     text-align: justify
 
 
@@ -1052,8 +1059,47 @@ body[data-theme="dark"] .artworks-item
 body[data-theme="dark"] hr
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(249, 246, 252, 0.75), rgba(0, 0, 0, 0))!important
 
+body[data-theme="dark"] h3
+  color: white
+
 .squeeze
   padding: 15px 15px
+
+.speech-bubble
+  position: relative
+  background: #aacafd
+  border-radius: .4em
+  padding: 15px
+
+.speech-bubble:after
+  content: ''
+  position: absolute
+  bottom: 0
+  left: 50%
+  width: 0
+  height: 0
+  border: 10px solid transparent
+  border-top-color: #aacafd
+  border-bottom: 0
+  margin-left: -10px
+  margin-bottom: -10px
+
+body[data-theme="dark"] .speech-bubble
+  background: #384369
+  color: white
+
+body[data-theme="dark"] .speech-bubble:after
+  content: ''
+  position: absolute
+  bottom: 0
+  left: 50%
+  width: 0
+  height: 0
+  border: 10px solid transparent
+  border-top-color: #384369
+  border-bottom: 0
+  margin-left: -10px
+  margin-bottom: -10px
 
 /* ── Infobox ── */
 .infobox
