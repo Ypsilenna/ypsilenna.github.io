@@ -131,12 +131,18 @@ ogdesc: Welcome to Court of Gloomvale, the creative space of Ypsilenna! You can 
                 <path
                   d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
               </svg></a></h3>
-<div class="speech-bubble">{% for thought in site.thoughts limit: 1 %}
+<div class="speech-bubble">
+
+{% assign thoughts = site.thoughts | sort: "date" | reverse %}
+{% for thought in thoughts limit: 1 %}
     <div>
       {{ thought.content }}
        <p style="text-align: right"><small><b>Mood:</b> {{ thought.moods }} <b>Date:</b> <i><time datetime="{{ thought.date }}">{{ thought.date | date: "%B %d, %Y" }}</time></i></small></P>
     </div>
-    {% endfor %}</div><img src="/static/image/wyvern-frontpage.webp" alt="A decorative image of a wyvern eating a pear."></div>
+    {% endfor %}
+    </div>
+    
+    <img src="/static/image/wyvern-frontpage.webp" alt="A decorative image of a wyvern eating a pear."></div>
         <div id="sector2-right"><br>
 <div id="latestart-title4">
     <h3><a href="/stories#literature" title="Load all literature">Latest Literature Updates</a></h3></div>

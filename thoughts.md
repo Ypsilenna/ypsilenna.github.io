@@ -5,7 +5,8 @@ ogimage: /static/image/blank.png
 ogdesc: Ypsilenna's recent thoughts.
 ---
 <hr><div class="squeeze"><div class="post-list">
-    {% for thought in site.thoughts limit: 25 %}
+{% assign thoughts = site.thoughts | sort: "date" | reverse %}
+{% for thought in thoughts limit: 25 %}
     <div class="speech-bubble">        
         <div>
       {{ thought.content }}
