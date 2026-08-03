@@ -25,7 +25,7 @@ ogdesc: A list of stories authored by Ypsilenna.
         <br>
           <p style="text-align: right; vertical-align: middle;"><a href="https://the-snake-queen.cfw.me/">Read on ComicFury</a>&nbsp;&nbsp;<b><a href="/stories/the-snake-queen/summary"><button class="button button-stories">Read here <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
   <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
-</svg></button></a></b></p></div>
+</svg></button></a></b></p></div><br>
   <div class="story-cont"><a href="/stories/little-star-and-the-city-of-wonders/summary"><img src="/static/image/stories/LSCW-cover.webp" class="story-img" alt="Little Star and the City of Wonders cover image."></a>
   <b>Title:</b> Little Star and the City of Wonders<br>
           <b>Genre:</b> Fantasy Dramedy<br>
@@ -38,7 +38,7 @@ ogdesc: A list of stories authored by Ypsilenna.
         <br>
           <p style="text-align: right"><a href="https://little-star-and-the-city-of-wonders.cfw.me/">Read on ComicFury</a>&nbsp;&nbsp;<b><a href="/stories/little-star-and-the-city-of-wonders/summary"><button class="button button-stories">Read here <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
   <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
-</svg></button></a></b></p></div>
+</svg></button></a></b></p></div><br>
 <h2 class="title" id="comics"> Comics</h2>
 <hr>
   <div class="story-cont"><a href="/stories/feng-before-dusk/summary"><img src="/static/image/stories/feng-cover.webp" class="story-img" alt="Feng: Before Dusk cover image.">
