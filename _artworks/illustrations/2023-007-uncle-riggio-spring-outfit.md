@@ -4,7 +4,7 @@ title: '[OC] Uncle Riggio - Spring outfit'
 date: 2023-01-07
 draft: false
 categories: [Artworks]
-tags: [Uncle]
+tags: [Riggio]
 thumbnail: /static/image/thumbnails/optimized/2023-007.webp
 cover: /static/image/artworks/optimized/2023-007.webp
 stamp: 9958

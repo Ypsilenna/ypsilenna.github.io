@@ -2,17 +2,18 @@
 layout: character
 title: "Aria the Dryad" 
 shortname: Aria
-date: "2025-09-14"
 categories: [oc]
-tags: [] 
+tags: [incomplete] 
 series: Working Around
 avatar: /static/image/thumbnails/characters/aria.webp
 alt: "Portrait of a dryad with her eyes closed."
 active: no
 series: Working Around
 ---
-<h3>Profile incomplete</h3>
-
+<br>  
+<div class="alert alert-warning" role="alert">
+ <b>Work in progress.</b> This character's profile is incomplete.
+</div>
 <h3 class="title">{{ page.shortname }}'s Gallery</h3>
 <div class="artworks">
 {% assign artworks = site.artworks | sort: "date" | where_exp: "item", "item.tags contains 'Aria'" %}

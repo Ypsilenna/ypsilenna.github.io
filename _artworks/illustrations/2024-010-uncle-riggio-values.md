@@ -4,7 +4,7 @@ title: '[OC] Uncle Riggio - Values'
 date: 2024-05-01
 draft: false
 categories: [Artworks]
-tags: [TheUncle]
+tags: [Riggio]
 thumbnail: /static/image/thumbnails/optimized/2024-010.webp
 cover: /static/image/artworks/optimized/2024-010.webp
 stamp: 9943

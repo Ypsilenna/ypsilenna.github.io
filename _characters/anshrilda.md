@@ -2,16 +2,17 @@
 layout: character
 title: "Anshrilda the Chronomancer" 
 shortname: Anshrilda
-date: "2025-09-14"
 categories: [oc]
-tags: [Anshrilda] 
+tags: [incomplete] 
 avatar: /static/image/thumbnails/characters/anshrilda.webp
 alt: "Portrait of a green-skinned woman."
 series: N/A
 active: no
 ---
-<h3>Profile incomplete</h3>
-
+<br>  
+<div class="alert alert-warning" role="alert">
+ <b>Work in progress.</b> This character's profile is incomplete.
+</div>
 <h3 class="title">{{ page.shortname }}'s Gallery</h3>
 <div class="artworks">
 {% assign artworks = site.artworks | sort: "date" | where_exp: "item", "item.tags contains 'Anshrilda'" %}

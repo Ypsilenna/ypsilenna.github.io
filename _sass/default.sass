@@ -433,7 +433,8 @@ h1, h2, h3
   white-space: nowrap
   overflow: hidden
   @media (min-width: 499px)
-    width: 200px
+    max-width: 200px
+    min-width: 155px
 
 .character-list-item a
   color: white!important
@@ -441,7 +442,7 @@ h1, h2, h3
 .character-list
   display: grid
   @media (max-width: 499px)   
-    grid-template-columns: auto 
+    grid-template-columns: auto auto
   @media (min-width: 500px)
     grid-template-columns: auto auto auto auto
     max-width: 90%
@@ -451,8 +452,12 @@ h1, h2, h3
 
 .character-list-item
   display: inline
+  max-width: 155px
+  margin: auto
+
   @media (min-width: 499px)
-    width: 200px
+    max-width: 200px
+    min-width: 155px
 
 .gallery-thumbnail
   width: 100px

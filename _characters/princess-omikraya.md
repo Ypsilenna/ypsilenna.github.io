@@ -2,10 +2,8 @@
 layout: character
 title: "Princess Omikraya of the Crescent Moon Isle" 
 shortname: Princess Omikraya
-date: "2025-09-14"
-draft: false
 categories: [oc]
-tags: [] 
+tags: [complete] 
 avatar: /static/image/thumbnails/characters/omikraya.webp
 alt: "Portrait of a girl with purple hair."
 series: Little Star and the City of Wonders
@@ -13,7 +11,10 @@ active: yes
 role: Deuteragonist
 ---
   <div class="page-wrapper">
-
+<br>  
+<div class="alert alert-success" role="alert">
+ <b>Note:</b> This character is from an ongoing series, and their entry will not contain spoilers until the project comes to an end.
+</div>
     <h1 class="page-title">{{ page.title }}</h1>
     <p class="page-subtitle">From <em>{{ page.series }}</em> · {{ page.role }}</p>
 <hr>
@@ -80,21 +81,21 @@ role: Deuteragonist
 Curious, playful, cute. Has a difficulty reading the room and asks inapropriate questions, but she is a kid afterall. She will outgrow that phase... or so I hope.<br>
         </p>
       </details>
-
+<br>
             <details open>
         <summary><b>Health Issues</b></summary>
         <p>
 Asthmatic.<br>
         </p>
       </details>
-
+<br>
       <details open>
         <summary><b>Fears</b></summary>
         <p>
 She's scared that her new best-friend-against-his-will would leave her behind.
         </p>
       </details>
-      
+<br>      
       <details open>
         <summary><b>Likes/Dislikes</b></summary>
         <p>
@@ -105,15 +106,15 @@ Ferrets, cherries, plush toys, Lusstoni (even though he doesn't seem to like her
 Bedtime, celery, owls (they scare her)
         </p>
       </details>
-
+<br>
       <details open>
         <summary><b>Relationships/Ties</b></summary>
         <p>
-     <b>[Lusstoni]</b> He finds her and becomes her best friend, he just doesn't know it yet.<br>
+     <b>[<a href="/characters/lusstoni">Lusstoni</a>]</b> He finds her and becomes her best friend, he just doesn't know it yet.<br>
      <b>[King and Queen of the Crescent Moon Isle]</b> Her parents. She loves her mom, but doesn't have a good relationship with her dad for obvious reasons.<br>
         </p>
       </details>
-
+<br>
       <details open>
         <summary><b>Trivia</b></summary>
         <p>

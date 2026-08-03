@@ -2,10 +2,8 @@
 layout: character
 title: "Raajimera the Snake Queen" 
 shortname: Raajimera
-date: "2025-09-14"
-draft: false
 categories: [oc]
-tags: [] 
+tags: [complete] 
 avatar: /static/image/thumbnails/characters/raajimera.webp
 alt: "Portrait of a woman facing the viewer."
 series: The Snake Queen
@@ -13,7 +11,10 @@ active: yes
 role: Protagonist
 ---
   <div class="page-wrapper">
-
+<br>  
+<div class="alert alert-danger" role="alert">
+ <b>Note:</b> This character's profile contains marked spoilers. Don't say I didn't warn you.
+</div>
     <h1 class="page-title">{{ page.title }}</h1>
     <p class="page-subtitle">From <em>{{ page.series }}</em> · {{ page.role }}</p>
 <hr>
@@ -98,8 +99,7 @@ role: Protagonist
       <!-- Lead paragraph (always visible, outside any collapsible) -->
       <div class="article-lead">
         <p>
-       All spoilers have been marked so you don't get spoiled while reading the character page.<br><hr>
-   In her past life, <strong>Raajimera</strong> was cruel and selfish. She made a pact with a spirit animal to acquire demigod powers, but she lost her memory in the process. The woman ended up wandering into the village of Duskvale where the inhabitants insisted that she was the fabled Snake Queen from their prophecy and she would save them from the terrifying Hazyan Empire.
+   In her past life, <strong>Raajimera</strong> was cruel and selfish. She made a pact with a spirit animal to acquire demigod powers, but she lost her memory in the process. The woman ended up wandering into the village of Duskvale where the inhabitants insisted that she was the fabled Snake Queen from their prophecy and she would save them from the terrifying Hazyan Empire.<br><br>
         </p>
       </div>
 
@@ -113,14 +113,14 @@ Selfish and cruel overachiever with no regard for others (as a human), fairly sk
 <b>Additional info:</b> curious, refuses to listen when she thinks she knows best, blocks herself out of anxiety<br>
         </p>
       </details>
-
+<br>
       <details open>
         <summary><b>Fears</b></summary>
         <p>
 She's scared of both not knowing who she is and facing her past. She wishes to know what led her into this predicament, but at the same time she would like to remain blissfully ignorant, thinking her old personality would break her heart. The moment she realized she didn't know how the ending of the prophecy, she started being really anxious about it, suspecting that they will probably leave her behind or worse.
         </p>
       </details>
-      
+ <br>     
       <details open>
         <summary><b>Abilities</b></summary>
         <span>
@@ -151,7 +151,7 @@ Mornings, warmth of the sun, flowers, fruit, snakes, dresses, dark blue<br>
 Wine, thick blankets/duvets, show-offs, ungrateful people, watching sports, Feng's sense of humor (occasionally), her amnesia, Raa (initially)
         </p>
       </details>
-
+<br>
       <details open>
         <summary><b>Relationships/Ties</b></summary>
         <span>

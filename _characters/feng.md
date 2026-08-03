@@ -2,18 +2,19 @@
 layout: character
 title: "Feng the Divine Messenger" 
 shortname: Feng
-date: "2025-09-14"
-draft: true
 categories: [oc]
-tags: [] 
+tags: [complete] 
 avatar: /static/image/thumbnails/characters/feng.webp
 alt: 'Portrait of a snake.'
-series: The Snake Queen
+series: The Snake Queen/Feng:Before Dusk
 active: yes
-role: Deuteragonist
+role: Deuteragonist/Protagonist
 ---
   <div class="page-wrapper">
-
+<br>  
+<div class="alert alert-danger" role="alert">
+ <b>Note:</b> This character's profile contains marked spoilers. Don't say I didn't warn you.
+</div>
     <h1 class="page-title">{{ page.title }}</h1>
     <p class="page-subtitle">From <em>{{ page.series }}</em> · {{ page.role }}</p>
 <hr>
@@ -68,27 +69,26 @@ role: Deuteragonist
       <!-- Lead paragraph (always visible, outside any collapsible) -->
       <div class="article-lead">
         <p>
-        This entry does not and will not contain major spoilers until the end of the series. You can safely read it if you plan to read the novel!<br><hr>
    <b>Feng</b> is a happy-go-lucky snake of average reptilian intelligence. It was dispatched by <b>Raa</b> to guide <b>Raajimera</b> on her way to godhood.
         </p>
       </div>
 
       <!-- ══ COLLAPSIBLE SECTIONS ══ -->
-
+<br>
             <details open>
         <summary><b>Personality</b></summary>
         <p>
 Silly as a goose.<br>
         </p>
       </details>
-
+<br>
       <details open>
         <summary><b>Fears</b></summary>
         <p>
 Feng is scared of the possibility that Raajimera's dark urge would destroy her progress and sabotage their mission.
         </p>
       </details>
-      
+<br>     
       <details open>
         <summary><b>Likes/Dislikes</b></summary>
         <p>
@@ -96,19 +96,24 @@ Feng is scared of the possibility that Raajimera's dark urge would destroy her p
 Food, baths, pockets, Zephyr (he has no choice)<br>
 
 <b>Dislikes:</b><br>
-Bamieh the camel
+Bamieh the camel, being excluded
         </p>
       </details>
-
+<br>
       <details open>
         <summary><b>Relationships/Ties</b></summary>
         <p>
-     <b>[Raajimera the Snake Queen]</b> Best friend<br>
+     <b>[<a href="/characters/raajimera">Raajimera the Snake Queen</a>]</b> Best friend<br>
      <b>[Raa, Spirit of Dusk]</b> Best friend (somehow)<br>
-    <b>[Zephyr of the Howling Pass]</b> TBA
+    <div class="spoiler-block" id="spoiler-1">
+  <div class="spoiler-content"><b>[<a href="/characters/zephyr">Zephyr of the Howling Pass</a>] </b> Husband of Feng's best friend.</div>
+  <div class="spoiler-overlay" onclick="document.getElementById('spoiler-1').classList.add('revealed')">
+    <button>Spoiler</button>
+  </div>
+</div>
         </p>
       </details>
-
+<br>
       <details open>
         <summary><b>Trivia</b></summary>
         <p>

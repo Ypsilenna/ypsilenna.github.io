@@ -2,10 +2,8 @@
 layout: character
 title: "Zephyr of the Howling Pass" 
 shortname: Zephyr
-date: "2025-09-14"
-draft: false
 categories: [oc]
-tags: [] 
+tags: [complete] 
 avatar: /static/image/thumbnails/characters/zephyr.webp
 alt: "Portrait of a man peeling an apple."
 series: The Snake Queen
@@ -13,7 +11,10 @@ active: yes
 role: Deuteragonist
 ---
   <div class="page-wrapper">
-
+<br>  
+<div class="alert alert-danger" role="alert">
+ <b>Note:</b> This character's profile contains marked spoilers. Don't say I didn't warn you.
+</div>
     <h1 class="page-title">{{ page.title }}</h1>
     <p class="page-subtitle">From <em>{{ page.series }}</em> · {{ page.role }}</p>
 <hr>
@@ -35,7 +36,14 @@ role: Deuteragonist
           </tr>
           <tr>
             <th>Also known as</th>
-            <td>The Spy <br>(by the people of Duskvale)</td>
+            <td>● The Spy <br>(by the people of Duskvale)<br>
+            <div class="spoiler-block" id="spoiler-3">
+  <div class="spoiler-content">
+ ● Imperial Consort (After marrying Raajimera)</div>
+  <div class="spoiler-overlay" onclick="document.getElementById('spoiler-3').classList.add('revealed')">
+    <button>Spoiler</button>
+  </div>
+</div></td>
           </tr>
           <tr>
             <th>Species</th>
@@ -51,7 +59,13 @@ role: Deuteragonist
           </tr>
           <tr>
             <th>Affiliation</th>
-            <td>● Duskvale Village (formerly) ● Hazyan Empire (formerly)</td>
+            <td>● Duskvale Village (formerly) ● Hazyan Empire (formerly)<div class="spoiler-block" id="spoiler-4">
+  <div class="spoiler-content">
+ ● Hazyan Empire (currently)</div>
+  <div class="spoiler-overlay" onclick="document.getElementById('spoiler-4').classList.add('revealed')">
+    <button>Spoiler</button>
+  </div>
+</div></td>
           </tr>
           <tr>
             <th>Life Goals</th>
@@ -64,21 +78,27 @@ role: Deuteragonist
       <!-- Lead paragraph (always visible, outside any collapsible) -->
       <div class="article-lead">
         <p>
-        This entry does not and will not contain major spoilers until the end of the series. You can safely read it if you plan to read the novel!<br><hr>
    <b>Zephyr</b> is a serisian spy. He was born in Duskvale as the son of the previous chieftain, but the betrayal of the current leader of the village ended up with him being imprisoned in the empire. He abandoned his old identity and fled the capital city in the dead of the night becoming one of the most efficient spies for hire in the empire. Also one of the most elusive ones.<br>
+
+   <div class="spoiler-block" id="spoiler-2">
+  <div class="spoiler-content">
+After helping Raajimera conquer the Hazyan city, he marries her and stays out of the shadows. Not being able to give up on his past life, he creates an order of spies called Sons of the Wind to assist her when he's no longer around.</div>
+  <div class="spoiler-overlay" onclick="document.getElementById('spoiler-2').classList.add('revealed')">
+    <button>Spoiler</button>
+  </div>
+</div>
         </p>
       </div>
-
       <!-- ══ COLLAPSIBLE SECTIONS ══ -->
 
             <details open>
         <summary><b>Personality</b></summary>
         <p>
-Troubled by his past, self sufficient. An emotionally suppressed recluse. Becomes protective over Raajimera initially out of sense of duty, but later because of something more.<br><br>
+Troubled by his past and self-sufficient, as well as an emotionally suppressed recluse. Becomes protective over Raajimera initially out of a sense of duty, but later because of something more.<br>
 
         </p>
       </details>
-
+<br>
             <details open>
         <summary><b>Health Issues</b></summary>
         <p>
@@ -86,14 +106,14 @@ He still suffers the aftermath of the overwhelming amount of stress he went thro
         </p>
       </details>
 
-
+<br>
       <details open>
         <summary><b>Fears</b></summary>
         <p>
 He's scared to leave the shadows from all he suffered over the years. 
         </p>
       </details>
-
+<br>
       <details open>
         <summary><b>Likes/Dislikes</b></summary>
         <p>
@@ -104,15 +124,22 @@ Cheese, grapes, flat bread, his camel, nights<br>
 Public speeches, being perceived, some spices, noise
         </p>
       </details>
-
+<br>
       <details open>
         <summary><b>Relationships/Ties</b></summary>
         <p>
-     <b>[Raajimera the Snake Queen]</b> TBA<br>
-     His family is dead, and all that is left is his ugly camel
+     His family is dead, and all that is left is his ugly camel<br>
+  
+  <div class="spoiler-block" id="spoiler-1">
+  <div class="spoiler-content">
+<b>[<a href="/characters/raajimera">Raajimera the Snake Queen</a>]</b> His wife<br><b>[<a href="/characters/feng">Feng the Divine Messenger</a>]</b> His wife's familiar<br></div>
+  <div class="spoiler-overlay" onclick="document.getElementById('spoiler-1').classList.add('revealed')">
+    <button>Spoiler</button>
+  </div>
+</div>
         </p>
       </details>
-
+<br>
       <details open>
         <summary><b>Trivia</b></summary>
         <p>
