@@ -21,7 +21,7 @@ ogdesc: A list of stories authored by Ypsilenna.
           <b>Status:</b> Completed <div class="progress">
   <div class="progress-bar" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">100%</div>
 </div>
-          <b>Synopsis:</b> It is a story of an unknown priestess who tries to make a pact with one of the powerful sky spirit animals, only to find out why nobody deals with the Dusk Serpent.<br>
+          <b>Synopsis:</b> It is a story of an unknown priestess who tries to make a pact with one of the powerful sky spirit animals, only to find out why nobody deals with the Dusk Serpent.
         <br>
           <p style="text-align: right; vertical-align: middle;"><a href="https://the-snake-queen.cfw.me/">Read on ComicFury</a>&nbsp;&nbsp;<b><a href="/stories/the-snake-queen/summary"><button class="button button-stories">Read here <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
   <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
@@ -34,7 +34,7 @@ ogdesc: A list of stories authored by Ypsilenna.
           <b>Status:</b> Ongoing <div class="progress">
   <div class="progress-bar" role="progressbar" style="width: 11%" aria-valuenow="11" aria-valuemin="0" aria-valuemax="100">11%</div>
 </div>
-          <b>Synopsis:</b> Lusstoni was just a wounded man who one day decided to leave everything behind and depart on a journey to forget about the pain. Everything was going according to the plan for about five minutes until a child adopted him against his will.<br>
+          <b>Synopsis:</b> Lusstoni was just a wounded man who one day decided to leave everything behind and depart on a journey to forget about the pain. Everything was going according to the plan for about five minutes until a child adopted him against his will.
         <br>
           <p style="text-align: right"><a href="https://little-star-and-the-city-of-wonders.cfw.me/">Read on ComicFury</a>&nbsp;&nbsp;<b><a href="/stories/little-star-and-the-city-of-wonders/summary"><button class="button button-stories">Read here <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
   <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
@@ -49,7 +49,7 @@ ogdesc: A list of stories authored by Ypsilenna.
           <b>Content Warnings:</b> N/A<br>
           <b>Status:</b> Ongoing<br>
           <b>Synopsis:</b> Feng: Before Dusk is a spin-off mini-comic series based on The Snake Queen.<br>
-The episodes follow the early life of a silly danger noodle originally named Fang before it befriended Goddess Raa and had its tail in the creation of a new legend.<br>
+The episodes follow the early life of a silly danger noodle originally named Fang before it befriended Goddess Raa and had its tail in the creation of a new legend.
         <br>
           <p style="text-align: right"><a href="https://feng-before-dusk.thecomicseries.com/">Read on ComicFury</a> | <a href="https://www.theduckwebcomics.com/Feng_Before_Dusk/">Read on The Duck</a>&nbsp;&nbsp;<b><a href="/stories/feng-before-dusk/summary"><button class="button button-stories">Read here <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
   <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
