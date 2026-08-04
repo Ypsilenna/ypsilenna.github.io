@@ -37,13 +37,8 @@ role: Deuteragonist
           <tr>
             <th>Also known as</th>
             <td>● The Spy <br>(by the people of Duskvale)<br>
-            <div class="spoiler-block" id="spoiler-3">
-  <div class="spoiler-content">
- ● Imperial Consort (After marrying Raajimera)</div>
-  <div class="spoiler-overlay" onclick="document.getElementById('spoiler-3').classList.add('revealed')">
-    <button>Spoiler</button>
-  </div>
-</div></td>
+            <div class="spoiler-block" id="spoiler-3"><div class="spoiler-content">● Imperial Consort (After marrying Raajimera)</div>
+  <div class="spoiler-overlay" onclick="document.getElementById('spoiler-3').classList.add('revealed')"><button>Spoiler</button></div></div></td>
           </tr>
           <tr>
             <th>Species</th>
@@ -59,13 +54,10 @@ role: Deuteragonist
           </tr>
           <tr>
             <th>Affiliation</th>
-            <td>● Duskvale Village (formerly) ● Hazyan Empire (formerly)<div class="spoiler-block" id="spoiler-4">
-  <div class="spoiler-content">
- ● Hazyan Empire (currently)</div>
-  <div class="spoiler-overlay" onclick="document.getElementById('spoiler-4').classList.add('revealed')">
-    <button>Spoiler</button>
-  </div>
-</div></td>
+            <td><span>● Duskvale Village (formerly) ● Hazyan Empire (formerly)
+  <div class="spoiler-block" id="spoiler-4"><div class="spoiler-content">
+● Hazyan Empire (currently)</div><div class="spoiler-overlay" onclick="document.getElementById('spoiler-4').classList.add('revealed')">
+    <br><button>Spoiler</button></div></div></span><br></td>
           </tr>
           <tr>
             <th>Life Goals</th>
@@ -77,18 +69,14 @@ role: Deuteragonist
 
       <!-- Lead paragraph (always visible, outside any collapsible) -->
       <div class="article-lead">
-        <p>
-   <b>Zephyr</b> is a serisian spy. He was born in Duskvale as the son of the previous chieftain, but the betrayal of the current leader of the village ended up with him being imprisoned in the empire. He abandoned his old identity and fled the capital city in the dead of the night becoming one of the most efficient spies for hire in the empire. Also one of the most elusive ones.<br>
-
-   <div class="spoiler-block" id="spoiler-2">
-  <div class="spoiler-content">
-After helping Raajimera conquer the Hazyan city, he marries her and stays out of the shadows. Not being able to give up on his past life, he creates an order of spies called Sons of the Wind to assist her when he's no longer around.</div>
-  <div class="spoiler-overlay" onclick="document.getElementById('spoiler-2').classList.add('revealed')">
-    <button>Spoiler</button>
+        <span>
+   <b>Zephyr</b> is a serisian spy. He was born in Duskvale as the son of the previous chieftain, but the betrayal of the current leader of the village ended up with him being imprisoned in the empire. He abandoned his old identity and fled the capital city in the dead of the night becoming one of the most efficient spies for hire in the empire. Also one of the most elusive ones.<br><br>
+   <div class="spoiler-block" id="spoiler-2"><div class="spoiler-content">
+   After helping Raajimera conquer the Hazyan city, he marries her and stays out of the shadows. Not being able to give up on his past life, he creates an order of spies called Sons of the Wind to assist her when he's no longer around.</div><div class="spoiler-overlay" onclick="document.getElementById('spoiler-2').classList.add('revealed')"><br><button>Spoiler</button>
   </div>
 </div>
-        </p>
-      </div>
+        </span>
+      </div><br>
       <!-- ══ COLLAPSIBLE SECTIONS ══ -->
 
             <details open>
@@ -127,17 +115,12 @@ Public speeches, being perceived, some spices, noise
 <br>
       <details open>
         <summary><b>Relationships/Ties</b></summary>
-        <p>
-     His family is dead, and all that is left is his ugly camel<br>
-  
-  <div class="spoiler-block" id="spoiler-1">
-  <div class="spoiler-content">
-<b>[<a href="/characters/raajimera">Raajimera the Snake Queen</a>]</b> His wife<br><b>[<a href="/characters/feng">Feng the Divine Messenger</a>]</b> His wife's familiar<br></div>
+        <span>His family is dead, and all that is left is his ugly camel
+  <div class="spoiler-block" id="spoiler-1"><div class="spoiler-content">
+<b>[<a href="/characters/raajimera">Raajimera the Snake Queen</a>]</b> His wife<br><b>[<a href="/characters/feng">Feng the Divine Messenger</a>]</b> His wife's familiar</div>
   <div class="spoiler-overlay" onclick="document.getElementById('spoiler-1').classList.add('revealed')">
-    <button>Spoiler</button>
-  </div>
-</div>
-        </p>
+<button>Spoiler</button>
+  </div></div></span>
       </details>
 <br>
       <details open>

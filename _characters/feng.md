@@ -105,8 +105,7 @@ Bamieh the camel, being excluded
         <p>
      <b>[<a href="/characters/raajimera">Raajimera the Snake Queen</a>]</b> Best friend<br>
      <b>[Raa, Spirit of Dusk]</b> Best friend (somehow)<br>
-    <div class="spoiler-block" id="spoiler-1">
-  <div class="spoiler-content"><b>[<a href="/characters/zephyr">Zephyr of the Howling Pass</a>] </b> Husband of Feng's best friend.</div>
+    <div class="spoiler-block" id="spoiler-1"><div class="spoiler-content"><b>[<a href="/characters/zephyr">Zephyr of the Howling Pass</a>] </b> Husband of Feng's best friend.</div>
   <div class="spoiler-overlay" onclick="document.getElementById('spoiler-1').classList.add('revealed')">
     <button>Spoiler</button>
   </div>

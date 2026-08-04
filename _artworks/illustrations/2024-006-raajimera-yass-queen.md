@@ -4,7 +4,7 @@ title: '[OC] Raajimera - Yass Queen'
 date: 2024-01-07
 draft: false
 categories: [Artworks]
-tags: [Raajimera]
+tags: [Raajimera, Feng]
 thumbnail: /static/image/thumbnails/optimized/2024-006.webp
 cover: /static/image/artworks/optimized/2024-006.webp
 stamp: 9947

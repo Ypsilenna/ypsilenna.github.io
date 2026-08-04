@@ -156,15 +156,15 @@ Wine, thick blankets/duvets, show-offs, ungrateful people, watching sports, Feng
         <summary><b>Relationships/Ties</b></summary>
         <span>
      <b>[Raa, Spirit of Dusk]</b> Deity who bestowed the gift of immortality upon her and indirectly guided her on her path to great power.<br>
-     <b>[Zephyr of the Howling Pass]</b> Man who healed her.<div class="spoiler-block" id="spoiler-1">
+  <div class="spoiler-block" id="spoiler-1">
   <div class="spoiler-content">
- She eventually marries him and he becomes her imperial consort.</div>
+  <b>[<a href="/characters/zephyr">Zephyr of the Howling Pass</a>]</b>
+  Man who healed her. She eventually marries him and he becomes her imperial consort.</div>
   <div class="spoiler-overlay" onclick="document.getElementById('spoiler-1').classList.add('revealed')">
     <button>Spoiler</button>
   </div>
-</div>
-     
-     <b>[Feng the Snake]</b> Best friend and spiritual guide.
+</div>  
+     <b>[<a href="/characters/feng">Feng the Divine Messenger</a>]</b> Best friend and spiritual guide.
         </span>
       </details>
 <br>
