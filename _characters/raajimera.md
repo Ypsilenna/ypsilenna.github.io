@@ -92,6 +92,10 @@ role: Protagonist
 </div>
             </td>
           </tr>
+                    <tr>
+            <th>Biome</th>
+            <td>Desert Shrubland</td>
+          </tr>
         </table>
       </aside>
       <!-- ══ END INFOBOX ══ -->

@@ -63,6 +63,10 @@ role: Deuteragonist
             <th>Life Goals</th>
             <td>● Survival</td>
           </tr>
+          <tr>
+            <th>Biome</th>
+            <td>Desert Shrubland</td>
+          </tr>
         </table>
       </aside>
       <!-- ══ END INFOBOX ══ -->

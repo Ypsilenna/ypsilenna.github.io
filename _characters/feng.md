@@ -62,6 +62,10 @@ role: Deuteragonist/Protagonist
             <th>Life Goals</th>
             <td>● Teaching Raajimera the wisdom of Raa</td>
           </tr>
+          <tr>
+            <th>Biome</th>
+            <td>Desert Shrubland</td>
+          </tr>
         </table>
       </aside>
       <!-- ══ END INFOBOX ══ -->
