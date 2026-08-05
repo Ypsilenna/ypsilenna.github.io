@@ -17,12 +17,14 @@
   z-index: 1090;
   min-width: 330px;
   height: 330px;
-  background-color: #111;
   background-color: rgba(0, 0, 0, 0.84);
-  box-shadow: 0 0 4px 1px rgba(0, 0, 0, 0.32);
+  box-shadow: 0 0 4px 1px #39303b;
   cursor: default;
   outline: none;
   color: #ccc;
+  background: #EEAECA;
+  background: radial-gradient(circle,rgba(238, 174, 202, 1) 0%, rgba(218, 226, 248, 1) 100%);
+  border-radius: 10px;
 }
 
 .magnify-maximize {
@@ -35,19 +37,20 @@
 
 .magnify-toolbar {
   font-size: 0;
+
 }
 
 .magnify-header {
   position: relative;
   z-index: 2;
   height: 40px;
-  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
   font-family: 'Love Ya Like A Sister', cursive;
   font-weight: bold;
 }
 
 .magnify-header .magnify-toolbar {
   float: right;
+  background-color: rgb(0 0 0 / 0%);
 }
 
 [dir='rtl'] .magnify-header .magnify-toolbar {
@@ -56,7 +59,7 @@
 
 .magnify-title {
   padding: 13px 10px;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1;
   white-space: nowrap;
   text-overflow: ellipsis;
@@ -65,15 +68,15 @@
       -ms-user-select: none;
           user-select: none;
   overflow: hidden;
-  color: rgb(255, 255, 255);
+  color: rgb(27 35 45);
   letter-spacing: 0.5px;
 }
 
 .magnify-stage {
   position: absolute;
-  top: 0px;
+  top: 40px;
   right: 0px;
-  bottom: 0px;
+  bottom: 40px;
   left: 0px;
   z-index: 1;
   border: 0px solid rgba(255, 255, 255, 0.64);
@@ -96,6 +99,7 @@
 .magnify-image {
   position: absolute;
   display: inline-block;
+  border: 1px solid #a898ab;
 }
 
 .magnify-image.image-ready {
@@ -116,6 +120,7 @@
 
 .magnify-footer .magnify-toolbar {
   display: inline-block;
+  background-color: rgb(0 0 0 / 0%);
 }
 
 .magnify-button {
@@ -150,10 +155,12 @@
   height: 1em;
   overflow: visible;
   vertical-align: -.125em;
+  color: rgb(27 35 45);
 }
 
 .magnify-button-close:hover {
   background-color: #ff4545;
+  border-radius: 10px;
 }
 
 .magnify-button-maximize:hover {
@@ -265,6 +272,7 @@
   left: 0;
   border-width: 0;
   background-color: #000;
+
 }
 
 :-moz-full-screen {
