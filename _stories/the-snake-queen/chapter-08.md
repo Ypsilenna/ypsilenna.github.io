@@ -446,6 +446,6 @@ The man chuckled.
 
 They went inside and closed the door. The chilly wind was still entering the room through the holes in the entrance, but Zephyr's presence made the night less cold.
 
-For the first time since she became a demigoddess, Raajimera felt a genuine connection with someone. He was her kindred spirit, and the wisdom of Raa filled her with the certainty that with him by her side everything will be okay.
+For the first time since she became a demigoddess, Raajimera felt a genuine connection with someone. He was her kindred spirit, and the wisdom of Raa filled her with the certainty that with him by her side everything will be alright.
 
 There will come a day when she will have to face the people who turned on her and make them pay for what they have done. For now, however, all she could think about was the son of the wind, the myriad of stars reflected in his eyes, and the tale of the night sky.
