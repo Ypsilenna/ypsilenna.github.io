@@ -418,9 +418,9 @@ Zephyr looked at her face. For a split second he felt as if he were looking at R
 
 "You are right," Zephyr agreed. "He is powerful, and facing him could raise the stakes that are already high."
 
-The woman looked at him and said, "You're right. If he killed me, he would claim the power of Raa and doom this world."
+The woman looked at him and said, "You're right. If he killed me, he would claim the power of Raa and bring about the destruction of mankind."
 
-"That too," Zephyr answered, "but my first thought was that I couldn't bear losing you."
+"That too," Zephyr answered, "but my first thought was that I would miss you. The world would be different without you."
 
 Her eyes filled with tears. She discarded the toy she was holding and hugged him.
 
