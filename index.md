@@ -137,7 +137,7 @@ ogdesc: Welcome to Court of Gloomvale, the creative space of Ypsilenna! You can 
 {% for thought in thoughts limit: 1 %}
     <div>
       {{ thought.content }}
-       <p style="text-align: right"><small><b>Mood:</b> {{ thought.moods }} <b>Date:</b> <i><time datetime="{{ thought.date }}">{{ thought.date | date: "%B %d, %Y" }}</time></i></small></P>
+       <p style="text-align: right; margin-bottom: -3px;"><small><b>Mood:</b> {{ thought.moods }} <b>Date:</b> <i><time datetime="{{ thought.date }}">{{ thought.date | date: "%B %d, %Y" }}</time></i></small></P>
     </div>
     {% endfor %}
     </div>
