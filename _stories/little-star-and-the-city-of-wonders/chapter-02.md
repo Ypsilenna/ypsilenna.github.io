@@ -192,6 +192,8 @@ The bartender looked at the girl while still polishing the glass he was holding.
 
 "She said she's named Omikraya," Lusstoni responded.
 
+"And my mom always calls me Little Star!" the girl added.
+
 "It doesn't sound like she could be from here," the bartender said and put the glass under the counter. "How old are you, Omikraya?"
 
 "I'm ten!" she exclaimed happily.
