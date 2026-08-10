@@ -1,6 +1,6 @@
 ---
 layout: story-ending
-title: 'Little Star and the City of Wonders: Chapter 2- No Drinks For the Pretty Boy'
+title: 'Little Star and the City of Wonders: Chapter 2 - No Drinks For the Pretty Boy'
 public-title: 'Chapter 2 - No Drinks For the Pretty Boy'
 date: "2026-08-10"
 categories: [stories]
