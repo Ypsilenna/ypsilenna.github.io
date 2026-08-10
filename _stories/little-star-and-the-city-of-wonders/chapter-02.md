@@ -170,7 +170,7 @@ They walked down the road leading into the center of the town. The stone that pa
 
 Truth be told, it probably wouldn't be here, but he had to make sure.
 
-Lusstoni stopped to look around. This town was built in a strange and chaotic way. He realized that he would need to ask somebody to find his way around the city. But what was he looking for? An orphanage? The town's leader? Maybe their sheriff or whoever was responsible for maintaining order in that hole? The man wasn't sure, and he couldn't focus because his veins were filled with blood that was dangerously low on alcohol. He is not used to thinking in such circumstances.
+Lusstoni stopped to look around. This town was built in a strange and chaotic way. He realized that he would need to ask somebody to find his way around the city. But what was he looking for? An orphanage? The town's leader? Maybe their sheriff or whoever was responsible for maintaining order in that hole? The man wasn't sure, and he couldn't focus because his bloodstream had dangerously low alcohol content. He was not used to thinking in such circumstances.
 
 A bar caught his attention. It's the kind of place where people trade their secrets like they're a commodity; perhaps he could find someone who knew Omikraya. That, and he could finally get something to drink. Staying dry for so long should be a crime.
 
