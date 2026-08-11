@@ -122,7 +122,7 @@ He nodded.
 
 "That sounds plausible..." he said. "What about your mother?"
 
-"Ashidrella"
+"Her name is Ashidrella, and she isn't scary!"
 
 "That's not even a human name!" he exclaimed.
 
