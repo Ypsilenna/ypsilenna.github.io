@@ -110,7 +110,7 @@ Omikraya was sitting down on the floor and polishing her plate with a piece of c
 
 "So where are they according to you?"
 
-"On the island!" she insisted.
+"On the island," she insisted, "and my father is scary, so everyone left."
 
 Lusstoni didn't believe her. He was sure she was just messing with him so that she could stay.
 
@@ -120,7 +120,7 @@ Lusstoni didn't believe her. He was sure she was just messing with him so that s
 
 He nodded.
 
-"That sounds about right..." he said. "What about your mother?"
+"That sounds plausible..." he said. "What about your mother?"
 
 "Ashidrella"
 
