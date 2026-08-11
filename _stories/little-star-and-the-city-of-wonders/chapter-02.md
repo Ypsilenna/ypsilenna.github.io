@@ -134,7 +134,13 @@ Lusstoni raised his face into the sky and growled.
 
 "On Crescent Moon Isle," she responded as if it were obvious.
 
-The man returned to his cockpit and set the course toward the town he had picked. Omikraya followed him joyfully, utterly ignoring his outbursts.
+"How would they even get there?" Lusstoni asked with frustration in his voice.
+
+"My father was a knight, and he got the island from the Star Goddess."
+
+"Huh?" he couldn't believe his ears. "But that would make your dad about five hundred years old. There are no knights anymore."
+
+Lusstoni shook his head and returned to his cockpit. He then set the course toward the town he had picked. Omikraya followed him joyfully, utterly ignoring his outbursts.
 
 Lusstoni was sitting on his pilot chair and holding the steering wheel firmly. His eyes were dead set on the horizon.
 
