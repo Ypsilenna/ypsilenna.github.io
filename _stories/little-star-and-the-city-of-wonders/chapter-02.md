@@ -318,7 +318,7 @@ Lusstoni tried to breathe deeply to calm himself down.
 
 "She's pretty. Is it your wife?" the girl asked.
 
-"She could be," he responded. "Now she is my brother's wife."
+"She could be," he responded. "Now she is my brother's wife. Her name is Caermirella."
 
 Omikraya looked at him in confusion.
 
