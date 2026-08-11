@@ -12,7 +12,8 @@ ogdesc: It is a story of an unknown priestess who tries to make a pact with one 
           <b>Genre:</b> Fantasy Dramedy<br>
         <b>Rating:</b> 16+<br>    
         <b>Content warnings:</b> Violence, Death, Suggestive Themes, Light Alcohol/Tobacco Use, Trauma<br>
-                  <b>Status:</b> Completed <div class="progress">
+        <b>Length:</b> ~50k words<br>
+        <b>Status:</b> Completed <div class="progress">
   <div class="progress-bar" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">100%</div>
 </div>
           <b>Synopsis:</b> It is a story of an unknown priestess who tries to make a pact with one of the powerful sky spirit animals, only to find out why nobody deals with the Dusk Serpent.<br>
