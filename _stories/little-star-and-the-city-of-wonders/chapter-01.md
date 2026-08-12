@@ -113,15 +113,15 @@ That morning he got up full of yearning for the unknown. He wanted to leave it a
 
 Lusstoni packed necessities and his last picture of Caermirella in case he felt like he needed to look at her again during his journey. He knew it was wrong, but he just couldn't part with it.
 
-The man hauled his suitcases onto his round balcony, in front of which his personal zeppelin was parked. He modified it to be able to pilot it on his own. It wasn't the most technologically advanced or the biggest vehicle he could get, but it was all his, and he loved it more than he loved his family. While it may not be the greatest measure, at least the zeppelin never abandoned him.
+The man hauled his suitcases onto his round balcony, in front of which his personal airship was parked. He modified it to be able to pilot it on his own. It wasn't the most technologically advanced or the biggest vehicle he could get, but it was all his, and he loved it more than he loved his family. While it may not be the greatest measure, at least the airship never abandoned him.
 
 The vehicle was like a miniature house; it had everything Lusstoni could need. It was perfect for his little adventure around the world.
 
 He put his suitcases away and took a seat in the cockpit. He lowered his goggles, which until now were resting on top of his purple top hat, and began setting up the machine.
 
-Lucky him, the doctors helped him get a mechanical replacement arm, so steering the zeppelin on his own was not too difficult.
+Lucky him, the doctors helped him get a mechanical replacement arm, so steering the airship on his own was not too difficult.
 
-The man turned on the radio and focused on the horizon. His zeppelin slowly lifted off and began flying towards the main gate of Norath.
+The man turned on the radio and focused on the horizon. His airship slowly lifted off and began flying towards the main gate of Norath.
 
 Lusstoni felt both relieved and sad that he was leaving his city behind, but deep down he knew he needed it.
 
@@ -133,7 +133,7 @@ Lusstoni wondered what could make this trip even better. He looked behind him at
 
 He nodded to himself and quickly glanced back at Norath and said, "I will not be missing either you or that wasteland underneath."
 
-Lusstoni lowered the anchor, and his zeppelin slowly but steadily landed on the ground. He went out of the vehicle and touched the grass with his shoes. He leaned against the walking cane he brought with him from his deck. The man didn't need it at the moment, but ever since he had the accident, one of his legs sometimes hurts him so much that he can't walk without it. Despite the great morning he had, he didn't believe his body wouldn't betray him.
+Lusstoni lowered the anchor, and his airship slowly but steadily landed on the ground. He went out of the vehicle and touched the grass with his shoes. He leaned against the walking cane he brought with him from his deck. The man didn't need it at the moment, but ever since he had the accident, one of his legs sometimes hurts him so much that he can't walk without it. Despite the great morning he had, he didn't believe his body wouldn't betray him.
 
 The man nonchalantly strolled into the orchard. It was impossible not to notice him because the little golden elements on his coat shone bright like diamonds in the warm sunlight. He looked like just his outfit could buy this entire place.
 
@@ -147,7 +147,7 @@ Lusstoni began smoking a cigarette and blew some smoke into the man's face.
 
 "Of course!" The farmer tried to appear amicable despite his bad first impression because it wasn't every day that they had a customer from Norath. In that city even the beggars had golden implants, so those who didn't have the luck to be born there don't pass up an opportunity to trade with Norathians.
 
-"I want a basket of your best apples," Lusstoni said as he took another puff. "Oh, and drag them into my zeppelin."
+"I want a basket of your best apples," Lusstoni said as he took another puff. "Oh, and drag them into my airship."
 
 The farmer's wife appeared and tried to help her husband transport the fruit.
 
@@ -165,7 +165,7 @@ Lusstoni scoffed, "Hah, I'm glad I don't have your problems."
 
 The farmer and his wife appeared upset but couldn't react.
 
-"Here's your pay," Lusstoni said and threw a small sack of coins on the ground. He flung the rest of his cigarette behind himself and disappeared inside the zeppelin. The man closed the door and already started forgetting about the orchard.
+"Here's your pay," Lusstoni said and threw a small sack of coins on the ground. He flung the rest of his cigarette behind himself and disappeared inside the airship. The man closed the door and already started forgetting about the orchard.
 
 The farmer frantically ran forward to extinguish the cigarette butt before it sets their trees on fire. He sighed heavily.
 
@@ -191,7 +191,7 @@ Lusstoni lit the cigarette and took a puff. Suddenly a loud cough pierced the ai
 
 "Who's there? Show yourself!" he shouted.
 
-The coughing intensified. He locked the steering wheel in position and scanned the deck of the zeppelin in search of the source of the mysterious sound.
+The coughing intensified. He locked the steering wheel in position and scanned the deck of the airship in search of the source of the mysterious sound.
 
 He grabbed a large piece of cloth that was hanging from the dresser on the side and saw the strange girl from the apple farm underneath.
 
@@ -253,7 +253,7 @@ The music didn't even bring him joy anymore. He turned the radio off and looked 
 
 "Oh, my love, I wish you were here with me," he said under his breath. "Maybe if I protect this child, I will prove I'm worth returning to? Would you give me another chance?"
 
-He glanced through the window. The sun was already setting. He decided to land the zeppelin in a safe place and go to sleep. Lusstoni stretched in his seat and did as he planned.
+He glanced through the window. The sun was already setting. He decided to land the airship in a safe place and go to sleep. Lusstoni stretched in his seat and did as he planned.
 
 He finally got up and returned to Omikraya to see if she already ate the cookies. The jar was completely empty. The man didn't expect her to be this hungry.
 

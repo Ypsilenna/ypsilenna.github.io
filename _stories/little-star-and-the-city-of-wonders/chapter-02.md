@@ -34,7 +34,7 @@ Omikraya smiled widely, revealing a missing upper tooth.
 
 Lusstoni dragged himself out of the bed and went into his kitchen corner. He rummaged through his things for a moment for a portable burner.
 
-The man walked out of his zeppelin and placed the item outside. He then went back in and shortly returned with a frying pan.
+The man walked out of his airship and placed the item outside. He then went back in and shortly returned with a frying pan.
 
 "You will have eggs," he announced.
 
@@ -82,7 +82,7 @@ He stayed there for several minutes until he finally extinguished his cigarette 
 
 Lusstoni sat on a boulder next to her and looked ahead with a blank stare. He still couldn't believe what he got himself into.
 
-He finally got up, collected his things, and put them on the deck of his zeppelin.
+He finally got up, collected his things, and put them on the deck of his airship.
 
 Omikraya followed him happily, bringing her plate with her.
 
@@ -166,11 +166,11 @@ Lusstoni just quietly turned it on. The music filled the entire cockpit. He hope
 
 It worked for a moment. Omikraya tried to ask him more questions, but he was pretending not to hear her over the sounds of the radio, so she finally gave up and left the cockpit. He was finally alone, but for the first time in eight years he didn't actually feel at home in the silence.
 
-The zeppelin hovered silently above the green hills. The area below wasn't a wasteland, but to Lusstoni it almost looked like one. However, any land not covered with tall golden buildings would make a Norathian feel this way.
+The airship hovered silently above the green hills. The area below wasn't a wasteland, but to Lusstoni it almost looked like one. However, any land not covered with tall golden buildings would make a Norathian feel this way.
 
 They approached the nearest town. It was the kind of settlement that made the visitors wonder whether they would lose their money or body parts, but Lusstoni was desperate enough to find Omikraya's parents that he decided to go there one way or another.
 
-The man landed his zeppelin on the rocks near the entrance and walked out of the vehicle. They stood in front of a crude wooden arch with _the_ _Town of Perkahn_ engraved on top. The place didn't seem welcoming in the slightest.
+The man landed his airship on the rocks near the entrance and walked out of the vehicle. They stood in front of a crude wooden arch with _the_ _Town of Perkahn_ engraved on top. The place didn't seem welcoming in the slightest.
 
 They walked down the road leading into the center of the town. The stone that paved it was corroded, almost as if nobody cared to make it functional. Omikraya observed the dirty walls of the buildings they passed and grabbed Lusstoni's hand out of fear. The gesture frustrated him, but he said nothing. He had to figure out the way, and it was better for her to stick close until he found a good opportunity to drop her somewhere safe.
 
@@ -242,9 +242,9 @@ The man approached the nearest stall with clothes to buy her a new outfit.
 
 The vendor silently handed him the goods and put the payment in a box under the stall.
 
-Omikraya was close to having a meltdown, but Lusstoni hanged the dress on his golden arm and led her back into the zeppelin.
+Omikraya was close to having a meltdown, but Lusstoni hanged the dress on his golden arm and led her back into the airship.
 
-The man entered the zeppelin and tossed the purchase on the side. He then grabbed a large metal bowl.
+The man entered the airship and tossed the purchase on the side. He then grabbed a large metal bowl.
 
 Lusstoni dropped it to the ground with a loud noise and fetched a bucket to go to the nearest well.
 
@@ -254,7 +254,7 @@ Lusstoni dropped it to the ground with a loud noise and fetched a bucket to go t
 
 He attached his bucket to the rope of the well and lowered it. The man pulled it back up and inspected the water.
 
-_It's clean enough_, he thought, and carried the bucket in front of his zeppelin. He emptied it into the large bowl and repeated the process a couple of times until it was filled.
+_It's clean enough_, he thought, and carried the bucket in front of his airship. He emptied it into the large bowl and repeated the process a couple of times until it was filled.
 
 Lusstoni brought her a brick of gray soap and pointed at the vessel.
 
@@ -280,7 +280,7 @@ Lusstoni sighed impatiently and knelt behind her, grabbing her head with both hi
 
 After what felt like an eternity, Lusstoni finally managed to clean her hair. He brought her a towel, dried her head with it, and then wrapped it around her body.
 
-"Go back to the zeppelin," he said as he poured the water on the grass. For a second he started wondering if the soap would damage it. He then shrugged and thought, _That's not my problem._
+"Go back to the airship," he said as he poured the water on the grass. For a second he started wondering if the soap would damage it. He then shrugged and thought, _That's not my problem._
 
 Lusstoni lingered outside for a moment. He needed a while for himself.
 
@@ -288,7 +288,7 @@ The man took a cigarette out, lit it, and began smoking. He took a deep puff and
 
 _Why did Caermirella want it so much?_ he thought to himself. _Children are such feeble creatures who can't be left unsupervised for five minutes without a crisis. We could have done so much and traveled so far. Why did she choose to dedicate her life to someone else?_
 
-Lusstoni sighed and extinguished the rest of his cigarette. He threw it behind himself and headed into his zeppelin.
+Lusstoni sighed and extinguished the rest of his cigarette. He threw it behind himself and headed into his airship.
 
 He looked around.
 
@@ -346,9 +346,9 @@ Lusstoni approached her and said, "Get out; you are getting another bath."
 
 "But I don't want to!"
 
-"I am not asking you if you want to; you are not allowed to be here if you are getting my zeppelin wet and dirty," he stated firmly.
+"I am not asking you if you want to; you are not allowed to be here if you are getting my airship wet and dirty," he stated firmly.
 
-Omikraya sadly walked out of the cockpit and went in front of the zeppelin. Lusstoni gave her another bath; he then took a moment to wash all the cloth she stained before he retreated.
+Omikraya sadly walked out of the cockpit and went in front of the airship. Lusstoni gave her another bath; he then took a moment to wash all the cloth she stained before he retreated.
 
 He brought the wet items back in and hanged them under the ceiling of his deck.
 
@@ -396,7 +396,7 @@ After a while he remembered how to do it, and he created two clumsy braids. They
 
 Lusstoni tied two blue ribbons on the bottom of the braids and breathed out in relief.
 
-"Done," he said. "Now go play with something and I will return to the cockpit. I got to move the zeppelin away from here."
+"Done," he said. "Now go play with something and I will return to the cockpit. I got to move the airship away from here."
 
 "But I want to play with you!"
 
@@ -428,7 +428,7 @@ Omikraya grasped it quickly, and she began playing on her own.
 
 The man sat down heavily in his pilot chair and put the goggles back on his face. He checked if everything was still set as it should be. Surprisingly, Omikraya didn't flip any switches.
 
-The zeppelin lifted from the ground slowly. Lusstoni set the course to the next town he could bring her to. He was already tired of taking care of her, and their adventure had just began.
+The airship lifted from the ground slowly. Lusstoni set the course to the next town he could bring her to. He was already tired of taking care of her, and their adventure had just began.
 
 The man hoped he could be alone soon.
 
