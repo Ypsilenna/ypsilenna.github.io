@@ -417,7 +417,7 @@ _King Callum seems to descend into madness. He began using the core to shift int
 
 "There goes my hope."
 
-_Queen Ashridrella announced her pregnancy. The kingdom seems torn between those who remain hopeful and those who fell into the pit of despair, as King Callum has forbidden the citizens from mentioning his deceased sons._
+_Queen Ashidrella announced her pregnancy. The kingdom seems torn between those who remain hopeful and those who fell into the pit of despair, as King Callum has forbidden the citizens from mentioning his deceased sons._
 
 _King Callum named his daughter Omikraya in homage to the Goddess of Stars. Little hope that the kingdom had evaporated when he sealed himself in the vault beneath the castle to conduct experiments with the core._
 
