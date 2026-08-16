@@ -195,7 +195,7 @@ The coughing intensified. He locked the steering wheel in position and scanned t
 
 He grabbed a large piece of cloth that was hanging from the dresser on the side and saw the strange girl from the apple farm underneath.
 
-"Woah, you are so cool!" she shouted with a squeaky voice and jumped out of her hiding spot towards him, but the lit cigarette he was holding made her cough again.
+"Woah, you are so flashy!" she shouted with a squeaky voice and jumped out of her hiding spot towards him, but the lit cigarette he was holding made her cough again.
 
 Lusstoni couldn't believe his eyes. He took his goggles off to verify that he wasn't hallucinating.
 
@@ -239,7 +239,7 @@ Lusstoni tried deep breathing, but it didn't work for him. He could no longer co
 
 She wanted to say something, but suddenly her stomach grumbled loudly.
 
-"May I have something to eat, please, Cool Goggle Man?" Omikraya asked.
+"May I have something to eat, please, Stylish Goggle Man?" Omikraya asked.
 
 He muttered something under his breath and opened one of the boxes he stored under the wall. After rummaging through it for a moment, he handed her a jar of nasty diet cookies.
 
