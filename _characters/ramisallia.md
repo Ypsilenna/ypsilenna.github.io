@@ -3,11 +3,12 @@ layout: character
 title: "Ramisallia the Dragon Witch" 
 shortname: Ramisallia
 categories: [oc]
-tags: [incomplete] 
+tags: [complete] 
 avatar: /static/image/thumbnails/characters/ramisallia.webp
 alt: ""
 series: When You're Evil (Planned)
-active: no
+active: yes
+role: Deuteragonist
 ---
 <br>  
 <div class="alert alert-warning" role="alert">
@@ -32,19 +33,19 @@ active: no
         <table>
           <tr>
             <th>Full name</th>
-            <td>Amblina Odipsas</td>
+            <td>Unknown</td>
           </tr>
           <tr>
             <th>Also known as</th>
-            <td>The barmaid (by the customers of The Trickster)</td>
+            <td>The Dragon Witch</td>
           </tr>
           <tr>
             <th>Species</th>
-            <td>Genie</td>
+            <td>Elf</td>
           </tr>
           <tr>
             <th>Age</th>
-            <td>20 (in Divorce by Magic), 38 (in Divorce by Magic 2)</td>
+            <td>27</td>
           </tr>
           <tr>
             <th>Gender</th>
@@ -52,11 +53,11 @@ active: no
           </tr>
           <tr>
             <th>Affiliation</th>
-            <td>● The Trickster (Barmaid)</td>
+            <td>● The Nightwing Clan</td>
           </tr>
           <tr>
             <th>Life Goals</th>
-            <td>● Chaos</td>
+            <td>● Finalizing her pact with the Nightwing dragons</td>
           </tr>
         </table>
       </aside>
@@ -66,18 +67,20 @@ active: no
       <div class="article-lead">
       </div>
         <p>
-She was just minding her business at The Trickster when suddenly a distressed werewolf ordered a drink. Which genie would resist such an opportunity to wreak havoc?
-<br><br>
-<b>Ambly</b> comes from a long line of genies. Her kind dates back to the Old Empire, in which the last empress kept them locked up, effectively preventing them from escaping from the Underworld. We can all see how it ended. <br><br>
+Master of the ancient art of dracomancy, <b>Ramisallia</b> is the brain of the mission for the Nightwing Clan.<br><br>
 
-She is bisexual in terms of attraction and asexual in terms of commitment. <br><br>
+After her sister, Riamidea was assassinated, she did all she could to bring her back to life with dragon magic. <br><br>
+
+Ramisallia has three pet pygmy wyverns: Crocosmia (fire), Hellebore (ice), and Magnolia (storm). She can use their magic to power up her elemental spells.<br><br>
+
+Has an ex-boyfriend she never talks about.<br><br>
         </p>
       <!-- ══ COLLAPSIBLE SECTIONS ══ -->
 
             <details open>
         <summary><b>Personality</b></summary>
         <p>
-A chaotic neutral kleptomaniac who loves fun and fashion. She is both overly feminine and completely unhinged.<br><br>
+Distanced and serious, yet protective over her own people.<br><br>
 
         </p>
       </details>
@@ -85,8 +88,6 @@ A chaotic neutral kleptomaniac who loves fun and fashion. She is both overly fem
             <details open>
         <summary><b>Abilities</b></summary>
         <p>
-<b>[Mind control]</b> She WILL tell you what to do. 
-<br>
 <b>[TBA]</b><br>
         </p>
       </details>
@@ -95,7 +96,7 @@ A chaotic neutral kleptomaniac who loves fun and fashion. She is both overly fem
       <details open>
         <summary><b>Fears</b></summary>
         <p>
-She's scared of commitment. Stability feels like the opposite of her beloved chaos.
+She's scared of losing her sister again.
         </p>
       </details>
 <br>
@@ -103,30 +104,28 @@ She's scared of commitment. Stability feels like the opposite of her beloved cha
         <summary><b>Likes/Dislikes</b></summary>
         <p>
 <b>Likes:</b><br>
-Cocktails with little umbrellas, pineapple, card games, glitter, tasmanian devils, fashion, fancy cushions, her grandmother's baking, her motorbike, the firefighter pole she installed in her corridor<br>
+Star-shaped jewelry, color blue, learning about ancient magic, hot springs, sunflowers, wyverns<br>
 
 <b>Dislikes:</b><br>
-Chores that cannot be done with magic, tents, boring people, carrots
+Talking about her ex-boyfriend, long hair, wasting food
         </p>
       </details>
 <br>
       <details open>
         <summary><b>Relationships/Ties</b></summary>
         <p>
-     <b>[<a href="/characters/frederic">Frederic Cadieux</a>]</b> Husband for a month<br>
-     <b>[Carmen]</b> Her phantom ex-girlfriend who GHOSTED her.<br>
-     <b>[Carmen's dog]</b> Went missing and she refused to find him and bring them both to life because that could mean committment and she wanted none of that.<br>
-     <b>[Grandma Odipsas]</b> Her favorite family member. She absolutely adores her.<br>
-     <b>[Odipsas Family]</b> She loves them so much despite not being in contact with them too often.<br>
-     <b>[<a href="/characters/coralie">Coralie</a>]</b> Her daughter. (Divorce by Magic 2)<br>
+     <b>[<a href="/characters/riamidea">Riamidea the Necromancer</a>]</b> Sister.<br>
+     <b>[<a href="/characters/ferimus">Ferimus the Druid</a>]</b> Friend.<br>
+     <b>[Crocosmia, Hellebore, and Magnolia]</b> Beloved per wyverns.<br>
+     <b>[<a href="/characters/vermilicus">Archpriest Vermilicus</a>]</b> Arch Nemesis<br>
         </p>
       </details>
 <br>
       <details open>
         <summary><b>Trivia</b></summary>
         <p>
-1) She started as a The Sims 3 character that I used to make a lot of money without utilizing cheat codes. I just used mind control and stole the hell out of it.<br>
-2) Amblyodipsas is a real world kind of a snake. I named her after that creature.<br>
+1) She used to be a character in my discontinued webcomic, Hellcephira.<br>
+2) She was supposed to marry her ex-boyfriend back in the comic days, but I decided to split them up as Riamidea canonically hated him and he was pretty offputting.<br>
         </p>
       </details>
     </div><!-- .article-body -->
