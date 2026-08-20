@@ -13,7 +13,7 @@ Several days ago I tried to update Feng: Before Dusk on TheDuckWebcomics (also k
 
 <center><div class="tenor-gif-embed" data-postid="4830834" data-share-method="host" data-aspect-ratio="1.89855" data-width="100%"><a href="https://tenor.com/view/old-man-my-computer-recycle-bin-computer-disappear-gif-4830834">Old Man My Computer GIF</a>from <a href="https://tenor.com/search/old+man-gifs">Old Man GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script></center><br>
 
-Just imagine me as the old guy, "My Computer" as my new page, and the "Trash Bin" as the website. This is exactly how I felt, lol.
+Just imagine me as the old guy, "My Computer" as my new page, and the "Trashcan" as the website. This is exactly how I felt, lol.
 
 Anyway, due to that, I decided to take down the link from here (which now displays error 404 because yes) and replace it with a link to Webtoons. I made a mirror for the comic there to replace the duck one.<br><br>
 
