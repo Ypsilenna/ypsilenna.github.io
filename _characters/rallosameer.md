@@ -111,6 +111,7 @@ Crowds, vulnerability, strong lights, mountains, spicy food, metallic textures
         <summary><b>Relationships/Ties</b></summary>
         <p>
      <b>[<a href="/characters/anshrilda">Anshrilda</a>]</b> His partner in the new council.<br>
+     <b>[<a href="/characters/saahrimei">Saahrimei</a>] </b>Close friend.<br>
      <b>[<a href="/characters/xivaillon">Xivaillon</a>] </b>His co-counilor.<br>
      <b>[<a href="/characters/zethareshmi">Zethareshmi</a>] </b>His co-counilor.<br>
      <b>[<a href="/characters/romisellius">Romisellius</a>] </b>His co-counilor.<br>
