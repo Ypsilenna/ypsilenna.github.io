@@ -7,7 +7,7 @@ tags: [personal, writing, gaming]
 moods: 😫
 authors: [Ypsilenna]
 ogimage: /static/image/blank.png
-ogdesc: I am battling a heat-induced headache, so I did the most logical thing... I started working on my website.(...)
+ogdesc: I think I have had too much internet lately, and it started to make me feel a little bad(...)
 ---
 I think I have had too much internet lately, and it started to make me feel a little bad, so I am currently limiting my online activity and spending more time on doing other things.
 I think I will keep working on Little Star and the City of Wonders today, maybe on Feng: Before Dusk too, but until now I was just gaming. In the last week I didn't really do anything like that and spent most of my time online, which isn't great.
