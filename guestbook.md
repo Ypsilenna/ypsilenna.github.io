@@ -6,6 +6,9 @@ ogdesc: Guestbook of Court of Gloomvale.
 ---
 <div class="novel-container">
     <h1 class="title">Welcome to my guestbook!</h1>
+<div class="alert alert-warning" role="alert">
+  The entries in this guestbook are manually verified.
+</div>
 <!-- Guestbook Script -->
 <script async src="https://guestbooks.meadow.cafe/resources/js/embed_script/6106/script.js"></script>
 <!-- Guestbook Form -->
