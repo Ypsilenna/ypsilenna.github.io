@@ -1,5 +1,5 @@
 ---
-layout: story-ending
+layout: story
 title: 'Little Star and the City of Wonders: Chapter 3 - The Flightless Ones'
 public-title: 'Chapter 3 - The Flightless Ones'
 date: "2026-08-12"
