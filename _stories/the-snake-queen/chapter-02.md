@@ -86,7 +86,7 @@ Raajimera sat down on the ottoman she previously occupied. She had just noticed 
 
 Aya understood the sign and uncovered the mirror. It was tall, and the frame was adorned with tiny silver leaves. The object was fancy, yet old. There was a black stain in the upper corner. 
 
-Raajimera followed the young girl's reflection. Aya's body was rectangular, and her limbs were quite skinny, and they peeked from under a dress that resembled a sack of potatoes. She had dark hair tightly tied on the back of her head, which, combined with her big gray eyes, made her look like a pug licked by a cow. Raajimera giggled at her imagination. 
+Raajimera followed the young girl's reflection. Aya's body was rectangular, and her limbs were quite skinny, and they peeked from under a dress that resembled a sack of potatoes. She had dark hair tightly tied on the back of her head, which, combined with her big gray eyes, made her look like a skittering frog. 
 
 The young lady sat by her side and began brushing her hair. The woman suddenly noticed her reflection on the surface of the mirror. 
 
