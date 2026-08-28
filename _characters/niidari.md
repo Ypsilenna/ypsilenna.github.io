@@ -3,11 +3,11 @@ layout: character
 title: "Niidari the Iridescent Pearl" 
 shortname: Niidari
 categories: [oc]
-tags: [incomplete] 
+tags: [complete] 
 avatar: /static/image/thumbnails/characters/niidari.webp
-alt: ""
-series: N/A
-active: no
+alt: "Portrait of a mermaid."
+series: To Be Announced
+active: yes
 ---
 <br>  
 <div class="alert alert-warning" role="alert">
@@ -32,19 +32,19 @@ active: no
         <table>
           <tr>
             <th>Full name</th>
-            <td>Amblina Odipsas</td>
+            <td>Unknown</td>
           </tr>
           <tr>
             <th>Also known as</th>
-            <td>The barmaid (by the customers of The Trickster)</td>
+            <td>The Iridescent Pearl</td>
           </tr>
           <tr>
             <th>Species</th>
-            <td>Genie</td>
+            <td>Shark Mermaid</td>
           </tr>
           <tr>
             <th>Age</th>
-            <td>20 (in Divorce by Magic), 38 (in Divorce by Magic 2)</td>
+            <td>23</td>
           </tr>
           <tr>
             <th>Gender</th>
@@ -52,11 +52,15 @@ active: no
           </tr>
           <tr>
             <th>Affiliation</th>
-            <td>● The Trickster (Barmaid)</td>
+            <td>TBA</td>
           </tr>
           <tr>
             <th>Life Goals</th>
-            <td>● Chaos</td>
+            <td>Staying away from other merfolks</td>
+          </tr>
+          <tr>
+            <th>Biome</th>
+            <td>Kelp Forest</td>
           </tr>
         </table>
       </aside>
@@ -66,18 +70,16 @@ active: no
       <div class="article-lead">
       </div>
         <p>
-She was just minding her business at The Trickster when suddenly a distressed werewolf ordered a drink. Which genie would resist such an opportunity to wreak havoc?
-<br><br>
-<b>Ambly</b> comes from a long line of genies. Her kind dates back to the Old Empire, in which the last empress kept them locked up, effectively preventing them from escaping from the Underworld. We can all see how it ended. <br><br>
+<b>Niidari</b> is a hermit. She left the mermaid kingdom behind to seek her own peace in the deep sea. Sometimes referred to as Iridescent Pearl because of her favorite necklace.<br><br>
 
-She is bisexual in terms of attraction and asexual in terms of commitment. <br><br>
+She mastered the art of udnerwater music after she salvaged a gu zheng from a shipwreck. She has a pet fire shrimp. <br><br>
         </p>
       <!-- ══ COLLAPSIBLE SECTIONS ══ -->
 
             <details open>
         <summary><b>Personality</b></summary>
         <p>
-A chaotic neutral kleptomaniac who loves fun and fashion. She is both overly feminine and completely unhinged.<br><br>
+Mysterious and solitary.<br><br>
 
         </p>
       </details>
@@ -85,8 +87,6 @@ A chaotic neutral kleptomaniac who loves fun and fashion. She is both overly fem
             <details open>
         <summary><b>Abilities</b></summary>
         <p>
-<b>[Mind control]</b> She WILL tell you what to do. 
-<br>
 <b>[TBA]</b><br>
         </p>
       </details>
@@ -95,7 +95,7 @@ A chaotic neutral kleptomaniac who loves fun and fashion. She is both overly fem
       <details open>
         <summary><b>Fears</b></summary>
         <p>
-She's scared of commitment. Stability feels like the opposite of her beloved chaos.
+She's scared one day she will have to return to the mermaid kingdom.
         </p>
       </details>
 <br>
@@ -103,30 +103,25 @@ She's scared of commitment. Stability feels like the opposite of her beloved cha
         <summary><b>Likes/Dislikes</b></summary>
         <p>
 <b>Likes:</b><br>
-Cocktails with little umbrellas, pineapple, card games, glitter, tasmanian devils, fashion, fancy cushions, her grandmother's baking, her motorbike, the firefighter pole she installed in her corridor<br>
+Shrimps and crabs (as friends, not food), pearls, seaweed, coral, colorful underwater caves, the moon, music<br>
 
 <b>Dislikes:</b><br>
-Chores that cannot be done with magic, tents, boring people, carrots
+Dry world, large empty open spaces, crowds, noise, humans, trash
         </p>
       </details>
 <br>
       <details open>
         <summary><b>Relationships/Ties</b></summary>
         <p>
-     <b>[<a href="/characters/frederic">Frederic Cadieux</a>]</b> Husband for a month<br>
-     <b>[Carmen]</b> Her phantom ex-girlfriend who GHOSTED her.<br>
-     <b>[Carmen's dog]</b> Went missing and she refused to find him and bring them both to life because that could mean committment and she wanted none of that.<br>
-     <b>[Grandma Odipsas]</b> Her favorite family member. She absolutely adores her.<br>
-     <b>[Odipsas Family]</b> She loves them so much despite not being in contact with them too often.<br>
-     <b>[<a href="/characters/coralie">Coralie</a>]</b> Her daughter. (Divorce by Magic 2)<br>
+TBA
         </p>
       </details>
 <br>
       <details open>
         <summary><b>Trivia</b></summary>
         <p>
-1) She started as a The Sims 3 character that I used to make a lot of money without utilizing cheat codes. I just used mind control and stole the hell out of it.<br>
-2) Amblyodipsas is a real world kind of a snake. I named her after that creature.<br>
+1) Niidari came to life after I decided to salvage a design I made for a Discord challenge. <br>
+2) WHen I saw pictures of kelp forests, I knew I had to make her live there. Before that day she just lived in a generic location under the sea.<br>
         </p>
       </details>
     </div><!-- .article-body -->
