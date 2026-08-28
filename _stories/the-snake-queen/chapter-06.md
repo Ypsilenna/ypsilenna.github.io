@@ -1,16 +1,18 @@
 ---
-layout: story
+layout: story-single
 title: 'The Snake Queen: Chapter 6 - The Ultimate Miracle'
 public-title: 'Chapter 6 - The Ultimate Miracle'
-date: "2026-03-31"
+date: 2026-03-31 19:35:19 +01:00
 categories: [stories]
 tags: [The Snake Queen] 
-summary: /stories/the-snake-queen/summary
 receipt: In which Raajimera figures out how to get the status she deserves.
 rating: 13+
 flags: Tobacco Use
 ogimage: /static/image/stories/tsq-2026-cover.webp
 ogdesc: In which Raajimera figures out how to get the status she deserves.
+summary: /stories/the-snake-queen/summary
+previousURL: /stories/the-snake-queen/chapter-05.html
+nextURL: /stories/the-snake-queen/chapter-07.html
 ---
 The chieftain has been downcast lately. Nobody was sure whether it was caused by the possibility of an impending imperial attack or if there was something different he was not telling them. Regardless, he was clearly lost in thought. 
 

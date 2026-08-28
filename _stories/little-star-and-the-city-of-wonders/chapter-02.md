@@ -1,16 +1,18 @@
 ---
-layout: story
+layout: story-single
 title: 'Little Star and the City of Wonders: Chapter 2 - No Drinks for the Pretty Boy'
 public-title: 'Chapter 2 - No Drinks for the Pretty Boy'
-date: "2026-08-10"
+date: 2026-08-10 19:31:19 +01:00
 categories: [stories]
 tags: [Little Star and the City of Wonders] 
-summary: /stories/little-star-and-the-city-of-wonders/summary
 receipt: In which Lusstoni heads into the nearest town for answers.
 rating: 16+
 flags: Alcohol/Tobacco Addiction, Vague Depiction of a Child Taking a Bath
 ogimage: /static/image/stories/LSCW-cover.webp
 ogdesc: In which Lusstoni heads into the nearest town for answers.
+summary: /stories/little-star-and-the-city-of-wonders/summary
+previousURL: /stories/little-star-and-the-city-of-wonders/chapter-01.html
+nextURL: /stories/little-star-and-the-city-of-wonders/chapter-03.html
 ---
 For a second all his worries were gone. There was only her, young and beautiful, like a jewel under the crown of the ballroom. She stood in front of him in a red sequin gown. Caermirella shone like a star. Everyone's eyes were on her, and for a good reason.
 

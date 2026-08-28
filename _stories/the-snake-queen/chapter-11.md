@@ -1,16 +1,18 @@
 ---
-layout: story
+layout: story-single
 title: 'The Snake Queen: Chapter 11 - Before the Sun Sets (Down with the Underworld Part 1)'
 public-title: 'Chapter 11 - Before the Sun Sets (Down with the Underworld Part 1)'
-date: "2026-05-28"
+date: 2026-05-28 19:31:19 +01:00
 categories: [stories]
 tags: [The Snake Queen] 
-summary: /stories/the-snake-queen/summary
 receipt: In which Zephyr brings Raajimera to the capital city.
 rating: 16+
 flags: Suggestive Themes, Mental Discomfort, Mentions of Violence
 ogimage: /static/image/stories/tsq-2026-cover.webp
 ogdesc: In which Zephyr brings Raajimera to the capital city.
+summary: /stories/the-snake-queen/summary
+previousURL: /stories/the-snake-queen/chapter-10.html
+nextURL: /stories/the-snake-queen/chapter-12.html
 ---
 The end of Raajimera's journey was within arms reach. She felt both unprepared and filled with a sense of purpose. For the first time ever, she knew what she was expected to do. Knowing, however, didn't make it easier to make peace with the task at hand.
 

@@ -40,6 +40,19 @@ ogdesc: A list of stories authored by Ypsilenna.
           <p style="text-align: right"><a href="https://little-star-and-the-city-of-wonders.cfw.me/">Read on ComicFury</a>&nbsp;&nbsp;<b><a href="/stories/little-star-and-the-city-of-wonders/summary"><button class="button button-stories">Read here <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
   <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
 </svg></button></a></b></p></div><br>
+
+  <div class="story-cont"><a href="/stories/echoes-from-eternal-gardens/summary"><img src="/static/image/stories/coming-soon.webp" class="story-img" alt="Little Star and the City of Wonders cover image."></a>
+  <b>Title:</b> Echoes from Eternal Gardens<br>
+          <b>Genre:</b> Fantasy<br>
+          <b>Rating:</b> 16+<br>
+          <b>Content Warnings:</b> TBA<br>
+        <b>Synopsis:</b> Echoes from Eternal Gardens is a collection of short stories about those have passed away. Each chapter describes the last journey of at least one character from another novel and their fate in the afterlife.<br><br>
+<small><b>Note:</b> This collection has no set length or update schedule. There is no continuity between chapters, so you don't have to wait for it to be completed if you want to fully experience everything it has to offer.</small>
+        <br>
+          <p style="text-align: right"><b><a href="/stories/echoes-from-eternal-gardens/summary"><button class="button button-stories">Read here <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
+  <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
+</svg></button></a></b></p></div><br>
+
 <h2 class="title" id="comics"> Comics</h2>
 <hr>
   <div class="story-cont"><a href="/stories/feng-before-dusk/summary"><img src="/static/image/stories/feng-cover.webp" class="story-img" alt="Feng: Before Dusk cover image.">

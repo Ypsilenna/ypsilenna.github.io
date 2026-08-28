@@ -1,16 +1,18 @@
 ---
-layout: story
+layout: story-single
 title: 'The Snake Queen: Chapter 12 - Judgment of the Godforsaken (Down with the Underworld Part 2)'
 public-title: 'Chapter 12 - Judgment of the Godforsaken (Down with the Underworld Part 2)'
-date: "2026-05-28"
+date: 2026-05-28 19:31:19 +01:00
 categories: [stories]
 tags: [The Snake Queen] 
-summary: /stories/the-snake-queen/summary
 receipt: In which Raajimera faces the people who betrayed her.
 rating: 16+
 flags: Suggestive Themes, Mental Discomfort, Violence
 ogimage: /static/image/stories/tsq-2026-cover.webp
 ogdesc: In which Raajimera faces the people who betrayed her.
+summary: /stories/the-snake-queen/summary
+previousURL: /stories/the-snake-queen/chapter-11.html
+nextURL: /stories/the-snake-queen/chapter-13.html
 ---
 
 Zephyr led Raajimera to a shady street that seemed to be abandoned. It looked much less glamorous than everything she saw until now. The sad little houses were giving her chills, but at least there were no guards around to stop them.

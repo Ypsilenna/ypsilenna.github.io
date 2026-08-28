@@ -1,16 +1,18 @@
 ---
-layout: story
+layout: story-single
 title: 'Little Star and the City of Wonders: Chapter 3 - The Flightless Ones'
 public-title: 'Chapter 3 - The Flightless Ones'
-date: "2026-08-12"
+date: 2026-08-12 19:31:19 +01:00
 categories: [stories]
 tags: [Little Star and the City of Wonders] 
-summary: /stories/little-star-and-the-city-of-wonders/summary
 receipt: In which Lusstoni crashes on an island.
 rating: 16+
 flags: Alcohol/Tobacco Addiction, Strong Language, Mentions of Death and Conflict, Mentions of Insanity
 ogimage: /static/image/stories/LSCW-cover.webp
 ogdesc: In which Lusstoni crashes on an island.
+summary: /stories/little-star-and-the-city-of-wonders/summary
+previousURL: /stories/little-star-and-the-city-of-wonders/chapter-02.html
+nextURL: /stories/little-star-and-the-city-of-wonders/chapter-04.html
 ---
 Lusstoni took a deep breath and just froze with both his hands rested on the handle of his walking cane. The smell of the nearby meadow filled his nostrils. For a second he felt as good as he did back in the day, before his life went downhill. He almost forgot how it felt to be out in nature.
 

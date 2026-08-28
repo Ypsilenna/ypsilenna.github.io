@@ -1,16 +1,18 @@
 ---
-layout: story
+layout: story-single
 title: 'The Snake Queen: Chapter 4 - Flowers of Glass'
 public-title: 'Chapter 4 - Flowers of Glass'
-date: "2026-03-31"
+date: 2026-03-31 19:33:19 +01:00
 categories: [stories]
 tags: [The Snake Queen] 
-summary: /stories/the-snake-queen/summary
 receipt:  In which Raajimera sees herself in the water.
 rating: 13+
 flags: Soft Nudity
 ogimage: /static/image/stories/tsq-2026-cover.webp
 ogdesc: In which Raajimera sees herself in the water.
+summary: /stories/the-snake-queen/summary
+previousURL: /stories/the-snake-queen/chapter-03.html
+nextURL: /stories/the-snake-queen/chapter-05.html
 ---
 In a universe where nothing made sense, a sudden spark of understanding paved the way for Raajimera to claim the gifts she had been promised. Each grain of sand she lifted felt like a small step closer to perfection. 
 

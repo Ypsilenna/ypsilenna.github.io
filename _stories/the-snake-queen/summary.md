@@ -32,7 +32,7 @@ ogdesc: It is a story of an unknown priestess who tries to make a pact with one 
 </ul><hr>
 <h2 class="title">Extras</h2><br>
 <h3>Videos:</h3>
-<ul><li><b><a href="https://makertube.net/w/a8wBUScuLdJ9bQnjboEPhi">Storyboard: If Zephyr didn't resist on the watchtower (Spoilers)</a></b></li></ul>
+<ul><li><b><a href="https://peertube.wtf/w/eoRvXU2gb9ug7d2VaCdXov">Storyboard: If Zephyr didn't resist on the watchtower (Spoilers)</a></b></li></ul>
 </div></div>
 
 {% include colormode.html %}

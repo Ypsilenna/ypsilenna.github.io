@@ -1,16 +1,17 @@
 ---
-layout: story-ending
+layout: story-single
 title: 'Little Star and the City of Wonders: Chapter 4 - Locked Possibility'
 public-title: 'Chapter 4 - Locked Possibility'
-date: "2026-08-28"
+date: 2026-08-28 10:33:19 +01:00
 categories: [stories]
 tags: [Little Star and the City of Wonders] 
-summary: /stories/little-star-and-the-city-of-wonders/summary
-receipt: In which Lusstoni finally sees the contents of Caermirella's box.
+receipt: In which Lusstoni finally sees the contents of Caermirella&#39;s box.
 rating: 16+
-flags: Alcohol/Tobacco Addiction, Strong Language, Implied Nudity
+flags: Alcohol/Tobacco Addiction, Strong Language, Implied Nudity, Missing Limb
 ogimage: /static/image/stories/LSCW-cover.webp
-ogdesc: In which Lusstoni finally sees the contents of Caermirella's box.
+ogdesc: In which Lusstoni finally sees the contents of Caermirella&#39;s box.
+summary: /stories/little-star-and-the-city-of-wonders/summary
+previousURL: /stories/little-star-and-the-city-of-wonders/chapter-03.html
 ---
 Lusstoni finally had a moment to sit down after the road to the castle and back made every fiber of his body scream in agony. He made them some tea on his portable burner and enjoyed it in front of his airship by the light of the lamp he put outside.
 

@@ -1,16 +1,18 @@
 ---
-layout: story
+layout: story-single
 title: 'The Snake Queen: Chapter 7 - Vipers in the Oasis'
 public-title: 'Chapter 7 - Vipers in the Oasis'
-date: "2026-04-02"
+date: 2026-04-02 19:31:19 +01:00
 categories: [stories]
 tags: [The Snake Queen] 
-summary: /stories/the-snake-queen/summary
 receipt: In which things go wrong for Raajimera.
 rating: 16+
 flags: Mental Discomfort, Assassination Attempt, Injury, Loss of Consciousness, Imperial Attack
 ogimage: /static/image/stories/tsq-2026-cover.webp
 ogdesc: In which things go wrong for Raajimera.
+summary: /stories/the-snake-queen/summary
+previousURL: /stories/the-snake-queen/chapter-06.html
+nextURL: /stories/the-snake-queen/chapter-08.html
 ---
 The village was full of clamor as its inhabitants worked like a colony of ants. It has been three days since the traveling merchant warned them about an impending attack from the Empire. They had to raise walls around the settlements, as they speculated that this attack would be unlike anything that had ever happened to them. 
 

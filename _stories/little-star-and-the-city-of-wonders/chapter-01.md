@@ -1,16 +1,17 @@
 ---
-layout: story-beginning
+layout: story-single
 title: 'Little Star and the City of Wonders: Chapter 1 - Leaving the Pain Behind'
 public-title: 'Chapter 1 - Leaving the Pain Behind'
-date: "2026-07-15"
+date: 2026-07-15 19:31:19 +01:00
 categories: [stories]
 tags: [Little Star and the City of Wonders] 
-summary: /stories/little-star-and-the-city-of-wonders/summary
 receipt: In which Lusstoni begins a new adventure to leave his painful memories behind and ends up facing his greatest fear in the shape of a child.
 rating: 16+
 flags: Trauma, Work-Related Accident, Limb Loss, Alcohol/Tobacco Addiction, Strong Language
 ogimage: /static/image/stories/LSCW-cover.webp
 ogdesc: In which Lusstoni begins a new adventure to leave his painful memories behind and ends up facing his greatest fear in the shape of a child.
+summary: /stories/little-star-and-the-city-of-wonders/summary
+nextURL: /stories/little-star-and-the-city-of-wonders/chapter-02.html
 ---
 
 Life often happens without giving us a warning, but even if it did, sometimes we simply lack the eyes to see it. If we weren't so oblivious to the signs the universe presents to us, would we change ourselves to prevent the harm? Or would we try to change everything else?

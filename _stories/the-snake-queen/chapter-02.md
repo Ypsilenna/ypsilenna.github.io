@@ -1,16 +1,18 @@
 ---
-layout: story
+layout: story-single
 title: 'The Snake Queen: Chapter 2 - Sands of Duskvale'
 public-title: 'Chapter 2 - Sands of Duskvale'
-date: "2026-03-31"
+date: 2026-03-31 19:31:19 +01:00
 categories: [stories]
 tags: [The Snake Queen] 
-summary: /stories/the-snake-queen/summary
 receipt: In which the priestess now known as Raajimera ends up in a strange village.
 rating: 13+
 flags: Alcohol
 ogimage: /static/image/stories/tsq-2026-cover.webp
 ogdesc: In which the priestess now known as Raajimera ends up in a strange village.
+summary: /stories/the-snake-queen/summary
+previousURL: /stories/the-snake-queen/chapter-01.html
+nextURL: /stories/the-snake-queen/chapter-03.html
 ---
 The air was dancing over the semi-arid area surrounding the village of Duskvale. It was noon, and the wind was still and calm, like a monk in a meditation trance.
 

@@ -1,16 +1,18 @@
 ---
-layout: story
+layout: story-single
 title: 'The Snake Queen: Chapter 5 - Soundless Tigers'
 public-title: 'Chapter 5 - Soundless Tigers'
-date: "2026-03-31"
+date: 2026-03-31 19:34:19 +01:00
 categories: [stories]
 tags: [The Snake Queen] 
-summary: /stories/the-snake-queen/summary
 receipt:  In which Raajimera saves helpless children, yet receives no credit.
 rating: 13+
 flags: N/A
 ogimage: /static/image/stories/tsq-2026-cover.webp
 ogdesc: In which Raajimera saves helpless children, yet receives no credit.
+summary: /stories/the-snake-queen/summary
+previousURL: /stories/the-snake-queen/chapter-04.html
+nextURL: /stories/the-snake-queen/chapter-06.html
 ---
 Life in the distant village of Duskvale was far from perfect, yet its inhabitants seemed to make the most of it given their situation. The adult part of the population had their hands full of errands. Oftentimes this would pose a problem, as their children were usually extra playful. 
 

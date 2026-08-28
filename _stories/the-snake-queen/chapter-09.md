@@ -1,16 +1,18 @@
 ---
-layout: story
+layout: story-single
 title: 'The Snake Queen: Chapter 9 - Horn of Lies'
 public-title: 'Chapter 9 - Horn of Lies'
-date: "2026-04-21"
+date: 2026-04-21 19:31:19 +01:00
 categories: [stories]
 tags: [The Snake Queen] 
-summary: /stories/the-snake-queen/summary
 receipt: In which Raajimera finds out what howls in the pass.
 rating: 16+
 flags: Suggestive Themes, Grim Realization
 ogimage: /static/image/stories/tsq-2026-cover.webp
 ogdesc: In which Raajimera finds out what howls in the pass.
+summary: /stories/the-snake-queen/summary
+previousURL: /stories/the-snake-queen/chapter-08.html
+nextURL: /stories/the-snake-queen/chapter-10.html
 ---
 Just about two weeks ago Raajimera had been terrified of Zephyr. Thinking about him now, she couldn't really remember why. After all, in this cold and cruel world—given all the blue colors he so meticulously hid behind dark clouds—he was the only ray of sunshine in the storm.
 

@@ -1,16 +1,18 @@
 ---
-layout: story
+layout: story-single
 title: 'The Snake Queen: Chapter 3 - Call of the Cosmos'
 public-title: 'Chapter 3 - Call of the Cosmos'
-date: "2026-03-31"
+date: 2026-03-31 19:32:19 +01:00
 categories: [stories]
 tags: [The Snake Queen]
-summary: /stories/the-snake-queen/summary 
 receipt: In which Raajimera heeds the cosmic call and lets a feral snake train her.
 rating: 13+
 flags: N/A
 ogimage: /static/image/stories/tsq-2026-cover.webp
 ogdesc: In which Raajimera heeds the cosmic call and lets a feral snake train her.
+summary: /stories/the-snake-queen/summary 
+previousURL: /stories/the-snake-queen/chapter-02.html
+nextURL: /stories/the-snake-queen/chapter-04.html
 ---
 After a long night of mildly interrupted sleep, a ray of the rising sun ultimately woke Raajimera up for good. 
 

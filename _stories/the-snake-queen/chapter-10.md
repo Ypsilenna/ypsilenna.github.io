@@ -1,16 +1,18 @@
 ---
-layout: story
+layout: story-single
 title: 'The Snake Queen: Chapter 10 - Roads Traveled By Few'
 public-title: 'Chapter 10 - Roads Traveled By Few'
-date: "2026-04-30"
+date: 2026-04-30 19:31:19 +01:00
 categories: [stories]
 tags: [The Snake Queen] 
-summary: /stories/the-snake-queen/summary
 receipt: In which Zephyr takes Raajimera on a ride.
 rating: 16+
 flags: Suggestive Themes, Mental Discomfort, Nudity
 ogimage: /static/image/stories/tsq-2026-cover.webp
 ogdesc: In which Zephyr takes Raajimera on a ride.
+summary: /stories/the-snake-queen/summary
+previousURL: /stories/the-snake-queen/chapter-09.html
+nextURL: /stories/the-snake-queen/chapter-11.html
 ---
 Many things have changed in Raajimera's life ever since she climbed that mountain. What she thought was a curse turned out to be a blessing in disguise, and what seemed terrifying at first turned out to be her safe bay.
 

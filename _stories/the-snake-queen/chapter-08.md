@@ -1,16 +1,18 @@
 ---
-layout: story
+layout: story-single
 title: 'The Snake Queen: Chapter 8 - Son of the Wind and the Tale of the Night Sky'
 public-title: 'Chapter 8 - Son of the Wind and the Tale of the Night Sky'
-date: "2026-04-03"
+date: 2026-04-03 19:31:19 +01:00
 categories: [stories]
 tags: [The Snake Queen] 
-summary: /stories/the-snake-queen/summary
 receipt: In which Raajimera meets the man in the shadows.
 rating: 16+
 flags: Trauma, Mentions of Death, Injury, Physical Discomfort
 ogimage: /static/image/stories/tsq-2026-cover.webp
 ogdesc: In which Raajimera meets the man in the shadows.
+summary: /stories/the-snake-queen/summary
+previousURL: /stories/the-snake-queen/chapter-07.html
+nextURL: /stories/the-snake-queen/chapter-09.html
 ---
 Raajimera woke up in somebody else's bed. She had a terrible headache that made her feel like her skull cracked into a thousand shards. The woman couldn't figure out what part of the day it was. 
 

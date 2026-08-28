@@ -1,16 +1,17 @@
 ---
-layout: story-ending
+layout: story-single
 title: 'The Snake Queen: Epilogue'
 public-title: 'Epilogue'
-date: "2026-06-20"
+date: 2026-06-20 19:33:19 +01:00
 categories: [stories]
 tags: [The Snake Queen] 
-summary: /stories/the-snake-queen/summary
 receipt: In which Raajimera can finally be free.
 rating: 13+
 flags: Mentions of Suffering and Plagues, Mentions of Death, Trauma
 ogimage: /static/image/stories/tsq-2026-cover.webp
 ogdesc: In which Raajimera can finally be free.
+summary: /stories/the-snake-queen/summary
+previousURL: /stories/the-snake-queen/chapter-13.html
 ---
 The empire of Raajimera prospered for many years; however, all that rose must once fall. The decline happened naturally, over the course of years. Plagues and natural disasters made some people disappear; some others simply relocated. There were certain things not even gods could protect them from.
 

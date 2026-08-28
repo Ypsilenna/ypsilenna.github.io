@@ -1,16 +1,17 @@
 ---
-layout: story-beginning
+layout: story-single
 title: 'The Snake Queen: Chapter 1 - Severing the Ties'
 public-title: 'Chapter 1 - Severing the Ties'
-date: "2026-03-17"
+date: 2026-03-17 19:31:19 +01:00
 categories: [stories]
 tags: [The Snake Queen] 
-summary: /stories/the-snake-queen/summary
 receipt: In which the priestess makes some rather questionable choices and ends up with a new name.
 rating: 13+
 flags: N/A
 ogimage: /static/image/stories/tsq-2026-cover.webp
 ogdesc: In which the priestess makes some rather questionable choices and ends up with a new name.
+summary: /stories/the-snake-queen/summary
+nextURL: /stories/the-snake-queen/chapter-02.html
 ---
 There once was a priestess of the diurnal cycle whose heart was as dark and cold as the veil of the desert night. Even though even the nocturnal sky has its stars, in her search for the absolute celestial power, she stopped at nothing. She aspired to take over the Sisterhood of the Sun and the Moon. Little did she know, her name would forever be forgotten, blown away in the shimmering sands of time.
 

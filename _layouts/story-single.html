@@ -51,58 +51,54 @@ layout: default
     <div class="content">
       <div class="metadata">
         <div class="story-nav">
-          <div class="nav-prev">
-            {% if page.previous.url %}
-            <a href="{{page.previous.url}}" title="{{page.previous.public-title}} ( {{ page.previous.rating }} )">
+            <div class="nav-prev">{% if page.previousURL %}
+            <a href="{{ page.previousURL }}" title="Previous">
               <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                 class="bi bi-caret-left-fill" viewBox="0 0 16 16">
                 <path
                   d="m3.86 8.753 5.482 4.796c.646.566 1.658.106 1.658-.753V3.204a1 1 0 0 0-1.659-.753l-5.48 4.796a1 1 0 0 0 0 1.506z" />
               </svg>
-              <span class="title-truncate">{{page.previous.public-title}}</span> ( {{ page.previous.rating }} )
-            </a>
-            {% endif %}
+              <span class="title-truncate">Previous</span>
+            </a>{% endif %}
+
           </div>
-          <div class="nav-next-ending">
-            {% if page.next.url %}
-            <a href="{{page.next.url}}" title="{{page.next.public-title}} ( {{ page.next.rating }} )">
-              <span class="title-truncate">{{page.next.public-title}}</span> ( {{ page.next.rating }} )
+          <div class="nav-next">
+{% if page.nextURL %}
+            <a href="{{ page.nextURL }}" title="Next">
+              <span class="title-truncate">Next
               <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                 class="bi bi-caret-right-fill" viewBox="0 0 16 16">
                 <path
                   d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
               </svg>
-            </a>
-            {% endif %}
+            </a>{% endif %}
           </div>
         </div>
       </div>
       <article id="article">{{ content }}</article><br>
       <div class="metadata">
         <div class="story-nav">
-          <div class="nav-prev">
-            {% if page.previous.url %}
-            <a href="{{page.previous.url}}" title="{{page.previous.public-title}} ( {{ page.previous.rating }} )">
+            <div class="nav-prev">{% if page.previousURL %}
+            <a href="{{ page.previousURL }}" title="Previous">
               <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                 class="bi bi-caret-left-fill" viewBox="0 0 16 16">
                 <path
                   d="m3.86 8.753 5.482 4.796c.646.566 1.658.106 1.658-.753V3.204a1 1 0 0 0-1.659-.753l-5.48 4.796a1 1 0 0 0 0 1.506z" />
               </svg>
-              <span class="title-truncate">{{page.previous.public-title}}</span> ( {{ page.previous.rating }} )
-            </a>
-            {% endif %}
+              <span class="title-truncate">Previous</span>
+            </a>{% endif %}
+
           </div>
-          <div class="nav-next-ending">
-            {% if page.next.url %}
-            <a href="{{page.next.url}}" title="{{page.next.public-title}} ( {{ page.next.rating }} )">
-              <span class="title-truncate">{{page.next.public-title}}</span> ( {{ page.next.rating }} )
+          <div class="nav-next">
+{% if page.nextURL %}
+            <a href="{{ page.nextURL }}" title="Next">
+              <span class="title-truncate">Next
               <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                 class="bi bi-caret-right-fill" viewBox="0 0 16 16">
                 <path
                   d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
               </svg>
-            </a>
-            {% endif %}
+            </a>{% endif %}
           </div>
         </div>
       </div>

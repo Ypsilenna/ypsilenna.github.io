@@ -1,16 +1,18 @@
 ---
-layout: story
+layout: story-single
 title: 'The Snake Queen: Chapter 13 - Promises'
 public-title: 'Chapter 13 - Promises'
-date: "2026-06-20"
+date: 2026-06-20 19:31:19 +01:00
 categories: [stories]
 tags: [The Snake Queen] 
-summary: /stories/the-snake-queen/summary
 receipt: In which Raajimera makes a promise to Zephyr.
 rating: 13+
 flags: Alcohol Use, Mentions of Death, Mental Breakdown
 ogimage: /static/image/stories/tsq-2026-cover.webp
 ogdesc: In which Raajimera makes a promise to Zephyr.
+summary: /stories/the-snake-queen/summary
+previousURL: /stories/the-snake-queen/chapter-12.html
+nextURL: /stories/the-snake-queen/epilogue.html
 ---
 
 The memory of the previous emperor slowly began fading away as the original red banners were replaced with dark blue ones embroidered with golden snake symbols. It was merely a start of the monumental transformation process. The new leader knew that the future held a lot in her cards, yet for now, she decided to focus on establishing herself in this new world.
