@@ -242,7 +242,7 @@ As soon as he sat down, Omikraya started thumping her feet and hands against the
 
 "The audience is clapping for us."
 
-"That's it. Go outside and play there," he said and pulled her outside.
+"That's it. Go outside and play there," he said and pulled her outdoors.
 
 "But—"
 
