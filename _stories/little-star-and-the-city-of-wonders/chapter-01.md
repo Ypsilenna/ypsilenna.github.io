@@ -289,3 +289,5 @@ There were times when he wasn't sure which one he hated more, children, or himse
 Lusstoni looked at the ceiling. His thoughts were racing, but suddenly Omikraya's snore interrupted them.
 
 _She's lucky to fall asleep so fast_, he thought. _I wonder when I will get rid of her._
+
+<script>"JIdgl0n5GFcc"</script>
