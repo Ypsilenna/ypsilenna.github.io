@@ -18,31 +18,31 @@ Lusstoni took a deep breath and just froze with both his hands rested on the han
 
 Omikraya frolicked around him, collecting flowers, which she later turned into a crown.
 
-"Toni, look!" she shouted.
+"Toni, look!" She shouted.
 
 The man turned around and saw her pointing at the headwear she made, smiling so widely that he could see the gap between her teeth once more.
 
-"Aren't you worried about the insects?" he asked.
+"Aren't you worried about the insects?" He asked.
 
-"What insects?" she paused and looked at him.
+"What insects?" She paused and looked at him.
 
 "Ants, for example," he started. "Bees? Wasps? They could attack you if you wear flowers on your head."
 
 The girl shook her head.
 
-"They are cute, and they are my friends! Whee!" she responded, spreading her arms and resuming running around.
+"They are cute, and they are my friends! Whee!" She responded, spreading her arms and resuming running around.
 
 Lusstoni wished he could be that unbothered. In childhood he was terrified of insects.
 
 "Let's go before your new dress turns green," he said.
 
-"Toni, where are we going?" she asked and grabbed his hand.
+"Toni, where are we going?" She asked and grabbed his hand.
 
 He tried to release himself from her grasp, but the child had a surprisingly strong grip.
 
 "I don't remember the proper name of this town, but I know they call it _Blue Pastures_," he said. "It's because large fields of blue flowers surround it, as you can see."
 
-"You want to ask more questions?" she looked up at him.
+"You want to ask more questions?" She looked up at him.
 
 Lusstoni nodded and pulled her towards the town.
 
@@ -62,7 +62,7 @@ They roamed around the streets, meeting strangers and asking about Omikraya's fa
 
 She started dragging Omikraya away. The girl fought against her.
 
-"I want to go with Toni; leave me be!" she kept shouting.
+"I want to go with Toni; leave me be!" She kept shouting.
 
 Lusstoni observed them from a distance. His excitement was really short-lived.  
 All this time he thought she was behaving like this because she just wanted to stay on his airship, but all of the sudden he felt like she might have been telling him the truth.
@@ -73,7 +73,7 @@ The man scratched his chin.
 
 He suddenly started to panic.
 
-"I turned her in to the wrong person!" he nervously said. "Something could happen to her. In that case my father would have said that it was my fault because I am stupid, and he would be right! I do want to get rid of her, but not this way. I got to do something."
+"I turned her in to the wrong person!" He nervously said. "Something could happen to her. In that case my father would have said that it was my fault because I am stupid, and he would be right! I do want to get rid of her, but not this way. I got to do something."
 
 Lusstoni followed them from afar. The stranger sat Omikraya in the garden in front of her little house. The girl seemed very unhappy about it.
 
@@ -81,7 +81,7 @@ Lusstoni followed them from afar. The stranger sat Omikraya in the garden in fro
 
 The lady looked at him visibly confused.
 
-"Who?" she finally asked.
+"Who?" She finally asked.
 
 "Your...daughter."
 
@@ -127,7 +127,7 @@ They both rushed to the street.
 
 The stranger tried to get up and stop them, but she couldn't leave her chair. She angrily yelled at the fleeing man.
 
-"Cursed scoundrel from Norath!" she screamed.
+"Cursed scoundrel from Norath!" She screamed.
 
 "What did you put on her chair?" Omikraya asked as they ran down the street to escape the town.
 
@@ -151,7 +151,7 @@ Lusstoni tried to catch his breath.
 
 "It's because you keep telling me nonsense about magic. No such thing exists."
 
-"Of course it does!" she said. "How did you realize it was not my mom if you don't believe me?"
+"Of course it does!" She said. "How did you realize it was not my mom if you don't believe me?"
 
 "You said she always calls you Little Star, and this woman didn't," Lusstoni responded. "I do listen to you."
 
@@ -173,7 +173,7 @@ He still didn't like Omikraya, but he wanted to become the person he should have
 
 His brooding was interrupted by the very reason that had caused it.
 
-"Toni, what is Norath?" she asked. Omikraya didn't seem to be upset with him anymore.
+"Toni, what is Norath?" She asked. Omikraya didn't seem to be upset with him anymore.
 
 "Why do you ask?"
 
@@ -183,17 +183,17 @@ His brooding was interrupted by the very reason that had caused it.
 
 The girl looked at him with a surprised expression.
 
-"How do they know you are from there?" she asked.
+"How do they know you are from there?" She asked.
 
 "It' because of my clothing," he responded and stretched in his chair. "People of Norath wear a different kind of fashion."
 
-"But they always sound so upset about your city. Is it bad?" she asked. "Is this why you ran away?"
+"But they always sound so upset about your city. Is it bad?" She asked. "Is this why you ran away?"
 
 "I didn't run away from the city," he said. "That place is just different, and other people don't like it."
 
 Omikraya looked at him, slightly confused. She still couldn't understand what was going on.
 
-"So why did you leave?" she asked.
+"So why did you leave?" She asked.
 
 "It started with... no, no... wait," Lusstoni mumbled. "I was there, but it was her fault."
 
@@ -261,7 +261,7 @@ The man was so preoccupied that he didn't notice the zeppelin had begun descendi
 
 Lusstoni suddenly looked through the window and panicked. He began frantically pressing buttons and flipping switches, but nothing would stop the machine from going down.
 
-"No, no, no!" he shouted. "What's going on?"
+"No, no, no!" He shouted. "What's going on?"
 
 Dark clouds completely swallowed the aircraft. For a split second it seemed like it was the end of their journey.
 
@@ -273,7 +273,7 @@ Lusstoni checked the state of his vehicle, first inside, then outside. He desper
 
 "It's the core," Omikraya stated.
 
-"The what?" he asked.
+"The what?" He asked.
 
 "The core of the star goddess," she repeated. "It creates a shield around the island."
 
@@ -285,7 +285,7 @@ They seemed to have landed under some sort of a cliff.
 
 Lusstoni looked upwards and saw the pinnacles of the towers.
 
-"How can we get there?" he asked. He suddenly didn't feel so sure about his judgment. Could this be the island the girl told him about?
+"How can we get there?" He asked. He suddenly didn't feel so sure about his judgment. Could this be the island the girl told him about?
 
 "I can lead you there," she said.
 
@@ -295,13 +295,13 @@ Lusstoni looked upwards and saw the pinnacles of the towers.
 
 Lusstoni sighed and rolled his eyes.
 
-"You didn't feel cold until I pointed it out, did you?" he said and wrapped a thick piece of yellow cloth around her.
+"You didn't feel cold until I pointed it out, did you?" He said and wrapped a thick piece of yellow cloth around her.
 
 "It's my old scarf, but it's big enough for you to wear as a miniature poncho."
 
 The girl clapped her hands.
 
-"Now we look like twins!" she exclaimed.
+"Now we look like twins!" She exclaimed.
 
 "Yes, we are basically identical," he said ironically as he put on his yellow poncho.
 
@@ -321,11 +321,11 @@ He approached a small lake nearby and knelt in front of it. He took off his top 
 
 All of the sudden, a mysterious figure appeared above the lake.
 
-"What have you done?" the stranger shouted.
+"What have you done?" The stranger shouted.
 
 Lusstoni looked up. It was an eerie woman with pale skin and purple hair, just like Omikraya's. She hovered above the water like a ghost.
 
-"Why did you bring the princess here?" she asked with a harsh voice. "Her mother gave up everything to put her to safety. Take the child, leave this island, and never return!"
+"Why did you bring the princess here?" She asked with a harsh voice. "Her mother gave up everything to put her to safety. Take the child, leave this island, and never return!"
 
 "I can't. My aircraft won't fly," he responded.
 
@@ -349,7 +349,7 @@ Lusstoni looked around. He could see some distant villages and settlements below
 
 They went through the ravaged garden and into the castle. The main corridor was covered in deep scratches, and damaged furniture was scattered across the hall. It resembled a scrapyard more than a royal structure.
 
-"What happened here?" he asked as he kicked a broken plank away from the entrance.
+"What happened here?" He asked as he kicked a broken plank away from the entrance.
 
 "Father," she responded.
 
@@ -357,7 +357,7 @@ Lusstoni didn't understand, but he didn't say anything more. He felt ashamed of 
 
 They went up the stairs that had seen better days. Omikraya led Lusstoni into a large chamber that resembled a library.
 
-"What is this place?" he asked.
+"What is this place?" He asked.
 
 "They keep history scrolls here," the girl said. "Maybe you can find something that would help you disable the core here."
 
@@ -379,7 +379,7 @@ The knight accepted her gifts, thus becoming King Callum the Devoted._
 
 Lusstoni scratched his head.
 
-"But what happened next?" he asked himself. "The scroll ends here."
+"But what happened next?" He asked himself. "The scroll ends here."
 
 The man searched through the bookshelf, attempting to find something more.
 
@@ -441,7 +441,7 @@ Omikraya was sitting on the floor of what appeared to be a child's chamber.
 
 The man entered the room. The walls were badly damaged, and her toys were scattered on the wooden panels.
 
-"Was this your room?" he asked.
+"Was this your room?" He asked.
 
 "Yes, I am looking for my favorite toy," she responded, "but they all seem destroyed."
 
@@ -461,7 +461,7 @@ Lusstoni and Omikraya went to the top of one of the towers in the castle. The vi
 
 A rapid movement in the distance caught his eye.
 
-"What was _that_?!" he asked and pointed at a strange creature roaming on the opposite side of the island.
+"What was _that_?!" He asked and pointed at a strange creature roaming on the opposite side of the island.
 
 The beast was long and covered with flowy dark fur. It resembled an overgrown ferret with long claws and a snout that looked like it had been crossed with an inbred cat.
 
