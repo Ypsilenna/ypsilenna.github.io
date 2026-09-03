@@ -20,19 +20,19 @@ She reached for his hand. Lusstoni eagerly tried to grab it. He knew this day co
 
 The man woke up, and he had made some mistakes. Not now necessarily, but in his entire life in general.
 
-"What do you want?" he growled with a raspy voice, still dizzy from his sleep.
+"What do you want?" He growled with a raspy voice, still dizzy from his sleep.
 
 "Toni, I am hungry!" Omikraya squeaked as she jumped on his bed.
 
 "I didn't let you give me a moniker," he mumbled as he wiped his eyes. "Why didn't you just grab something from my stash rather than further destroying my good time on this godforsaken planet?"
 
-"I want you to make me a breakfast because I don't want to mess with your things!" the girl said with a tone that probably was supposed to sound all grown up.
+"I want you to make me a breakfast because I don't want to mess with your things!" The girl said with a tone that probably was supposed to sound all grown up.
 
 "Why are you so respectful all of a sudden?" The man knew something was amiss when he heard it.
 
 Omikraya smiled widely, revealing a missing upper tooth.
 
-"I've always been that!" she lied.
+"I've always been that!" She lied.
 
 Lusstoni dragged himself out of the bed and went into his kitchen corner. He rummaged through his things for a moment for a portable burner.
 
@@ -50,7 +50,7 @@ The man walked out of his airship and placed the item outside. He then went back
 
 "I will have eggs," she said.
 
-"Didn't you just say they were boring?" he asked, raising his eyebrows up.
+"Didn't you just say they were boring?" He asked, raising his eyebrows up.
 
 "I will eat them to stay with you!"
 
@@ -62,15 +62,15 @@ The man put one fried egg on an old-looking plate and handed it to the girl alon
 
 She sat on the ground and began eating.
 
-"Toni, have you got something to write?" she asked.
+"Toni, have you got something to write?" She asked.
 
 "Huh? No, why?"
 
 Omikraya looked at him with a funny expression.
 
-"I could draw a line between the two dots on your cheek and make it look like a smile!" she exclaimed happily.
+"I could draw a line between the two dots on your cheek and make it look like a smile!" She exclaimed happily.
 
-"There will be no smile on my face; now eat up and don't annoy me!" he burst out.
+"There will be no smile on my face; now eat up and don't annoy me!" He burst out.
 
 Omikraya resumed her breakfast.
 
@@ -98,9 +98,9 @@ He nodded to himself and left the cockpit to look for the girl.
 
 Omikraya was sitting down on the floor and polishing her plate with a piece of cloth.
 
-"What are you doing?" he asked.
+"What are you doing?" He asked.
 
-"Cleaning!" she said excitedly.
+"Cleaning!" She said excitedly.
 
 "You should have just put it on the pile," he told her. "I would have gotten to it eventually."
 
@@ -116,7 +116,7 @@ Omikraya was sitting down on the floor and polishing her plate with a piece of c
 
 Lusstoni didn't believe her. He was sure she was just messing with him so that she could stay.
 
-"What are their names?" he finally asked.
+"What are their names?" He finally asked.
 
 "My father is named Callum," she responded.
 
@@ -126,7 +126,7 @@ He nodded.
 
 "Her name is Ashidrella, and she isn't scary!"
 
-"That's not even a human name!" he exclaimed.
+"That's not even a human name!" He exclaimed.
 
 "She isn't human," she said. "She's a nymph! I am half-nymph!"
 
@@ -140,13 +140,13 @@ Lusstoni raised his face into the sky and growled.
 
 "My father was a knight, and he got the island from the Star Goddess."
 
-"Huh?" he couldn't believe his ears. "But that would make your dad about five hundred years old. There are no knights anymore."
+"Huh?" He couldn't believe his ears. "But that would make your dad about five hundred years old. There are no knights anymore."
 
 Lusstoni shook his head and returned to his cockpit. He then set the course toward the town he had picked. Omikraya followed him joyfully, utterly ignoring his outbursts.
 
 Lusstoni was sitting on his pilot chair and holding the steering wheel firmly. His eyes were dead set on the horizon.
 
-"Toni, how does it fly?" she finally asked.
+"Toni, how does it fly?" She finally asked.
 
 "Gas," he forced himself to answer her question.
 
@@ -158,7 +158,7 @@ Lusstoni was sitting on his pilot chair and holding the steering wheel firmly. H
 
 "So that the sun won't burn my eyes out," he responded.
 
-"What is this thing?" she pointed at the object with buttons next to him.
+"What is this thing?" She pointed at the object with buttons next to him.
 
 "That's a radio," he explained. "It plays music."
 
@@ -196,15 +196,15 @@ Lusstoni exhaled through his nose. He knew this question would come back to him 
 
 The bartender looked at the girl while still polishing the glass he was holding.
 
-"What's her name?" he finally asked.
+"What's her name?" He finally asked.
 
 "She said she's named Omikraya," Lusstoni responded.
 
-"And my mom always calls me Little Star!" the girl added.
+"And my mom always calls me Little Star!" The girl added.
 
 "It doesn't sound like she could be from here," the bartender said and put the glass under the counter. "How old are you, Omikraya?"
 
-"I'm ten!" she exclaimed happily.
+"I'm ten!" She exclaimed happily.
 
 "You're already ten?" Lusstoni asked without hiding his surprise.
 
@@ -264,7 +264,7 @@ Lusstoni brought her a brick of gray soap and pointed at the vessel.
 
 Omikraya removed her old dirty clothes and sat in the tub in only her underwear.
 
-"It's cold!" she protested.
+"It's cold!" She protested.
 
 "I don't care," he responded and handed her the soap. "Here, wash your hair."
 
@@ -276,7 +276,7 @@ The girl curled up in nearly a fetal position and started rubbing the back of he
 
 Lusstoni sighed impatiently and knelt behind her, grabbing her head with both his hands. The metallic parts of his prosthetic arm were catching rogue strands of her hair.
 
-"Ouch, why do you have to wear this glove for it?" she asked.
+"Ouch, why do you have to wear this glove for it?" She asked.
 
 "I...need it," he responded and tried to release her trapped hair. He never thought about it; when it happened to him, he just embraced it, thinking he deserved the pain for all he had done. He never considered that not everyone was disturbed this way.
 
@@ -288,43 +288,43 @@ Lusstoni lingered outside for a moment. He needed a while for himself.
 
 The man took a cigarette out, lit it, and began smoking. He took a deep puff and exhaled slowly.
 
-_Why did Caermirella want it so much?_ he thought to himself. _Children are such feeble creatures who can't be left unsupervised for five minutes without a crisis. We could have done so much and traveled so far. Why did she choose to dedicate her life to someone else?_
+_Why did Caermirella want it so much?_ He thought to himself. _Children are such feeble creatures who can't be left unsupervised for five minutes without a crisis. We could have done so much and traveled so far. Why did she choose to dedicate her life to someone else?_
 
 Lusstoni sighed and extinguished the rest of his cigarette. He threw it behind himself and headed into his airship.
 
 He looked around.
 
-_Why is it so quiet here?_ he thought. _Where is she?_
+_Why is it so quiet here?_ He thought. _Where is she?_
 
-"Omikraya?" he asked and checked the spots where she used to hide. She wasn't there.
+"Omikraya?" He asked and checked the spots where she used to hide. She wasn't there.
 
 Lusstoni scratched his head cluelessly. He finally opened the door to the bedchamber and stood in the doorframe, mortified.
 
 Omikraya was sitting on the floor in her wet underwear and painting something on a piece of paper with the machine grease he stored behind his dresser. Her hands were elbow-deep in the dark orange substance, which also covered her face and thighs. The floor was wet and there was grease everywhere.
 
-"OMIKRAYA, I'VE JUST BATHED YOU!!!" he shouted.
+"OMIKRAYA, I'VE JUST BATHED YOU!!!" He shouted.
 
 The girl looked up, visibly not knowing why he was yelling.
 
-"I know!" she said. "I made you a gift as thanks!"
+"I know!" She said. "I made you a gift as thanks!"
 
 Lusstoni looked at her hands. She was holding a portrait of a woman in one and the prized picture of Caermirella from his wall in the other.
 
 He swiftly snatched it from her greasy fingers.
 
-"How did you unpin it?" he shouted.
+"How did you unpin it?" He shouted.
 
 "It was easy," she said. "I just put a box in there to reach it!"
 
 Lusstoni tried to breathe deeply to calm himself down.
 
-"She's pretty. Is it your wife?" the girl asked.
+"She's pretty. Is it your wife?" The girl asked.
 
 "She could be," he responded. "Now she is my brother's wife. Her name is Caermirella."
 
 Omikraya looked at him in confusion.
 
-"Why do you have a photo of your brother's wife here?" she asked.
+"Why do you have a photo of your brother's wife here?" She asked.
 
 "It's a long story," he said. "She used to be with me."
 
@@ -332,7 +332,7 @@ Omikraya looked at him in confusion.
 
 "I guess you could say that," he responded.
 
-"Why do you keep pictures of people who no longer like you?" she asked. "That's weird."
+"Why do you keep pictures of people who no longer like you?" She asked. "That's weird."
 
 "You are weird," he cut short as he cleaned the photo of Caermirella with a napkin and put it in the hidden pocket of his coat. "Sit in the corridor and wait for me to clean this place before I give you another bath. Do **not** go into the cockpit."
 
@@ -342,7 +342,7 @@ Lusstoni picked up the portrait Omikraya made for him. He wanted to tear it into
 
 The man finished cleaning and wiped his hands with a napkin. He walked out of the bedchamber and looked towards the cockpit. He saw Omikraya playing in there.
 
-_Why doesn't it surprise me?_ he thought to himself.
+_Why doesn't it surprise me?_ He thought to himself.
 
 Lusstoni approached her and said, "Get out; you are getting another bath."
 
@@ -366,17 +366,17 @@ The girl went out with a crabby face. She looked much different when she was cle
 
 The dress was fairly simple. The white ruffled top flowed smoothly into the light brown bottom, tied with a pale purple ribbon at the belly.
 
-"Do I have to wear these shoes?" she asked miserably.
+"Do I have to wear these shoes?" She asked miserably.
 
 Lusstoni confirmed.
 
-"But they are so loud!" she exclaimed.
+"But they are so loud!" She exclaimed.
 
 "Exactly," he said. "You won't sneak up on me anymore. The shoes have to stay if you want to be here."
 
 Omikraya crossed her arms grumpily.
 
-"Toni?" she finally said. "Can you tie my hair into two braids?"
+"Toni?" She finally said. "Can you tie my hair into two braids?"
 
 Lusstoni wanted to decline. However, he still had some faint memories of helping Caermirella with her hair. The man decided to try. He nodded and went into the bedchamber to find some ribbons and a comb.
 
@@ -412,13 +412,13 @@ _Maybe this will buy me some time_, he thought.
 
 Omikraya heard him coming and looked up.
 
-"What is this?" she asked, pointing at the item he was holding.
+"What is this?" She asked, pointing at the item he was holding.
 
 "It's my old toy," he answered. "You may have it if you play quietly."
 
 Omikraya squeaked happily and grabbed the spinning top. She then sat on the floor and put it on the ground.
 
-"What does it do?" she asked.
+"What does it do?" She asked.
 
 Lusstoni didn't think he would ever meet a child who doesn't know how to play with it.
 
@@ -436,7 +436,7 @@ The man hoped he could be alone soon.
 
 Lusstoni took the picture of Caermirella out of his hidden pocket and rubbed it with his thumb.
 
-"I am not weird, right?" he said under his breath. "The child is because she has never been in love."
+"I am not weird, right?" He said under his breath. "The child is because she has never been in love."
 
 Deep inside he knew she was right, but he would never admit it. He wanted to believe that if he could prove he had changed, Caermirella would return to him.
 
