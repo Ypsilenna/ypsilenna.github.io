@@ -340,7 +340,7 @@ The girl shook her head.
 
 "Damn it!" he shouted. "They are still in the water. I should have bought you more than one."
 
-They looked around to check if the cursed king was anywhere around them.
+They looked around to check if the Cursed King was anywhere around them.
 
 "Do you think we should go back to the castle and find you something?"
 
@@ -418,6 +418,6 @@ Omikraya looked at him and responded, "Smoking is not allowed here. Nobody ever 
 
 "That sounds like a good plan," he agreed.
 
-They rushed through the plains to reach the beach. Lusstoni couldn't help but think the beast was in the same place at the same time the day before. Perhaps if he observed the cursed king from afar, he would find the hidden chamber.
+They rushed through the plains to reach the beach. Lusstoni couldn't help but think the beast was in the same place at the same time the day before. Perhaps if he observed the Cursed King from afar, he would find the hidden chamber.
 
 There had to be a way. Tracking the best sounded like the only choice, but...could there be something or someone else possessing such information?
