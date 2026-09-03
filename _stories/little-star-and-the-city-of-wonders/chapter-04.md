@@ -21,7 +21,7 @@ They had to make sure the beast roaming around the island wouldn't see their cam
 
 "We could have some bread tonight and eggs for breakfast tomorrow."
 
-"Why do you like eggs so much?" she asked.
+"Why do you like eggs so much?" She asked.
 
 Lusstoni shrugged.
 
@@ -31,17 +31,17 @@ The man put the tea away and took the bread out of the bag he kept next to him. 
 
 He attempted to take a bite when Omikraya saw something shiny in his mouth.
 
-"Toni, you have a golden tooth!" she said with excitement in her voice. "Were you born like that?"
+"Toni, you have a golden tooth!" She said with excitement in her voice. "Were you born like that?"
 
-"What?" he asked, visibly confused. "No, I lost that tooth some time ago, and a doctor replaced it."
+"What?" He asked, visibly confused. "No, I lost that tooth some time ago, and a doctor replaced it."
 
 Omikraya looked at him with wide eyes.
 
-"You mean a healer?" she asked. "We don't have them here anymore. Father said the core will cure us so we don't need to learn medicine."
+"You mean a healer?" She asked. "We don't have them here anymore. Father said the core will cure us so we don't need to learn medicine."
 
 Lusstoni nodded silently.
 
-"Which god is the patron of your city?" she asked.
+"Which god is the patron of your city?" She asked.
 
 "Huh? We don't have one," he responded. "People of Norath turned their backs on gods long ago to regain the control of their lives. We learned how to heal our wounds, produce food, fly, and create marvelous constructions and machines to ensure we had everything without having to beg for it."
 
@@ -124,13 +124,13 @@ _So that's what she wanted_, he thought. _She never liked traveling, yet she pla
 
 "Do you need a hug?"
 
-"No, no!" he said as Omikraya forced herself on him. "Let me go!"
+"No, no!" He squeaked as Omikraya forced herself on him. "Let me go!"
 
-"Don't be sad, Toni!" she said and patted him on the head. "I think we should go to sleep now so you can forget about it."
+"Don't be sad, Toni!" She said and patted him on the head. "I think we should go to sleep now so you can forget about it."
 
 "_You_ can go to sleep. _I_ will stay here."
 
-"Fine!" she said and began walking towards the door of the airship.
+"Fine!" She said and began walking towards the door of the airship.
 
 "Wait," Lusstoni said as he got up. "There is a bench in the main chamber hidden under a pile of misplaced things. You should sleep there; you will be more comfortable on it."
 
@@ -138,13 +138,13 @@ The man entered the room and started cleaning. In a short while Omikraya could f
 
 Lusstoni brought her one of his small pillows and an extra blanket from his dresser.
 
-"Thank you!" she said. "But why do I get my own bed now?"
+"Thank you!" She said. "But why do I get my own bed now?"
 
 "Because I feel bad for making you sleep on my laundry," he said and placed the items on the bench.
 
 Omikraya lay down in her new makeshift bed and covered herself with the blanket.
 
-"Toni, can you read me a story?" she asked.
+"Toni, can you read me a story?" She asked.
 
 "Don't stretch it," he said coldly and left the deck.
 
@@ -174,15 +174,15 @@ A silence fell and Omikraya began feeling uneasy.
 
 "Do you know that..." Lusstoni began, "the shiny gauntlet I am wearing isn't actually a glove?"
 
-"What do you mean?" she asked. "What is it, then?"
+"What do you mean?" She asked. "What is it, then?"
 
 "It's a replacement arm," he answered. "And I am not wearing it."
 
 "I am not going to be scared. I can see you without it."
 
-"Are you sure?" he asked.
+"Are you sure?" He asked.
 
-"Yes! You can trust me!" the girl shouted excitedly.
+"Yes! You can trust me!" The girl shouted excitedly.
 
 Lusstoni sighed heavily and unlocked the door. He went out of the room and stood in the entrance with his partially lowered shirt showing the stump on his arm.
 
@@ -198,7 +198,7 @@ Lusstoni rolled his eyes.
 
 "I told you it was a bad idea," he commented, pulling the other half of his shirt back on his shoulder.
 
-"No, I am not scared!" she shouted and hugged him, wrapping her chubby arms around his waist. "You are still Toni, my friend."
+"No, I am not scared!" She shouted and hugged him, wrapping her chubby arms around his waist. "You are still Toni, my friend."
 
 The man was floored. It wasn't every day that someone framed being himself as a good thing, especially upon seeing the parts of him that he was ashamed of.
 
@@ -222,23 +222,23 @@ All of a sudden, Omikraya began singing.
 
 "I told you to be quiet," he shouted.
 
-"No, you told me not to be loud!" she answered. "I am doing what you asked me to do."
+"No, you told me not to be loud!" She answered. "I am doing what you asked me to do."
 
 "Then stop singing," he said.
 
 The deck became quiet for about one minute when a strange sound broke his focus.
 
-"What are you doing out there?" he asked and stood up.
+"What are you doing out there?" He asked and stood up.
 
 Omikraya was playing with her stuffed toy and doing something between whistling and rhythmical loud breathing.
 
 "You told me not to sing, so I am pretending my bear sings!"
 
-"Stop doing whatever this is!" he shouted and returned to the plans.
+"Stop doing whatever this is!" He shouted and returned to the plans.
 
 As soon as he sat down, Omikraya started thumping her feet and hands against the floor.
 
-"What are you doing now?" he asked, more and more annoyed.
+"What are you doing now?" He asked, more and more annoyed.
 
 "The audience is clapping for us."
 
@@ -268,13 +268,13 @@ The man walked around the airship, but he couldn't find her. He began suspecting
 
 He turned around and saw the girl with her outfit stained with mud top to bottom.
 
-"Nooo, you destroyed your new dress!" he shouted. "Give it to me for washing before the stains solidify!"
+"Nooo, you destroyed your new dress!" He shouted. "Give it to me for washing before the stains solidify!"
 
 Lusstoni angrily put some water from the lake into the big bowl he stored on the deck and began washing the dress with gray soap.
 
 He looked around and saw the girl running across the beach in only her underwear.
 
-"Omikraya! It's too cold for that; put something on immediately before you get sick!" he shouted.
+"Omikraya! It's too cold for that; put something on immediately before you get sick!" He shouted.
 
 She didn't listen to him, so he got up and forcefully put his coat on her.
 
@@ -288,19 +288,19 @@ Lusstoni returned to the bowl and resumed washing her dress angrily.
 
 The man sighed heavily and stood up, leaving the dress soaked in the water.
 
-"Omikraya?" he shouted. "Where are you?"
+"Omikraya?" He shouted. "Where are you?"
 
 He began searching for her. Once he picked up the sound of her sobbing in the nearby bushes, the task became easier.
 
 "Omikraya, come back."
 
-"No, you are being mean to me!" she shouted and resumed crying.
+"No, you are being mean to me!" She shouted and resumed crying.
 
 Lusstoni still felt ashamed for behaving like his parents would, so in the surge of newfound guilt, he decided to speak the way his father never would.
 
 "I didn't mean it."
 
-"Then why did you say it?" she asked. "Why would you call me stupid if you didn't believe it?"
+"Then why did you say it?" She asked. "Why would you call me stupid if you didn't believe it?"
 
 Lusstoni glanced at her red and swollen face. She looked pitiful.
 
@@ -338,7 +338,7 @@ The girl shook her head.
 
 "Toni, where are my clothes?"
 
-"Damn it!" he shouted. "They are still in the water. I should have bought you more than one."
+"Damn it!" He shouted. "They are still in the water. I should have bought you more than one."
 
 They looked around to check if the Cursed King was anywhere around them.
 
@@ -372,7 +372,7 @@ They entered the building. It was just as abandoned as it was the last time they
 
 Lusstoni climbed the stairs with an enormous effort while Omikraya simply glided through them. She ran into her old bedroom and opened the half-destroyed wardrobe.
 
-"Look, my clothes are still here!" she said. "And they are almost good!"
+"Look, my clothes are still here!" She said. "And they are almost good!"
 
 "Get dressed, then," Lusstoni answered and put his hand into his pocket. "I will go upstairs and spend some time in the tower."
 
