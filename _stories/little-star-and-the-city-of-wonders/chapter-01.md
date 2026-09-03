@@ -30,11 +30,11 @@ He looked at her with a blank expression. His eyes were a cold shade of green, y
 
 Caermirella seemed slightly embarrassed to be the one to start this conversation. She nervously pulled aside a lock of her curly brown hair away from her pale face.
 
-"When do you think we could get married?" she asked timidly, biting her rosy lower lip.
+"When do you think we could get married?" She asked timidly, biting her rosy lower lip.
 
 Lusstoni stopped abruptly and stared right into her soul, sending shivers down her spine.
 
-"Where does this come from?" he answered with a question.
+"Where does this come from?" He answered with a question.
 
 The woman was a little uneasy.
 
@@ -42,17 +42,17 @@ The woman was a little uneasy.
 
 Lusstoni laughed in her face in a tawdry way.
 
-"Oh darling, are you serious? Did you really believe we would do that?" he asked. "You should have realized that I hate children. How many times did I tell you I wanted them?"
+"Oh darling, are you serious? Did you really believe we would do that?" He asked. "You should have realized that I hate children. How many times did I tell you I wanted them?"
 
 Caermirella kept staring at him in disbelief. This was, in fact, the first time he said it out loud. Deep inside she felt he would be like this, but she still had hope things would change. Until now.
 
-"Why are you looking at me like that?" he continued. "I am not and will never be ready for commitment. That's on you if you believed it would go any other way."
+"Why are you looking at me like that?" He continued. "I am not and will never be ready for commitment. That's on you if you believed it would go any other way."
 
 Caermirella pulled herself away from his grasp.
 
 "Then I will find someone who is," she responded and ran off in tears, holding her pink dress to avoid falling.
 
-"Caermirella, wait!" he shouted, suddenly realizing what it meant. "Let me explain!"
+"Caermirella, wait!" He shouted, suddenly realizing what it meant. "Let me explain!"
 
 She ran too fast for him to catch up. He was suddenly left all alone and out of breath; for a moment even birds stopped singing.
 
@@ -64,7 +64,7 @@ Lusstoni nervously started smoking a cigarette, but his hands started to shake, 
 
 Lusstoni went into his bathroom to wash his face. He looked at his reflection, and a sudden wave of anger took over him. He started pulling his short brown hair in frustration.
 
-"You idiot, how could you say that?" he shouted at himself. "What am I going to do now? I think I need a drink to ease my nerves."
+"You idiot, how could you say that?" He shouted at himself. "What am I going to do now? I think I need a drink to ease my nerves."
 
 The man went back into his living room and began rummaging through his cabinets. He found a bottle of gin, and he started drinking it directly out of the container. The liquid was stringent and bitter, but he didn't feel like he deserved anything better at this point.
 
@@ -86,7 +86,7 @@ Suddenly the machine let out a sound so loud that he fainted. Or at least he tho
 
 Lusstoni woke up much later in the hospital bed. His entire body was in pain. The man tried to move around when he noticed he was missing his left arm.
 
-"Wha... what happened?" he asked, still dizzy.
+"Wha... what happened?" He asked, still dizzy.
 
 "You are stupid; that's what happened," his father responded. He was a tall and intimidating man with a mustache. He wasn't exactly the kindest person to wake up next to, certainly not the prettiest one to look at.
 
@@ -154,7 +154,7 @@ The farmer's wife appeared and tried to help her husband transport the fruit.
 
 Lusstoni observed the farmers and didn't even think of helping them. He was amused until something caught his attention. The entire family had blond curly hair, all of them but one.
 
-"Hey, farmer, why did you dye your daughter's hair purple?" he asked.
+"Hey, farmer, why did you dye your daughter's hair purple?" He asked.
 
 There was a young strange-looking girl climbing a tree behind the family's house. She looked like she had been playing in the dirt recently.
 
@@ -190,23 +190,23 @@ He danced in his seat humming to the melody from the radio and grabbed another c
 
 Lusstoni lit the cigarette and took a puff. Suddenly a loud cough pierced the air. He nearly fell off his chair.
 
-"Who's there? Show yourself!" he shouted.
+"Who's there? Show yourself!" He shouted.
 
 The coughing intensified. He locked the steering wheel in position and scanned the deck of the airship in search of the source of the mysterious sound.
 
 He grabbed a large piece of cloth that was hanging from the dresser on the side and saw the strange girl from the apple farm underneath.
 
-"Woah, you are so flashy!" she shouted with a squeaky voice and jumped out of her hiding spot towards him, but the lit cigarette he was holding made her cough again.
+"Woah, you are so flashy!" She shouted with a squeaky voice and jumped out of her hiding spot towards him, but the lit cigarette he was holding made her cough again.
 
 Lusstoni couldn't believe his eyes. He took his goggles off to verify that he wasn't hallucinating.
 
-"What are you doing here? How did you even get inside?" he asked.
+"What are you doing here? How did you even get inside?" He asked.
 
 Seeing that she can't breathe properly, he grumpily extinguished his cigarette against a metal tray and asked again, "Why are you here?"
 
-"I noticed you at the farm in this pretty outfit you have, and then I saw that you have this big flying balloon!" she responded excitedly. "The farm people didn't like me anyway, so here I am!"
+"I noticed you at the farm in this pretty outfit you have, and then I saw that you have this big flying balloon!" She responded excitedly. "The farm people didn't like me anyway, so here I am!"
 
-"What makes you think I will like you?" he asked and raised one of his thick eyebrows up. "You just made me waste a perfectly good cigarette! I mean, sure, I could still smoke whatever is left from it, but I will not get back what's already gone—"
+"What makes you think I will like you?" He asked and raised one of his thick eyebrows up. "You just made me waste a perfectly good cigarette! I mean, sure, I could still smoke whatever is left from it, but I will not get back what's already gone—"
 
 The girl interrupted his monologue with a giggle.
 
@@ -220,7 +220,7 @@ Lusstoni felt his pulse rising, but he tried to stay calm.
 
 "I am not asking if you are from here; I want to know _where_ you are from," he clarified.
 
-"Will you let me stay here if I tell you?" she asked playfully.
+"Will you let me stay here if I tell you?" She asked playfully.
 
 "No way," he responded. "Answer my question."
 
@@ -232,11 +232,11 @@ Lusstoni felt his pulse rising, but he tried to stay calm.
 
 "I've never heard of that place," he admitted. "I need more details. I don't think I ever saw it on maps."
 
-"I am Princess Omikraya, and my island is magical!" she shouted.
+"I am Princess Omikraya, and my island is magical!" She shouted.
 
 Lusstoni tried deep breathing, but it didn't work for him. He could no longer contain his rage.
 
-"Do you think this is funny?" he shouted. "I have no time for this nonsense! I am on a trip to become a better person!"
+"Do you think this is funny?" He shouted. "I have no time for this nonsense! I am on a trip to become a better person!"
 
 She wanted to say something, but suddenly her stomach grumbled loudly.
 
@@ -266,7 +266,7 @@ Omikraya squeaked of joy and tried to hug him, but the man stopped her.
 
 He tried to go to the miniature bedroom when Omikraya stopped him.
 
-"What is your name, Goggle Man?" she asked.
+"What is your name, Goggle Man?" She asked.
 
 He glanced at her. If he didn't hate children so much, he would probably find her cute. She looked at him with these big round blue eyes with long eyelashes. She was dirty like a feral hog, but her round face made her look like a porcelain doll.
 
@@ -274,7 +274,7 @@ He glanced at her. If he didn't hate children so much, he would probably find he
 
 "Oh," she said and looked behind him. "Is that our bed?"
 
-"_Our_ bed?" he repeated slightly bewildered. "You will be lucky if I let you sleep on my dirty clothes. You aren't going anywhere near my bed."
+"_Our_ bed?" He repeated slightly bewildered. "You will be lucky if I let you sleep on my dirty clothes. You aren't going anywhere near my bed."
 
 He expected her to have a meltdown, but she just happily jumped on top of his dirty laundry.
 
