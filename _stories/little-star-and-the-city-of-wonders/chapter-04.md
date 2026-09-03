@@ -12,6 +12,7 @@ ogimage: /static/image/stories/LSCW-cover.webp
 ogdesc: In which Lusstoni finally sees the contents of Caermirella&#39;s box.
 summary: /stories/little-star-and-the-city-of-wonders/summary
 previousURL: /stories/little-star-and-the-city-of-wonders/chapter-03.html
+nextURL: /stories/little-star-and-the-city-of-wonders/chapter-05.html
 ---
 Lusstoni finally had a moment to sit down after the road to the castle and back made every fiber of his body scream in agony. He made them some tea on his portable burner and enjoyed it in front of his airship by the light of the lamp he put outside.
 
@@ -124,7 +125,7 @@ _So that's what she wanted_, he thought. _She never liked traveling, yet she pla
 
 "Do you need a hug?"
 
-"No, no!" he said as Omikraya forced herself on him. "Let me go!"
+"No, no!" he squeaked as Omikraya forced herself on him. "Let me go!"
 
 "Don't be sad, Toni!" she said and patted him on the head. "I think we should go to sleep now so you can forget about it."
 
@@ -151,6 +152,9 @@ Omikraya lay down in her new makeshift bed and covered herself with the blanket.
 Finally alone, Lusstoni sat on the boulder in front of the airship and grabbed a bottle of alcohol and a pack of cigarettes that he smuggled out of the cockpit when Omikraya wasn't looking. He took a deep breath. The air was cold and fresh.
 
 _I've felt enough today,_ he thought, and lit a cigarette with a match. _Let's not do it again anytime soon._
+
+
+
 
 Lusstoni was in the bedchamber attempting to button his shirt with only his right hand. The morning sun illuminated the room, which annoyed him slightly. How dare it shine when he didn't wish to see it?
 
@@ -242,7 +246,7 @@ As soon as he sat down, Omikraya started thumping her feet and hands against the
 
 "The audience is clapping for us."
 
-"That's it. Go outside and play there," he said and pulled her outside.
+"That's it. Go outside and play there," he said and pulled her outdoors.
 
 "But—"
 
@@ -304,7 +308,7 @@ Lusstoni still felt ashamed for behaving like his parents would, so in the surge
 
 Lusstoni glanced at her red and swollen face. She looked pitiful.
 
-"Listen, I—" he said. 'I'm sorry. I just wanted to reunite you with your parents, but now the situation has gotten complicated, and I don't know what to do. I'm overwhelmed and I'm not even sure if we will make it out of this place in one piece. I never had to take care of anyone before. You know, when my little brother was born, my parents didn't even let me be anywhere near him. I wish I knew how to handle children."
+"Listen, I—" he said. 'I'm sorry. I just wanted to reunite you with your parents, but now the situation has gotten complicated, and I don't know what to do. I'm overwhelmed, and I'm not even sure if we will make it out of this place in one piece. I never had to take care of anyone before. You know, when my little brother was born, my parents didn't even let me be anywhere near him. I wish I knew how to handle children."
 
 "Why not?" Omikraya asked and wiped her tears.
 
@@ -340,7 +344,7 @@ The girl shook her head.
 
 "Damn it!" he shouted. "They are still in the water. I should have bought you more than one."
 
-They looked around to check if the cursed king was anywhere around them.
+They looked around to check if the Cursed King was anywhere around them.
 
 "Do you think we should go back to the castle and find you something?"
 
@@ -406,7 +410,7 @@ They walked out of the castle and headed towards their camp when a sudden noise 
 
 Lusstoni and Omikraya held their breaths.
 
-The beast caught a whiff of their scent and began coughing uncontrollably. Cursed King Callum ran away squeaking.
+The beast caught a whiff of their scent and began coughing uncontrollably. Cursed King Callum ran away, squeaking.
 
 Lusstoni waited until they could no longer see him and said, "Is everyone in your family coughing from inhaling a little cigarette smoke? It's not _that_ bad..."
 
@@ -418,6 +422,6 @@ Omikraya looked at him and responded, "Smoking is not allowed here. Nobody ever 
 
 "That sounds like a good plan," he agreed.
 
-They rushed through the plains to reach the beach. Lusstoni couldn't help but think the beast was in the same place at the same time the day before. Perhaps if he observed the cursed king from afar, he would find the hidden chamber.
+They rushed through the plains to reach the beach. Lusstoni couldn't help but think the beast was in the same place at the same time the day before. Perhaps if he observed the Cursed King from afar, he would find the hidden chamber.
 
 There had to be a way. Tracking the best sounded like the only choice, but...could there be something or someone else possessing such information?

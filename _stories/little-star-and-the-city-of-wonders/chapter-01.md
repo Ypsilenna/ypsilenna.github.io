@@ -70,7 +70,7 @@ The man went back into his living room and began rummaging through his cabinets.
 
 His despair could be measured by the empty bottles left on his floor, but he felt like each gulp gave him peace as much as it robbed him of his mind. He didn't remember how much he drank. The memories of the night were glued together and stirred.
 
-Early morning when the alcohol started losing its grip on his senses, he realized that he was supposed to be somewhere.
+Early in the morning, when the alcohol started losing its grip on his senses, he realized that he was supposed to be somewhere.
 
 Lusstoni's family was never pleased with his job, but he loved it. He was a mechanic in a factory and a respected one. Ever since he was a child, he loved tinkering, and this job brought him great joy.
 
@@ -107,6 +107,8 @@ Parents of Lusstoni cared a lot about the way others perceived them. They always
 "Since you never do anything right, you will now be on your own. Your mother and I have enough of being ashamed because of you," his father said.
 
 Both of his parents got up from their chairs and left him alone in the room.
+
+
 
 It had been eight years ever since these events happened, but Lusstoni had been reliving them vividly in his head every single day. He never got over Caermirella and still hoped she would return to him, even after all this time, after all he had done.
 
@@ -210,7 +212,7 @@ Seeing that she can't breathe properly, he grumpily extinguished his cigarette a
 
 The girl interrupted his monologue with a giggle.
 
-"I think you will like me because I already like you!" She said.
+"I think you will like me because I already like you!" she said.
 
 "Well, you are wrong," he informed her. "Where are you even from? I will take you there."
 
@@ -274,7 +276,7 @@ He glanced at her. If he didn't hate children so much, he would probably find he
 
 "Oh," she said and looked behind him. "Is that our bed?"
 
-"_Our_ bed?" he repeated slightly bewildered. "You will be lucky if I let you sleep on my dirty clothes. You aren't going anywhere near my bed."
+"_Our_ bed?" he repeated, slightly bewildered. "You will be lucky if I let you sleep on my dirty clothes. You aren't going anywhere near my bed."
 
 He expected her to have a meltdown, but she just happily jumped on top of his dirty laundry.
 

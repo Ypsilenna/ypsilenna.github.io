@@ -69,7 +69,7 @@ All this time he thought she was behaving like this because she just wanted to s
 
 The man scratched his chin.
 
-"Didn't she say her mom _always_ calls her Little Star?" he finally said to himself. "Moreover, she said she was a nymph...not that I believed it, but this lady looks nothing like one. Not to mention, she seems too old to have a child so young..."
+"Didn't she say her mom _always_ calls her Little Star?" He finally said to himself. "Moreover, she said she was a nymph...not that I believed it, but this lady looks nothing like one. Not to mention, she seems too old to have a child so young..."
 
 He suddenly started to panic.
 
@@ -329,7 +329,7 @@ Lusstoni looked up. It was an eerie woman with pale skin and purple hair, just l
 
 "I can't. My aircraft won't fly," he responded.
 
-"Then you better find a way," she said. "The princess can not stay here."
+"Then you better find a way," she said. "The princess cannot stay here."
 
 Lusstoni had some questions, but the mysterious woman disappeared.
 
@@ -381,7 +381,7 @@ Lusstoni scratched his head.
 
 "But what happened next?" he asked himself. "The scroll ends here."
 
-The man searched through the bookshelf attempting to find something more.
+The man searched through the bookshelf, attempting to find something more.
 
 As he scoured, a notebook fell to the ground. Lusstoni opened it.
 

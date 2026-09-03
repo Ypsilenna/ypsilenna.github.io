@@ -140,7 +140,7 @@ Lusstoni raised his face into the sky and growled.
 
 "My father was a knight, and he got the island from the Star Goddess."
 
-"Huh?" he couldn't believe his ears. "But that would make your dad about five hundred years old. There are no knights anymore."
+"Huh?" He couldn't believe his ears. "But that would make your dad about five hundred years old. There are no knights anymore."
 
 Lusstoni shook his head and returned to his cockpit. He then set the course toward the town he had picked. Omikraya followed him joyfully, utterly ignoring his outbursts.
 
@@ -158,7 +158,7 @@ Lusstoni was sitting on his pilot chair and holding the steering wheel firmly. H
 
 "So that the sun won't burn my eyes out," he responded.
 
-"What is this thing?" she pointed at the object with buttons next to him.
+"What is this thing?" She pointed at the object with buttons next to him.
 
 "That's a radio," he explained. "It plays music."
 
@@ -240,7 +240,7 @@ The man approached the nearest stall with clothes to buy her a new outfit.
 
 "May I have a pretty dress?" Omikraya asked as she tightened her sweaty grasp around his hand.
 
-"You may have what I buy for you," he responded and picked a simple dress, wooden shoes, and fresh underwear.
+"You may have what I buy for you," he responded and chose a simple dress, wooden shoes, and fresh underwear.
 
 The vendor silently handed him the goods and put the payment in a box under the stall.
 
@@ -296,7 +296,7 @@ He looked around.
 
 _Why is it so quiet here?_ he thought. _Where is she?_
 
-"Omikraya?" he asked and checked the spots where she used to hide. She wasn't there.
+"Omikraya?" He asked and checked the spots where she used to hide. She wasn't there.
 
 Lusstoni scratched his head cluelessly. He finally opened the door to the bedchamber and stood in the doorframe, mortified.
 
