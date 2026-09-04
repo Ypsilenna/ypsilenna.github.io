@@ -366,6 +366,12 @@ They returned to the deck of Lusstoni's airship. He took his coat from her and r
 
 "Good," she said under her breath, "because I wouldn't wear a ferret."
 
+The girl looked up and asked him another question.
+
+"Toni, what is your favorite animal?"
+
+"Crab," Lusstoni answered dryly.
+
 They left the airship and headed towards the castle. The air seemed warmer than the day before. It was _almost_ enjoyable.
 
 Lusstoni had to rely on his walking cane a little more than he usually does. He was tired, probably because he couldn't rest well due to the recent events.
