@@ -69,7 +69,7 @@ role: Protagonist
 
 <!-- Lead paragraph (always visible, outside any collapsible) -->
 <div class="article-lead">
-      <b>Lusstoni</b> is a grumpy, disabled alcoholic who was estranged by his family in his early adulthood. He used to work in a factory until he got in an accident and was forced to retire. He's still a handyman, though, but it doesn't matter to him because he hates himself almost as much as he hates children.<br> Haunted by the visions of his past, he decides to go on an adventure in his trusty personal zeppelin.
+      <b>Lusstoni</b> is a grumpy, disabled alcoholic who was estranged by his family in his early adulthood. He used to work in a factory until he got in an accident and was forced to retire. He's still a handyman, though, but it doesn't matter to him because he hates himself almost as much as he hates children.<br> Haunted by the visions of his past, he decides to go on an adventure in his trusty personal airship.
       <br><br>
       </div>
 
@@ -100,10 +100,10 @@ He's scared of commitment. He doesn't want to have a family even if that decisio
         <summary><b>Likes/Dislikes</b></summary>
         <p>
 <b>Likes:</b><br>
-Cigarettes, alcohol, women, roasted meat, seafood, crabs, goggles, tinkering, his zeppelin<br>
+Cigarettes, alcohol, women, roasted meat, eggs, seafood, crabs, goggles, tinkering, his airship<br>
 
 <b>Dislikes:</b><br>
-Pickles, olives, seaweed, dogs, yucca plants, loud people, children, Omikraya (for real, leave him be!!!)
+Seaweed, dogs, yucca plants, loud people, children, Omikraya (for real, leave him be!!!)
         </p>
       </details>
 <br>
