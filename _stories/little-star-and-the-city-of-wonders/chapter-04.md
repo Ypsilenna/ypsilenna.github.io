@@ -430,4 +430,4 @@ Omikraya looked at him and responded, "Smoking is not allowed here. Nobody ever 
 
 They rushed through the plains to reach the beach. Lusstoni couldn't help but think the beast was in the same place at the same time the day before. Perhaps if he observed the Cursed King from afar, he would find the hidden chamber.
 
-There had to be a way. Tracking the best sounded like the only choice, but...could there be something or someone else possessing such information?
+There had to be a way. Tracking the beast sounded like the only choice, but...could there be something or someone else possessing such information?
