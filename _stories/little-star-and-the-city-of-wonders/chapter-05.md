@@ -361,11 +361,11 @@ The man found a small road between the bushes and arrived at the crevice. He loo
 
 "Why does that make you happy?" Omikraya asked, visibly surprised.
 
-"It's a man thing; you will not get it," he answered. "Let's go before your pappy comes back and makes a blood sausage out of our intestines."
+"It's a man thing; you will not get it," he answered. "Let's go before your pappy comes back and makes a  sausage out of our intestines."
 
 "What's a blood sausage?"
 
-"Something I will feed you in Norath and something you will never want to eat again, I am sure."
+"Something I will feed you in Norath that I'm sure you will never want to eat again."
 
 They ran back as quickly as Lusstoni's leg allowed them to. Lucky them, the king was still too busy to acknowledge them.
 

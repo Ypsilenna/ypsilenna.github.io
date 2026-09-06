@@ -366,6 +366,12 @@ They returned to the deck of Lusstoni's airship. He took his coat from her and r
 
 "Good," she said under her breath, "because I wouldn't wear a ferret."
 
+The girl looked up and asked him another question.
+
+"Toni, what is your favorite animal?"
+
+"Crab," Lusstoni answered dryly.
+
 They left the airship and headed towards the castle. The air seemed warmer than the day before. It was _almost_ enjoyable.
 
 Lusstoni had to rely on his walking cane a little more than he usually does. He was tired, probably because he couldn't rest well due to the recent events.
@@ -424,4 +430,4 @@ Omikraya looked at him and responded, "Smoking is not allowed here. Nobody ever 
 
 They rushed through the plains to reach the beach. Lusstoni couldn't help but think the beast was in the same place at the same time the day before. Perhaps if he observed the Cursed King from afar, he would find the hidden chamber.
 
-There had to be a way. Tracking the best sounded like the only choice, but...could there be something or someone else possessing such information?
+There had to be a way. Tracking the beast sounded like the only choice, but...could there be something or someone else possessing such information?
