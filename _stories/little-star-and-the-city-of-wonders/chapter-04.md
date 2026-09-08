@@ -282,7 +282,7 @@ He looked around and saw the girl running across the beach in only her underwear
 
 She didn't listen to him, so he got up and forcefully put his coat on her.
 
-"Stop being so incredibly stupid," he said. "I swear, fate has truly punished me with an annoying child. I can't even do any of the things I like because of you; I wish I never met you."
+"Stop being so incredibly stupid," he said. "I swear, fate has truly punished me with an annoying child. This is why I hate kids. I can't even do any of the things I like because of you; I wish I never met you."
 
 Omikraya started crying and ran towards the bushes on the other side of the beach.
 
