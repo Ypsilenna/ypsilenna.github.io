@@ -44,7 +44,7 @@ Feng glanced at her with an offended expression.
 
 "Can you speak with every human you meet?" the snake responded with a question. "I am a reptile. I can communicate with most snakes and occasionally lizards. I have no idea what the mammal says."
 
-Bamieh the camel gently turned towards Feng, trying to sniff it.
+Bamieh the camel gently turned toward Feng, trying to sniff it.
 
 "Hey, have you got any idea about personal space?!" the snake shouted angrily.
 
@@ -238,7 +238,7 @@ Raajimera felt terrified. She knew she could overpower them with Raa's magic, bu
 
 Zephyr reached for one of the purses he attached to the front of his camel's saddle.
 
-"How about this?" he asked and threw it towards the men.
+"How about this?" he asked and threw it toward the men.
 
 The taller scout grinned and responded, "I saw no traders. Let's go."
 
@@ -338,7 +338,7 @@ His body tensed a little, but he nodded.
 
 He looked at the stars that started appearing in the sky.
 
-"Growing up as I did, I learned to lie to everyone, including the people I was supposed to love," he answered. "When I first saw you, I didn't feel indifferent about you. I heard the lies they fed you, and I couldn't put you through it again. Had I lied, you wouldn't have a single person out there you could trust. I didn't want you to become resentful towards people; there are still good ones out there."
+"Growing up as I did, I learned to lie to everyone, including the people I was supposed to love," he answered. "When I first saw you, I didn't feel indifferent about you. I heard the lies they fed you, and I couldn't put you through it again. Had I lied, you wouldn't have a single person out there you could trust. I didn't want you to become resentful toward people; there are still good ones out there."
 
 He closed his eyes for a moment and took a deep breath.
 
@@ -417,7 +417,7 @@ The man took a bucket and a small net and left the hideout.
 
 He took a fresh morning breath. The sun was just beginning its journey in the sky.
 
-Zephyr started walking towards the oasis. It looked like a lake surrounded with vivid vegetation. It was beautiful compared to the rest of the landscape.
+Zephyr started walking toward the oasis. It looked like a lake surrounded with vivid vegetation. It was beautiful compared to the rest of the landscape.
 
 Feng noticed him from a distance and decided to investigate the mysterious behavior. The animal followed the man as he began disappearing behind rocks and plants.
 
@@ -475,7 +475,7 @@ Zephyr tried to untangle his net while mumbling something under his breath with 
 
 "Oh, alright," the animal said and stuck its tongue out. "How did you end up touching her forehead?"
 
-Zephyr shook his head and said, "I didn't. She just leaned towards me and pressed her head against mine. I think she wanted to show her affection this way, but it was quite painful, to be fair."
+Zephyr shook his head and said, "I didn't. She just leaned toward me and pressed her head against mine. I think she wanted to show her affection this way, but it was quite painful, to be fair."
 
 Feng made a very silly face.
 
@@ -565,7 +565,7 @@ Observing the dancing sand made him realize how much she had recovered since he 
 
 Raajimera twirled and suddenly noticed them. She stopped what she was doing and waved both her hands.
 
-Zephyr smiled warmly and walked towards her.
+Zephyr smiled warmly and walked toward her.
 
 Maybe they won't fix the whole world in one day. That's an impossible ask, but for now things get better for the microcosm between their arms, and that's enough.
 

@@ -43,7 +43,7 @@ The face of Raa shifted into a softer expression; she seemed to be smiling softl
 
 "I am honored," she said. "I will attend."
 
-Their tender moment was abruptly interrupted by a group of servants running towards Raajimera.
+Their tender moment was abruptly interrupted by a group of servants running toward Raajimera.
 
 "Empress!" one woman shouted, trying to catch her breath. "Mister Zephyr cast us out of the chamber and locked himself inside."
 
@@ -73,7 +73,7 @@ Feng scoffed.
 
 "Hey, where are you going? I am not done with you!" it kept shouting.
 
-"I'm sorry, but I got something important to take care of," Raajimera said as she moved towards the palace. "Don't harass Bamieh."
+"I'm sorry, but I got something important to take care of," Raajimera said as she moved toward the palace. "Don't harass Bamieh."
 
 Feng looked at the camel from a distance and mumbled, "Fine, but don't think we are friends."
 
@@ -139,7 +139,7 @@ It looked at her and said, "You look just like me when I molt."
 
 "That was uncalled for," Feng responded and crawled on her shoulder. The animal lifted the veil with its tail. "I will hold this thing for you so that nobody can accuse you of tampering with it."
 
-They headed downstairs towards the ballroom. They crossed the corridor in complete silence until they reached the end. Feng let go of her veil and perched on her shoulder, wrapping its tail around her upper arm.
+They headed downstairs toward the ballroom. They crossed the corridor in complete silence until they reached the end. Feng let go of her veil and perched on her shoulder, wrapping its tail around her upper arm.
 
 Two guards opened the heavy door for Raajimera, and she entered the ballroom. All eyes turned on her.
 
@@ -155,7 +155,7 @@ A ceremonial cloth flashed in the mirror as the royal servants spread it above t
 
 The wedding officiant approached them and began reading poetry for the guests sitting in front of them. Raajimera didn't pay too much attention to it. The sound of the music and the colors of the decorations overwhelmed her, clashing in her head like a wave at the sea.
 
-The man finally closed the book and turned towards the couple.
+The man finally closed the book and turned toward the couple.
 
 "Do you wish to accept Empress Raajimera as your wife?" he asked.
 
@@ -187,9 +187,9 @@ The woman closed her eyes, and he kissed her. Zephyr smelled like a lush meadow 
 
 A sudden salve of cheering voices pierced the air around them. The guests clapped and congratulated them loudly.
 
-Raajimera and Zephyr got up and walked towards them. The guests lavished them with presents, but the couple decided to take a closer look after the ceremony.
+Raajimera and Zephyr got up and walked toward them. The guests lavished them with presents, but the couple decided to take a closer look after the ceremony.
 
-They headed towards the exit. The guests showered them with coins and flower petals as they walked.
+They headed toward the exit. The guests showered them with coins and flower petals as they walked.
 
 Raa already waited for them in the sky above the door.
 
@@ -219,7 +219,7 @@ People say that eyes are the mirror of the soul. For Raajimera and Zephyr, it fe
 
 A sudden movement slipped through the corner of their eyes and made them snap out of the spell they had put each other under. They were chilled.
 
-"FENG, NO!" Raajimera shouted as she launched herself towards the wine jug in front of them.
+"FENG, NO!" Raajimera shouted as she launched herself toward the wine jug in front of them.
 
 "I want to try it!" Feng calmly stated with a muffled voice, as it already was partially in the container.
 
@@ -319,7 +319,7 @@ Feng noticed Zephyr and Raajimera from a distance.
 
 "Look, I'm famous!" it shouted.
 
-Raajimera giggled and grabbed Zephyr's hand, pulling him towards the heart of the party. They were about to dance when they glanced up and saw Raa bouncing her head joyfully.
+Raajimera giggled and grabbed Zephyr's hand, pulling him toward the heart of the party. They were about to dance when they glanced up and saw Raa bouncing her head joyfully.
 
 "What are you doing?" Raajimera asked.
 
@@ -369,7 +369,7 @@ With each hour passing, more and more guests headed home. Early in the morning Z
 
 Raajimera wanted to respond when she saw a group of commoners behind the main gate. They seemed impoverished and starved. Their eyes were longing for her attention.
 
-She walked towards the gate.
+She walked toward the gate.
 
 "Are you hungry?" she asked. "We still have a lot of food left from the reception if you're in need."
 

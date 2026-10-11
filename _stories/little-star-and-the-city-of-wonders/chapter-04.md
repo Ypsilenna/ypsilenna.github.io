@@ -131,7 +131,7 @@ _So that's what she wanted_, he thought. _She never liked traveling, yet she pla
 
 "_You_ can go to sleep. _I_ will stay here."
 
-"Fine!" She said and began walking towards the door of the airship.
+"Fine!" She said and began walking toward the door of the airship.
 
 "Wait," Lusstoni said as he got up. "There is a bench in the main chamber hidden under a pile of misplaced things. You should sleep there; you will be more comfortable on it."
 
@@ -284,7 +284,7 @@ She didn't listen to him, so he got up and forcefully put his coat on her.
 
 "Stop being so incredibly stupid," he said. "I swear, fate has truly punished me with an annoying child. This is why I hate kids. I can't even do any of the things I like because of you; I wish I never met you."
 
-Omikraya started crying and ran towards the bushes on the other side of the beach.
+Omikraya started crying and ran toward the bushes on the other side of the beach.
 
 Lusstoni returned to the bowl and resumed washing her dress angrily.
 
@@ -372,7 +372,7 @@ The girl looked up and asked him another question.
 
 "Crab," Lusstoni answered dryly.
 
-They left the airship and headed towards the castle. The air seemed warmer than the day before. It was _almost_ enjoyable.
+They left the airship and headed toward the castle. The air seemed warmer than the day before. It was _almost_ enjoyable.
 
 Lusstoni had to rely on his walking cane a little more than he usually does. He was tired, probably because he couldn't rest well due to the recent events.
 
@@ -412,7 +412,7 @@ Lusstoni twitched and said, "You scared me. Don't do that!"
 
 "Yes, I am," he said. "I thought you already got used to that."
 
-They walked out of the castle and headed towards their camp when a sudden noise drew their attention. They hid in the nearby bushes and saw the monster of Crescent Moon Isle sniffing for them.
+They walked out of the castle and headed toward their camp when a sudden noise drew their attention. They hid in the nearby bushes and saw the monster of Crescent Moon Isle sniffing for them.
 
 Lusstoni and Omikraya held their breaths.
 

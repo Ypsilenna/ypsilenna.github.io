@@ -35,7 +35,7 @@ She carefully touched the petals of this marvel to check if the plant was still 
 
 _I should leave it in the crate_, she thought to herself. _Maybe it would be difficult to hide it otherwise._ 
 
-The woman retrieved her offering and cautiously headed towards the exit. She opened the wooden door just a little and pushed it back with her shoulder, then quietly sneaked out of the building along the cold gray stone walls of the sanctuary. 
+The woman retrieved her offering and cautiously headed toward the exit. She opened the wooden door just a little and pushed it back with her shoulder, then quietly sneaked out of the building along the cold gray stone walls of the sanctuary. 
 
 When the priestess arrived outside, she finally took a deep breath. The first section of her plan was completed. Now she just had to somehow reach the top of the same mountain where the sanctuary was located. 
 

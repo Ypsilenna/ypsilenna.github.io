@@ -42,7 +42,7 @@ More than a little.
 
 Raajimera stretched and looked around. Zephyr's hideout was quite small, but she felt safer this way.
 
-"I think we need to distract her with something," Feng stated, jolting towards Zephyr's belongings. "Let's see what is here…"
+"I think we need to distract her with something," Feng stated, jolting toward Zephyr's belongings. "Let's see what is here…"
 
 "Hey, leave it be!" the man shouted and followed the little snake.
 
@@ -260,7 +260,7 @@ Zephyr began rummaging in one of the bags he brought from his home until he foun
 
 "You never know when you might need it," he responded and hid it under his belt, covering it with the lower part of his robe.
 
-When they were finally ready, Zephyr moved towards the door of the hideout.
+When they were finally ready, Zephyr moved toward the door of the hideout.
 
 "Are you going to put supplies on your camel again?" Raajimera asked.
 
@@ -282,9 +282,9 @@ Raajimera sighed.
 
 The sun was already high in the sky, making the air so hot she was not sure if she could stand wearing her disguise.
 
-Raajimera slowly walked towards Zephyr, who had just finished preparing Bamieh for the road. The ugly camel was clearly unbothered, nibbling on a small clump of partially dried-out grass.
+Raajimera slowly walked toward Zephyr, who had just finished preparing Bamieh for the road. The ugly camel was clearly unbothered, nibbling on a small clump of partially dried-out grass.
 
-Zephyr smiled at her softly and helped her mount the animal; he then sat in front of her. They began moving towards the rock corridors leading to the hideout. She looked back once more, feeling sad about leaving a familiar place behind.
+Zephyr smiled at her softly and helped her mount the animal; he then sat in front of her. They began moving toward the rock corridors leading to the hideout. She looked back once more, feeling sad about leaving a familiar place behind.
 
 "The capital city is not too far from here," he said. "We will need to leave Bamieh in front of it and travel the remaining distance by foot."
 
@@ -298,11 +298,11 @@ Zephyr, on the other hand, was overrun with guilt. He realized that he might hav
 
 They could finally see the walls surrounding the capital city from a distance.
 
-Zephyr steered the camel towards a small settlement right in front of the east gate. He jumped down and helped Raajimera dismount.
+Zephyr steered the camel toward a small settlement right in front of the east gate. He jumped down and helped Raajimera dismount.
 
-She observed him leading his mount towards a man who owned stables and paying him some money to take care of the camel. The animal handler took Bamieh by the reins, and they both disappeared behind the building.
+She observed him leading his mount toward a man who owned stables and paying him some money to take care of the camel. The animal handler took Bamieh by the reins, and they both disappeared behind the building.
 
-Raajimera and Zephyr began walking towards the gate. It was partially open.
+Raajimera and Zephyr began walking toward the gate. It was partially open.
 
 "Raajimera, there is something I got to tell you before we enter the city," he said.
 
@@ -374,7 +374,7 @@ Raajimera exhaled heavily.
 
 She did as he instructed.
 
-Zephyr offered her his arm, and she took it. They began walking towards the gate.
+Zephyr offered her his arm, and she took it. They began walking toward the gate.
 
 Raajimera looked at him. She could see he had already gotten into the role. He looked so regal walking with his spine straight like a needle. The hood above his face cast a shadow on his eyes, making him also seem mysterious.
 
@@ -414,7 +414,7 @@ It was hard to believe that this city, so beautiful, would be the home for such 
 
 Zephyr's attention, however, was somewhere else entirely. He saw the man who stopped them at the gate talk to another guard in the corner of his eye. Both men looked at them, gesturing broadly. The gatekeeper returned to his position, but the other guard began following them.
 
-Zephyr squeezed Raajimera's arm and gently pointed in another direction with his chin. They headed towards the bazaar without breaking the beat.
+Zephyr squeezed Raajimera's arm and gently pointed in another direction with his chin. They headed toward the bazaar without breaking the beat.
 
 The overwhelming smell of spices made Raajimera feel a little dizzy, but Zephyr didn't slow down.
 

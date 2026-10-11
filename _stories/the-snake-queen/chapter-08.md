@@ -260,7 +260,7 @@ Raajimera shook her head.
 
 "I'm afraid not," she answered as she tried to finish her nasty infusion as well. The woman tried not to indicate that she hated it.
 
-"The Nightwalker was the fifth celestial animal and the twin spirit of Raa. He was the polar opposite of his sister. A majestic white stag in the night sky, leading the lost and the broken towards the new dawn. He was virtuous and pure. The stag believed that all nations should be liberated, living in peace and harmony; he wanted to see a perfect world.
+"The Nightwalker was the fifth celestial animal and the twin spirit of Raa. He was the polar opposite of his sister. A majestic white stag in the night sky, leading the lost and the broken toward the new dawn. He was virtuous and pure. The stag believed that all nations should be liberated, living in peace and harmony; he wanted to see a perfect world.
 
 "To accomplish his objective, he chose the most eminent of warriors to serve as his champion. The only way for gods to have an impact on our world was by blessing someone to become a conduit of their power.
 

@@ -44,7 +44,7 @@ He tried to release himself from her grasp, but the child had a surprisingly str
 
 "You want to ask more questions?" She looked up at him.
 
-Lusstoni nodded and pulled her towards the town.
+Lusstoni nodded and pulled her toward the town.
 
 This place looked better than the previous location they visited. The iconic white buildings with blue rooftops towered above the green fields. The town of Blue Pastures was built on a hill, so the view was excellent from every location within its border.
 
@@ -155,7 +155,7 @@ Lusstoni tried to catch his breath.
 
 "You said she always calls you Little Star, and this woman didn't," Lusstoni responded. "I do listen to you."
 
-Omikraya was too upset with him to continue the conversation, but it didn't stop her from grumpily following him back into his airship. She just crossed her arms and sat on the floor with her back towards him.
+Omikraya was too upset with him to continue the conversation, but it didn't stop her from grumpily following him back into his airship. She just crossed her arms and sat on the floor with her back toward him.
 
 Lusstoni took a seat in the cockpit, raised the aircraft off the ground, and flew it straight ahead. He didn't know where to go next, but he was sure he didn't want to be there anymore.
 

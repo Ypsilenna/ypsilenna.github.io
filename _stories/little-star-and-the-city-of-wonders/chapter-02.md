@@ -92,7 +92,7 @@ The man sat in the cockpit and looked at the map. In his head he was already bre
 
 There was a small town nearby. He could start his search there. Somebody must have known the girl. Perhaps her parents were looking for her, and they would reward him handsomely for bringing her back.
 
-Lusstoni got up and walked towards the map, making circles around the locations with the mechanical fingers of his prosthetic hand.
+Lusstoni got up and walked toward the map, making circles around the locations with the mechanical fingers of his prosthetic hand.
 
 He nodded to himself and left the cockpit to look for the girl.
 
@@ -340,7 +340,7 @@ He angrily cleaned the bedchamber. The machine grease was hard to remove, but he
 
 Lusstoni picked up the portrait Omikraya made for him. He wanted to tear it into pieces, but he just put it into one of his junk drawers.
 
-The man finished cleaning and wiped his hands with a napkin. He walked out of the bedchamber and looked towards the cockpit. He saw Omikraya playing in there.
+The man finished cleaning and wiped his hands with a napkin. He walked out of the bedchamber and looked toward the cockpit. He saw Omikraya playing in there.
 
 _Why doesn't it surprise me?_ He thought to himself.
 

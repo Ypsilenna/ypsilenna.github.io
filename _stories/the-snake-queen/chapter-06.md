@@ -182,7 +182,7 @@ The woman knelt and poked a hole in the dirt with her index finger. She checked 
 
 Feng looked at her carefully.
 
-Raajimera stretched her hands forward and directed her celestial power towards the buried seed. This time it was much easier for her to attune to the hidden energies of nature. She became one with them. With a swing of her hand, the woman pulled some water out of the ground and directed it towards the seed. 
+Raajimera stretched her hands forward and directed her celestial power toward the buried seed. This time it was much easier for her to attune to the hidden energies of nature. She became one with them. With a swing of her hand, the woman pulled some water out of the ground and directed it toward the seed. 
 
 The ground burst abruptly, and a lively green sprout shot out of it.
 

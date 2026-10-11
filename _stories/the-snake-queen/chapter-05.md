@@ -73,7 +73,7 @@ The woman nodded. "Yes, the man with a tiger in a cage," she recalled.
 
 "Precisely," Feng said and nodded. "You could shape your energy into a tiger or two. Maybe three?"
 
-In a flash, three scary-looking tigers jumped from behind the boulder and walked towards the scouts. Their steps made no sound, so Seyed couldn't see or hear them. His back was facing the illusions.
+In a flash, three scary-looking tigers jumped from behind the boulder and walked toward the scouts. Their steps made no sound, so Seyed couldn't see or hear them. His back was facing the illusions.
 
 The images of tigers were truly menacing and realistic. They seemed as if they were on a hunt. The illusions were almost perfect in every way.
 
@@ -81,7 +81,7 @@ Suddenly, the scouts noticed them and backed away. 
 
 Raajimera shattered the illusions and joined the children. 
 
-Seyed's eyes shifted towards her. "Oh, it's you, milady!" he shouted with pride in his voice. "Have you seen how these imperial bastards ran away at my sight?"
+Seyed's eyes shifted toward her. "Oh, it's you, milady!" he shouted with pride in his voice. "Have you seen how these imperial bastards ran away at my sight?"
 
 Raajimera nodded; she didn't have the heart to tell him what really happened.
 
@@ -203,7 +203,7 @@ Feng looked at the pile of the figurines she had made. "No, that's too many, but
 
 "You should have just told me how many you wanted," Raajimera said, pouting.
 
-The snake slithered towards the flowers. The animal tilted its head and said, "I wanted to show you how to enchant them to host your illusions."
+The snake slithered toward the flowers. The animal tilted its head and said, "I wanted to show you how to enchant them to host your illusions."
 
 "Why would I do that?" Raajimera asked.
 

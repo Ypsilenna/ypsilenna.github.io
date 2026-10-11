@@ -124,7 +124,7 @@ He put his suitcases away and took a seat in the cockpit. He lowered his goggles
 
 Lucky him, the doctors helped him get a mechanical replacement arm, so steering the airship on his own was not too difficult.
 
-The man turned on the radio and focused on the horizon. His airship slowly lifted off and began flying towards the main gate of Norath.
+The man turned on the radio and focused on the horizon. His airship slowly lifted off and began flying toward the main gate of Norath.
 
 Lusstoni felt both relieved and sad that he was leaving his city behind, but deep down he knew he needed it.
 
@@ -198,7 +198,7 @@ The coughing intensified. He locked the steering wheel in position and scanned t
 
 He grabbed a large piece of cloth that was hanging from the dresser on the side and saw the strange girl from the apple farm underneath.
 
-"Woah, you are so flashy!" She shouted with a squeaky voice and jumped out of her hiding spot towards him, but the lit cigarette he was holding made her cough again.
+"Woah, you are so flashy!" She shouted with a squeaky voice and jumped out of her hiding spot toward him, but the lit cigarette he was holding made her cough again.
 
 Lusstoni couldn't believe his eyes. He took his goggles off to verify that he wasn't hallucinating.
 

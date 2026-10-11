@@ -132,7 +132,7 @@ She took a deep breath. He was right. She could still be considered a hero, even
 
 _Maybe that was my lesson? To accept help?_ she thought to herself.
 
-Raajimera turned towards him, struggling to retain her composure in the situation.
+Raajimera turned toward him, struggling to retain her composure in the situation.
 
 "Seyed," she said, "for your exceptional participation in my endeavors, I have chosen you as the snake king."
 
@@ -148,7 +148,7 @@ The leader's hand tightened its grip on her shoulder. "We are protected, are we 
 
 "That's correct," she answered after a moment of hesitation. Raajimera didn't know what to make out of this interaction.
 
-The chieftain released them and shouted towards the crowd, "Let's party!"
+The chieftain released them and shouted toward the crowd, "Let's party!"
 
 Everyone applauded and gathered around Raajimera and Seyed. They almost seemed like they wanted to carry these two on their hands. Everything was happening so rapidly. Raajimera felt like she started to phase out.
 
@@ -214,7 +214,7 @@ She gasped and nearly tripped over, desperately trying to retreat.
 
 "What?" she asked, incapable of hiding the fear in her voice.
 
-However, her answer would never come, as the man thrust the blade towards her and said, "I will bask in eternal glory as I challenge the gods after drawing your blood, _Queen_."
+However, her answer would never come, as the man thrust the blade toward her and said, "I will bask in eternal glory as I challenge the gods after drawing your blood, _Queen_."
 
 She tried to jump away, but the dagger opened a small wound on her chest, dealing her great pain. The woman didn't know what the meaning of this was. She was supposed to be immortal; why would a mere blade hurt her?
 
@@ -222,15 +222,15 @@ The man pushed her to the ground and attempted to finish the job. She struggled 
 
 Suddenly wild snakes appeared from all sides and attacked him. The vicious beasts attacked in a blind fit of rage. Seyed quickly realized that he can't do anything against the overwhelming force of nature. He struggled against the scaly ambush, but the animals were relentless. Some of them left him with painful bites, whereas others coiled around his limbs until he could no longer feel them.
 
-The man put his last bits of energy towards wielding the blade, but shortly after the ornate dagger fell to the ground with a loud clink. Seyed's lifeless body followed shortly after.
+The man put his last bits of energy toward wielding the blade, but shortly after the ornate dagger fell to the ground with a loud clink. Seyed's lifeless body followed shortly after.
 
 Raajimera's legs were shaking, yet she couldn't seem to move them. She felt paralyzed by the situation.
 
-The animals encircled her yet dealt her no harm. It was as if they were waiting for an order. She took a deep breath and extended her hand towards them.
+The animals encircled her yet dealt her no harm. It was as if they were waiting for an order. She took a deep breath and extended her hand toward them.
 
 One of the animals gently put its head on her palm and stuck its tongue out. Raajimera looked the animal in the eyes and realized they were there on Raa's behalf.
 
-The woman grabbed the dagger and tightened her grip around it. She tilted the blade and touched it with her fingertips. The weapon was incredibly sharp. She looked at the man who had just attempted to assassinate her and felt a sudden surge of hatred and disgust towards not only him but also the rest of the village.
+The woman grabbed the dagger and tightened her grip around it. She tilted the blade and touched it with her fingertips. The weapon was incredibly sharp. She looked at the man who had just attempted to assassinate her and felt a sudden surge of hatred and disgust toward not only him but also the rest of the village.
 
 Her fear subsided and was replaced with increasing anger.
 

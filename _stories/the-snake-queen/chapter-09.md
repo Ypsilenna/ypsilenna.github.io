@@ -32,7 +32,7 @@ The woman suddenly noticed that she must have forgotten to draw the curtain that
 
 Still quite dizzy from her sleep, she squinted her eyes and noticed that Zephyr got up before her.
 
-The man didn't seem to notice that Raajimera wasn't asleep anymore. He stood with his back towards her, changing his clothes as if the cold didn't bother him at all.
+The man didn't seem to notice that Raajimera wasn't asleep anymore. He stood with his back toward her, changing his clothes as if the cold didn't bother him at all.
 
 That was the first time Raajimera saw the back of his body. No matter what he did, he rarely exposed his rear side. He wouldn't even let her touch his back. She didn't know why, and it never dawned on her to ask. Now she knew.
 
@@ -86,7 +86,7 @@ The woman tried to deescalate the situation. "I'm sorry," she said, "I just trie
 
 "Well, now he does for some reason!" Feng shouted, "You are hiding something, and I'm going to find out what!"
 
-The snake jumped quickly towards the man and began climbing on top of him.
+The snake jumped quickly toward the man and began climbing on top of him.
 
 "Hey, it tickles!" Zephyr complained helplessly.
 
@@ -180,7 +180,7 @@ Raajimera clumsily began climbing the stairs behind him. Zephyr turned around an
 
 "Be careful in this part; I've just finished putting you back together," he said. "Grab my hand; it will be easier for you."
 
-The woman looked at him. He extended his hand towards her, and she gently grabbed it.
+The woman looked at him. He extended his hand toward her, and she gently grabbed it.
 
 After some struggle, they finally reached the watchtower. It was a small wooden construction approximately as secure as the rope along the stairs.
 
@@ -220,7 +220,7 @@ He theatrically put his hand on his chest to let her know that he was just jokin
 
 After spending some time with him, Raajimera already learned to read the undertones of his otherwise flat way of speaking. She noticed the joke and laughed softly.
 
-"No, towards me you aren't," she responded and moved closer to him. She gave him a gentle but tender kiss.
+"No, toward me you aren't," she responded and moved closer to him. She gave him a gentle but tender kiss.
 
 "Raajimera, please, not here," he said and softly pushed her back. His cheeks turned a little rosy.
 
@@ -318,7 +318,7 @@ She didn't know how to respond, so she just fell silent.
 
 Raajimera nodded, still feeling embarrassed from their prior interaction.
 
-The man walked towards the little shed that was right next to the corral. He rummaged in it for a moment and then pulled out a shawl.
+The man walked toward the little shed that was right next to the corral. He rummaged in it for a moment and then pulled out a shawl.
 
 "Take this," he said, handing Raajimera the piece of cloth. "It smells like a camel, but at least it will protect you from the wind and sand."
 

@@ -179,7 +179,7 @@ His terrified bride was still there, frozen in fear and unable to move.
 
 "Run, this isn't about you," Raajimera exclaimed at her.
 
-The poor woman ran for her life towards the city.
+The poor woman ran for her life toward the city.
 
 Raajimera lifted her hands up and forced dark clouds to gather in the sky.
 
@@ -213,7 +213,7 @@ Zephyr looked around and saw the other guards around her, but they were visibly 
 
 "I felt like I was possessed," Raajimera admitted quietly.
 
-Zephyr leaned towards her and said, "Then pretend you still are; don't lose the momentum, or they could turn against us."
+Zephyr leaned toward her and said, "Then pretend you still are; don't lose the momentum, or they could turn against us."
 
 She looked up and saw all the guards kneeling in front of her with their weapons on the ground.
 
@@ -227,7 +227,7 @@ The man stood up visibly shaken from everything that happened.
 
 "Take your God-Empress there," she demanded.
 
-The guards obeyed and led Raajimera to the chariot that used to belong to the emperor. They went towards the dungeon.
+The guards obeyed and led Raajimera to the chariot that used to belong to the emperor. They went toward the dungeon.
 
 Raajimera looked up and could still see Raa in the sky. She looked terrifying from this angle.
 

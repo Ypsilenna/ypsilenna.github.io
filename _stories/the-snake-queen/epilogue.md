@@ -59,7 +59,7 @@ Raajimera looked at her slightly confused.
 
 Raa nodded.
 
-"Let's move, then, my beloved daughter," she responded, extending the tip of her tail towards Raajimera.
+"Let's move, then, my beloved daughter," she responded, extending the tip of her tail toward Raajimera.
 
 The woman touched it with her fingers.
 

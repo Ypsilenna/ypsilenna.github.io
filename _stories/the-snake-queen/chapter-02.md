@@ -144,7 +144,7 @@ She waved at them shyly. 
 
 The chieftain got up and gestured at her to sit on his right side. "Oh, it's our guest!" he shouted. "Come here!"
 
-Aya took a seat on his left. The chieftain leaned towards her slightly and lowered his tone. "I guess that means everything went as planned; I take it?"
+Aya took a seat on his left. The chieftain leaned toward her slightly and lowered his tone. "I guess that means everything went as planned; I take it?"
 
 The young woman nodded.
 

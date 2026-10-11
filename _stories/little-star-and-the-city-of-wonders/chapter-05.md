@@ -12,6 +12,7 @@ ogimage: /static/image/stories/LSCW-cover.webp
 ogdesc: In which Lusstoni and Omikraya look for food and accidentally find a person.
 summary: /stories/little-star-and-the-city-of-wonders/summary
 previousURL: /stories/little-star-and-the-city-of-wonders/chapter-04.html
+nextURL: /stories/little-star-and-the-city-of-wonders/chapter-06.html
 ---
 Lusstoni still felt under the weather from the events of the previous day. Omikraya, however, wasn't burdened by any particularly heavy emotion. She was sitting next to Lusstoni as he studied the plans of the castle once more.
 
@@ -271,7 +272,7 @@ Ivi approached one of the shelves in the hut and grabbed a pile of papers. After
 
 The hermit put the paper sheet on the floor. The light coming from outside was shining right on it. The mysterious person then pointed their finger at the sketch resembling the castle.
 
-"The Cursed King always appears in the morning with the rising sun," Ivi said. "He walks down the main road into this village, then he heads towards this one to the north."
+"The Cursed King always appears in the morning with the rising sun," Ivi said. "He walks down the main road into this village, then he heads toward this one to the north."
 
 Lusstoni observed the sketch in total silence. He had just realized that the only thing that protected him from the beast seemed to be the cliff they were lucky to land next to.
 
@@ -303,7 +304,7 @@ Lusstoni grimaced. He had the feeling that getting out of this place was close t
 
 "Why would I do that?"
 
-"You could direct it at the artifact, and its power will start flowing towards the crystal, effectively weakening the core," Ivi said. "You will just have to remember to hold it through something to avoid contacting the flowing magic."
+"You could direct it at the artifact, and its power will start flowing toward the crystal, effectively weakening the core," Ivi said. "You will just have to remember to hold it through something to avoid contacting the flowing magic."
 
 "Wait, wait, wait," Lusstoni stopped the hermit. "You want me to go there and risk my life and sanity like that, but... are you even sure it works? Where are you in this plan?"
 
@@ -313,7 +314,7 @@ Ivi looked at him slightly bewildered. They imagined Lusstoni's reaction would b
 
 Ivi opened a dresser that stood on the left side of the room and reclaimed something big out of it. It was a large scroll that looked almost the same as the ones Lusstoni read in the castle.
 
-Omikraya ran towards them and looked at the parchment. Lusstoni grabbed it before she managed to make it dirty with her chubby little fingers. The man took a quick glance inside.
+Omikraya ran toward them and looked at the parchment. Lusstoni grabbed it before she managed to make it dirty with her chubby little fingers. The man took a quick glance inside.
 
 "Correct, it really is described here," he said and paused for a moment. "But I still don't trust you."
 
@@ -343,7 +344,7 @@ Ivi shook his head.
 
 "If you manage to catch a glimpse of him, each red stripe on his body is a wound I inflicted on him. Every night he returns to the core, which heals him. He can only be delayed, and that's something I can handle on my own. Now go."
 
-Lusstoni grabbed Omikraya, and they sneaked out of the hut and headed towards the beach. The last thing he saw was Ivi bravely fighting off the beast with a rusty sword.
+Lusstoni grabbed Omikraya, and they sneaked out of the hut and headed toward the beach. The last thing he saw was Ivi bravely fighting off the beast with a rusty sword.
 
 The hermit wasn't lying; the Cursed King's body was covered with glowing red marks.
 

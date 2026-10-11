@@ -202,7 +202,7 @@ Raajimera looked around and noticed Aya and the village women trying to carry ju
 
 Perhaps she was simply overthinking everything, but something didn't sit right with Raajimera. She couldn't stop the rush of thoughts, so she decided to do something to distract herself from it all.
 
-The woman headed back towards the tavern, but as she approached the door, she heard a group of villagers talking about something right behind the building. Their voices were hushed, so she couldn't really understand what their conversation was about. She thought she heard something about the empire, although she was not entirely sure.
+The woman headed back toward the tavern, but as she approached the door, she heard a group of villagers talking about something right behind the building. Their voices were hushed, so she couldn't really understand what their conversation was about. She thought she heard something about the empire, although she was not entirely sure.
 
 Raajimera entered the tavern and brought a pot with her. 
 
