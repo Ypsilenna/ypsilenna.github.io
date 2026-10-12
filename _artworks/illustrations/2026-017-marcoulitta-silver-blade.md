@@ -1,6 +1,6 @@
 ---
 layout: artwork
-title: '[OC] Marcoulitta - Silver Blaade (Girlfriend Protector)'
+title: '[OC] Marcoulitta - Silver Blade (Girlfriend Protector)'
 date: 2026-10-11
 draft: false
 categories: [Artworks]
