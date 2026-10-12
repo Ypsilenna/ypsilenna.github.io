@@ -51,7 +51,7 @@ The man's grip on the handle of his hammer tightened. He didn't want to be the b
 
 "The scrolls said that the core maintains the magic on this island. What would happen to you if it's weakened too severely or if it's completely destroyed?"
 
-"That's a mortal misconception," the nymph said. "Divine magic is the fabric of this universe, even if you do not see it. The core allows humans to wield it, but it doesn't maintain anything. If the artifact ceases to work, I will simply restore this island to what it once was and return to the stars where I belong. Such is the will of my masters, the primal gods."
+"That's a mortal misconception," the nymph said. "Divine magic is the fabric of this universe, even if you do not see it. The core allows humans to wield it, but it doesn't maintain anything other than the barrier above the island. If the artifact ceases to work, I will simply restore this island to what it once was and return to the stars where I belong. Such is the will of my masters, the primal gods."
 
 Lusstoni's attention was drawn by a fine-looking purple crystal. He thought it would be suitable for the task, but he didn't want to end the conversation just yet.
 
