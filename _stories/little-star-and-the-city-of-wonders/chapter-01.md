@@ -112,7 +112,7 @@ Both of his parents got up from their chairs and left him alone in the room.
 
 It had been eight years ever since these events happened, but Lusstoni had been reliving them vividly in his head every single day. He never got over Caermirella and still hoped she would return to him, even after all this time, after all he had done.
 
-That morning he got up full of yearning for the unknown. He wanted to leave it all behind and start a journey to run away from the pain. Leaving Norath never crossed his mind before, but after all, what did he have to lose?
+That morning he got up full of yearning for the unknown. He wanted to leave it all behind and start a journey to run away from the pain. Leaving Norath forever never crossed his mind before, but after all, what did he have to lose?
 
 Lusstoni packed necessities and his last picture of Caermirella in case he felt like he needed to look at her again during his journey. He knew it was wrong, but he just couldn't part with it.
 
