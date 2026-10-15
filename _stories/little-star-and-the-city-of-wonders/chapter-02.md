@@ -254,7 +254,7 @@ Lusstoni dropped it to the ground with a loud noise and fetched a bucket to go t
 
 "I'm going to give you a bath," he said.
 
-He attached his bucket to the rope of the well and lowered it. The man pulled it back up and inspected the water.
+He attached his bucket to the well rope and lowered it. The man pulled it back up and inspected the water.
 
 _It's clean enough_, he thought, and carried the bucket in front of his airship. He emptied it into the large bowl and repeated the process a couple of times until it was filled.
 
@@ -278,7 +278,7 @@ Lusstoni sighed impatiently and knelt behind her, grabbing her head with both hi
 
 "Ouch, why do you have to wear this glove for it?" She asked.
 
-"I...need it," he responded and tried to release her trapped hair. He never thought about it; when it happened to him, he just embraced it, thinking he deserved the pain for all he had done. He never considered that not everyone was disturbed this way.
+"I... need it," he responded and tried to release her trapped hair. He never thought about it; when it happened to him, he just embraced it, thinking he deserved the pain for all he had done. He never considered that not everyone was disturbed this way.
 
 After what felt like an eternity, Lusstoni finally managed to clean her hair. He brought her a towel, dried her head with it, and then wrapped it around her body.
 
@@ -310,11 +310,11 @@ The girl looked up, visibly not knowing why he was yelling.
 
 Lusstoni looked at her hands. She was holding a portrait of a woman in one and the prized picture of Caermirella from his wall in the other.
 
-He swiftly snatched it from her greasy fingers.
+He swiftly snatched the photograph from her greasy fingers.
 
 "How did you unpin it?" He shouted.
 
-"It was easy," she said. "I just put a box in there to reach it!"
+"It was easy," she said. "I just put a box under it to reach it!"
 
 Lusstoni tried to breathe deeply to calm himself down.
 
@@ -422,7 +422,7 @@ Omikraya squeaked happily and grabbed the spinning top. She then sat on the floo
 
 Lusstoni didn't think he would ever meet a child who doesn't know how to play with it.
 
-"You got to make it spin, like this," he said and showed her how to do it.
+"You got to make it spin, like this," he said and showed her how to make it move.
 
 Omikraya grasped it quickly, and she began playing on her own.
 
