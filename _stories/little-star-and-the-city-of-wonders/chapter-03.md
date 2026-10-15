@@ -65,7 +65,7 @@ She started dragging Omikraya away. The girl fought against her.
 "I want to go with Toni; leave me be!" She kept shouting.
 
 Lusstoni observed them from a distance. His excitement was really short-lived.  
-All this time he thought she was behaving like this because she just wanted to stay on his airship, but all of the sudden he felt like she might have been telling him the truth.
+All this time he thought she was behaving like this because she just wanted to stay on his airship, but all of a sudden he felt like she might have been telling him the truth.
 
 The man scratched his chin.
 
@@ -77,13 +77,13 @@ He suddenly started to panic.
 
 Lusstoni followed them from afar. The stranger sat Omikraya in the garden in front of her little house. The girl seemed very unhappy about it.
 
-"It's me again," she said as he entered the lot. "I just wanted to check up on Little Star."
+"It's me again," he said as he entered the lot. "I just wanted to check up on Little Star."
 
 The lady looked at him visibly confused.
 
 "Who?" She finally asked.
 
-"Your...daughter."
+"Your... daughter."
 
 Omikraya wanted to protest, but the lady put a cookie in the girl's mouth to prevent her from speaking.
 
@@ -189,7 +189,7 @@ The girl looked at him with a surprised expression.
 
 "But they always sound so upset about your city. Is it bad?" She asked. "Is this why you ran away?"
 
-"I didn't run away from the city," he said. "That place is just different, and other people don't like it."
+"I didn't run away from the city," he said. "I simply left it with no plans to return. That place is just different, and other people don't like it."
 
 Omikraya looked at him, slightly confused. She still couldn't understand what was going on.
 
@@ -319,7 +319,7 @@ Strange little plants grew between the blades of the grass surrounding him. The 
 
 He approached a small lake nearby and knelt in front of it. He took off his top hat and goggles and threw some water on his face.
 
-All of the sudden, a mysterious figure appeared above the lake.
+All of a sudden, a mysterious figure appeared above the lake.
 
 "What have you done?" The stranger shouted.
 
@@ -345,7 +345,7 @@ The man got up and placed his top hat back on his head.
 
 After a long while of lumping about, Lusstoni finally arrived at the gate of the castle's garden. It was open, but it looked like whoever lived there left it in a hurry.
 
-Lusstoni looked around. He could see some distant villages and settlements below, but they also seemed abandoned.
+Lusstoni looked around. He could see some distant villages and settlements below, but they also appeared abandoned.
 
 They went through the ravaged garden and into the castle. The main corridor was covered in deep scratches, and damaged furniture was scattered across the hall. It resembled a scrapyard more than a royal structure.
 
@@ -423,7 +423,7 @@ _Queen Ashidrella announced her pregnancy. The kingdom seems torn between those 
 
 _King Callum named his daughter Omikraya in homage to the Goddess of Stars. Little hope that the kingdom had evaporated when he sealed himself in the vault beneath the castle to conduct experiments with the core._
 
-"So the core is somewhere under this building," Lusstoni commented. "I should attempt to find the plans. Perhaps they would reveal the position of the vault."
+"So the core really is somewhere under this building," Lusstoni commented. "I should attempt to find the plans. Perhaps they would reveal the position of the vault."
 
 The man looked into the vase and saw that there was one more scroll left in it.
 
@@ -467,7 +467,7 @@ The beast was long and covered with flowy dark fur. It resembled an overgrown fe
 
 Omikraya looked at him with a sad expression in her eyes.
 
-"That...was my father."
+"That... was my father."
 
 Lusstoni didn't know how to react.
 
