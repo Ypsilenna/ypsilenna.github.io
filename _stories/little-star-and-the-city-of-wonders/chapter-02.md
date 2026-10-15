@@ -18,9 +18,9 @@ For a second all his worries were gone. There was only her, young and beautiful,
 
 She reached for his hand. Lusstoni eagerly tried to grab it. He knew this day could be his last chance to make things right. Their fingers almost touched when an ear-piercing noise abruptly shattered the illusion.
 
-The man woke up, and he had made some mistakes. Not now necessarily, but in his entire life in general.
+The man woke up. He had made some mistakes. Not necessarily now, but throughout his life.
 
-"What do you want?" He growled with a raspy voice, still dizzy from his sleep.
+"What do you want?" He growled with a raspy voice, still dizzy from sleep.
 
 "Toni, I am hungry!" Omikraya squeaked as she jumped on his bed.
 
@@ -28,7 +28,7 @@ The man woke up, and he had made some mistakes. Not now necessarily, but in his 
 
 "I want you to make me a breakfast because I don't want to mess with your things!" The girl said with a tone that probably was supposed to sound all grown up.
 
-"Why are you so respectful all of a sudden?" The man knew something was amiss when he heard it.
+"Why are you so respectful all of a sudden?" The man suspected something was amiss when he heard it.
 
 Omikraya smiled widely, revealing a missing upper tooth.
 
@@ -144,7 +144,7 @@ Lusstoni raised his face into the sky and growled.
 
 Lusstoni shook his head and returned to his cockpit. He then set the course toward the town he had picked. Omikraya followed him joyfully, utterly ignoring his outbursts.
 
-Lusstoni was sitting on his pilot chair and holding the steering wheel firmly. His eyes were dead set on the horizon.
+Lusstoni was sitting in his pilot chair and holding the steering wheel firmly. His eyes were dead set on the horizon.
 
 "Toni, how does it fly?" She finally asked.
 
