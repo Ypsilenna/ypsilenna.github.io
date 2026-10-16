@@ -136,7 +136,7 @@ Lusstoni carefully observed her for several minutes without saying a word. He fi
 
 "But you are supposed to take care of me!" she complained. "Aren't you worried something would happen to me?"
 
-"Correction: I am not supposed to do anything," he pointed out. "The only reason I let you hang around is that I feel sorry for you."
+"Correction: I am not supposed to do anything," he pointed out. "The only reason I let you stay with me is that I feel sorry for you."
 
 "That's not true," she said. "It's because you like me!"
 
@@ -156,7 +156,7 @@ The man looked around. Some of the wooden houses appeared burnt, whereas others 
 
 Lusstoni was about to ask her to leave when something grabbed his attention. It was a statue right in the middle of the settlement. He approached it.
 
-The sculpture was made of some sort of white stone. Whatever happened in that village didn't seem to have an effect on it.
+The sculpture was made of some sort of white stone. Whatever happened in that village didn't seem to have any effect on it.
 
 The man looked at the details of the sculpture. It depicted a blindfolded woman chained to a group of stars with eyes on them. He was not sure whether the look on her face was serene or disturbed.
 
@@ -210,7 +210,7 @@ Now that the stranger was closer to the light, Lusstoni could see that their fac
 
 Ivi went closer to the open door. The light from outside shone on the stranger, revealing their clothes. It was no wonder Lusstoni didn't notice somebody was there. Ivi's entire outfit was almost black. However, he still couldn't tell who exactly was standing before him.
 
-"Oh, I'm just a hermit," the stranger said. "I'm just...surviving here."
+"Oh, I'm just a hermit," the stranger said. "I'm just... surviving here."
 
 "Then why didn't you get on the boats when the island was being evacuated?" Lusstoni asked and raised his eyebrows slightly.
 
@@ -274,7 +274,7 @@ The hermit put the paper sheet on the floor. The light coming from outside was s
 
 "The Cursed King always appears in the morning with the rising sun," Ivi said. "He walks down the main road into this village, then he heads toward this one to the north."
 
-Lusstoni observed the sketch in total silence. He had just realized that the only thing that protected him from the beast seemed to be the cliff they were lucky to land next to.
+Lusstoni observed the sketch in total silence. He had just realized that the only thing that protected them from the beast seemed to be the cliff they were lucky to land next to. Thanks to it, the aircraft was nearly invisible from the island's side.
 
 "He then goes to the western beach and walks all the way down to the southern village," Ivi continued. "After going there, he heads back to the main road and disappears under the castle."
 
@@ -290,7 +290,7 @@ The hermit rolled the piece of paper like a scroll.
 
 The hermit cleared their throat.
 
-"There are two significant issues," they said. "Firstly, you have to make sure you get enough time to go in and out before the Cursed King returns. Secondly, you have to deactivate the core upon entering to disable the protective barrier above the island and weaken the king. It's a little...problematic, to say the least."
+"There are two significant issues," they said. "Firstly, you have to make sure you get enough time to go in and out before the Cursed King returns. Secondly, you have to deactivate the core upon entering to disable the protective barrier above the island and weaken the king. It's a little... problematic, to say the least."
 
 "How so?" Lusstoni asked.
 
@@ -298,13 +298,13 @@ The hermit cleared their throat.
 
 Lusstoni grimaced. He had the feeling that getting out of this place was close to impossible. He really thought the person in front of him had a good plan. He didn't want to stay there forever.
 
-"So...what are we supposed to do?" he asked.
+"So... what are we supposed to do?" he asked.
 
 "We could transfer the power of the core to another vessel," Ivi answered. "There are purple crystals growing out of the ground like plants. Seek the biggest one you can find, then get a tool that would allow you to harvest it."
 
 "Why would I do that?"
 
-"You could direct it at the artifact, and its power will start flowing toward the crystal, effectively weakening the core," Ivi said. "You will just have to remember to hold it through something to avoid contacting the flowing magic."
+"You could direct it at the artifact, and its power will start flowing toward the crystal, effectively weakening the core," Ivi said. "You will just have to remember to hold it through something to avoid contacting the divine magic."
 
 "Wait, wait, wait," Lusstoni stopped the hermit. "You want me to go there and risk my life and sanity like that, but... are you even sure it works? Where are you in this plan?"
 
@@ -328,7 +328,7 @@ Lusstoni slightly opened his mouth in shock. He was sure he didn't mention it in
 
 "How did you know it could fly?"
 
-"I saw it fall from the sky several days ago." Ivi paused for a moment. "Not to mention, I have some unresolved...issues with the king. Weakening the core should revert him back to his original form. That's when he can answer for his crimes."
+"I saw it fall from the sky several days ago." Ivi paused for a moment. "Not to mention, I have some unresolved... issues with the king. Weakening the core should revert him back to his original form. That's when he can answer for his crimes."
 
 Suddenly a strange noise filled the air. It was like scratching combined with very quiet whispers.
 
@@ -344,11 +344,11 @@ Ivi shook his head.
 
 "If you manage to catch a glimpse of him, each red stripe on his body is a wound I inflicted on him. Every night he returns to the core, which heals him. He can only be delayed, and that's something I can handle on my own. Now go."
 
-Lusstoni grabbed Omikraya, and they sneaked out of the hut and headed toward the beach. The last thing he saw was Ivi bravely fighting off the beast with a rusty sword.
+Lusstoni grabbed Omikraya, and they sneaked out of the hut, heading toward the beach. The last thing he saw was Ivi bravely fighting off the beast with a rusty sword.
 
 The hermit wasn't lying; the Cursed King's body was covered with glowing red marks.
 
-Before they returned to the camp, Lusstoni decided to benefit from the distraction in the ruined village and quietly approached the area around the castle. He walked with his good hand touching the outer wall of the fence until he felt something under his fingers.
+Before they returned to the camp, Lusstoni decided to benefit from the distraction in the ruined village and quietly approached the area around the castle. He walked with his right hand touching the outer wall of the fence until he felt something under his fingers.
 
 "This rock feels natural; this must be the correct place," he said to himself.
 
