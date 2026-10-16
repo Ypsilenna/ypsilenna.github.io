@@ -56,13 +56,13 @@ Lusstoni paused to think about it.
 
 "Did you put a lock on the heart too?"
 
-"No, I didn't bring one with me. She said she wanted to go there, not that she wanted to do it."
+"No, I didn't bring one with me. She said that she wanted to go there, not that she wanted to do it."
 
 "I'm pretty sure she wanted to put one there too," Omikraya said.
 
 "That would explain why she got angry at me later," Lusstoni commented with a hint of sadness in his voice.
 
-"Your city sounds wonderful," the girl said. "I wish I could learn about the world without magic...can we go there?"
+"Your city sounds wonderful," the girl said. "I wish I could learn about the world without magic... can we go there?"
 
 "Maybe one day," he responded. "If we leave this island alive, that is."
 
@@ -94,7 +94,7 @@ The girl lifted her eyes, but she couldn't see any details in the dim light.
 
 "Caermirella left this box on my airship about nine years ago. She asked me to open it and tell her what I thought about the contents, but I never managed to solve the puzzle that keeps it shut," Lusstoni said and handed her the object. "You seem like a smart child; maybe you could unlock it."
 
-Omikraya looked at the box. The top part had some symbols engraved on them. She noticed she could move and reorder them.
+Omikraya moved closer to the lamp and looked at the box. The top part had some symbols engraved on it. She noticed she could move and reorder them.
 
 The girl spent about twenty minutes shuffling the colorful tiles around until the box suddenly clicked.
 
@@ -170,7 +170,7 @@ A sudden knock on the door distracted him.
 
 "But why can't I be there with you when you are getting dressed?" Omikraya moaned unhappily.
 
-"Firstly, because that's inappropriate," he said, "and secondly...I don't want you to be scared."
+"Firstly, because that's inappropriate," he said, "and secondly... I don't want you to be scared."
 
 A silence fell and Omikraya began feeling uneasy.
 
@@ -218,7 +218,7 @@ _Maybe she isn't so bad_, Lusstoni thought to himself.
 
 "I will be in the main chamber studying the plans of the castle," he said. "Don't be loud."
 
-The man went into the main chamber and sat on the bench where Omikraya slept last night. He put the plans on the small table in front of it and began trying to read the schematic.
+The man went into the main chamber and sat down on the bench where Omikraya slept last night. He put the plans on the small table in front of it and began trying to read the schematic.
 
 "This doesn't make any sense," he muttered under his breath.
 
@@ -282,7 +282,7 @@ He looked around and saw the girl running across the beach in only her underwear
 
 She didn't listen to him, so he got up and forcefully put his coat on her.
 
-"Stop being so incredibly stupid," he said. "I swear, fate has truly punished me with an annoying child. This is why I hate kids. I can't even do any of the things I like because of you; I wish I never met you."
+"Stop being so incredibly stupid," he said. "I swear, fate has truly punished me with an annoying child. This is why I hate kids. I can't even do any of the things I like because of you; I wish I had never met you."
 
 Omikraya started crying and ran toward the bushes on the other side of the beach.
 
@@ -338,7 +338,7 @@ The girl shook her head.
 
 "Promise!"
 
-"Alright…I promise."
+"Alright… I promise."
 
 "Toni, where are my clothes?"
 
@@ -398,7 +398,7 @@ He might have been a child-hating asshole, but he wasn't a monster.
 
 He inhaled the smoke of the cigarette so hard that it made him cough.
 
-"If we survive this island," he said to himself, "maybe I should take her to Norath. I could find someone to take care of her. I think it would be better than...this."
+"If we survive this island," he said to himself, "maybe I should take her to Norath. I could find someone to take care of her. I think it would be better than... this."
 
 Lusstoni sighed and extinguished the cigarette against the windowsill. He jumped down and immediately regretted sitting there in the first place.
 
@@ -422,7 +422,7 @@ Lusstoni waited until they could no longer see him and said, "Is everyone in you
 
 Omikraya looked at him and responded, "Smoking is not allowed here. Nobody ever does it."
 
-"So I am technically an outlaw," he scoffed. "Good thing there is nobody to enforce the law…or a bad one, depending on how you see it."
+"So I am technically an outlaw," he scoffed. "Good thing there is nobody to enforce the law… or a bad one, depending on how you see it."
 
 "Toni, can we quickly go back before Father returns?"
 
@@ -430,4 +430,4 @@ Omikraya looked at him and responded, "Smoking is not allowed here. Nobody ever 
 
 They rushed through the plains to reach the beach. Lusstoni couldn't help but think the beast was in the same place at the same time the day before. Perhaps if he observed the Cursed King from afar, he would find the hidden chamber.
 
-There had to be a way. Tracking the beast sounded like the only choice, but...could there be something or someone else possessing such information?
+There had to be a way. Tracking the beast sounded like the only choice, but... could there be something or someone else possessing such information?
