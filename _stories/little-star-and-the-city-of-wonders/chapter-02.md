@@ -104,7 +104,7 @@ Omikraya was sitting down on the floor and polishing her plate with a piece of c
 
 "You should have just put it on the pile," he told her. "I would have gotten to it eventually."
 
-"The... pile?"
+"The pile?"
 
 "Nevermind," he said under his breath. "Listen, we will now go to the nearest town. I want to ask around if anyone knows your parents."
 
@@ -122,7 +122,7 @@ Lusstoni didn't believe her. He was sure she was just messing with him so that s
 
 He nodded.
 
-"That sounds plausible..." he said. "What about your mother?"
+"That sounds plausible" he said. "What about your mother?"
 
 "Her name is Ashidrella, and she isn't scary!"
 
@@ -208,7 +208,7 @@ The bartender looked at the girl while still polishing the glass he was holding.
 
 "You're already ten?" Lusstoni asked without hiding his surprise.
 
-"I will be ten at some point..." she responded. "I am basically an adult now!"
+"I will be ten at some point" she responded. "I am basically an adult now!"
 
 Lusstoni tried not to explode once more. If Omikraya were a little better at counting, he would have known that she was actually nine years and seven months old; alas, it wasn't meant to be.
 
@@ -270,7 +270,7 @@ Omikraya removed her old dirty clothes and sat in the tub in only her underwear.
 
 The girl curled up in nearly a fetal position and started rubbing the back of her head with the gray soap.
 
-"Not like this," Lusstoni shouted. "Put some water on your hair first...and stop crouching forward; you will get everything in your eyes! Don't you know how to wash your own head? You are too old to make these mistakes."
+"Not like this," Lusstoni shouted. "Put some water on your hair first... and stop crouching forward; you will get everything in your eyes! Don't you know how to wash your own head? You are too old to make these mistakes."
 
 "I never did it alone," she complained as the water she just poured on her hair started getting in her eyes.
 
