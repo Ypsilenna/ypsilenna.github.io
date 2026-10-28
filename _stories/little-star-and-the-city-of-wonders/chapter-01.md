@@ -20,9 +20,9 @@ The citizens of the golden city of Norath abandoned their gods long ago to creat
 
 The unmatched beauty of the gardens of Norath combined with the soft light of the setting sun made it the perfect day for a proposal. Swans danced happily on the surface of the lake. Lush flowers bloomed as far as the eye could see, touched gently by the wings of beautiful blue butterflies. With the spring slowly turning into summer, the world was ready for changes.
 
-A young woman named Caermirella was no different. She strolled along the lake arm in arm with her partner, Lusstoni. She was ready to answer the question he had asked. However, he didn't seem to. The man kept silently walking, clearly oblivious to the beauty of the place, yet when she looked at him, even his face bathed in the warm sunlight looked just right. She wanted to believe.
+A young woman named Caermirella was no different. She strolled along the lake arm in arm with her partner, Lusstoni. She was ready to answer the question he could have asked. Unfortunately, he did not. The man kept silently walking, clearly oblivious to the beauty of the place, yet when she looked at him, even his face bathed in the warm sunlight looked just right. She wanted to believe.
 
-"Lusstoni, I got a question," she finally said.
+"Lusstoni, I have a question," she finally said.
 
 He looked at her with a blank expression. His eyes were a cold shade of green, yet she always saw them as warmer.
 
@@ -50,7 +50,7 @@ Caermirella kept staring at him in disbelief. This was, in fact, the first time 
 
 Caermirella pulled herself away from his grasp.
 
-"Then I will find someone who is," she responded and ran off in tears, holding her pink dress to avoid falling.
+"Then I will find someone who is," she responded and ran off in tears, holding her pink dress to keep from falling.
 
 "Caermirella, wait!" He shouted, suddenly realizing what it meant. "Let me explain!"
 
@@ -58,7 +58,7 @@ She ran too fast for him to catch up. He was suddenly left all alone and out of 
 
 _It's okay; she will come back to me,_ he thought to himself. _She couldn't just leave me, right?_
 
-Lusstoni nervously started smoking a cigarette, but his hands started to shake, making him drop it to the ground.
+Lusstoni nervously started smoking a cigarette, but his hands began to shake, making him drop it to the ground.
 
 "Damn it," he exclaimed loudly and stormed out of the garden. The man felt like the entire world was spinning around him. He quickly ran to his house up the hill and rolled into his living room, closing the door loudly behind him. He wanted to scream.
 
@@ -72,7 +72,7 @@ His despair could be measured by the empty bottles left on his floor, but he fel
 
 Early in the morning, when the alcohol started losing its grip on his senses, he realized that he was supposed to be somewhere.
 
-Lusstoni's family was never pleased with his job, but he loved it. He was a mechanic in a factory and a respected one. Ever since he was a child, he loved tinkering, and this job brought him great joy.
+Lusstoni's family was never pleased with his job, but he loved it. He was a mechanic in a factory and a respected one at that. Ever since he was a child, he loved tinkering, and this job brought him great joy.
 
 Not wanting to leave his colleagues wondering what happened to him, he got dressed and went to his workplace.
 
@@ -80,9 +80,9 @@ He thought he was hiding his current state quite well. Nobody seemed to notice a
 
 Things were going fine until one of his coworkers asked for him to fix one of the big machines. He took his tools and followed along to see what was going on. Supposedly it was stuck.
 
-He tried to unlock the machine, but it was difficult for him to see all the little elements after everything he drank last night. He accidentally pressed a button he had not noticed before.
+He tried to unlock the machine, but it was difficult for him to see all the little elements after everything he drank last night. He accidentally pressed a button he had not noticed before. Or perhaps he had? He was uncertain.
 
-Suddenly the machine let out a sound so loud that he fainted. Or at least he thought that's why it happened.
+Suddenly the machine let out a sound so loud that he fainted. Or at least that's what he later assumed had happened.
 
 Lusstoni woke up much later in the hospital bed. His entire body was in pain. The man tried to move around when he noticed he was missing his left arm.
 
@@ -98,11 +98,11 @@ Lusstoni glanced around. It seemed like there was nobody else in the room apart 
 
 "We have enough of your antics," his father said. "From now on, we will no longer welcome you in our family. We gave Caermirella our blessing to marry your brother, Hagellish."
 
-"Why would you do it?" Lusstoni asked in disbelief.
+"Why would you do that?" Lusstoni asked in disbelief.
 
-His mother looked at him with a cold stare. "You are a lazy underachiever who did nothing but bring us shame. Caermirella is such a wonderful asset to our family, and you just let her go like this. She's young, beautiful, and from a wealthy and influential family."
+His mother looked at him with a cold stare. "You are a lazy underachiever who did nothing but bring us shame. Caermirella is such a wonderful asset to our family, and you just let her go like this. She's young, beautiful, and has wealthy and influential parents."
 
-Parents of Lusstoni cared a lot about the way others perceived them. They always wanted more than they needed, and they weren't too preoccupied with anything aside from that.
+Lusstoni's mother and father cared a lot about the way others perceived them. They always wanted more than they needed, and they weren't too preoccupied with anything aside from that.
 
 "Since you never do anything right, you will now be on your own. Your mother and I have enough of being ashamed because of you," his father said.
 
@@ -130,11 +130,11 @@ Lusstoni felt both relieved and sad that he was leaving his city behind, but dee
 
 The sun shone through the window and reflected in his golden prosthetic arm. The blue sky and the fluffy clouds filled him with sudden joy he had not experienced in years.
 
-He turned the volume of the radio up. His favorite song was playing, and he began singing. Normally he wouldn't do that, but he was alone and on the run from his problems.
+He turned the volume of the radio up. His favorite song was playing, and he began singing along. Normally he wouldn't do that, but he was alone and on the run from his problems.
 
 Lusstoni wondered what could make this trip even better. He looked behind him at the map hanging on the wall of the cockpit. The yellowed scroll reminded him that there was a small apple orchard nearby.
 
-He nodded to himself and quickly glanced back at Norath and said, "I will not be missing either you or that wasteland underneath."
+He nodded to himself and quickly glanced back at Norath and said, "I will not be missing you or this wasteland underneath."
 
 Lusstoni lowered the anchor, and his airship slowly but steadily landed on the ground. He went out of the vehicle and touched the grass with his shoes. He leaned against the walking cane he brought with him from his deck. The man didn't need it at the moment, but ever since he had the accident, one of his legs sometimes hurts him so much that he can't walk without it. Despite the great morning he had, he didn't believe his body wouldn't betray him.
 
@@ -154,7 +154,7 @@ Lusstoni began smoking a cigarette and blew some smoke into the man's face.
 
 The farmer's wife appeared and tried to help her husband transport the fruit.
 
-Lusstoni observed the farmers and didn't even think of helping them. He was amused until something caught his attention. The entire family had blond curly hair, all of them but one.
+Lusstoni observed the farmers and didn't even think of helping them. He was amused until something caught his attention. The entire family seemed to have blond curly hair, all of them but one.
 
 "Hey, farmer, why did you dye your daughter's hair purple?" He asked.
 

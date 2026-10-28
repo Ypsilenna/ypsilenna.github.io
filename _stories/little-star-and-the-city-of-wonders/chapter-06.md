@@ -360,7 +360,7 @@ Omikraya clumsily followed Lusstoni. She already stopped crying, but her face st
 
 The girl looked down and didn't respond.
 
-"Not to mention, she could see it all along and did nothing to stop the corruption," he said under his breath.
+"Not to mention, she knew about the corruption and did nothing to stop it," he said under his breath.
 
 The two walked out of the secret chamber. The sun slightly blinded Lusstoni.
 

@@ -18,9 +18,9 @@ For a second all his worries were gone. There was only her, young and beautiful,
 
 She reached for his hand. Lusstoni eagerly tried to grab it. He knew this day could be his last chance to make things right. Their fingers almost touched when an ear-piercing noise abruptly shattered the illusion.
 
-The man woke up, and he had made some mistakes. Not now necessarily, but in his entire life in general.
+The man woke up. He had made some mistakes. Not necessarily now, but throughout his life.
 
-"What do you want?" He growled with a raspy voice, still dizzy from his sleep.
+"What do you want?" He growled with a raspy voice, still dizzy from sleep.
 
 "Toni, I am hungry!" Omikraya squeaked as she jumped on his bed.
 
@@ -28,7 +28,7 @@ The man woke up, and he had made some mistakes. Not now necessarily, but in his 
 
 "I want you to make me a breakfast because I don't want to mess with your things!" The girl said with a tone that probably was supposed to sound all grown up.
 
-"Why are you so respectful all of a sudden?" The man knew something was amiss when he heard it.
+"Why are you so respectful all of a sudden?" The man suspected something was amiss when he heard it.
 
 Omikraya smiled widely, revealing a missing upper tooth.
 
@@ -104,7 +104,7 @@ Omikraya was sitting down on the floor and polishing her plate with a piece of c
 
 "You should have just put it on the pile," he told her. "I would have gotten to it eventually."
 
-"The... pile?"
+"The pile?"
 
 "Nevermind," he said under his breath. "Listen, we will now go to the nearest town. I want to ask around if anyone knows your parents."
 
@@ -122,7 +122,7 @@ Lusstoni didn't believe her. He was sure she was just messing with him so that s
 
 He nodded.
 
-"That sounds plausible..." he said. "What about your mother?"
+"That sounds plausible" he said. "What about your mother?"
 
 "Her name is Ashidrella, and she isn't scary!"
 
@@ -144,7 +144,7 @@ Lusstoni raised his face into the sky and growled.
 
 Lusstoni shook his head and returned to his cockpit. He then set the course toward the town he had picked. Omikraya followed him joyfully, utterly ignoring his outbursts.
 
-Lusstoni was sitting on his pilot chair and holding the steering wheel firmly. His eyes were dead set on the horizon.
+Lusstoni was sitting in his pilot chair and holding the steering wheel firmly. His eyes were dead set on the horizon.
 
 "Toni, how does it fly?" She finally asked.
 
@@ -208,7 +208,7 @@ The bartender looked at the girl while still polishing the glass he was holding.
 
 "You're already ten?" Lusstoni asked without hiding his surprise.
 
-"I will be ten at some point..." she responded. "I am basically an adult now!"
+"I will be ten at some point" she responded. "I am basically an adult now!"
 
 Lusstoni tried not to explode once more. If Omikraya were a little better at counting, he would have known that she was actually nine years and seven months old; alas, it wasn't meant to be.
 
@@ -254,7 +254,7 @@ Lusstoni dropped it to the ground with a loud noise and fetched a bucket to go t
 
 "I'm going to give you a bath," he said.
 
-He attached his bucket to the rope of the well and lowered it. The man pulled it back up and inspected the water.
+He attached his bucket to the well rope and lowered it. The man pulled it back up and inspected the water.
 
 _It's clean enough_, he thought, and carried the bucket in front of his airship. He emptied it into the large bowl and repeated the process a couple of times until it was filled.
 
@@ -270,7 +270,7 @@ Omikraya removed her old dirty clothes and sat in the tub in only her underwear.
 
 The girl curled up in nearly a fetal position and started rubbing the back of her head with the gray soap.
 
-"Not like this," Lusstoni shouted. "Put some water on your hair first...and stop crouching forward; you will get everything in your eyes! Don't you know how to wash your own head? You are too old to make these mistakes."
+"Not like this," Lusstoni shouted. "Put some water on your hair first... and stop crouching forward; you will get everything in your eyes! Don't you know how to wash your own head? You are too old to make these mistakes."
 
 "I never did it alone," she complained as the water she just poured on her hair started getting in her eyes.
 
@@ -278,7 +278,7 @@ Lusstoni sighed impatiently and knelt behind her, grabbing her head with both hi
 
 "Ouch, why do you have to wear this glove for it?" She asked.
 
-"I...need it," he responded and tried to release her trapped hair. He never thought about it; when it happened to him, he just embraced it, thinking he deserved the pain for all he had done. He never considered that not everyone was disturbed this way.
+"I... need it," he responded and tried to release her trapped hair. He never thought about it; when it happened to him, he just embraced it, thinking he deserved the pain for all he had done. He never considered that not everyone was disturbed this way.
 
 After what felt like an eternity, Lusstoni finally managed to clean her hair. He brought her a towel, dried her head with it, and then wrapped it around her body.
 
@@ -310,11 +310,11 @@ The girl looked up, visibly not knowing why he was yelling.
 
 Lusstoni looked at her hands. She was holding a portrait of a woman in one and the prized picture of Caermirella from his wall in the other.
 
-He swiftly snatched it from her greasy fingers.
+He swiftly snatched the photograph from her greasy fingers.
 
 "How did you unpin it?" He shouted.
 
-"It was easy," she said. "I just put a box in there to reach it!"
+"It was easy," she said. "I just put a box under it to reach it!"
 
 Lusstoni tried to breathe deeply to calm himself down.
 
@@ -422,7 +422,7 @@ Omikraya squeaked happily and grabbed the spinning top. She then sat on the floo
 
 Lusstoni didn't think he would ever meet a child who doesn't know how to play with it.
 
-"You got to make it spin, like this," he said and showed her how to do it.
+"You got to make it spin, like this," he said and showed her how to make it move.
 
 Omikraya grasped it quickly, and she began playing on her own.
 
