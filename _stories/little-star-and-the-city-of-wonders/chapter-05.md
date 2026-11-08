@@ -162,7 +162,7 @@ The man looked at the details of the sculpture. It depicted a blindfolded woman 
 
 "What is this?" he asked.
 
-"This is a statue of the goddess Omikraya," the girl said. "My mom said she looks like this because she was born blind and she used her magic to connect to stars so that she could see us from above."
+"This is a statue of Goddess Omikraya," the girl said. "My mom said she looks like this because she was born blind and she used her magic to connect to stars so that she could see us from above."
 
 Lusstoni touched the statue. The stone felt incredibly smooth under his fingers. However, the longer his hand stayed on it, the more he felt he could hear incomprehensible whispers coming from the back of his head. The man twisted his lips.
 
