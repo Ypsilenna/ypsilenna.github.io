@@ -92,7 +92,7 @@ Lusstoni put the cans back into the crate and closed the lid.
 
 "We will find some food, just as you said."
 
-Lusstoni got up and grabbed his walking cane.
+Lusstoni got up and put his yellow poncho on.
 
 "As long as you don't mind meeting your daddy..."
 
@@ -100,7 +100,7 @@ Omikraya paused her happy chatter. The look of disappointment showed briefly on 
 
 "I don't think we will meet him!" she exclaimed.
 
-"I appreciate your optimism," Lusstoni said sarcastically and put his yellow poncho on. "Lead the way; I want to see you find something better outside."
+"I appreciate your optimism," Lusstoni said sarcastically and grabbed his walking cane. "Lead the way; I want to see you find something better outside."
 
 The girl grabbed his hand firmly and led him outdoors.
 
