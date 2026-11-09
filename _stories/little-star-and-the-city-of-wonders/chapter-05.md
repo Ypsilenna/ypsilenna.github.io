@@ -92,7 +92,7 @@ Lusstoni put the cans back into the crate and closed the lid.
 
 "We will find some food, just as you said."
 
-Lusstoni got up and grabbed his walking cane.
+Lusstoni got up and put his yellow poncho on.
 
 "As long as you don't mind meeting your daddy..."
 
@@ -100,7 +100,7 @@ Omikraya paused her happy chatter. The look of disappointment showed briefly on 
 
 "I don't think we will meet him!" she exclaimed.
 
-"I appreciate your optimism," Lusstoni said sarcastically and put his yellow poncho on. "Lead the way; I want to see you find something better outside."
+"I appreciate your optimism," Lusstoni said sarcastically and grabbed his walking cane. "Lead the way; I want to see you find something better outside."
 
 The girl grabbed his hand firmly and led him outdoors.
 
@@ -162,7 +162,7 @@ The man looked at the details of the sculpture. It depicted a blindfolded woman 
 
 "What is this?" he asked.
 
-"This is a statue of the goddess Omikraya," the girl said. "My mom said she looks like this because she was born blind and she used her magic to connect to stars so that she could see us from above."
+"This is a statue of Goddess Omikraya," the girl said. "My mom said she looks like this because she was born blind and she used her magic to connect to stars so that she could see us from above."
 
 Lusstoni touched the statue. The stone felt incredibly smooth under his fingers. However, the longer his hand stayed on it, the more he felt he could hear incomprehensible whispers coming from the back of his head. The man twisted his lips.
 

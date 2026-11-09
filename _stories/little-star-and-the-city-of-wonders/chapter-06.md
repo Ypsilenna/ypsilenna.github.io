@@ -56,7 +56,7 @@ The man's grip on the handle of his hammer tightened. He didn't want to be the b
 
 Lusstoni's attention was drawn by a fine-looking purple crystal. He thought it would be suitable for the task, but he didn't want to end the conversation just yet.
 
-"Why would the goddess gift King Callum an evil artifact?" he asked. "Seems rather strange that her majesty would curse her most devoted follower this way."
+"Why would the  gift King Callum an evil artifact?" he asked. "Seems rather strange that her majesty would curse her most devoted follower this way."
 
 The nymph shook her head.
 
@@ -68,7 +68,7 @@ Lusstoni knelt in front of the crystal and gently poked around it with a hammer.
 
 The woman sighed.
 
-"I think she simply wanted to believe," she said. "Each primal god has their own strengths and limitations, which is why they create their divine servants to make up for it. Goddess Omikraya is fond of humans; she wants to find good in them. Sometimes perhaps too much. Not to mention, her condition doesn't make it easier for her to properly judge the mortals who worship her."
+"I think she simply wanted to believe," she said. "Each primal god has their own strengths and limitations, which is why they create their divine servants to make up for it.  Omikraya is fond of humans; she wants to find good in them. Sometimes perhaps too much. Not to mention, her condition doesn't make it easier for her to properly judge the mortals who worship her."
 
 "That was an expensive mistake to make," Lusstoni commented and accidentally broke the crystal he was trying to extract. He quickly found another one, but it didn't stop him from whispering some profanities under his breath.
 
@@ -356,7 +356,7 @@ Omikraya clumsily followed Lusstoni. She already stopped crying, but her face st
 
 "Toni, why didn't you accept the gift of the goddess?" she asked. "Her magic could make you healthy again. Maybe you could have Caermirella back—"
 
-"Magic is not a solution," he erupted a little harder than he thought he would. "That's why in Norath we bow to no gods. These powers are not meant for us, and they do more harm than good. If it wasn't for magic, I wouldn't be here, and you still would have your family. Don't ask me to accept that _gift_ and be happy about it."
+"Magic is not a solution," he erupted a little harder than he thought he would. "That's why in Norath we bow to no gods. I know I said it does not exist, but the truth is, we wish it didn't. These powers are not meant for us, and they do more harm than good. If it wasn't for magic, I wouldn't be here, and you still would have your family. Don't ask me to accept that _gift_ and be happy about it."
 
 The girl looked down and didn't respond.
 
