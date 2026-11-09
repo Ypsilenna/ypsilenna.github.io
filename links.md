@@ -16,7 +16,6 @@ ogdesc: A list of links of Ypsilenna.
 <b>Ko-fi</b>: <a href="https://ko-fi.com/ypsilenna">Ypsilenna</a>
 </div><br>
 <div class="novel-container"><h3>Art sites</h3>
-<b>SheezyArt</b>: <a href="https://sheezy.art/ypsilenna">Ypsilenna</a><br>
 <b>DeviantArt</b>: <a href="https://www.deviantart.com/ypsilenna">Ypsilenna</a>, <a href="https://www.deviantart.com/saahrimei">Saahrimei</a><br>
 <b>ComicFury</b>: <a href="https://comicfury.com/profile.php?username=Ypsilenna">Ypsilenna</a><br>
 <b>Webtoons</b>: <a href="https://www.webtoons.com/p/community/en/u/ypsilenna">Ypsilenna Gloomvale</a><br>
